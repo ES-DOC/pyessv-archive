@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnscliif", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnscliif", 
-    "namespace": "wcrp:cmip5:variable:tnscliif", 
-    "status": "pending", 
-    "uid": "48707a73-6b1c-4b33-9b4d-5a4fedc78c7e"
+    "_type": "term",
+    "canonical_name": "tnscliif",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnscliif",
+    "namespace": "wcrp:cmip5:variable:tnscliif",
+    "status": "pending",
+    "uid": "6744954d-0825-4db5-b6b5-36ed2873de44"
 }

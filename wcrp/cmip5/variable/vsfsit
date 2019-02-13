@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "vsfsit", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "vsfsit", 
-    "namespace": "wcrp:cmip5:variable:vsfsit", 
-    "status": "pending", 
-    "uid": "9eeea207-facf-46a4-8d50-45f747165c42"
+    "_type": "term",
+    "canonical_name": "vsfsit",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "vsfsit",
+    "namespace": "wcrp:cmip5:variable:vsfsit",
+    "status": "pending",
+    "uid": "2172564b-7588-4524-8391-e8ab02b60466"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "calc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "calc", 
-    "namespace": "wcrp:cmip5:variable:calc", 
-    "status": "pending", 
-    "uid": "0e6f848d-d2aa-4691-8a46-41ac7c0d7517"
+    "_type": "term",
+    "canonical_name": "calc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "calc",
+    "namespace": "wcrp:cmip5:variable:calc",
+    "status": "pending",
+    "uid": "38a0aeaa-0020-4065-875d-49047f82c390"
 }

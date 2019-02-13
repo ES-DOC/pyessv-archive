@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "cclm4-8-17", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "CCLM4-8-17", 
-    "namespace": "wcrp:cordex:rcm-name:cclm4-8-17", 
-    "raw_name": "CCLM4-8-17", 
-    "status": "pending", 
-    "uid": "855dab10-f3cd-448d-9dea-a32b3cec2740"
+    "_type": "term",
+    "canonical_name": "cclm4-8-17",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "CCLM4-8-17",
+    "namespace": "wcrp:cordex:rcm-name:cclm4-8-17",
+    "raw_name": "CCLM4-8-17",
+    "status": "pending",
+    "uid": "ea11438f-ef80-46ba-88cb-579641043813"
 }

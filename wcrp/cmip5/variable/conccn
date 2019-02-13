@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "conccn", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "conccn", 
-    "namespace": "wcrp:cmip5:variable:conccn", 
-    "status": "pending", 
-    "uid": "d7698267-191b-42da-86ec-a8dd11820a7a"
+    "_type": "term",
+    "canonical_name": "conccn",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "conccn",
+    "namespace": "wcrp:cmip5:variable:conccn",
+    "status": "pending",
+    "uid": "25781b88-017d-415c-9e36-dd4c2df0d25c"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hfls", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hfls", 
-    "namespace": "wcrp:cordex:variable:hfls", 
-    "status": "pending", 
-    "uid": "2579bb03-7895-4164-9460-8619d84a1907"
+    "_type": "term",
+    "canonical_name": "hfls",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hfls",
+    "namespace": "wcrp:cordex:variable:hfls",
+    "status": "pending",
+    "uid": "bfdc577a-e338-4996-8576-a454545321a1"
 }

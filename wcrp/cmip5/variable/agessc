@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "agessc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "agessc", 
-    "namespace": "wcrp:cmip5:variable:agessc", 
-    "status": "pending", 
-    "uid": "fa920516-74bf-4648-bc2a-b8e921f85dcd"
+    "_type": "term",
+    "canonical_name": "agessc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "agessc",
+    "namespace": "wcrp:cmip5:variable:agessc",
+    "status": "pending",
+    "uid": "3b01012c-99fc-4559-aa81-771696addc2b"
 }

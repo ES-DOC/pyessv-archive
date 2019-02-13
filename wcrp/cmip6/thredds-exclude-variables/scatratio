@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "scatratio", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "scatratio", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:scatratio", 
-    "status": "pending", 
-    "uid": "de0b1575-61e7-437a-9a46-2097090452a9"
+    "_type": "term",
+    "canonical_name": "scatratio",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "scatratio",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:scatratio",
+    "status": "pending",
+    "uid": "adda3c5b-741a-4629-9bc6-8ed2961770b2"
 }

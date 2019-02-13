@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnsclwri", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnsclwri", 
-    "namespace": "wcrp:cmip5:variable:tnsclwri", 
-    "status": "pending", 
-    "uid": "f843245b-ef3f-4716-87b6-1e130e2ea906"
+    "_type": "term",
+    "canonical_name": "tnsclwri",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnsclwri",
+    "namespace": "wcrp:cmip5:variable:tnsclwri",
+    "status": "pending",
+    "uid": "d1d73016-bf46-47c3-858f-d8ae8faf6c2b"
 }

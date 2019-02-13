@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "aerosol", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "aerosol", 
-    "namespace": "wcrp:cmip5:realm:aerosol", 
-    "status": "pending", 
-    "uid": "36e4e37f-4a20-421d-8701-498e79c1fa34"
+    "_type": "term",
+    "canonical_name": "aerosol",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "aerosol",
+    "namespace": "wcrp:cmip5:realm:aerosol",
+    "status": "pending",
+    "uid": "2d63bb38-d4fb-41dd-a8dd-2891fe797061"
 }

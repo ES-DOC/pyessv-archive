@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "aquacontrol", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Aqua planet control", 
-    "label": "aquaControl", 
-    "namespace": "wcrp:cmip5:experiment:aquacontrol", 
-    "raw_name": "aquaControl", 
-    "status": "pending", 
-    "uid": "b1e82a72-b8ec-42ab-9189-d4db645701c8"
+    "_type": "term",
+    "canonical_name": "aquacontrol",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Aqua planet control",
+    "label": "aquaControl",
+    "namespace": "wcrp:cmip5:experiment:aquacontrol",
+    "raw_name": "aquaControl",
+    "status": "pending",
+    "uid": "7163d49b-7520-4576-bbbe-7579fb1277d0"
 }

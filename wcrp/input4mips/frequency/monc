@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "monc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "monC",
+    "label": "monC",
+    "namespace": "wcrp:input4mips:frequency:monc",
+    "raw_name": "monC",
+    "status": "pending",
+    "uid": "4580ec9e-fd21-49dc-8c2b-e41b240a7d55"
+}

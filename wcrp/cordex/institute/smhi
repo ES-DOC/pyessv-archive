@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "smhi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "SMHI", 
-    "label": "SMHI", 
-    "namespace": "wcrp:cordex:institute:smhi", 
-    "raw_name": "SMHI", 
-    "status": "pending", 
-    "uid": "02a30420-8b97-4cb8-8abb-9dbd67735e48"
+    "_type": "term",
+    "canonical_name": "smhi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "SMHI",
+    "label": "SMHI",
+    "namespace": "wcrp:cordex:institute:smhi",
+    "raw_name": "SMHI",
+    "status": "pending",
+    "uid": "6a053baf-3558-4dbf-9991-6951795ae807"
 }

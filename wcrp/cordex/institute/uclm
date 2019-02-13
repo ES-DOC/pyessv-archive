@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "uclm", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "UCLM", 
-    "label": "UCLM", 
-    "namespace": "wcrp:cordex:institute:uclm", 
-    "raw_name": "UCLM", 
-    "status": "pending", 
-    "uid": "6437e515-4551-4807-9edb-275d53642924"
+    "_type": "term",
+    "canonical_name": "uclm",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "UCLM",
+    "label": "UCLM",
+    "namespace": "wcrp:cordex:institute:uclm",
+    "raw_name": "UCLM",
+    "status": "pending",
+    "uid": "35517d34-a351-41bb-8ba5-c108aba1e060"
 }

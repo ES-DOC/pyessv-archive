@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnta", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnta", 
-    "namespace": "wcrp:cmip5:variable:tnta", 
-    "status": "pending", 
-    "uid": "904cfec8-6434-456a-8209-aca46971ecb4"
+    "_type": "term",
+    "canonical_name": "tnta",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnta",
+    "namespace": "wcrp:cmip5:variable:tnta",
+    "status": "pending",
+    "uid": "51982628-c00d-4f96-8c97-f0cac646b192"
 }

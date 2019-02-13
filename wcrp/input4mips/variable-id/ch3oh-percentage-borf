@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "ch3oh-percentage-borf",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CH3OH-percentage-BORF",
+    "label": "CH3OH-percentage-BORF",
+    "namespace": "wcrp:input4mips:variable-id:ch3oh-percentage-borf",
+    "raw_name": "CH3OH-percentage-BORF",
+    "status": "pending",
+    "uid": "74f7226a-7705-45bb-8b7d-55c0a2d82731"
+}

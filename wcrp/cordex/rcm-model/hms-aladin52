@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "hms-aladin52", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "HMS-ALADIN52", 
-    "label": "HMS-ALADIN52", 
-    "namespace": "wcrp:cordex:rcm-model:hms-aladin52", 
-    "raw_name": "HMS-ALADIN52", 
-    "status": "pending", 
-    "uid": "49b63130-8210-4358-b6e0-cf652fbf71c5"
+    "_type": "term",
+    "canonical_name": "hms-aladin52",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "HMS-ALADIN52",
+    "label": "HMS-ALADIN52",
+    "namespace": "wcrp:cordex:rcm-model:hms-aladin52",
+    "raw_name": "HMS-ALADIN52",
+    "status": "pending",
+    "uid": "3524e062-4100-4fec-94f0-88dcb675cd41"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clfr700", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clfr700", 
-    "namespace": "wcrp:cordex:variable:clfr700", 
-    "status": "pending", 
-    "uid": "c61012ad-0a9f-4b01-95a0-a4ff40323f3e"
+    "_type": "term",
+    "canonical_name": "clfr700",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clfr700",
+    "namespace": "wcrp:cordex:variable:clfr700",
+    "status": "pending",
+    "uid": "ae6c9268-8a21-474c-b8e3-bf9110437c20"
 }

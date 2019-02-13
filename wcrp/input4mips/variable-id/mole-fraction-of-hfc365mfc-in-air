@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-hfc365mfc-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-hfc365mfc-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-hfc365mfc-in-air",
+    "status": "pending",
+    "uid": "68268e7a-359f-49d7-ac10-90d3dbd609d0"
+}

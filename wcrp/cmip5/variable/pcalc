@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "pcalc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "pcalc", 
-    "namespace": "wcrp:cmip5:variable:pcalc", 
-    "status": "pending", 
-    "uid": "c1a0c4e5-4b7f-4f0d-bd79-8831fb118748"
+    "_type": "term",
+    "canonical_name": "pcalc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "pcalc",
+    "namespace": "wcrp:cmip5:variable:pcalc",
+    "status": "pending",
+    "uid": "354479a8-d9a7-4994-9f4b-5637ee6ee0ec"
 }

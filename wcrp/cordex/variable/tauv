@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tauv", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tauv", 
-    "namespace": "wcrp:cordex:variable:tauv", 
-    "status": "pending", 
-    "uid": "e01ecf64-5620-472c-873b-b43f4e1059f2"
+    "_type": "term",
+    "canonical_name": "tauv",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tauv",
+    "namespace": "wcrp:cordex:variable:tauv",
+    "status": "pending",
+    "uid": "32eaa5ca-49c7-4545-bc6f-75db9b918947"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "thetaoga", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "thetaoga", 
-    "namespace": "wcrp:cmip5:variable:thetaoga", 
-    "status": "pending", 
-    "uid": "e2f75156-8633-4d42-a10d-90420da57228"
+    "_type": "term",
+    "canonical_name": "thetaoga",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "thetaoga",
+    "namespace": "wcrp:cmip5:variable:thetaoga",
+    "status": "pending",
+    "uid": "8d44511d-b610-4a50-b93f-e7c4b4b44cea"
 }

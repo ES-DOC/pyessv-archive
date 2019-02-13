@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "depth-bnds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "depth_bnds",
+    "label": "depth_bnds",
+    "namespace": "wcrp:input4mips:thredds-exclude-variables:depth-bnds",
+    "raw_name": "depth_bnds",
+    "status": "pending",
+    "uid": "f61c1535-e6a4-49e0-a982-1f8f2dd7236b"
+}

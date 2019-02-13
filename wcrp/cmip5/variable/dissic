@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "dissic", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "dissic", 
-    "namespace": "wcrp:cmip5:variable:dissic", 
-    "status": "pending", 
-    "uid": "66409c27-b652-4ee5-a006-a66b51c489e2"
+    "_type": "term",
+    "canonical_name": "dissic",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "dissic",
+    "namespace": "wcrp:cmip5:variable:dissic",
+    "status": "pending",
+    "uid": "641ef8e6-19c7-45c0-94c9-a4fef02d59bc"
 }

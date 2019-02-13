@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "wetbc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "wetbc", 
-    "namespace": "wcrp:cmip5:variable:wetbc", 
-    "status": "pending", 
-    "uid": "af312db9-d249-4a1f-aa6f-3d733d7a8d1d"
+    "_type": "term",
+    "canonical_name": "wetbc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "wetbc",
+    "namespace": "wcrp:cmip5:variable:wetbc",
+    "status": "pending",
+    "uid": "165e5cea-2e78-40de-874a-bf2ea8a2cb0e"
 }

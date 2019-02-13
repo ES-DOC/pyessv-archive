@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "intpdiat", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "intpdiat", 
-    "namespace": "wcrp:cmip5:variable:intpdiat", 
-    "status": "pending", 
-    "uid": "6869f9a3-5dac-45fc-a34a-7cb5c3496229"
+    "_type": "term",
+    "canonical_name": "intpdiat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "intpdiat",
+    "namespace": "wcrp:cmip5:variable:intpdiat",
+    "status": "pending",
+    "uid": "6b110d1b-19fa-430b-b215-659f065e3a7a"
 }

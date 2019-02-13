@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "layer", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "layer", 
-    "namespace": "wcrp:cmip5:thredds-exclude-variables:layer", 
-    "status": "pending", 
-    "uid": "05be0186-9580-41ea-bd9c-f675eb8da5da"
+    "_type": "term",
+    "canonical_name": "layer",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "layer",
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:layer",
+    "status": "pending",
+    "uid": "65e3a145-78c9-48a8-a535-18684b6a31c4"
 }

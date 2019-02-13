@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "vo", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "vo", 
-    "namespace": "wcrp:cmip5:variable:vo", 
-    "status": "pending", 
-    "uid": "0b01e83c-bf34-485d-8deb-ff8aa0301faf"
+    "_type": "term",
+    "canonical_name": "vo",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "vo",
+    "namespace": "wcrp:cmip5:variable:vo",
+    "status": "pending",
+    "uid": "131fbf96-1d51-498d-846e-34cd3fe49dd4"
 }

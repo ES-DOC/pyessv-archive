@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "orog", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "orog", 
-    "namespace": "wcrp:cmip5:variable:orog", 
-    "status": "pending", 
-    "uid": "866c4c3b-bd7b-44d0-9114-778456fbeff6"
+    "_type": "term",
+    "canonical_name": "orog",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "orog",
+    "namespace": "wcrp:cmip5:variable:orog",
+    "status": "pending",
+    "uid": "0651c8e2-f0c8-49e2-96a5-71c6332952ca"
 }

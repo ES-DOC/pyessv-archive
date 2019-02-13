@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "usi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "usi", 
-    "namespace": "wcrp:cmip5:variable:usi", 
-    "status": "pending", 
-    "uid": "af80b865-c2fd-4b64-b883-3f4fc10c992f"
+    "_type": "term",
+    "canonical_name": "usi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "usi",
+    "namespace": "wcrp:cmip5:variable:usi",
+    "status": "pending",
+    "uid": "55cf4a2a-16b7-4b2b-aa36-80fb2f5826d9"
 }

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "auth-met", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "AUTH-Met", 
-    "label": "AUTH-Met", 
-    "namespace": "wcrp:cordex:institute:auth-met", 
-    "raw_name": "AUTH-Met", 
-    "status": "pending", 
-    "uid": "aaf54984-3277-4c44-814a-6f7efcd0a2be"
+    "_type": "term",
+    "canonical_name": "auth-met",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "AUTH-Met",
+    "label": "AUTH-Met",
+    "namespace": "wcrp:cordex:institute:auth-met",
+    "raw_name": "AUTH-Met",
+    "status": "pending",
+    "uid": "f2ed1036-17ac-42ee-9b3e-6c395f9a9e04"
 }

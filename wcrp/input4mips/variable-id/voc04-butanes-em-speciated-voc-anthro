@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "voc04-butanes-em-speciated-voc-anthro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "VOC04-butanes-em-speciated-VOC-anthro",
+    "label": "VOC04-butanes-em-speciated-VOC-anthro",
+    "namespace": "wcrp:input4mips:variable-id:voc04-butanes-em-speciated-voc-anthro",
+    "raw_name": "VOC04-butanes-em-speciated-VOC-anthro",
+    "status": "pending",
+    "uid": "f62f4126-f8aa-48a2-a697-61cd1bfcc7a8"
+}

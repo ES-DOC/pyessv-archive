@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "abs550aer", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "abs550aer", 
-    "namespace": "wcrp:cmip5:variable:abs550aer", 
-    "status": "pending", 
-    "uid": "f0d319c8-a5e9-4280-a345-345e52fdaa07"
+    "_type": "term",
+    "canonical_name": "abs550aer",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "abs550aer",
+    "namespace": "wcrp:cmip5:variable:abs550aer",
+    "status": "pending",
+    "uid": "9009e5aa-b67a-4680-b03d-137940ad1f1b"
 }

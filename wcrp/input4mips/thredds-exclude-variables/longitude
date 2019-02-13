@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "longitude",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "longitude",
+    "namespace": "wcrp:input4mips:thredds-exclude-variables:longitude",
+    "status": "pending",
+    "uid": "b64c7b8b-4016-4322-82db-ebe548c02990"
+}

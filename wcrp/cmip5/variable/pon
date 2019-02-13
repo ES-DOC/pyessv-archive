@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "pon", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "pon", 
-    "namespace": "wcrp:cmip5:variable:pon", 
-    "status": "pending", 
-    "uid": "7b852020-dbfc-49cb-a757-86e394733b78"
+    "_type": "term",
+    "canonical_name": "pon",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "pon",
+    "namespace": "wcrp:cmip5:variable:pon",
+    "status": "pending",
+    "uid": "a1decd5c-cf4c-4327-b8ac-1e7471d5f99a"
 }

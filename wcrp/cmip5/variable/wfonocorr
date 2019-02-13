@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "wfonocorr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "wfonocorr", 
-    "namespace": "wcrp:cmip5:variable:wfonocorr", 
-    "status": "pending", 
-    "uid": "7afcca9c-8fe9-427d-be35-ef3d49b1657f"
+    "_type": "term",
+    "canonical_name": "wfonocorr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "wfonocorr",
+    "namespace": "wcrp:cmip5:variable:wfonocorr",
+    "status": "pending",
+    "uid": "ddb78cae-a205-4d0a-aa79-421d459657b1"
 }

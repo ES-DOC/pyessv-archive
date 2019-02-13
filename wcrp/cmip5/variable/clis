@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clis", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clis", 
-    "namespace": "wcrp:cmip5:variable:clis", 
-    "status": "pending", 
-    "uid": "042611e2-72a5-43c6-a7df-d0bbfa667d52"
+    "_type": "term",
+    "canonical_name": "clis",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clis",
+    "namespace": "wcrp:cmip5:variable:clis",
+    "status": "pending",
+    "uid": "65c9158d-815d-47d5-b168-98b65d3310db"
 }

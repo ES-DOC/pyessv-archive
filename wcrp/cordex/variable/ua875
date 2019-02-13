@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ua875", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ua875", 
-    "namespace": "wcrp:cordex:variable:ua875", 
-    "status": "pending", 
-    "uid": "e9a4fa3d-3064-414e-8069-9d03da7c4cee"
+    "_type": "term",
+    "canonical_name": "ua875",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ua875",
+    "namespace": "wcrp:cordex:variable:ua875",
+    "status": "pending",
+    "uid": "139108bd-9719-4fc8-b3c9-59850c49e6c7"
 }

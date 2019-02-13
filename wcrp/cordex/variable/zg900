@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "zg900", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "zg900", 
-    "namespace": "wcrp:cordex:variable:zg900", 
-    "status": "pending", 
-    "uid": "8b810187-f4a3-41b2-893b-63adb67df3e7"
+    "_type": "term",
+    "canonical_name": "zg900",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "zg900",
+    "namespace": "wcrp:cordex:variable:zg900",
+    "status": "pending",
+    "uid": "fb1685f4-c5cf-4d52-802a-9be23b37cb67"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "pdi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "pdi", 
-    "namespace": "wcrp:cmip5:variable:pdi", 
-    "status": "pending", 
-    "uid": "827a984b-a5cd-4aa8-bdb6-fbcb7bd201d9"
+    "_type": "term",
+    "canonical_name": "pdi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "pdi",
+    "namespace": "wcrp:cmip5:variable:pdi",
+    "status": "pending",
+    "uid": "67b1ce8d-02ab-4626-8319-5a7c64d78700"
 }

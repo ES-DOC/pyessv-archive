@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "transifs", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "transifs", 
-    "namespace": "wcrp:cmip5:variable:transifs", 
-    "status": "pending", 
-    "uid": "f6c7d46c-5904-4028-a7ff-04dd77bccb6b"
+    "_type": "term",
+    "canonical_name": "transifs",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "transifs",
+    "namespace": "wcrp:cmip5:variable:transifs",
+    "status": "pending",
+    "uid": "acf84e06-8f7c-4b08-87c2-7682fe94c941"
 }

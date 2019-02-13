@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "bounds-lat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "bounds_lat",
+    "label": "bounds_lat",
+    "namespace": "wcrp:input4mips:thredds-exclude-variables:bounds-lat",
+    "raw_name": "bounds_lat",
+    "status": "pending",
+    "uid": "3541bbd6-4591-4a56-ba80-2b0dc88e4bb2"
+}

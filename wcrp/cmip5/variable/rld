@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rld", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rld", 
-    "namespace": "wcrp:cmip5:variable:rld", 
-    "status": "pending", 
-    "uid": "2435b2db-9c44-427d-a5a7-4811940612f3"
+    "_type": "term",
+    "canonical_name": "rld",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rld",
+    "namespace": "wcrp:cmip5:variable:rld",
+    "status": "pending",
+    "uid": "2254cd03-c689-48e5-be1d-da9e710ae426"
 }

@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "ccmi-hist-volc-1-1",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CCMI-hist-volc-1-1",
+    "label": "CCMI-hist-volc-1-1",
+    "namespace": "wcrp:input4mips:source-id:ccmi-hist-volc-1-1",
+    "raw_name": "CCMI-hist-volc-1-1",
+    "status": "pending",
+    "uid": "0bc348d9-8e6a-47a8-89cd-aa7a11ea85b5"
+}

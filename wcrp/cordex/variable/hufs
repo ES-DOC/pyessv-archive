@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hufs", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hufs", 
-    "namespace": "wcrp:cordex:variable:hufs", 
-    "status": "pending", 
-    "uid": "e3cc7db8-3498-42ff-993b-5cb0a560f7a0"
+    "_type": "term",
+    "canonical_name": "hufs",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hufs",
+    "namespace": "wcrp:cordex:variable:hufs",
+    "status": "pending",
+    "uid": "71575090-3f23-4ab3-9252-d5ab36be1e7b"
 }

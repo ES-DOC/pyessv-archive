@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tro3mmr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tro3mmr", 
-    "namespace": "wcrp:cmip5:variable:tro3mmr", 
-    "status": "pending", 
-    "uid": "9ebf3999-17ab-494e-9d1a-f0e71cc4fa3c"
+    "_type": "term",
+    "canonical_name": "tro3mmr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tro3mmr",
+    "namespace": "wcrp:cmip5:variable:tro3mmr",
+    "status": "pending",
+    "uid": "def7a989-6bb6-4853-bbf0-06865ec5c4fa"
 }

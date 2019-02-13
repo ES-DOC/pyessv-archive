@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "y", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "y", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:y", 
-    "status": "pending", 
-    "uid": "1073b61b-ee40-4e09-a62d-d4b1859a7925"
+    "_type": "term",
+    "canonical_name": "y",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "y",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:y",
+    "status": "pending",
+    "uid": "e7ce481e-4679-4ef2-8473-c98309e2850b"
 }

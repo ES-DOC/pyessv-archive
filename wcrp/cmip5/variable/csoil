@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "csoil", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cSoil", 
-    "label": "cSoil", 
-    "namespace": "wcrp:cmip5:variable:csoil", 
-    "raw_name": "cSoil", 
-    "status": "pending", 
-    "uid": "e4244210-e748-4cdd-9d81-7f5e265abbd7"
+    "_type": "term",
+    "canonical_name": "csoil",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cSoil",
+    "label": "cSoil",
+    "namespace": "wcrp:cmip5:variable:csoil",
+    "raw_name": "cSoil",
+    "status": "pending",
+    "uid": "d981c2d4-164d-41cb-bea2-208c0f6214a2"
 }

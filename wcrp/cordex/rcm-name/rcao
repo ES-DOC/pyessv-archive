@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "rcao", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "RCAO", 
-    "namespace": "wcrp:cordex:rcm-name:rcao", 
-    "raw_name": "RCAO", 
-    "status": "pending", 
-    "uid": "caac5b7d-e89d-457c-b29c-b10e3c4570c2"
+    "_type": "term",
+    "canonical_name": "rcao",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "RCAO",
+    "namespace": "wcrp:cordex:rcm-name:rcao",
+    "raw_name": "RCAO",
+    "status": "pending",
+    "uid": "e1ac2b35-2a36-4b3b-851a-0cab778db05c"
 }

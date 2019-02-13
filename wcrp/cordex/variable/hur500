@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hur500", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hur500", 
-    "namespace": "wcrp:cordex:variable:hur500", 
-    "status": "pending", 
-    "uid": "f89dd95d-7c33-4f5d-b810-860782c11f3e"
+    "_type": "term",
+    "canonical_name": "hur500",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hur500",
+    "namespace": "wcrp:cordex:variable:hur500",
+    "status": "pending",
+    "uid": "60156e51-5cd7-4323-b373-193ad7cb3b63"
 }

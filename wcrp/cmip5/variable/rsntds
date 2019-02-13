@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rsntds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rsntds", 
-    "namespace": "wcrp:cmip5:variable:rsntds", 
-    "status": "pending", 
-    "uid": "fcd0fc0b-caee-4690-bcce-3c20ad228ae4"
+    "_type": "term",
+    "canonical_name": "rsntds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rsntds",
+    "namespace": "wcrp:cmip5:variable:rsntds",
+    "status": "pending",
+    "uid": "bc8c7c38-bb57-4c1f-93ae-f0cfd44f8977"
 }

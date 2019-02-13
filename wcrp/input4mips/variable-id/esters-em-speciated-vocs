@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "esters-em-speciated-vocs",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "esters-em-speciated-VOCs",
+    "label": "esters-em-speciated-VOCs",
+    "namespace": "wcrp:input4mips:variable-id:esters-em-speciated-vocs",
+    "raw_name": "esters-em-speciated-VOCs",
+    "status": "pending",
+    "uid": "97ac7e79-5026-408e-8891-8c2c3d196d31"
+}

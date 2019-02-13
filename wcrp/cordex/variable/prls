@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "prls", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "prls", 
-    "namespace": "wcrp:cordex:variable:prls", 
-    "status": "pending", 
-    "uid": "11ece219-a087-4cca-ba1e-622d4e10d546"
+    "_type": "term",
+    "canonical_name": "prls",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "prls",
+    "namespace": "wcrp:cordex:variable:prls",
+    "status": "pending",
+    "uid": "23e89f9e-a7f3-4ef1-9bef-c732f253f063"
 }

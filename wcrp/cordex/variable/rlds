@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rlds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rlds", 
-    "namespace": "wcrp:cordex:variable:rlds", 
-    "status": "pending", 
-    "uid": "b764ffec-13a9-431f-b98f-2bf69d5b318c"
+    "_type": "term",
+    "canonical_name": "rlds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rlds",
+    "namespace": "wcrp:cordex:variable:rlds",
+    "status": "pending",
+    "uid": "80da3c41-d1e7-4718-8bcb-c5e1ad5c3eb8"
 }

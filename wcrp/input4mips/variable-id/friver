@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "friver",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "friver",
+    "namespace": "wcrp:input4mips:variable-id:friver",
+    "status": "pending",
+    "uid": "58ebf256-7c19-4ca6-a8a5-75982b34a71d"
+}

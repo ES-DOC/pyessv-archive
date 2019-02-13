@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "so2-em-solid-biofuel-anthro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "SO2-em-SOLID-BIOFUEL-anthro",
+    "label": "SO2-em-SOLID-BIOFUEL-anthro",
+    "namespace": "wcrp:input4mips:variable-id:so2-em-solid-biofuel-anthro",
+    "raw_name": "SO2-em-SOLID-BIOFUEL-anthro",
+    "status": "pending",
+    "uid": "fd84c60c-f6a6-4ed2-bdad-ae7f7c067ad4"
+}

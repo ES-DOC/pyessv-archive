@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "ch3oh-percentage-agri",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CH3OH-percentage-AGRI",
+    "label": "CH3OH-percentage-AGRI",
+    "namespace": "wcrp:input4mips:variable-id:ch3oh-percentage-agri",
+    "raw_name": "CH3OH-percentage-AGRI",
+    "status": "pending",
+    "uid": "9a17a73b-f02c-44fb-9d02-f4a4d34f47ba"
+}

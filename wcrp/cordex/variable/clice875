@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clice875", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clice875", 
-    "namespace": "wcrp:cordex:variable:clice875", 
-    "status": "pending", 
-    "uid": "74f1566c-8a9c-4a97-8a07-b51d75ff3c30"
+    "_type": "term",
+    "canonical_name": "clice875",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clice875",
+    "namespace": "wcrp:cordex:variable:clice875",
+    "status": "pending",
+    "uid": "9790c5a6-7d13-4eba-91cb-dbfb995d0500"
 }

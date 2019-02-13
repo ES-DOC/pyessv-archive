@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clhcalipso", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clhcalipso", 
-    "namespace": "wcrp:cmip5:variable:clhcalipso", 
-    "status": "pending", 
-    "uid": "1f12d0a1-4c45-4f73-9bd1-72e42d061215"
+    "_type": "term",
+    "canonical_name": "clhcalipso",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clhcalipso",
+    "namespace": "wcrp:cmip5:variable:clhcalipso",
+    "status": "pending",
+    "uid": "c44f8403-c988-451d-858b-f7a93d9c3dab"
 }

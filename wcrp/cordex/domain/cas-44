@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cas-44", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Central Asia", 
-    "label": "CAS-44", 
-    "namespace": "wcrp:cordex:domain:cas-44", 
-    "raw_name": "CAS-44", 
-    "status": "pending", 
-    "uid": "4455069d-0b5c-4a58-8e91-59bf3b36e27e"
+    "_type": "term",
+    "canonical_name": "cas-44",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Central Asia",
+    "label": "CAS-44",
+    "namespace": "wcrp:cordex:domain:cas-44",
+    "raw_name": "CAS-44",
+    "status": "pending",
+    "uid": "70465731-f060-4590-a3ad-50f00e11cebb"
 }

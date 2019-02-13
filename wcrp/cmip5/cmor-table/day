@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "day", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "day", 
-    "namespace": "wcrp:cmip5:cmor-table:day", 
-    "status": "pending", 
-    "uid": "87074d16-5da0-4443-9968-1eb21c88cc3c"
+    "_type": "term",
+    "canonical_name": "day",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "day",
+    "namespace": "wcrp:cmip5:cmor-table:day",
+    "status": "pending",
+    "uid": "dfee52b2-0000-4656-959b-e1c3ddc8ed9d"
 }

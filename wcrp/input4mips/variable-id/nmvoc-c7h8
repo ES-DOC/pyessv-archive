@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "nmvoc-c7h8",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NMVOC-C7H8",
+    "label": "NMVOC-C7H8",
+    "namespace": "wcrp:input4mips:variable-id:nmvoc-c7h8",
+    "raw_name": "NMVOC-C7H8",
+    "status": "pending",
+    "uid": "b0159850-1360-4235-b578-70337faca3dc"
+}

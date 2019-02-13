@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "nh3",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NH3",
+    "label": "NH3",
+    "namespace": "wcrp:input4mips:variable-id:nh3",
+    "raw_name": "NH3",
+    "status": "pending",
+    "uid": "29e2bd9c-9331-4efd-b818-88a41c8f5298"
+}

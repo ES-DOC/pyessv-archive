@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "access1-0", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ACCESS1-0", 
-    "label": "ACCESS1-0", 
-    "namespace": "wcrp:cmip5:model:access1-0", 
-    "raw_name": "ACCESS1-0", 
-    "status": "pending", 
-    "uid": "e3c81c93-bf15-4141-946e-75f7ba62d657"
+    "_type": "term",
+    "canonical_name": "access1-0",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ACCESS1-0",
+    "label": "ACCESS1-0",
+    "namespace": "wcrp:cmip5:model:access1-0",
+    "raw_name": "ACCESS1-0",
+    "status": "pending",
+    "uid": "18fc1c29-b556-41a6-86ed-25abadcfa25d"
 }

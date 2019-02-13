@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "slw", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "slw", 
-    "namespace": "wcrp:cordex:variable:slw", 
-    "status": "pending", 
-    "uid": "7f073448-ce84-4b91-bdaa-f0890f5cc767"
+    "_type": "term",
+    "canonical_name": "slw",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "slw",
+    "namespace": "wcrp:cordex:variable:slw",
+    "status": "pending",
+    "uid": "b1f7c48a-dadf-4e1c-b368-1ac69c1b353f"
 }

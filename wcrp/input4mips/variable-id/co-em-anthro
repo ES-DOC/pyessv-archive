@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "co-em-anthro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CO-em-anthro",
+    "label": "CO-em-anthro",
+    "namespace": "wcrp:input4mips:variable-id:co-em-anthro",
+    "raw_name": "CO-em-anthro",
+    "status": "pending",
+    "uid": "45f0e2c8-0e3d-4b38-a59c-67de8a102813"
+}

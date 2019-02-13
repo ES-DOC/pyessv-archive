@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "midholocene", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Mid-Holocene", 
-    "label": "midHolocene", 
-    "namespace": "wcrp:cmip5:experiment:midholocene", 
-    "raw_name": "midHolocene", 
-    "status": "pending", 
-    "uid": "f6baa869-907c-4ab5-a5b7-f0a3bafb9483"
+    "_type": "term",
+    "canonical_name": "midholocene",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Mid-Holocene",
+    "label": "midHolocene",
+    "namespace": "wcrp:cmip5:experiment:midholocene",
+    "raw_name": "midHolocene",
+    "status": "pending",
+    "uid": "f9a5809b-052e-4ea4-acda-233ae3a1a1d4"
 }

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cnrm", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CNRM", 
-    "label": "CNRM", 
-    "namespace": "wcrp:cordex:institute:cnrm", 
-    "raw_name": "CNRM", 
-    "status": "pending", 
-    "uid": "6bea55ec-aa3c-472a-9dba-7bee53611625"
+    "_type": "term",
+    "canonical_name": "cnrm",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CNRM",
+    "label": "CNRM",
+    "namespace": "wcrp:cordex:institute:cnrm",
+    "raw_name": "CNRM",
+    "status": "pending",
+    "uid": "b816cf3e-25e8-491b-b3de-c9cb11a9f140"
 }

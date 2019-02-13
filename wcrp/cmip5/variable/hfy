@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hfy", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hfy", 
-    "namespace": "wcrp:cmip5:variable:hfy", 
-    "status": "pending", 
-    "uid": "c1e6d00b-07a2-4992-b90e-2d82bcd68d2d"
+    "_type": "term",
+    "canonical_name": "hfy",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hfy",
+    "namespace": "wcrp:cmip5:variable:hfy",
+    "status": "pending",
+    "uid": "3fac04c2-4722-461f-a6c0-bb143da60d49"
 }

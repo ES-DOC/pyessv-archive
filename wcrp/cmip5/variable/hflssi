@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hflssi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hflssi", 
-    "namespace": "wcrp:cmip5:variable:hflssi", 
-    "status": "pending", 
-    "uid": "65a43039-5bc7-49a0-aab2-8b849cb128f0"
+    "_type": "term",
+    "canonical_name": "hflssi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hflssi",
+    "namespace": "wcrp:cmip5:variable:hflssi",
+    "status": "pending",
+    "uid": "f2700dcb-ba3b-4974-b888-4c5b932e12e4"
 }

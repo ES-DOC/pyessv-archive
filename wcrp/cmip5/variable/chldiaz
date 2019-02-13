@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "chldiaz", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "chldiaz", 
-    "namespace": "wcrp:cmip5:variable:chldiaz", 
-    "status": "pending", 
-    "uid": "ade8dd59-5aaf-4d29-a67e-086bf34070e6"
+    "_type": "term",
+    "canonical_name": "chldiaz",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "chldiaz",
+    "namespace": "wcrp:cmip5:variable:chldiaz",
+    "status": "pending",
+    "uid": "bf065524-8e31-4237-a8a3-b150299790be"
 }

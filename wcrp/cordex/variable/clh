@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clh", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clh", 
-    "namespace": "wcrp:cordex:variable:clh", 
-    "status": "pending", 
-    "uid": "45c41f8c-098f-458e-b07b-8aab880e2071"
+    "_type": "term",
+    "canonical_name": "clh",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clh",
+    "namespace": "wcrp:cordex:variable:clh",
+    "status": "pending",
+    "uid": "faa01535-e7e3-4001-9d46-6389f873e96f"
 }

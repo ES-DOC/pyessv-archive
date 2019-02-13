@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "knmi-racmo22e", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "KNMI-RACMO22E", 
-    "label": "KNMI-RACMO22E", 
-    "namespace": "wcrp:cordex:rcm-model:knmi-racmo22e", 
-    "raw_name": "KNMI-RACMO22E", 
-    "status": "pending", 
-    "uid": "084ac4ad-0f7e-418f-8924-c82425aa2922"
+    "_type": "term",
+    "canonical_name": "knmi-racmo22e",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "KNMI-RACMO22E",
+    "label": "KNMI-RACMO22E",
+    "namespace": "wcrp:cordex:rcm-model:knmi-racmo22e",
+    "raw_name": "KNMI-RACMO22E",
+    "status": "pending",
+    "uid": "dc9ef381-b43e-4bb5-9325-c59852575d0e"
 }

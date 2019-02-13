@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cfadlidarsr532", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cfadLidarsr532", 
-    "label": "cfadLidarsr532", 
-    "namespace": "wcrp:cmip5:variable:cfadlidarsr532", 
-    "raw_name": "cfadLidarsr532", 
-    "status": "pending", 
-    "uid": "3bd47fbf-be43-4c04-8a35-5e50a5e2aa48"
+    "_type": "term",
+    "canonical_name": "cfadlidarsr532",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cfadLidarsr532",
+    "label": "cfadLidarsr532",
+    "namespace": "wcrp:cmip5:variable:cfadlidarsr532",
+    "raw_name": "cfadLidarsr532",
+    "status": "pending",
+    "uid": "acb3b1f6-0909-4adf-b874-031e498b9926"
 }

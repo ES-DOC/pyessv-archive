@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clt", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clt", 
-    "namespace": "wcrp:cordex:variable:clt", 
-    "status": "pending", 
-    "uid": "3ff69eac-512b-48bb-90a5-447062515f89"
+    "_type": "term",
+    "canonical_name": "clt",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clt",
+    "namespace": "wcrp:cordex:variable:clt",
+    "status": "pending",
+    "uid": "623df8ec-49d4-4885-98b4-ed3b492e5a53"
 }

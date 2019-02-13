@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "evspsblpot", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "evspsblpot", 
-    "namespace": "wcrp:cordex:variable:evspsblpot", 
-    "status": "pending", 
-    "uid": "030efe2f-64e2-44e2-9798-d0d186c35e14"
+    "_type": "term",
+    "canonical_name": "evspsblpot",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "evspsblpot",
+    "namespace": "wcrp:cordex:variable:evspsblpot",
+    "status": "pending",
+    "uid": "50bd17a6-88ca-46b5-bd73-0826e597098a"
 }

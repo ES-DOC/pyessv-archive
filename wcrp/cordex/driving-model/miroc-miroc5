@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "miroc-miroc5", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "MIROC-MIROC5", 
-    "label": "MIROC-MIROC5", 
-    "namespace": "wcrp:cordex:driving-model:miroc-miroc5", 
-    "raw_name": "MIROC-MIROC5", 
-    "status": "pending", 
-    "uid": "b559ca9b-c60b-4b7c-8c72-84f4dd36c525"
+    "_type": "term",
+    "canonical_name": "miroc-miroc5",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "MIROC-MIROC5",
+    "label": "MIROC-MIROC5",
+    "namespace": "wcrp:cordex:driving-model:miroc-miroc5",
+    "raw_name": "MIROC-MIROC5",
+    "status": "pending",
+    "uid": "b4e6142a-e62c-4115-b2d4-aebddb30e9c5"
 }

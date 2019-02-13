@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rhsmax", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rhsmax", 
-    "namespace": "wcrp:cmip5:variable:rhsmax", 
-    "status": "pending", 
-    "uid": "35c1f307-23e2-46bc-8ce7-c6ba54f251ba"
+    "_type": "term",
+    "canonical_name": "rhsmax",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rhsmax",
+    "namespace": "wcrp:cmip5:variable:rhsmax",
+    "status": "pending",
+    "uid": "bdb271cd-ae89-4ebf-9ef4-29c0d9260d0d"
 }

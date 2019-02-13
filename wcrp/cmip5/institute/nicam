@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "nicam", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "NICAM", 
-    "namespace": "wcrp:cmip5:institute:nicam", 
-    "raw_name": "NICAM", 
-    "status": "pending", 
-    "uid": "6d2daa98-4018-46a0-880d-5936487b0855"
+    "_type": "term",
+    "canonical_name": "nicam",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "NICAM",
+    "namespace": "wcrp:cmip5:institute:nicam",
+    "raw_name": "NICAM",
+    "status": "pending",
+    "uid": "561ba9b0-5361-4f91-a9cd-41eafcdf12e7"
 }

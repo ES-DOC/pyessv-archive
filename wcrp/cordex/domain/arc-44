@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "arc-44", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "The Arctic", 
-    "label": "ARC-44", 
-    "namespace": "wcrp:cordex:domain:arc-44", 
-    "raw_name": "ARC-44", 
-    "status": "pending", 
-    "uid": "a1cc2366-a933-465f-933b-7e865bb5751a"
+    "_type": "term",
+    "canonical_name": "arc-44",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "The Arctic",
+    "label": "ARC-44",
+    "namespace": "wcrp:cordex:domain:arc-44",
+    "raw_name": "ARC-44",
+    "status": "pending",
+    "uid": "48989d70-8b6d-4788-b9b3-ef57ca4721d8"
 }

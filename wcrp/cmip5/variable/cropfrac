@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cropfrac", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cropFrac", 
-    "label": "cropFrac", 
-    "namespace": "wcrp:cmip5:variable:cropfrac", 
-    "raw_name": "cropFrac", 
-    "status": "pending", 
-    "uid": "eb351902-5b7c-48e1-a698-5025a026aff8"
+    "_type": "term",
+    "canonical_name": "cropfrac",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cropFrac",
+    "label": "cropFrac",
+    "namespace": "wcrp:cmip5:variable:cropfrac",
+    "raw_name": "cropFrac",
+    "status": "pending",
+    "uid": "b83b319a-744c-4678-be39-c463f4ecb44f"
 }

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "amip4xco2", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "4xCO2 AMIP", 
-    "label": "amip4xCO2", 
-    "namespace": "wcrp:cmip5:experiment:amip4xco2", 
-    "raw_name": "amip4xCO2", 
-    "status": "pending", 
-    "uid": "8b51384a-e675-433c-83f2-197e947f033c"
+    "_type": "term",
+    "canonical_name": "amip4xco2",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "4xCO2 AMIP",
+    "label": "amip4xCO2",
+    "namespace": "wcrp:cmip5:experiment:amip4xco2",
+    "raw_name": "amip4xCO2",
+    "status": "pending",
+    "uid": "99e959e3-e373-4950-a3c0-d48efc743afa"
 }

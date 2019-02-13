@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clwmr950", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clwmr950", 
-    "namespace": "wcrp:cordex:variable:clwmr950", 
-    "status": "pending", 
-    "uid": "21d8db48-64e2-4897-88d0-41f811c74208"
+    "_type": "term",
+    "canonical_name": "clwmr950",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clwmr950",
+    "namespace": "wcrp:cordex:variable:clwmr950",
+    "status": "pending",
+    "uid": "ed62e46f-a9a5-43e9-a30c-bab793027574"
 }

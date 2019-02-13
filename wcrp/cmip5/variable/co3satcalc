@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "co3satcalc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "co3satcalc", 
-    "namespace": "wcrp:cmip5:variable:co3satcalc", 
-    "status": "pending", 
-    "uid": "6484d9f3-b52e-4c0d-ab46-8cbe4f7cb952"
+    "_type": "term",
+    "canonical_name": "co3satcalc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "co3satcalc",
+    "namespace": "wcrp:cmip5:variable:co3satcalc",
+    "status": "pending",
+    "uid": "30f00c85-bb50-4bc5-b469-08587a3600a4"
 }

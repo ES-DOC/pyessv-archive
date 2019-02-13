@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "hadgem2-a", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "HadGEM2-A", 
-    "label": "HadGEM2-A", 
-    "namespace": "wcrp:cmip5:model:hadgem2-a", 
-    "raw_name": "HadGEM2-A", 
-    "status": "pending", 
-    "uid": "bd2e9c0d-cbe3-4d3f-aa4a-e14be626f89f"
+    "_type": "term",
+    "canonical_name": "hadgem2-a",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "HadGEM2-A",
+    "label": "HadGEM2-A",
+    "namespace": "wcrp:cmip5:model:hadgem2-a",
+    "raw_name": "HadGEM2-A",
+    "status": "pending",
+    "uid": "c6aec340-375b-4230-a634-3575c444466d"
 }

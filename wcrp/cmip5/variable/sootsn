@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sootsn", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sootsn", 
-    "namespace": "wcrp:cmip5:variable:sootsn", 
-    "status": "pending", 
-    "uid": "c037534f-41b2-4a51-8120-0c78f43b13ee"
+    "_type": "term",
+    "canonical_name": "sootsn",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sootsn",
+    "namespace": "wcrp:cmip5:variable:sootsn",
+    "status": "pending",
+    "uid": "47d20f84-946a-46fc-b823-0763c3fe2cb3"
 }

@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "1hr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "1hr",
+    "namespace": "wcrp:cordex:time-frequency:1hr",
+    "status": "pending",
+    "uid": "6d78fae6-f8d4-4885-bf08-68400db8a664"
+}

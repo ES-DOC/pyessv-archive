@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "lon", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "lon", 
-    "namespace": "wcrp:cmip5:thredds-exclude-variables:lon", 
-    "status": "pending", 
-    "uid": "d8c30b5b-5a79-4f67-ba80-0735e4601541"
+    "_type": "term",
+    "canonical_name": "lon",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "lon",
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:lon",
+    "status": "pending",
+    "uid": "e81a838e-1e9d-419c-b374-15688e75edb4"
 }

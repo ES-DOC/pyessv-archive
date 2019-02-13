@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "zhalf", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "zhalf", 
-    "namespace": "wcrp:cmip5:variable:zhalf", 
-    "status": "pending", 
-    "uid": "c0f8f6a6-2265-492e-9590-27e5dac2e753"
+    "_type": "term",
+    "canonical_name": "zhalf",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "zhalf",
+    "namespace": "wcrp:cmip5:variable:zhalf",
+    "status": "pending",
+    "uid": "ef313741-d7f0-4a16-9043-3b3634a3451a"
 }

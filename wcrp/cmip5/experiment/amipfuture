@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "amipfuture", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "AMIP plus patterned anomaly", 
-    "label": "amipFuture", 
-    "namespace": "wcrp:cmip5:experiment:amipfuture", 
-    "raw_name": "amipFuture", 
-    "status": "pending", 
-    "uid": "74104ec1-e7a3-4834-91af-aba616c991ba"
+    "_type": "term",
+    "canonical_name": "amipfuture",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "AMIP plus patterned anomaly",
+    "label": "amipFuture",
+    "namespace": "wcrp:cmip5:experiment:amipfuture",
+    "raw_name": "amipFuture",
+    "status": "pending",
+    "uid": "053151e5-b5ee-4fdd-bce7-2ba517289d73"
 }

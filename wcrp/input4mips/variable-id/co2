@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "co2",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CO2",
+    "label": "CO2",
+    "namespace": "wcrp:input4mips:variable-id:co2",
+    "raw_name": "CO2",
+    "status": "pending",
+    "uid": "8e9d29e1-0780-4e13-9c7c-6da3dee20085"
+}

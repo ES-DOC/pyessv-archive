@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "co",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CO",
+    "label": "CO",
+    "namespace": "wcrp:input4mips:variable-id:co",
+    "raw_name": "CO",
+    "status": "pending",
+    "uid": "11507be5-c44d-4c9a-9178-0056b343c03e"
+}

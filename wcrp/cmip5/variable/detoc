@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "detoc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "detoc", 
-    "namespace": "wcrp:cmip5:variable:detoc", 
-    "status": "pending", 
-    "uid": "370737a9-23c2-4b40-9585-c6f97196da58"
+    "_type": "term",
+    "canonical_name": "detoc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "detoc",
+    "namespace": "wcrp:cmip5:variable:detoc",
+    "status": "pending",
+    "uid": "a15deee9-d28d-4a5a-a8a4-dfa19c2338d3"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "deptho", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "deptho", 
-    "namespace": "wcrp:cmip5:variable:deptho", 
-    "status": "pending", 
-    "uid": "63668e09-8482-42a5-b386-c51a5b022272"
+    "_type": "term",
+    "canonical_name": "deptho",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "deptho",
+    "namespace": "wcrp:cmip5:variable:deptho",
+    "status": "pending",
+    "uid": "2b63738d-d357-41a9-ac88-fd8cbf689079"
 }

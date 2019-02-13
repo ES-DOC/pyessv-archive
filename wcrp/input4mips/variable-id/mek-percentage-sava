@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "mek-percentage-sava",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "MEK-percentage-SAVA",
+    "label": "MEK-percentage-SAVA",
+    "namespace": "wcrp:input4mips:variable-id:mek-percentage-sava",
+    "raw_name": "MEK-percentage-SAVA",
+    "status": "pending",
+    "uid": "7d1c9770-e0f3-4fa0-96bd-28a89d532b46"
+}

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnsccwa", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnsccwa", 
-    "namespace": "wcrp:cmip5:variable:tnsccwa", 
-    "status": "pending", 
-    "uid": "487d43e6-ece4-4c64-9eae-af4d491bd8fd"
+    "_type": "term",
+    "canonical_name": "tnsccwa",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnsccwa",
+    "namespace": "wcrp:cmip5:variable:tnsccwa",
+    "status": "pending",
+    "uid": "6deb19e1-8a40-423b-9527-6668d162bd29"
 }

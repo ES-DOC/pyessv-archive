@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "parag", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "parag", 
-    "namespace": "wcrp:cmip5:variable:parag", 
-    "status": "pending", 
-    "uid": "5de75323-34ef-4ce8-8d27-427f3a982897"
+    "_type": "term",
+    "canonical_name": "parag",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "parag",
+    "namespace": "wcrp:cmip5:variable:parag",
+    "status": "pending",
+    "uid": "2a7b8b8e-2bbf-4e49-bd45-3b9bcf3b4080"
 }

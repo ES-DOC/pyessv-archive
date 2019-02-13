@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "divice", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "divice", 
-    "namespace": "wcrp:cmip5:variable:divice", 
-    "status": "pending", 
-    "uid": "9a86a4be-c9c2-4dd0-b44b-1cdf3b8d3b7a"
+    "_type": "term",
+    "canonical_name": "divice",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "divice",
+    "namespace": "wcrp:cmip5:variable:divice",
+    "status": "pending",
+    "uid": "db15b96c-a552-448f-8220-d9193fee834f"
 }

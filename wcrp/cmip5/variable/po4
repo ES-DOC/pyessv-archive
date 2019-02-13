@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "po4", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "po4", 
-    "namespace": "wcrp:cmip5:variable:po4", 
-    "status": "pending", 
-    "uid": "ff73ea42-da4e-49e2-99d2-42e03f780293"
+    "_type": "term",
+    "canonical_name": "po4",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "po4",
+    "namespace": "wcrp:cmip5:variable:po4",
+    "status": "pending",
+    "uid": "ab3e10b4-b975-4563-b7bf-ad45a76b975f"
 }

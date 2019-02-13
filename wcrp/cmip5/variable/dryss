@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "dryss", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "dryss", 
-    "namespace": "wcrp:cmip5:variable:dryss", 
-    "status": "pending", 
-    "uid": "3a07d6a5-bd33-4e64-bc94-946f8bb03ad6"
+    "_type": "term",
+    "canonical_name": "dryss",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "dryss",
+    "namespace": "wcrp:cmip5:variable:dryss",
+    "status": "pending",
+    "uid": "9d07e8fd-654c-4bf1-897e-314f2805ad40"
 }

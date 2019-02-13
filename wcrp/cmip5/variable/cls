@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "cls", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cls", 
-    "namespace": "wcrp:cmip5:variable:cls", 
-    "status": "pending", 
-    "uid": "25c0f7df-45dd-4242-b44a-a0783f46067a"
+    "_type": "term",
+    "canonical_name": "cls",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cls",
+    "namespace": "wcrp:cmip5:variable:cls",
+    "status": "pending",
+    "uid": "f052774b-0c2e-4770-8ee1-1d07656a5be1"
 }

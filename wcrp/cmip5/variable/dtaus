@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "dtaus", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "dtaus", 
-    "namespace": "wcrp:cmip5:variable:dtaus", 
-    "status": "pending", 
-    "uid": "ee277f16-5c69-48bc-9e52-e6e865fbb1b4"
+    "_type": "term",
+    "canonical_name": "dtaus",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "dtaus",
+    "namespace": "wcrp:cmip5:variable:dtaus",
+    "status": "pending",
+    "uid": "512a0d93-07cf-427b-8e6d-0e39049905cc"
 }

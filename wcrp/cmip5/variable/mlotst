@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "mlotst", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mlotst", 
-    "namespace": "wcrp:cmip5:variable:mlotst", 
-    "status": "pending", 
-    "uid": "530b4728-b6f4-49ce-b5a8-31ab8c2ecce9"
+    "_type": "term",
+    "canonical_name": "mlotst",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mlotst",
+    "namespace": "wcrp:cmip5:variable:mlotst",
+    "status": "pending",
+    "uid": "4462862e-c9c5-40a0-9a29-f11a30fcb8d8"
 }

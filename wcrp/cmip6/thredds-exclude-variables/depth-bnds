@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "depth-bnds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "depth_bnds", 
-    "label": "depth_bnds", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:depth-bnds", 
-    "raw_name": "depth_bnds", 
-    "status": "pending", 
-    "uid": "665cb802-1853-434e-9022-302e9d373cf7"
+    "_type": "term",
+    "canonical_name": "depth-bnds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "depth_bnds",
+    "label": "depth_bnds",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:depth-bnds",
+    "raw_name": "depth_bnds",
+    "status": "pending",
+    "uid": "fe87e51c-9ca9-48cd-94cf-0213a6cd7ade"
 }

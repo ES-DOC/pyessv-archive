@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "mpi-m", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "MPI-M", 
-    "namespace": "wcrp:cmip5:institute:mpi-m", 
-    "raw_name": "MPI-M", 
-    "status": "pending", 
-    "uid": "1e6ca8a4-bb9b-43ad-b037-96e67ca23296"
+    "_type": "term",
+    "canonical_name": "mpi-m",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "MPI-M",
+    "namespace": "wcrp:cmip5:institute:mpi-m",
+    "raw_name": "MPI-M",
+    "status": "pending",
+    "uid": "d75ccb52-3ece-46ee-a0ee-9051a57f2aec"
 }

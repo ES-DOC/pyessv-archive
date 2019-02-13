@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "emiso2", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "emiso2", 
-    "namespace": "wcrp:cmip5:variable:emiso2", 
-    "status": "pending", 
-    "uid": "b90e0c13-5c23-488d-8752-6715c10d6d9a"
+    "_type": "term",
+    "canonical_name": "emiso2",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "emiso2",
+    "namespace": "wcrp:cmip5:variable:emiso2",
+    "status": "pending",
+    "uid": "1a914dbc-1fb1-418c-855c-d5694e29dd93"
 }

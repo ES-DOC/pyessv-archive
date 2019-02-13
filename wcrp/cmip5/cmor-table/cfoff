@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cfoff", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cfOff", 
-    "label": "cfOff", 
-    "namespace": "wcrp:cmip5:cmor-table:cfoff", 
-    "raw_name": "cfOff", 
-    "status": "pending", 
-    "uid": "8cfab991-cb3c-4493-bc96-0748eb751018"
+    "_type": "term",
+    "canonical_name": "cfoff",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cfOff",
+    "label": "cfOff",
+    "namespace": "wcrp:cmip5:cmor-table:cfoff",
+    "raw_name": "cfOff",
+    "status": "pending",
+    "uid": "4d2bb5e1-5378-46b5-ab13-21c09e647280"
 }

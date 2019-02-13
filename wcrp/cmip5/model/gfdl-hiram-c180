@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "gfdl-hiram-c180", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "GFDL-HIRAM-C180", 
-    "label": "GFDL-HIRAM-C180", 
-    "namespace": "wcrp:cmip5:model:gfdl-hiram-c180", 
-    "raw_name": "GFDL-HIRAM-C180", 
-    "status": "pending", 
-    "uid": "80b51b7a-9b8b-4047-8da3-cdb282cb8151"
+    "_type": "term",
+    "canonical_name": "gfdl-hiram-c180",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "GFDL-HIRAM-C180",
+    "label": "GFDL-HIRAM-C180",
+    "namespace": "wcrp:cmip5:model:gfdl-hiram-c180",
+    "raw_name": "GFDL-HIRAM-C180",
+    "status": "pending",
+    "uid": "ecbc450c-495b-44a6-9ac3-31642c9adff3"
 }

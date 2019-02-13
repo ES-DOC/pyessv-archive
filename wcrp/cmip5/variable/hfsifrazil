@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hfsifrazil", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hfsifrazil", 
-    "namespace": "wcrp:cmip5:variable:hfsifrazil", 
-    "status": "pending", 
-    "uid": "dcaf0299-8ced-4bf0-bf80-a51c9f3d2120"
+    "_type": "term",
+    "canonical_name": "hfsifrazil",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hfsifrazil",
+    "namespace": "wcrp:cmip5:variable:hfsifrazil",
+    "status": "pending",
+    "uid": "e0cbf322-fbff-436d-b9a1-1e9c1b7126f9"
 }

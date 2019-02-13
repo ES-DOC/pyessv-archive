@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "uofmd",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "UofMD",
+    "label": "UofMD",
+    "namespace": "wcrp:input4mips:institution-id:uofmd",
+    "raw_name": "UofMD",
+    "status": "pending",
+    "uid": "6af28fc7-dedb-4dd0-a9c8-76ee5a379ac1"
+}

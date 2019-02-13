@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "mrsosd", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mrsosd", 
-    "namespace": "wcrp:cordex:variable:mrsosd", 
-    "status": "pending", 
-    "uid": "b70ccc51-ddf0-417c-8131-86dd75f7cd5e"
+    "_type": "term",
+    "canonical_name": "mrsosd",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mrsosd",
+    "namespace": "wcrp:cordex:variable:mrsosd",
+    "status": "pending",
+    "uid": "0a5d144c-8622-446a-ba89-993aeb01b085"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "plev8", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "plev8", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:plev8", 
-    "status": "pending", 
-    "uid": "c821b1f1-1a3b-4f87-bc05-a3b08e19b8ae"
+    "_type": "term",
+    "canonical_name": "plev8",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "plev8",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:plev8",
+    "status": "pending",
+    "uid": "b8df188c-acfe-4b45-8d33-f2207745774e"
 }

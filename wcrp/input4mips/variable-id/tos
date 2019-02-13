@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "tos",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tos",
+    "namespace": "wcrp:input4mips:variable-id:tos",
+    "status": "pending",
+    "uid": "a4ee437b-d8ae-4894-bdf8-7bd3a8faf98f"
+}

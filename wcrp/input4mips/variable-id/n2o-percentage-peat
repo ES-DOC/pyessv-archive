@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "n2o-percentage-peat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "N2O-percentage-PEAT",
+    "label": "N2O-percentage-PEAT",
+    "namespace": "wcrp:input4mips:variable-id:n2o-percentage-peat",
+    "raw_name": "N2O-percentage-PEAT",
+    "status": "pending",
+    "uid": "ac4cc0f1-cf04-41bc-a7ed-75df5fe3f913"
+}

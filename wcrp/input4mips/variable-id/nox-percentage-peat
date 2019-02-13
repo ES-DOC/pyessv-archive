@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "nox-percentage-peat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NOx-percentage-PEAT",
+    "label": "NOx-percentage-PEAT",
+    "namespace": "wcrp:input4mips:variable-id:nox-percentage-peat",
+    "raw_name": "NOx-percentage-PEAT",
+    "status": "pending",
+    "uid": "5c04784a-b1ca-43e5-90c1-08b9cb573c2c"
+}

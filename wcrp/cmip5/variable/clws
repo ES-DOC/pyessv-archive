@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clws", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clws", 
-    "namespace": "wcrp:cmip5:variable:clws", 
-    "status": "pending", 
-    "uid": "796437f1-3171-4631-a1fa-91c05971f406"
+    "_type": "term",
+    "canonical_name": "clws",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clws",
+    "namespace": "wcrp:cmip5:variable:clws",
+    "status": "pending",
+    "uid": "6820da9e-ed2f-4dbd-a14c-da1fde364e80"
 }

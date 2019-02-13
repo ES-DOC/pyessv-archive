@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "wfcorr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "wfcorr", 
-    "namespace": "wcrp:cmip5:variable:wfcorr", 
-    "status": "pending", 
-    "uid": "ccbf7fd0-b606-484c-9cc0-add825dcb457"
+    "_type": "term",
+    "canonical_name": "wfcorr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "wfcorr",
+    "namespace": "wcrp:cmip5:variable:wfcorr",
+    "status": "pending",
+    "uid": "54ff3b7e-0945-44ca-a09f-6168ff60e1c2"
 }

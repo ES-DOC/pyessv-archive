@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "dryso4", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "dryso4", 
-    "namespace": "wcrp:cmip5:variable:dryso4", 
-    "status": "pending", 
-    "uid": "8ef452c0-bb55-438a-a457-dbfea1e95394"
+    "_type": "term",
+    "canonical_name": "dryso4",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "dryso4",
+    "namespace": "wcrp:cmip5:variable:dryso4",
+    "status": "pending",
+    "uid": "e60d0947-2f99-4732-874a-d3e5ec2c9241"
 }

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "ant-44", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Antarctica", 
-    "label": "ANT-44", 
-    "namespace": "wcrp:cordex:domain:ant-44", 
-    "raw_name": "ANT-44", 
-    "status": "pending", 
-    "uid": "7ade0060-2f93-4475-9ed7-01d8053a8a45"
+    "_type": "term",
+    "canonical_name": "ant-44",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Antarctica",
+    "label": "ANT-44",
+    "namespace": "wcrp:cordex:domain:ant-44",
+    "raw_name": "ANT-44",
+    "status": "pending",
+    "uid": "c8ea4126-7e27-43c1-9045-4d7833110d1d"
 }

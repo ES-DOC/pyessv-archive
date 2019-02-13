@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "rlds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rlds",
+    "namespace": "wcrp:input4mips:variable-id:rlds",
+    "status": "pending",
+    "uid": "abfe8927-f679-4200-8e5a-1f87391ba08e"
+}

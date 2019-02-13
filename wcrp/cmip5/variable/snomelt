@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "snomelt", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "snomelt", 
-    "namespace": "wcrp:cmip5:variable:snomelt", 
-    "status": "pending", 
-    "uid": "ebe161da-6598-4895-8d66-6c750303bc64"
+    "_type": "term",
+    "canonical_name": "snomelt",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "snomelt",
+    "namespace": "wcrp:cmip5:variable:snomelt",
+    "status": "pending",
+    "uid": "d4c09d8f-d522-48bc-afdf-79a6f456150e"
 }

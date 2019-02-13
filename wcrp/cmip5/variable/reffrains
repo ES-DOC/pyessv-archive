@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "reffrains", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "reffrains", 
-    "namespace": "wcrp:cmip5:variable:reffrains", 
-    "status": "pending", 
-    "uid": "45dc1aee-1230-4e2e-97f9-75689086a610"
+    "_type": "term",
+    "canonical_name": "reffrains",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "reffrains",
+    "namespace": "wcrp:cmip5:variable:reffrains",
+    "status": "pending",
+    "uid": "811251bc-9c7e-4283-aeb5-984b20027112"
 }

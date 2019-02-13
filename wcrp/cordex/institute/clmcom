@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "clmcom", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CLMcom", 
-    "label": "CLMcom", 
-    "namespace": "wcrp:cordex:institute:clmcom", 
-    "raw_name": "CLMcom", 
-    "status": "pending", 
-    "uid": "13492c14-2c8e-4211-bf72-5e23319a5a3d"
+    "_type": "term",
+    "canonical_name": "clmcom",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CLMcom",
+    "label": "CLMcom",
+    "namespace": "wcrp:cordex:institute:clmcom",
+    "raw_name": "CLMcom",
+    "status": "pending",
+    "uid": "6c77732c-a804-4de1-82c5-70188968e6fc"
 }

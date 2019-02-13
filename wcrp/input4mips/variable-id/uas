@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "uas",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "uas",
+    "namespace": "wcrp:input4mips:variable-id:uas",
+    "status": "pending",
+    "uid": "f708261a-e53a-4dbe-9c95-422edcc82b30"
+}

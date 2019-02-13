@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "decadal1964", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "10- or 30-year run initialized in year 1964", 
-    "namespace": "wcrp:cmip5:experiment:decadal1964", 
-    "status": "pending", 
-    "uid": "8596f08c-a5af-490b-9f0c-14fe4438d027"
+    "_type": "term",
+    "canonical_name": "decadal1964",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "10- or 30-year run initialized in year 1964",
+    "namespace": "wcrp:cmip5:experiment:decadal1964",
+    "status": "pending",
+    "uid": "7b348eb4-6f11-4067-859b-fe94d171b442"
 }

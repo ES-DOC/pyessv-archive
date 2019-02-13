@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ustar", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ustar", 
-    "namespace": "wcrp:cordex:variable:ustar", 
-    "status": "pending", 
-    "uid": "c58adcb9-41d5-4194-b3c9-134d254a21cf"
+    "_type": "term",
+    "canonical_name": "ustar",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ustar",
+    "namespace": "wcrp:cordex:variable:ustar",
+    "status": "pending",
+    "uid": "ddb4a986-134f-464e-8198-6f245f0d302c"
 }

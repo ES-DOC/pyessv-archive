@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tsl", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tsl", 
-    "namespace": "wcrp:cmip5:variable:tsl", 
-    "status": "pending", 
-    "uid": "7f2cc695-32ab-416a-8295-25b17a5b7a14"
+    "_type": "term",
+    "canonical_name": "tsl",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tsl",
+    "namespace": "wcrp:cmip5:variable:tsl",
+    "status": "pending",
+    "uid": "7d33c088-7170-4e48-91d2-8200d63276ec"
 }

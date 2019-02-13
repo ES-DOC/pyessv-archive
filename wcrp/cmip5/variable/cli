@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "cli", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cli", 
-    "namespace": "wcrp:cmip5:variable:cli", 
-    "status": "pending", 
-    "uid": "1a579b84-456d-40b4-ad14-db17124ae7c8"
+    "_type": "term",
+    "canonical_name": "cli",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cli",
+    "namespace": "wcrp:cmip5:variable:cli",
+    "status": "pending",
+    "uid": "500a314f-a368-4190-a987-cc5e05d14891"
 }

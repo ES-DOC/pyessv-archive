@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "voc06-hexanes-pl-em-speciated-voc-anthro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "VOC06-hexanes-pl-em-speciated-VOC-anthro",
+    "label": "VOC06-hexanes-pl-em-speciated-VOC-anthro",
+    "namespace": "wcrp:input4mips:variable-id:voc06-hexanes-pl-em-speciated-voc-anthro",
+    "raw_name": "VOC06-hexanes-pl-em-speciated-VOC-anthro",
+    "status": "pending",
+    "uid": "8b887185-e53f-4f51-b7e9-66c23afdadaf"
+}

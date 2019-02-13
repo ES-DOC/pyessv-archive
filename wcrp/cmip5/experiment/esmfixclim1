@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "esmfixclim1", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ESM fixed climate 1", 
-    "label": "esmFixClim1", 
-    "namespace": "wcrp:cmip5:experiment:esmfixclim1", 
-    "raw_name": "esmFixClim1", 
-    "status": "pending", 
-    "uid": "83a011f8-6237-432d-97a5-29e44206a5b2"
+    "_type": "term",
+    "canonical_name": "esmfixclim1",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ESM fixed climate 1",
+    "label": "esmFixClim1",
+    "namespace": "wcrp:cmip5:experiment:esmfixclim1",
+    "raw_name": "esmFixClim1",
+    "status": "pending",
+    "uid": "60ebbd24-dcb7-4150-82b7-748d8af9b169"
 }

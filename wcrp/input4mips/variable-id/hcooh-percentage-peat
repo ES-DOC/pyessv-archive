@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "hcooh-percentage-peat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "HCOOH-percentage-PEAT",
+    "label": "HCOOH-percentage-PEAT",
+    "namespace": "wcrp:input4mips:variable-id:hcooh-percentage-peat",
+    "raw_name": "HCOOH-percentage-PEAT",
+    "status": "pending",
+    "uid": "1198f525-f4a0-4e17-8c31-645b3ba02b14"
+}

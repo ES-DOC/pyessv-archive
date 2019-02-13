@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "c5h8-percentage-temf",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "C5H8-percentage-TEMF",
+    "label": "C5H8-percentage-TEMF",
+    "namespace": "wcrp:input4mips:variable-id:c5h8-percentage-temf",
+    "raw_name": "C5H8-percentage-TEMF",
+    "status": "pending",
+    "uid": "d871c814-83aa-4022-923e-12dbb9cde2de"
+}

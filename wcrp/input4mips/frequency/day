@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "day",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "day",
+    "namespace": "wcrp:input4mips:frequency:day",
+    "status": "pending",
+    "uid": "98a5b2f7-0bf3-43ca-bead-a3a2bf824060"
+}

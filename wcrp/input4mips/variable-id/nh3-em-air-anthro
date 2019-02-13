@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "nh3-em-air-anthro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NH3-em-AIR-anthro",
+    "label": "NH3-em-AIR-anthro",
+    "namespace": "wcrp:input4mips:variable-id:nh3-em-air-anthro",
+    "raw_name": "NH3-em-AIR-anthro",
+    "status": "pending",
+    "uid": "3fe634f1-ab3b-4d8b-8d67-1ed66e876358"
+}

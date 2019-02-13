@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "chlpico", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "chlpico", 
-    "namespace": "wcrp:cmip5:variable:chlpico", 
-    "status": "pending", 
-    "uid": "f91f0959-530e-4cb8-a23e-4744470b23bd"
+    "_type": "term",
+    "canonical_name": "chlpico",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "chlpico",
+    "namespace": "wcrp:cmip5:variable:chlpico",
+    "status": "pending",
+    "uid": "66fea3b7-50ca-4ba3-8ee1-cc71558a62c9"
 }

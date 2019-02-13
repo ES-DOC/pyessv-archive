@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "pp", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "pp", 
-    "namespace": "wcrp:cmip5:variable:pp", 
-    "status": "pending", 
-    "uid": "7d8030d9-be38-434a-814d-48418cd6af9d"
+    "_type": "term",
+    "canonical_name": "pp",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "pp",
+    "namespace": "wcrp:cmip5:variable:pp",
+    "status": "pending",
+    "uid": "e39a8aa7-1d18-453e-8e73-69a1783c607e"
 }

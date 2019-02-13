@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "od870aer", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "od870aer", 
-    "namespace": "wcrp:cmip5:variable:od870aer", 
-    "status": "pending", 
-    "uid": "cb45a307-881d-4793-beb7-ab074931d685"
+    "_type": "term",
+    "canonical_name": "od870aer",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "od870aer",
+    "namespace": "wcrp:cmip5:variable:od870aer",
+    "status": "pending",
+    "uid": "153db0f8-c708-43b0-beb1-55bc6fb08887"
 }

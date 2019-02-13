@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "bnu", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "BNU", 
-    "namespace": "wcrp:cmip5:institute:bnu", 
-    "raw_name": "BNU", 
-    "status": "pending", 
-    "uid": "9729e244-a247-475a-9a50-99c7fb21a840"
+    "_type": "term",
+    "canonical_name": "bnu",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "BNU",
+    "namespace": "wcrp:cmip5:institute:bnu",
+    "raw_name": "BNU",
+    "status": "pending",
+    "uid": "72de3258-12f7-488d-9dda-4b6440f79875"
 }

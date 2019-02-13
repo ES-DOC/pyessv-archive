@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "plev8", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "plev8", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:plev8", 
-    "status": "pending", 
-    "uid": "877725b0-1271-4bec-ab7a-b3437f974463"
+    "_type": "term",
+    "canonical_name": "plev8",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "plev8",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:plev8",
+    "status": "pending",
+    "uid": "5f29152f-862d-4fcb-81d5-2e49cf063f5b"
 }

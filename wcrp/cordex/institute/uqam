@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "uqam", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "UQAM", 
-    "label": "UQAM", 
-    "namespace": "wcrp:cordex:institute:uqam", 
-    "raw_name": "UQAM", 
-    "status": "pending", 
-    "uid": "5d3a1942-e026-42da-a579-95e5052d08a7"
+    "_type": "term",
+    "canonical_name": "uqam",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "UQAM",
+    "label": "UQAM",
+    "namespace": "wcrp:cordex:institute:uqam",
+    "raw_name": "UQAM",
+    "status": "pending",
+    "uid": "4e3e5461-faef-4e04-8733-ef394c705849"
 }

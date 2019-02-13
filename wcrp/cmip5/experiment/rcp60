@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rcp60", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "RCP6.0", 
-    "namespace": "wcrp:cmip5:experiment:rcp60", 
-    "status": "pending", 
-    "uid": "4587739f-2d54-43ef-a604-d4390476e016"
+    "_type": "term",
+    "canonical_name": "rcp60",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "RCP6.0",
+    "namespace": "wcrp:cmip5:experiment:rcp60",
+    "status": "pending",
+    "uid": "0194ccf2-404e-40ed-bc51-d5509432431b"
 }

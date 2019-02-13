@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hur850", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hur850", 
-    "namespace": "wcrp:cordex:variable:hur850", 
-    "status": "pending", 
-    "uid": "b44a44cb-6b9c-4207-8526-fba9a4a9db30"
+    "_type": "term",
+    "canonical_name": "hur850",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hur850",
+    "namespace": "wcrp:cordex:variable:hur850",
+    "status": "pending",
+    "uid": "2f101290-4058-4e38-a383-7b60f8e299bf"
 }

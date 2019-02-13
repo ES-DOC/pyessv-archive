@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "med-44i", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "HYMEX Mediterranean", 
-    "label": "MED-44i", 
-    "namespace": "wcrp:cordex:domain:med-44i", 
-    "raw_name": "MED-44i", 
-    "status": "pending", 
-    "uid": "155e9aef-b88d-4b3d-9433-5fa13222a266"
+    "_type": "term",
+    "canonical_name": "med-44i",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "HYMEX Mediterranean",
+    "label": "MED-44i",
+    "namespace": "wcrp:cordex:domain:med-44i",
+    "raw_name": "MED-44i",
+    "status": "pending",
+    "uid": "d41ed5cd-700a-427a-95e8-32e1f13bc573"
 }

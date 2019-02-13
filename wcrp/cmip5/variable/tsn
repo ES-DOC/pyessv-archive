@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tsn", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tsn", 
-    "namespace": "wcrp:cmip5:variable:tsn", 
-    "status": "pending", 
-    "uid": "a8b764fc-1eee-4b68-96d9-db7517d6bc5e"
+    "_type": "term",
+    "canonical_name": "tsn",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tsn",
+    "namespace": "wcrp:cmip5:variable:tsn",
+    "status": "pending",
+    "uid": "32554fee-0bb3-450a-b9d2-4267464903a0"
 }

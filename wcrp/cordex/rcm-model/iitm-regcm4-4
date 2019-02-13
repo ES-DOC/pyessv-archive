@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "iitm-regcm4-4", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "IITM-RegCM4-4", 
-    "label": "IITM-RegCM4-4", 
-    "namespace": "wcrp:cordex:rcm-model:iitm-regcm4-4", 
-    "raw_name": "IITM-RegCM4-4", 
-    "status": "pending", 
-    "uid": "7176195e-72f5-41f8-b571-a3599f11b2a1"
+    "_type": "term",
+    "canonical_name": "iitm-regcm4-4",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "IITM-RegCM4-4",
+    "label": "IITM-RegCM4-4",
+    "namespace": "wcrp:cordex:rcm-model:iitm-regcm4-4",
+    "raw_name": "IITM-RegCM4-4",
+    "status": "pending",
+    "uid": "0db37a76-99d6-4e18-987f-35a25b9b83d5"
 }

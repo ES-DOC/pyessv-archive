@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "bcc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "BCC", 
-    "namespace": "wcrp:cmip5:institute:bcc", 
-    "raw_name": "BCC", 
-    "status": "pending", 
-    "uid": "c196f377-e409-4457-82d4-65b998a2d6dc"
+    "_type": "term",
+    "canonical_name": "bcc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "BCC",
+    "namespace": "wcrp:cmip5:institute:bcc",
+    "raw_name": "BCC",
+    "status": "pending",
+    "uid": "4cc80250-468a-4e39-831c-e853f847b8ca"
 }

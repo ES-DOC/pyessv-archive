@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sza5", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sza5", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:sza5", 
-    "status": "pending", 
-    "uid": "2178a099-17c5-485c-a316-fc337c441bba"
+    "_type": "term",
+    "canonical_name": "sza5",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sza5",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:sza5",
+    "status": "pending",
+    "uid": "c2a95521-ede3-4d11-9491-b1627c5f170d"
 }

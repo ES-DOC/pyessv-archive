@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "alt40", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "alt40", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:alt40", 
-    "status": "pending", 
-    "uid": "1dec268f-8ba6-4571-9e8a-7d9331be52a0"
+    "_type": "term",
+    "canonical_name": "alt40",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "alt40",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:alt40",
+    "status": "pending",
+    "uid": "6a82e204-b16b-4aeb-98ef-bec98130083b"
 }

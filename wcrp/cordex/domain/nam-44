@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "nam-44", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "North America", 
-    "label": "NAM-44", 
-    "namespace": "wcrp:cordex:domain:nam-44", 
-    "raw_name": "NAM-44", 
-    "status": "pending", 
-    "uid": "fe784c6e-9e11-4b28-82a7-6ee798831cab"
+    "_type": "term",
+    "canonical_name": "nam-44",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "North America",
+    "label": "NAM-44",
+    "namespace": "wcrp:cordex:domain:nam-44",
+    "raw_name": "NAM-44",
+    "status": "pending",
+    "uid": "041e8cf7-5a52-4a33-b742-5f32509b6b0b"
 }

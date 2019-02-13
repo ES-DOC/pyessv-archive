@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rldssi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rldssi", 
-    "namespace": "wcrp:cmip5:variable:rldssi", 
-    "status": "pending", 
-    "uid": "10eccb1c-52eb-485d-95f9-ef85ff7f428d"
+    "_type": "term",
+    "canonical_name": "rldssi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rldssi",
+    "namespace": "wcrp:cmip5:variable:rldssi",
+    "status": "pending",
+    "uid": "5af21441-8b2d-4902-8230-9348c9e8378f"
 }

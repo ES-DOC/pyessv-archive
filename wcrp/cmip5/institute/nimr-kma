@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "nimr-kma", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "NIMR-KMA", 
-    "namespace": "wcrp:cmip5:institute:nimr-kma", 
-    "raw_name": "NIMR-KMA", 
-    "status": "pending", 
-    "uid": "0f0db2ed-1054-425d-8fd6-6f6527f481f2"
+    "_type": "term",
+    "canonical_name": "nimr-kma",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "NIMR-KMA",
+    "namespace": "wcrp:cmip5:institute:nimr-kma",
+    "raw_name": "NIMR-KMA",
+    "status": "pending",
+    "uid": "5a65be1d-6c7a-4a62-b45c-befeb080d6b8"
 }

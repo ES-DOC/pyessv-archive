@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "a-bnds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "a_bnds", 
-    "label": "a_bnds", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:a-bnds", 
-    "raw_name": "a_bnds", 
-    "status": "pending", 
-    "uid": "9de12ea0-fa22-464f-aa23-b5a3db626c41"
+    "_type": "term",
+    "canonical_name": "a-bnds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "a_bnds",
+    "label": "a_bnds",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:a-bnds",
+    "raw_name": "a_bnds",
+    "status": "pending",
+    "uid": "c967004f-9953-46c7-8728-c9209788ed65"
 }

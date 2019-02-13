@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "uhoh", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "UHOH", 
-    "label": "UHOH", 
-    "namespace": "wcrp:cordex:institute:uhoh", 
-    "raw_name": "UHOH", 
-    "status": "pending", 
-    "uid": "e5ae5ddc-c8b3-40b4-a5b2-5e1aa0ae8ae4"
+    "_type": "term",
+    "canonical_name": "uhoh",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "UHOH",
+    "label": "UHOH",
+    "namespace": "wcrp:cordex:institute:uhoh",
+    "raw_name": "UHOH",
+    "status": "pending",
+    "uid": "cad775b9-c0c7-4b57-bccd-ca81255f5799"
 }

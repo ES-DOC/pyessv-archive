@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "drydms", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "drydms", 
-    "namespace": "wcrp:cmip5:variable:drydms", 
-    "status": "pending", 
-    "uid": "1b510aeb-40a9-4231-af82-83d00bda4559"
+    "_type": "term",
+    "canonical_name": "drydms",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "drydms",
+    "namespace": "wcrp:cmip5:variable:drydms",
+    "status": "pending",
+    "uid": "d0399bc2-654a-4bcb-9f28-6deeea3d7d8a"
 }

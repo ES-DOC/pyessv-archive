@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ssi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ssi", 
-    "namespace": "wcrp:cmip5:variable:ssi", 
-    "status": "pending", 
-    "uid": "d3ce6751-c030-4758-ad92-d254dfe8a249"
+    "_type": "term",
+    "canonical_name": "ssi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ssi",
+    "namespace": "wcrp:cmip5:variable:ssi",
+    "status": "pending",
+    "uid": "e119ac92-d0fd-4318-922c-963db031be6e"
 }

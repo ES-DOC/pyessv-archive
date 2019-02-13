@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnsclihenv", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnsclihenv", 
-    "namespace": "wcrp:cmip5:variable:tnsclihenv", 
-    "status": "pending", 
-    "uid": "bf758b7a-0138-4225-8e32-78c5a1bb9dbe"
+    "_type": "term",
+    "canonical_name": "tnsclihenv",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnsclihenv",
+    "namespace": "wcrp:cmip5:variable:tnsclihenv",
+    "status": "pending",
+    "uid": "f46a6257-c16a-429c-8864-6b4c52759830"
 }

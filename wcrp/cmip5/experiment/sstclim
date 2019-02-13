@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "sstclim", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Control SST climatology", 
-    "label": "sstClim", 
-    "namespace": "wcrp:cmip5:experiment:sstclim", 
-    "raw_name": "sstClim", 
-    "status": "pending", 
-    "uid": "beee9461-43b9-4fbd-8d88-790d5c6e1e78"
+    "_type": "term",
+    "canonical_name": "sstclim",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Control SST climatology",
+    "label": "sstClim",
+    "namespace": "wcrp:cmip5:experiment:sstclim",
+    "raw_name": "sstClim",
+    "status": "pending",
+    "uid": "c575ccb1-b1ed-4dac-8d6c-ae81ef1b3157"
 }

@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "oc-percentage-sava",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "OC-percentage-SAVA",
+    "label": "OC-percentage-SAVA",
+    "namespace": "wcrp:input4mips:variable-id:oc-percentage-sava",
+    "raw_name": "OC-percentage-SAVA",
+    "status": "pending",
+    "uid": "31ba9676-5651-45c6-8c84-a6703d2ec119"
+}

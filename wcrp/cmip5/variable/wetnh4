@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "wetnh4", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "wetnh4", 
-    "namespace": "wcrp:cmip5:variable:wetnh4", 
-    "status": "pending", 
-    "uid": "49bbaa36-f494-42f6-940e-27048d53ed3a"
+    "_type": "term",
+    "canonical_name": "wetnh4",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "wetnh4",
+    "namespace": "wcrp:cmip5:variable:wetnh4",
+    "status": "pending",
+    "uid": "159923ff-e308-495f-bd58-5af2883e3f2b"
 }

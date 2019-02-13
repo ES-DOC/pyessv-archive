@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "latitude", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "latitude", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:latitude", 
-    "status": "pending", 
-    "uid": "fb43a015-6a8d-44a3-8fb6-d064667fa300"
+    "_type": "term",
+    "canonical_name": "latitude",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "latitude",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:latitude",
+    "status": "pending",
+    "uid": "ec33a438-c9ab-4061-aee0-05ee38dc0e9c"
 }

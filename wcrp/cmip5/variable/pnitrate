@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "pnitrate", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "pnitrate", 
-    "namespace": "wcrp:cmip5:variable:pnitrate", 
-    "status": "pending", 
-    "uid": "43912c78-7982-4386-bb13-20c290edc0aa"
+    "_type": "term",
+    "canonical_name": "pnitrate",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "pnitrate",
+    "namespace": "wcrp:cmip5:variable:pnitrate",
+    "status": "pending",
+    "uid": "7a10948c-0f53-488e-87cd-daf38fa1a1b7"
 }

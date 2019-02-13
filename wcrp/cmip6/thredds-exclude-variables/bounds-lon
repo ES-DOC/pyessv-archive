@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "bounds-lon", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "bounds_lon", 
-    "label": "bounds_lon", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:bounds-lon", 
-    "raw_name": "bounds_lon", 
-    "status": "pending", 
-    "uid": "30102e44-cb9b-47e8-b3fa-79e544446b6d"
+    "_type": "term",
+    "canonical_name": "bounds-lon",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "bounds_lon",
+    "label": "bounds_lon",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:bounds-lon",
+    "raw_name": "bounds_lon",
+    "status": "pending",
+    "uid": "13e806bb-9ea5-47a7-ae93-11f324035b04"
 }

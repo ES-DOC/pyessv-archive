@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "fio-esm", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "FIO-ESM", 
-    "label": "FIO-ESM", 
-    "namespace": "wcrp:cmip5:model:fio-esm", 
-    "raw_name": "FIO-ESM", 
-    "status": "pending", 
-    "uid": "403b4ca5-d7b6-4d35-afb8-426b3ab5c891"
+    "_type": "term",
+    "canonical_name": "fio-esm",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "FIO-ESM",
+    "label": "FIO-ESM",
+    "namespace": "wcrp:cmip5:model:fio-esm",
+    "raw_name": "FIO-ESM",
+    "status": "pending",
+    "uid": "2fbe50bf-fbfb-403d-8e3e-7ffa6e56ff43"
 }

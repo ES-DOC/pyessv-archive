@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "so", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "so", 
-    "namespace": "wcrp:cmip5:variable:so", 
-    "status": "pending", 
-    "uid": "e7ece9a9-3785-4757-9782-a263f0077bf8"
+    "_type": "term",
+    "canonical_name": "so",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "so",
+    "namespace": "wcrp:cmip5:variable:so",
+    "status": "pending",
+    "uid": "254c34b0-b79a-461b-852a-02b7f1cbd978"
 }

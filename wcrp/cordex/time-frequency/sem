@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sem", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sem", 
-    "namespace": "wcrp:cordex:time-frequency:sem", 
-    "status": "pending", 
-    "uid": "095326af-7cb6-48c7-a615-160f9237d982"
+    "_type": "term",
+    "canonical_name": "sem",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sem",
+    "namespace": "wcrp:cordex:time-frequency:sem",
+    "status": "pending",
+    "uid": "9b32e011-f7ac-4f3d-913f-1a9caa1da996"
 }

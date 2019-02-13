@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "sos",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sos",
+    "namespace": "wcrp:input4mips:variable-id:sos",
+    "status": "pending",
+    "uid": "c5e4bea4-6f73-4c24-a053-5a377c893a13"
+}

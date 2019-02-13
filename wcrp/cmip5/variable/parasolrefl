@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "parasolrefl", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "parasolRefl", 
-    "label": "parasolRefl", 
-    "namespace": "wcrp:cmip5:variable:parasolrefl", 
-    "raw_name": "parasolRefl", 
-    "status": "pending", 
-    "uid": "95ff0037-e3dd-4d54-84f7-408055ceb022"
+    "_type": "term",
+    "canonical_name": "parasolrefl",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "parasolRefl",
+    "label": "parasolRefl",
+    "namespace": "wcrp:cmip5:variable:parasolrefl",
+    "raw_name": "parasolRefl",
+    "status": "pending",
+    "uid": "13f11960-6ca4-4cf6-a120-2da25e10bceb"
 }

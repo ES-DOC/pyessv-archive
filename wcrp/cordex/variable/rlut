@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rlut", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rlut", 
-    "namespace": "wcrp:cordex:variable:rlut", 
-    "status": "pending", 
-    "uid": "1b8235b2-0bb1-45ca-8a06-06209834240d"
+    "_type": "term",
+    "canonical_name": "rlut",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rlut",
+    "namespace": "wcrp:cordex:variable:rlut",
+    "status": "pending",
+    "uid": "47c3777c-e27d-46d8-be9f-0701ac192b35"
 }

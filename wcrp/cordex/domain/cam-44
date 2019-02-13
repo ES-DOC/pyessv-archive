@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cam-44", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Central America", 
-    "label": "CAM-44", 
-    "namespace": "wcrp:cordex:domain:cam-44", 
-    "raw_name": "CAM-44", 
-    "status": "pending", 
-    "uid": "8fca2392-e4ce-422b-b58c-faa6e07b5349"
+    "_type": "term",
+    "canonical_name": "cam-44",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Central America",
+    "label": "CAM-44",
+    "namespace": "wcrp:cordex:domain:cam-44",
+    "raw_name": "CAM-44",
+    "status": "pending",
+    "uid": "6d232f8f-0fd5-4ed9-8545-dba173c5d115"
 }

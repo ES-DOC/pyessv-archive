@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "bccr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "BCCR", 
-    "label": "BCCR", 
-    "namespace": "wcrp:cordex:institute:bccr", 
-    "raw_name": "BCCR", 
-    "status": "pending", 
-    "uid": "365c8e0b-a6bd-4da7-a9d4-6763f3d1fe9d"
+    "_type": "term",
+    "canonical_name": "bccr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "BCCR",
+    "label": "BCCR",
+    "namespace": "wcrp:cordex:institute:bccr",
+    "raw_name": "BCCR",
+    "status": "pending",
+    "uid": "9dcca515-c41b-4cef-984f-5be427800580"
 }

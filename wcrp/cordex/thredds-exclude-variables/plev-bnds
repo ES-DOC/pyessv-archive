@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "plev-bnds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "plev_bnds", 
-    "label": "plev_bnds", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:plev-bnds", 
-    "raw_name": "plev_bnds", 
-    "status": "pending", 
-    "uid": "5c4137d7-4cb9-4ea8-acbd-364f000ed7af"
+    "_type": "term",
+    "canonical_name": "plev-bnds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "plev_bnds",
+    "label": "plev_bnds",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:plev-bnds",
+    "raw_name": "plev_bnds",
+    "status": "pending",
+    "uid": "ff34ca1c-5308-4ed0-a569-2eb94fb57f6c"
 }

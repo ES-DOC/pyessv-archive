@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hfsnthermds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hfsnthermds", 
-    "namespace": "wcrp:cmip5:variable:hfsnthermds", 
-    "status": "pending", 
-    "uid": "39825906-84e3-49cb-b9f1-426efca3b769"
+    "_type": "term",
+    "canonical_name": "hfsnthermds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hfsnthermds",
+    "namespace": "wcrp:cmip5:variable:hfsnthermds",
+    "status": "pending",
+    "uid": "56b6bb8a-f04c-44a3-b23e-65ef29e09778"
 }

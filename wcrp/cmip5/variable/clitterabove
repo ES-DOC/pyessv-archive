@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "clitterabove", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cLitterAbove", 
-    "label": "cLitterAbove", 
-    "namespace": "wcrp:cmip5:variable:clitterabove", 
-    "raw_name": "cLitterAbove", 
-    "status": "pending", 
-    "uid": "6741ee38-0618-4373-843c-bf8e0a067234"
+    "_type": "term",
+    "canonical_name": "clitterabove",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cLitterAbove",
+    "label": "cLitterAbove",
+    "namespace": "wcrp:cmip5:variable:clitterabove",
+    "raw_name": "cLitterAbove",
+    "status": "pending",
+    "uid": "837950cc-a0d7-4bee-ac99-16d06350f28c"
 }

@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "c7h8-percentage-agri",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "C7H8-percentage-AGRI",
+    "label": "C7H8-percentage-AGRI",
+    "namespace": "wcrp:input4mips:variable-id:c7h8-percentage-agri",
+    "raw_name": "C7H8-percentage-AGRI",
+    "status": "pending",
+    "uid": "e1682c2e-064a-47af-8d24-7ce0de3a15f0"
+}

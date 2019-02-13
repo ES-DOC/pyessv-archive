@@ -1,13 +1,13 @@
 {
-    "_type": "term", 
-    "canonical_name": "high", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
+    "_type": "term",
+    "canonical_name": "high",
+    "create_date": "2017-06-21 00:00:00+00:00",
     "data": {
-        "color": "#cc4125", 
+        "color": "#cc4125",
         "sortOrdinal": 2
-    }, 
-    "label": "High", 
-    "namespace": "esdoc:errata:severity:high", 
-    "status": "pending", 
+    },
+    "label": "High",
+    "namespace": "esdoc:errata:severity:high",
+    "status": "pending",
     "uid": "9b4ba3c9-2de4-419e-9609-70d2596f225a"
 }

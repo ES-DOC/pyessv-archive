@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "masso", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "masso", 
-    "namespace": "wcrp:cmip5:variable:masso", 
-    "status": "pending", 
-    "uid": "70329727-9238-45da-ad33-ddc5ed87a87b"
+    "_type": "term",
+    "canonical_name": "masso",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "masso",
+    "namespace": "wcrp:cmip5:variable:masso",
+    "status": "pending",
+    "uid": "48bd89e0-4134-4636-b4fd-7c179cfa4bb4"
 }

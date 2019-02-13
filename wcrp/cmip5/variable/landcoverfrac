@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "landcoverfrac", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "landCoverFrac", 
-    "label": "landCoverFrac", 
-    "namespace": "wcrp:cmip5:variable:landcoverfrac", 
-    "raw_name": "landCoverFrac", 
-    "status": "pending", 
-    "uid": "83a353de-ff4b-4e81-9444-97d56fde372c"
+    "_type": "term",
+    "canonical_name": "landcoverfrac",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "landCoverFrac",
+    "label": "landCoverFrac",
+    "namespace": "wcrp:cmip5:variable:landcoverfrac",
+    "raw_name": "landCoverFrac",
+    "status": "pending",
+    "uid": "5509efc7-251d-43f0-9511-62948e6df54e"
 }

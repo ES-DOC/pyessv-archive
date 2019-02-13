@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-halon1211-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-halon1211-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-halon1211-in-air",
+    "status": "pending",
+    "uid": "e45f3a68-c007-4a0a-ad7c-1b40bd02bf95"
+}

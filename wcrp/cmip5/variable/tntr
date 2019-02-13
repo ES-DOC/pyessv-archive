@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tntr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tntr", 
-    "namespace": "wcrp:cmip5:variable:tntr", 
-    "status": "pending", 
-    "uid": "b690b28d-dbd0-4a58-a699-7b3a1db26e9d"
+    "_type": "term",
+    "canonical_name": "tntr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tntr",
+    "namespace": "wcrp:cmip5:variable:tntr",
+    "status": "pending",
+    "uid": "c3af6a4b-01d2-4852-9d8a-13cfabf967be"
 }

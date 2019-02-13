@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "alevhalf", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "alevhalf", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:alevhalf", 
-    "status": "pending", 
-    "uid": "04783fd3-9efc-4dbe-ac0b-c57bc87ec3c5"
+    "_type": "term",
+    "canonical_name": "alevhalf",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "alevhalf",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:alevhalf",
+    "status": "pending",
+    "uid": "a905183b-6329-4ddb-b587-f762c47a5bb3"
 }

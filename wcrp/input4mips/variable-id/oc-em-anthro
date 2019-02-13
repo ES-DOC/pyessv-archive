@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "oc-em-anthro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "OC-em-anthro",
+    "label": "OC-em-anthro",
+    "namespace": "wcrp:input4mips:variable-id:oc-em-anthro",
+    "raw_name": "OC-em-anthro",
+    "status": "pending",
+    "uid": "9e5128ae-e0e0-4f9f-8c78-324bf0717d2a"
+}

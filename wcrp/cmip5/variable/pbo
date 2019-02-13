@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "pbo", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "pbo", 
-    "namespace": "wcrp:cmip5:variable:pbo", 
-    "status": "pending", 
-    "uid": "4b43a024-752a-4428-a0a5-611812d0fb35"
+    "_type": "term",
+    "canonical_name": "pbo",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "pbo",
+    "namespace": "wcrp:cmip5:variable:pbo",
+    "status": "pending",
+    "uid": "bfabf52b-4970-4c73-9adc-a179a759ee41"
 }

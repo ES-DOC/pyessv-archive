@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-hfc4310mee-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-hfc4310mee-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-hfc4310mee-in-air",
+    "status": "pending",
+    "uid": "8df782a3-0dcd-4e01-8af8-4121337e1249"
+}

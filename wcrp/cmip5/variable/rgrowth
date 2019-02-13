@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "rgrowth", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rGrowth", 
-    "label": "rGrowth", 
-    "namespace": "wcrp:cmip5:variable:rgrowth", 
-    "raw_name": "rGrowth", 
-    "status": "pending", 
-    "uid": "33637297-690a-41f1-a1ed-4bdddcb674d1"
+    "_type": "term",
+    "canonical_name": "rgrowth",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rGrowth",
+    "label": "rGrowth",
+    "namespace": "wcrp:cmip5:variable:rgrowth",
+    "raw_name": "rGrowth",
+    "status": "pending",
+    "uid": "ced79276-1a39-49eb-b0cb-c5f89d2efed7"
 }

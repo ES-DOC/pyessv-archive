@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "fgrazing", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "fGrazing", 
-    "label": "fGrazing", 
-    "namespace": "wcrp:cmip5:variable:fgrazing", 
-    "raw_name": "fGrazing", 
-    "status": "pending", 
-    "uid": "0e9b562d-3f52-4fb5-8ace-c027d7b369f7"
+    "_type": "term",
+    "canonical_name": "fgrazing",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "fGrazing",
+    "label": "fGrazing",
+    "namespace": "wcrp:cmip5:variable:fgrazing",
+    "raw_name": "fGrazing",
+    "status": "pending",
+    "uid": "27fb2d70-05e7-497a-93ae-6332bed4a224"
 }

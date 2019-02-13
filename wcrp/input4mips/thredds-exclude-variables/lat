@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "lat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "lat",
+    "namespace": "wcrp:input4mips:thredds-exclude-variables:lat",
+    "status": "pending",
+    "uid": "8f81aa78-6fce-4e76-ac4b-6c27bde6e9a6"
+}

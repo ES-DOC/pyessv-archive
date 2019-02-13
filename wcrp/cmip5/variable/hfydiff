@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hfydiff", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hfydiff", 
-    "namespace": "wcrp:cmip5:variable:hfydiff", 
-    "status": "pending", 
-    "uid": "1e8d3c15-35c0-421a-8b85-9d250351b555"
+    "_type": "term",
+    "canonical_name": "hfydiff",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hfydiff",
+    "namespace": "wcrp:cmip5:variable:hfydiff",
+    "status": "pending",
+    "uid": "fe294e24-e838-4042-8c56-4cb2432e1f64"
 }

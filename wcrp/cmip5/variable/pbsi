@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "pbsi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "pbsi", 
-    "namespace": "wcrp:cmip5:variable:pbsi", 
-    "status": "pending", 
-    "uid": "b6bc5246-3ee0-4f45-a706-cb8c0c48a71c"
+    "_type": "term",
+    "canonical_name": "pbsi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "pbsi",
+    "namespace": "wcrp:cmip5:variable:pbsi",
+    "status": "pending",
+    "uid": "23436d09-ab69-454b-b65d-1d432a7a3c11"
 }

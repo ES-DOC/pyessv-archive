@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rlat", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rlat", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:rlat", 
-    "status": "pending", 
-    "uid": "0b0bd899-a514-400f-8e51-5a1838a64a37"
+    "_type": "term",
+    "canonical_name": "rlat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rlat",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:rlat",
+    "status": "pending",
+    "uid": "9d388306-fc3a-43b4-b322-037ef5ed3b03"
 }

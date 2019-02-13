@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "v1a", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "v1a", 
-    "namespace": "wcrp:cordex:rcm-version:v1a", 
-    "status": "pending", 
-    "uid": "4429dc42-7b39-414c-a421-664dd88a8b02"
+    "_type": "term",
+    "canonical_name": "v1a",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "v1a",
+    "namespace": "wcrp:cordex:rcm-version:v1a",
+    "status": "pending",
+    "uid": "1a2442be-256f-4192-8d24-809dcafedb71"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "lgm", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Last Glacial Maximum", 
-    "namespace": "wcrp:cmip5:experiment:lgm", 
-    "status": "pending", 
-    "uid": "a2cc81fa-5a73-43f7-923e-e6bcee20c31d"
+    "_type": "term",
+    "canonical_name": "lgm",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Last Glacial Maximum",
+    "namespace": "wcrp:cmip5:experiment:lgm",
+    "status": "pending",
+    "uid": "0666bbb1-264b-468b-8c1a-82f5895b5767"
 }

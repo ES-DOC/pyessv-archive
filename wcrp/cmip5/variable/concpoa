@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "concpoa", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "concpoa", 
-    "namespace": "wcrp:cmip5:variable:concpoa", 
-    "status": "pending", 
-    "uid": "bb554aac-812e-48b3-9867-bf13a96caa81"
+    "_type": "term",
+    "canonical_name": "concpoa",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "concpoa",
+    "namespace": "wcrp:cmip5:variable:concpoa",
+    "status": "pending",
+    "uid": "2274b122-7c05-4256-a4fd-ecefb3445f0e"
 }

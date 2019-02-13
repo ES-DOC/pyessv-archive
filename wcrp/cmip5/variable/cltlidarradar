@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "cltlidarradar", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cltlidarradar", 
-    "namespace": "wcrp:cmip5:variable:cltlidarradar", 
-    "status": "pending", 
-    "uid": "8e1872c1-a0e5-4cbf-a0f6-7257556a068a"
+    "_type": "term",
+    "canonical_name": "cltlidarradar",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cltlidarradar",
+    "namespace": "wcrp:cmip5:variable:cltlidarradar",
+    "status": "pending",
+    "uid": "f15d67c3-8b46-4574-a643-bf31245d9fdb"
 }

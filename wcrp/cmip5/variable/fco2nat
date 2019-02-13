@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "fco2nat", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "fco2nat", 
-    "namespace": "wcrp:cmip5:variable:fco2nat", 
-    "status": "pending", 
-    "uid": "590ffb97-43ac-48ed-9913-9590e267a26f"
+    "_type": "term",
+    "canonical_name": "fco2nat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "fco2nat",
+    "namespace": "wcrp:cmip5:variable:fco2nat",
+    "status": "pending",
+    "uid": "ed34f7a8-44c4-47ac-be8c-e25ca70fd539"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "od550aer", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "od550aer", 
-    "namespace": "wcrp:cmip5:variable:od550aer", 
-    "status": "pending", 
-    "uid": "5f84e3d4-8358-42c9-8ff6-41ba153a069e"
+    "_type": "term",
+    "canonical_name": "od550aer",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "od550aer",
+    "namespace": "wcrp:cmip5:variable:od550aer",
+    "status": "pending",
+    "uid": "c88cbb57-a019-488a-b0e7-f58502dfc869"
 }

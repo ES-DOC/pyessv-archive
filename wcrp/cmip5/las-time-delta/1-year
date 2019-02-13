@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "1-year", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "1 year", 
-    "namespace": "wcrp:cmip5:las-time-delta:1-year", 
-    "raw_name": "1 year", 
-    "status": "pending", 
-    "uid": "4b75bdd4-724e-42e1-ac0e-a1b013d82dd3"
+    "_type": "term",
+    "canonical_name": "1-year",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "1 year",
+    "namespace": "wcrp:cmip5:las-time-delta:1-year",
+    "raw_name": "1 year",
+    "status": "pending",
+    "uid": "e7c98f1e-23fc-4db5-aa72-09ed00e0297d"
 }

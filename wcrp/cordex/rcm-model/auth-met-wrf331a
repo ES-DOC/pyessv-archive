@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "auth-met-wrf331a", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "AUTH-Met-WRF331A", 
-    "label": "AUTH-Met-WRF331A", 
-    "namespace": "wcrp:cordex:rcm-model:auth-met-wrf331a", 
-    "raw_name": "AUTH-Met-WRF331A", 
-    "status": "pending", 
-    "uid": "bc4751e2-129d-4ce0-b754-c71a7db9db68"
+    "_type": "term",
+    "canonical_name": "auth-met-wrf331a",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "AUTH-Met-WRF331A",
+    "label": "AUTH-Met-WRF331A",
+    "namespace": "wcrp:cordex:rcm-model:auth-met-wrf331a",
+    "raw_name": "AUTH-Met-WRF331A",
+    "status": "pending",
+    "uid": "49243e8e-c1ba-4cc7-8f61-a175190c00b0"
 }

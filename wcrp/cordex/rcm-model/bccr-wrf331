@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "bccr-wrf331", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "BCCR-WRF331", 
-    "label": "BCCR-WRF331", 
-    "namespace": "wcrp:cordex:rcm-model:bccr-wrf331", 
-    "raw_name": "BCCR-WRF331", 
-    "status": "pending", 
-    "uid": "89720235-627b-4dbb-b917-f1ccf83d2eb1"
+    "_type": "term",
+    "canonical_name": "bccr-wrf331",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "BCCR-WRF331",
+    "label": "BCCR-WRF331",
+    "namespace": "wcrp:cordex:rcm-model:bccr-wrf331",
+    "raw_name": "BCCR-WRF331",
+    "status": "pending",
+    "uid": "1117b153-459d-4d92-8819-df9e133ae033"
 }

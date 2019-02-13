@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "grassfrac", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "grassFrac", 
-    "label": "grassFrac", 
-    "namespace": "wcrp:cmip5:variable:grassfrac", 
-    "raw_name": "grassFrac", 
-    "status": "pending", 
-    "uid": "9728800c-5206-4404-97ab-6e41c2b092dd"
+    "_type": "term",
+    "canonical_name": "grassfrac",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "grassFrac",
+    "label": "grassFrac",
+    "namespace": "wcrp:cmip5:variable:grassfrac",
+    "raw_name": "grassFrac",
+    "status": "pending",
+    "uid": "e29f1916-2e17-43d9-ae8d-69a690a8e2dd"
 }

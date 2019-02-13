@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "epfe100", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "epfe100", 
-    "namespace": "wcrp:cmip5:variable:epfe100", 
-    "status": "pending", 
-    "uid": "ba00f078-e10a-48ad-8dbd-7ee9700ed9eb"
+    "_type": "term",
+    "canonical_name": "epfe100",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "epfe100",
+    "namespace": "wcrp:cmip5:variable:epfe100",
+    "status": "pending",
+    "uid": "1633ea27-6729-4082-ba55-1399507925cc"
 }

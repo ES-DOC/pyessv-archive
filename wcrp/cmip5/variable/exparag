@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "exparag", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "exparag", 
-    "namespace": "wcrp:cmip5:variable:exparag", 
-    "status": "pending", 
-    "uid": "422c2843-822c-4b6c-b782-d9dd21e78403"
+    "_type": "term",
+    "canonical_name": "exparag",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "exparag",
+    "namespace": "wcrp:cmip5:variable:exparag",
+    "status": "pending",
+    "uid": "123d419e-0adc-4789-9b68-964dc4f27468"
 }

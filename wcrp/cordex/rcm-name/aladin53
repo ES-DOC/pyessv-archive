@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "aladin53", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "ALADIN53", 
-    "namespace": "wcrp:cordex:rcm-name:aladin53", 
-    "raw_name": "ALADIN53", 
-    "status": "pending", 
-    "uid": "01788141-cbbb-4176-b21e-5c82fd02ac7d"
+    "_type": "term",
+    "canonical_name": "aladin53",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "ALADIN53",
+    "namespace": "wcrp:cordex:rcm-name:aladin53",
+    "raw_name": "ALADIN53",
+    "status": "pending",
+    "uid": "cf87ffd0-b350-4f93-8ac5-d5e15702afe5"
 }

@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "land",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "land",
+    "namespace": "wcrp:input4mips:realm:land",
+    "status": "pending",
+    "uid": "1b052c8e-84b2-4f10-923a-56a8bac84ccb"
+}

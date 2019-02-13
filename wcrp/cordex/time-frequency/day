@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "day", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "day", 
-    "namespace": "wcrp:cordex:time-frequency:day", 
-    "status": "pending", 
-    "uid": "28797c21-5a41-463b-ad90-13422df6d74e"
+    "_type": "term",
+    "canonical_name": "day",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "day",
+    "namespace": "wcrp:cordex:time-frequency:day",
+    "status": "pending",
+    "uid": "ffef6541-2772-4c97-a57f-b0d331f6ab30"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "concaerh2o", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "concaerh2o", 
-    "namespace": "wcrp:cmip5:variable:concaerh2o", 
-    "status": "pending", 
-    "uid": "15a3e5f0-b37e-4351-b257-f128bebc73a3"
+    "_type": "term",
+    "canonical_name": "concaerh2o",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "concaerh2o",
+    "namespace": "wcrp:cmip5:variable:concaerh2o",
+    "status": "pending",
+    "uid": "629332e2-4ed8-4903-a3e7-d24076743e62"
 }

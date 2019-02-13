@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ialb", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ialb", 
-    "namespace": "wcrp:cmip5:variable:ialb", 
-    "status": "pending", 
-    "uid": "fcd167fb-3f61-4798-b450-cb2da5a7bbd4"
+    "_type": "term",
+    "canonical_name": "ialb",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ialb",
+    "namespace": "wcrp:cmip5:variable:ialb",
+    "status": "pending",
+    "uid": "13a96efb-e122-4944-abc6-409d544d21d8"
 }

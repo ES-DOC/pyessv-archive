@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "lon-bounds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "lon_bounds", 
-    "label": "lon_bounds", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:lon-bounds", 
-    "raw_name": "lon_bounds", 
-    "status": "pending", 
-    "uid": "64098c48-00eb-46e2-8568-c23eea6113b8"
+    "_type": "term",
+    "canonical_name": "lon-bounds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "lon_bounds",
+    "label": "lon_bounds",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:lon-bounds",
+    "raw_name": "lon_bounds",
+    "status": "pending",
+    "uid": "4ae5e6a9-5d6e-43a3-b8d5-cf56c314d414"
 }

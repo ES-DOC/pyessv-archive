@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "phycalc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "phycalc", 
-    "namespace": "wcrp:cmip5:variable:phycalc", 
-    "status": "pending", 
-    "uid": "36058ce8-d111-49b2-a0a7-8dffd011da83"
+    "_type": "term",
+    "canonical_name": "phycalc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "phycalc",
+    "namespace": "wcrp:cmip5:variable:phycalc",
+    "status": "pending",
+    "uid": "9e0304ac-57a1-48e0-ae3d-405a6c25deaa"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "day", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "day", 
-    "namespace": "wcrp:cmip5:time-frequency:day", 
-    "status": "pending", 
-    "uid": "0ae7da22-cf3f-4ce2-8244-250928afd251"
+    "_type": "term",
+    "canonical_name": "day",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "day",
+    "namespace": "wcrp:cmip5:time-frequency:day",
+    "status": "pending",
+    "uid": "5d93f7a3-8c01-4a05-8ae8-76f65841c286"
 }

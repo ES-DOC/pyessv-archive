@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "iamc-remind-magpie-ssp534-over-1-1",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "IAMC-REMIND-MAGPIE-ssp534-over-1-1",
+    "label": "IAMC-REMIND-MAGPIE-ssp534-over-1-1",
+    "namespace": "wcrp:input4mips:source-id:iamc-remind-magpie-ssp534-over-1-1",
+    "raw_name": "IAMC-REMIND-MAGPIE-ssp534-over-1-1",
+    "status": "pending",
+    "uid": "5cd4fbe6-f8f9-485e-b190-7612ff8c19a5"
+}

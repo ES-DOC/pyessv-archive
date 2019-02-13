@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-c3f8-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-c3f8-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-c3f8-in-air",
+    "status": "pending",
+    "uid": "54739a88-ea14-4931-89fc-50c05b27f005"
+}

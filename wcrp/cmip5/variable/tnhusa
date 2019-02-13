@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnhusa", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnhusa", 
-    "namespace": "wcrp:cmip5:variable:tnhusa", 
-    "status": "pending", 
-    "uid": "a5d506ea-d96f-494a-ab50-ed2f2150bf45"
+    "_type": "term",
+    "canonical_name": "tnhusa",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnhusa",
+    "namespace": "wcrp:cmip5:variable:tnhusa",
+    "status": "pending",
+    "uid": "0031f01f-5776-419c-87ca-d65dbda2b024"
 }

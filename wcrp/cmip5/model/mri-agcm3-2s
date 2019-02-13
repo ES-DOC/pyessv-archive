@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "mri-agcm3-2s", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "MRI-AGCM3-2S", 
-    "label": "MRI-AGCM3-2S", 
-    "namespace": "wcrp:cmip5:model:mri-agcm3-2s", 
-    "raw_name": "MRI-AGCM3-2S", 
-    "status": "pending", 
-    "uid": "a5392447-0b7f-4331-ad15-9ac09049dfbc"
+    "_type": "term",
+    "canonical_name": "mri-agcm3-2s",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "MRI-AGCM3-2S",
+    "label": "MRI-AGCM3-2S",
+    "namespace": "wcrp:cmip5:model:mri-agcm3-2s",
+    "raw_name": "MRI-AGCM3-2S",
+    "status": "pending",
+    "uid": "0004bd6a-a526-44a4-9cf5-04d1a83fe4fc"
 }

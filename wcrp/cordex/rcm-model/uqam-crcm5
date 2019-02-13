@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "uqam-crcm5", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "UQAM-CRCM5", 
-    "label": "UQAM-CRCM5", 
-    "namespace": "wcrp:cordex:rcm-model:uqam-crcm5", 
-    "raw_name": "UQAM-CRCM5", 
-    "status": "pending", 
-    "uid": "77906222-1483-4135-9893-98ae5d48b0da"
+    "_type": "term",
+    "canonical_name": "uqam-crcm5",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "UQAM-CRCM5",
+    "label": "UQAM-CRCM5",
+    "namespace": "wcrp:cordex:rcm-model:uqam-crcm5",
+    "raw_name": "UQAM-CRCM5",
+    "status": "pending",
+    "uid": "45bacd66-acd3-4263-9517-7073fa5a931e"
 }

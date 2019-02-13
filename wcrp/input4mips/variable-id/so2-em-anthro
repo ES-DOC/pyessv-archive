@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "so2-em-anthro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "SO2-em-anthro",
+    "label": "SO2-em-anthro",
+    "namespace": "wcrp:input4mips:variable-id:so2-em-anthro",
+    "raw_name": "SO2-em-anthro",
+    "status": "pending",
+    "uid": "bcc1eaff-a453-4ad8-bb1a-0f689afad375"
+}

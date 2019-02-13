@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "mcu", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mcu", 
-    "namespace": "wcrp:cmip5:variable:mcu", 
-    "status": "pending", 
-    "uid": "de2d0880-e7ec-4091-9ecc-60e234d4154c"
+    "_type": "term",
+    "canonical_name": "mcu",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mcu",
+    "namespace": "wcrp:cmip5:variable:mcu",
+    "status": "pending",
+    "uid": "42f52115-c034-4b5a-8dbb-17ab1c21ffae"
 }

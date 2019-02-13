@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "voc06-hexanes-pl-em-speciated-voc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "VOC06-hexanes-pl-em-speciated-VOC",
+    "label": "VOC06-hexanes-pl-em-speciated-VOC",
+    "namespace": "wcrp:input4mips:variable-id:voc06-hexanes-pl-em-speciated-voc",
+    "raw_name": "VOC06-hexanes-pl-em-speciated-VOC",
+    "status": "pending",
+    "uid": "433410e0-5e43-4195-a7b8-a5f703e6b1a8"
+}

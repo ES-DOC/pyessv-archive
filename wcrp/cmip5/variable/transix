@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "transix", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "transix", 
-    "namespace": "wcrp:cmip5:variable:transix", 
-    "status": "pending", 
-    "uid": "4bbb6d5b-a21f-4a21-bb29-c7707e4c4a0d"
+    "_type": "term",
+    "canonical_name": "transix",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "transix",
+    "namespace": "wcrp:cmip5:variable:transix",
+    "status": "pending",
+    "uid": "13857864-6fb8-4b65-812c-2c407622f25a"
 }

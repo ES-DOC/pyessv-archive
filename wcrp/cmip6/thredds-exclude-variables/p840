@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "p840", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "p840", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:p840", 
-    "status": "pending", 
-    "uid": "ee15624c-df87-40bd-bde0-830a8082c291"
+    "_type": "term",
+    "canonical_name": "p840",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "p840",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:p840",
+    "status": "pending",
+    "uid": "0d97557a-d956-4599-9f23-54a8ae4e57f7"
 }

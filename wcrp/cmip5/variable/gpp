@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "gpp", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "gpp", 
-    "namespace": "wcrp:cmip5:variable:gpp", 
-    "status": "pending", 
-    "uid": "bb887984-212b-4519-bfe8-efa1733c6a63"
+    "_type": "term",
+    "canonical_name": "gpp",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "gpp",
+    "namespace": "wcrp:cmip5:variable:gpp",
+    "status": "pending",
+    "uid": "8f3484c5-4437-4162-a4b4-2fa08a0b3ae1"
 }

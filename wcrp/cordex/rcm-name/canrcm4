@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "canrcm4", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "CanRCM4", 
-    "namespace": "wcrp:cordex:rcm-name:canrcm4", 
-    "raw_name": "CanRCM4", 
-    "status": "pending", 
-    "uid": "8da72302-0d24-4573-bd56-eac825187814"
+    "_type": "term",
+    "canonical_name": "canrcm4",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "CanRCM4",
+    "namespace": "wcrp:cordex:rcm-name:canrcm4",
+    "raw_name": "CanRCM4",
+    "status": "pending",
+    "uid": "b78407aa-4d63-4379-ba10-138b1c263c9b"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "zg500", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "zg500", 
-    "namespace": "wcrp:cordex:variable:zg500", 
-    "status": "pending", 
-    "uid": "e2fdf040-43ac-4257-be0e-46b3ec180b84"
+    "_type": "term",
+    "canonical_name": "zg500",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "zg500",
+    "namespace": "wcrp:cordex:variable:zg500",
+    "status": "pending",
+    "uid": "c565c98c-5b41-4abc-a32e-e56a3d93e861"
 }

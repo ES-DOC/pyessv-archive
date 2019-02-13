@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "basin", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "basin", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:basin", 
-    "status": "pending", 
-    "uid": "61099691-584a-49ab-b8b4-8e05a2c3f067"
+    "_type": "term",
+    "canonical_name": "basin",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "basin",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:basin",
+    "status": "pending",
+    "uid": "cd8b2708-bb72-4739-988a-98ac40fc091d"
 }

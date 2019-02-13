@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "nuim-wrf331f", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "NUIM-WRF331F", 
-    "label": "NUIM-WRF331F", 
-    "namespace": "wcrp:cordex:rcm-model:nuim-wrf331f", 
-    "raw_name": "NUIM-WRF331F", 
-    "status": "pending", 
-    "uid": "e954fd63-1ed6-4c7b-ba26-79a7347230e2"
+    "_type": "term",
+    "canonical_name": "nuim-wrf331f",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NUIM-WRF331F",
+    "label": "NUIM-WRF331F",
+    "namespace": "wcrp:cordex:rcm-model:nuim-wrf331f",
+    "raw_name": "NUIM-WRF331F",
+    "status": "pending",
+    "uid": "ae759c94-a26e-4f22-a50f-8a7fb23cabb3"
 }

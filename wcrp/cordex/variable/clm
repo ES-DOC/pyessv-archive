@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clm", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clm", 
-    "namespace": "wcrp:cordex:variable:clm", 
-    "status": "pending", 
-    "uid": "ab597908-1fc1-4e04-851d-e55e6554ba83"
+    "_type": "term",
+    "canonical_name": "clm",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clm",
+    "namespace": "wcrp:cordex:variable:clm",
+    "status": "pending",
+    "uid": "6203c96c-6eca-48d5-8583-a34bb267b3ee"
 }

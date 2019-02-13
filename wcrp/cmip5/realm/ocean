@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ocean", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ocean", 
-    "namespace": "wcrp:cmip5:realm:ocean", 
-    "status": "pending", 
-    "uid": "4ef540d9-b5d0-46d8-bd39-c8adc09c7274"
+    "_type": "term",
+    "canonical_name": "ocean",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ocean",
+    "namespace": "wcrp:cmip5:realm:ocean",
+    "status": "pending",
+    "uid": "8a4d860a-1157-4d1c-90c9-dd9931324bc7"
 }

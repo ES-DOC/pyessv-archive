@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "sftof",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sftof",
+    "namespace": "wcrp:input4mips:variable-id:sftof",
+    "status": "pending",
+    "uid": "a3e92252-529e-48f3-906b-b35d9a36b69a"
+}

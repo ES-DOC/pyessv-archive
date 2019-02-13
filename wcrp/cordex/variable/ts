@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ts", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ts", 
-    "namespace": "wcrp:cordex:variable:ts", 
-    "status": "pending", 
-    "uid": "495b23f6-0743-4bb2-8229-237cdc7bbcbf"
+    "_type": "term",
+    "canonical_name": "ts",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ts",
+    "namespace": "wcrp:cordex:variable:ts",
+    "status": "pending",
+    "uid": "769916f5-2b1c-4a0d-9c15-bf541079d0e6"
 }

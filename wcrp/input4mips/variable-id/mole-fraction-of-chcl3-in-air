@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-chcl3-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-chcl3-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-chcl3-in-air",
+    "status": "pending",
+    "uid": "dcc39e09-aec4-4310-b535-8341613ccac4"
+}

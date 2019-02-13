@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "sfcwindmax", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sfcWindmax", 
-    "label": "sfcWindmax", 
-    "namespace": "wcrp:cordex:variable:sfcwindmax", 
-    "raw_name": "sfcWindmax", 
-    "status": "pending", 
-    "uid": "8c85d3fe-e082-493d-83c0-bd2d364c786e"
+    "_type": "term",
+    "canonical_name": "sfcwindmax",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sfcWindmax",
+    "label": "sfcWindmax",
+    "namespace": "wcrp:cordex:variable:sfcwindmax",
+    "raw_name": "sfcWindmax",
+    "status": "pending",
+    "uid": "d2b99601-5abf-48d3-b92d-a638ba0be3d3"
 }

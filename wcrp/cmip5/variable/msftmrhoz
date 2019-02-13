@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "msftmrhoz", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "msftmrhoz", 
-    "namespace": "wcrp:cmip5:variable:msftmrhoz", 
-    "status": "pending", 
-    "uid": "7c3112f9-8997-46e0-9017-e621847540cb"
+    "_type": "term",
+    "canonical_name": "msftmrhoz",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "msftmrhoz",
+    "namespace": "wcrp:cmip5:variable:msftmrhoz",
+    "status": "pending",
+    "uid": "fac5fd62-4fba-4668-8bc1-1fbdcda45a79"
 }

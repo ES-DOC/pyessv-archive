@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "huss",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "huss",
+    "namespace": "wcrp:input4mips:variable-id:huss",
+    "status": "pending",
+    "uid": "26ae7809-1e93-41ed-903f-344e2441b4d3"
+}

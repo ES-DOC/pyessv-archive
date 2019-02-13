@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hfss", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hfss", 
-    "namespace": "wcrp:cmip5:variable:hfss", 
-    "status": "pending", 
-    "uid": "e62332c5-6a0b-4db7-9771-2282599e4b72"
+    "_type": "term",
+    "canonical_name": "hfss",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hfss",
+    "namespace": "wcrp:cmip5:variable:hfss",
+    "status": "pending",
+    "uid": "9f7f8d74-bd38-41da-9f8d-1a89dd1f93bf"
 }

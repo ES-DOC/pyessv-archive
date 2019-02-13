@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "chlmisc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "chlmisc", 
-    "namespace": "wcrp:cmip5:variable:chlmisc", 
-    "status": "pending", 
-    "uid": "d4b4b2c4-41fa-4254-934e-be2234b79812"
+    "_type": "term",
+    "canonical_name": "chlmisc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "chlmisc",
+    "namespace": "wcrp:cmip5:variable:chlmisc",
+    "status": "pending",
+    "uid": "85f47230-dc4f-4ed6-aadb-7700d19d12b3"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hfls", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hfls", 
-    "namespace": "wcrp:cmip5:variable:hfls", 
-    "status": "pending", 
-    "uid": "b07c8099-9d85-45f9-9c77-2b4d372d8c13"
+    "_type": "term",
+    "canonical_name": "hfls",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hfls",
+    "namespace": "wcrp:cmip5:variable:hfls",
+    "status": "pending",
+    "uid": "255f1df6-5e97-46f6-b404-0f4a6b6551a5"
 }

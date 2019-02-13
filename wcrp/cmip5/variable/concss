@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "concss", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "concss", 
-    "namespace": "wcrp:cmip5:variable:concss", 
-    "status": "pending", 
-    "uid": "8b503b37-1ddf-474f-96f6-fdbe3a469da3"
+    "_type": "term",
+    "canonical_name": "concss",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "concss",
+    "namespace": "wcrp:cmip5:variable:concss",
+    "status": "pending",
+    "uid": "7bd54083-e15c-4da1-9bc3-ec7c5cef6d2e"
 }

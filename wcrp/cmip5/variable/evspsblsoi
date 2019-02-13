@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "evspsblsoi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "evspsblsoi", 
-    "namespace": "wcrp:cmip5:variable:evspsblsoi", 
-    "status": "pending", 
-    "uid": "f932aaf2-cc1d-4889-a054-0ed812ee55cb"
+    "_type": "term",
+    "canonical_name": "evspsblsoi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "evspsblsoi",
+    "namespace": "wcrp:cmip5:variable:evspsblsoi",
+    "status": "pending",
+    "uid": "5d380e1f-79b8-44fe-a2d7-3a2f0e0c4d71"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "mon", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mon", 
-    "namespace": "wcrp:cordex:time-frequency:mon", 
-    "status": "pending", 
-    "uid": "e8c82ba5-f79d-42c1-a768-a5263547f095"
+    "_type": "term",
+    "canonical_name": "mon",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mon",
+    "namespace": "wcrp:cordex:time-frequency:mon",
+    "status": "pending",
+    "uid": "94245eb3-bbef-45ca-afef-9d09b0531358"
 }

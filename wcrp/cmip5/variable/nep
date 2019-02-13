@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "nep", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "nep", 
-    "namespace": "wcrp:cmip5:variable:nep", 
-    "status": "pending", 
-    "uid": "10edd6ad-4691-4d39-82b1-148105dd42bf"
+    "_type": "term",
+    "canonical_name": "nep",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "nep",
+    "namespace": "wcrp:cmip5:variable:nep",
+    "status": "pending",
+    "uid": "c23843f9-5a07-40e8-bfdb-e5eb1199ddb5"
 }

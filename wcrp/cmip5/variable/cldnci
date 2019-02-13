@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "cldnci", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cldnci", 
-    "namespace": "wcrp:cmip5:variable:cldnci", 
-    "status": "pending", 
-    "uid": "4c8d153d-8b32-4ec7-8268-4a5232c98862"
+    "_type": "term",
+    "canonical_name": "cldnci",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cldnci",
+    "namespace": "wcrp:cmip5:variable:cldnci",
+    "status": "pending",
+    "uid": "8ce6936f-1c7a-451d-80b2-c81860b9d6ab"
 }

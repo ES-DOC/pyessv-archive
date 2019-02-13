@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "hcooh-percentage-temf",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "HCOOH-percentage-TEMF",
+    "label": "HCOOH-percentage-TEMF",
+    "namespace": "wcrp:input4mips:variable-id:hcooh-percentage-temf",
+    "raw_name": "HCOOH-percentage-TEMF",
+    "status": "pending",
+    "uid": "f919e73f-3646-4559-a500-497b357393ef"
+}

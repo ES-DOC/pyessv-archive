@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "wrf331a", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "WRF331A", 
-    "namespace": "wcrp:cordex:rcm-name:wrf331a", 
-    "raw_name": "WRF331A", 
-    "status": "pending", 
-    "uid": "38375868-5add-43ff-89f7-c189bc5d9ef1"
+    "_type": "term",
+    "canonical_name": "wrf331a",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "WRF331A",
+    "namespace": "wcrp:cordex:rcm-name:wrf331a",
+    "raw_name": "WRF331A",
+    "status": "pending",
+    "uid": "bdec5aac-ea14-4a35-9be0-03f91e372d63"
 }

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "dhmz", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "DHMZ", 
-    "label": "DHMZ", 
-    "namespace": "wcrp:cordex:institute:dhmz", 
-    "raw_name": "DHMZ", 
-    "status": "pending", 
-    "uid": "ba2df9b2-793f-4bfe-9a17-114ef3d813d1"
+    "_type": "term",
+    "canonical_name": "dhmz",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "DHMZ",
+    "label": "DHMZ",
+    "namespace": "wcrp:cordex:institute:dhmz",
+    "raw_name": "DHMZ",
+    "status": "pending",
+    "uid": "9352ce1c-86a6-49cf-ac38-66ecc33cdb3e"
 }

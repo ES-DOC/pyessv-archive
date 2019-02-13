@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "demc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "demc", 
-    "namespace": "wcrp:cmip5:variable:demc", 
-    "status": "pending", 
-    "uid": "99408363-2ce3-4b32-b5f3-fd8fb7983df0"
+    "_type": "term",
+    "canonical_name": "demc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "demc",
+    "namespace": "wcrp:cmip5:variable:demc",
+    "status": "pending",
+    "uid": "9a3b7079-817c-4b79-bdfd-ff203f188747"
 }

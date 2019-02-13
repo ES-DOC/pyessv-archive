@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "zossq", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "zossq", 
-    "namespace": "wcrp:cmip5:variable:zossq", 
-    "status": "pending", 
-    "uid": "bdf424e9-f90e-4d9b-96a0-a2f5278033cc"
+    "_type": "term",
+    "canonical_name": "zossq",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "zossq",
+    "namespace": "wcrp:cmip5:variable:zossq",
+    "status": "pending",
+    "uid": "a4a91fca-38cd-472c-aab5-8e16d48dd49e"
 }

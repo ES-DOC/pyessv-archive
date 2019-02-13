@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "pressure1", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "pressure1", 
-    "namespace": "wcrp:cmip5:thredds-exclude-variables:pressure1", 
-    "status": "pending", 
-    "uid": "050037bc-5b4e-413f-87aa-f3c2ea9fb6b5"
+    "_type": "term",
+    "canonical_name": "pressure1",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "pressure1",
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:pressure1",
+    "status": "pending",
+    "uid": "8a6954e0-0430-4abe-93f6-9a6b64adcd71"
 }

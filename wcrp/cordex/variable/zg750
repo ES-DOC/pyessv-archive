@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "zg750", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "zg750", 
-    "namespace": "wcrp:cordex:variable:zg750", 
-    "status": "pending", 
-    "uid": "dd0f89c8-d466-427e-a0c6-e71c2b776e3c"
+    "_type": "term",
+    "canonical_name": "zg750",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "zg750",
+    "namespace": "wcrp:cordex:variable:zg750",
+    "status": "pending",
+    "uid": "04f1b063-30fc-48c6-a699-9fc716076b5b"
 }

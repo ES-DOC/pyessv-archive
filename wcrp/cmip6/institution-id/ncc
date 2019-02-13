@@ -1,61 +1,61 @@
 {
-    "_type": "term", 
-    "canonical_name": "ncc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
+    "_type": "term",
+    "canonical_name": "ncc",
+    "create_date": "2017-06-21 00:00:00+00:00",
     "data": {
         "consortia": [
             {
-                "code": "CICERO", 
-                "homepage": "", 
+                "code": "CICERO",
+                "homepage": "",
                 "postalAddress": "Center for International Climate and Environmental Research, Oslo 0349"
-            }, 
+            },
             {
-                "code": "MET-Norway", 
-                "homepage": "", 
+                "code": "MET-Norway",
+                "homepage": "",
                 "postalAddress": "Norwegian Meteorological Institute, Oslo 0313"
-            }, 
+            },
             {
-                "code": "NERSC", 
-                "homepage": "", 
+                "code": "NERSC",
+                "homepage": "",
                 "postalAddress": "Nansen Environmental and Remote Sensing Center, Bergen 5006"
-            }, 
+            },
             {
-                "code": "NILU", 
-                "homepage": "", 
+                "code": "NILU",
+                "homepage": "",
                 "postalAddress": "Norwegian Institute for Air Research, Kjeller 2027"
-            }, 
+            },
             {
-                "code": "UiB", 
-                "homepage": "", 
+                "code": "UiB",
+                "homepage": "",
                 "postalAddress": "University of Bergen, Bergen 5007"
-            }, 
+            },
             {
-                "code": "UiO", 
-                "homepage": "", 
+                "code": "UiO",
+                "homepage": "",
                 "postalAddress": "University of Oslo, Oslo 0313"
-            }, 
+            },
             {
-                "code": "UNI", 
-                "homepage": "", 
+                "code": "UNI",
+                "homepage": "",
                 "postalAddress": "Uni Research, Bergen 5008"
-            }, 
+            },
             {
-                "code": "NILU", 
-                "homepage": "", 
+                "code": "NILU",
+                "homepage": "",
                 "postalAddress": "Norwegian Institute for Air Research, Kjeller 2027"
-            }, 
+            },
             {
-                "code": "NILU", 
-                "homepage": "", 
+                "code": "NILU",
+                "homepage": "",
                 "postalAddress": "Norwegian Institute for Air Research, Kjeller 2027"
             }
-        ], 
-        "homepage": "https://folk.uib.no/ngfhd/EarthClim/index.htm", 
+        ],
+        "homepage": "https://folk.uib.no/ngfhd/EarthClim/index.htm",
         "postalAddress": "c/o MET-Norway, Henrik Mohns plass 1, Oslo 0313, Norway"
-    }, 
-    "label": "NCC", 
-    "namespace": "wcrp:cmip6:institution-id:ncc", 
-    "raw_name": "NCC", 
-    "status": "pending", 
+    },
+    "label": "NCC",
+    "namespace": "wcrp:cmip6:institution-id:ncc",
+    "raw_name": "NCC",
+    "status": "pending",
     "uid": "7d3d6b81-6c79-4c99-b8f6-8666ab7e65e4"
 }

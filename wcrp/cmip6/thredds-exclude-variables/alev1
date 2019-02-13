@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "alev1", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "alev1", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:alev1", 
-    "status": "pending", 
-    "uid": "322b602a-cc79-4af8-bb04-5c9a65e69c11"
+    "_type": "term",
+    "canonical_name": "alev1",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "alev1",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:alev1",
+    "status": "pending",
+    "uid": "93c11e18-7b9a-46ac-85a5-ad50c3fd9e8a"
 }

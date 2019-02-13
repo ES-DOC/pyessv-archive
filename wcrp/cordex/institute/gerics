@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "gerics", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "GERICS", 
-    "label": "GERICS", 
-    "namespace": "wcrp:cordex:institute:gerics", 
-    "raw_name": "GERICS", 
-    "status": "pending", 
-    "uid": "7a685ace-eb56-4bfa-aef3-e59696da30cb"
+    "_type": "term",
+    "canonical_name": "gerics",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "GERICS",
+    "label": "GERICS",
+    "namespace": "wcrp:cordex:institute:gerics",
+    "raw_name": "GERICS",
+    "status": "pending",
+    "uid": "69c562bf-d4eb-4d92-b5a2-747d25923ab0"
 }

@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "oc-percentage-borf",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "OC-percentage-BORF",
+    "label": "OC-percentage-BORF",
+    "namespace": "wcrp:input4mips:variable-id:oc-percentage-borf",
+    "raw_name": "OC-percentage-BORF",
+    "status": "pending",
+    "uid": "8755f46c-20e3-49e4-b8c2-47098523d5e0"
+}

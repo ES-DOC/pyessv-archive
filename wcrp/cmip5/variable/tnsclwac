@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnsclwac", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnsclwac", 
-    "namespace": "wcrp:cmip5:variable:tnsclwac", 
-    "status": "pending", 
-    "uid": "4ae0a678-879f-41f1-b24f-af00dbe84407"
+    "_type": "term",
+    "canonical_name": "tnsclwac",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnsclwac",
+    "namespace": "wcrp:cmip5:variable:tnsclwac",
+    "status": "pending",
+    "uid": "eda3fd23-5c1f-4054-a52a-04fbf4786fe9"
 }

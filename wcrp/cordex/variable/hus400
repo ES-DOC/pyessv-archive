@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hus400", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hus400", 
-    "namespace": "wcrp:cordex:variable:hus400", 
-    "status": "pending", 
-    "uid": "65c3e9e5-5bba-4ce4-85ac-41563a850eb4"
+    "_type": "term",
+    "canonical_name": "hus400",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hus400",
+    "namespace": "wcrp:cordex:variable:hus400",
+    "status": "pending",
+    "uid": "3ae0270e-2350-4fb6-8a2b-b27db87e02bf"
 }

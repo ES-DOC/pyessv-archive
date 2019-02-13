@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "voc16-trimethylb-em-speciated-voc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "VOC16-trimethylb-em-speciated-VOC",
+    "label": "VOC16-trimethylb-em-speciated-VOC",
+    "namespace": "wcrp:input4mips:variable-id:voc16-trimethylb-em-speciated-voc",
+    "raw_name": "VOC16-trimethylb-em-speciated-VOC",
+    "status": "pending",
+    "uid": "9fa87ada-4cf5-4465-96ff-49ec440ced1f"
+}

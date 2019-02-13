@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tsice", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tsice", 
-    "namespace": "wcrp:cmip5:variable:tsice", 
-    "status": "pending", 
-    "uid": "08378816-8b62-485b-9d46-09216339da62"
+    "_type": "term",
+    "canonical_name": "tsice",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tsice",
+    "namespace": "wcrp:cmip5:variable:tsice",
+    "status": "pending",
+    "uid": "c248a699-a7d4-4300-a30d-bce72a01e522"
 }

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "sam-44", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "South America", 
-    "label": "SAM-44", 
-    "namespace": "wcrp:cordex:domain:sam-44", 
-    "raw_name": "SAM-44", 
-    "status": "pending", 
-    "uid": "4ffa40f0-4849-49e1-be1b-e01ff5c5d2e0"
+    "_type": "term",
+    "canonical_name": "sam-44",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "South America",
+    "label": "SAM-44",
+    "namespace": "wcrp:cordex:domain:sam-44",
+    "raw_name": "SAM-44",
+    "status": "pending",
+    "uid": "1785097e-43e1-48a2-9db9-cf8bcd86e720"
 }

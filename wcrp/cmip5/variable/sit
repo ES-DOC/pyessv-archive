@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sit", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sit", 
-    "namespace": "wcrp:cmip5:variable:sit", 
-    "status": "pending", 
-    "uid": "710322f6-7eab-46db-9659-2c955db18693"
+    "_type": "term",
+    "canonical_name": "sit",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sit",
+    "namespace": "wcrp:cmip5:variable:sit",
+    "status": "pending",
+    "uid": "ab02b133-ef45-4363-b1ac-c749ce17f414"
 }

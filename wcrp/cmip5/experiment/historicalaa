@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "historicalaa", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Historical with anthropogenic aerosols only", 
-    "label": "historicalAA", 
-    "namespace": "wcrp:cmip5:experiment:historicalaa", 
-    "raw_name": "historicalAA", 
-    "status": "pending", 
-    "uid": "70631108-fcdf-4882-80e8-6291ba823292"
+    "_type": "term",
+    "canonical_name": "historicalaa",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Historical with anthropogenic aerosols only",
+    "label": "historicalAA",
+    "namespace": "wcrp:cmip5:experiment:historicalaa",
+    "raw_name": "historicalAA",
+    "status": "pending",
+    "uid": "94112b0c-0929-41ca-b788-d19ab7799bfe"
 }

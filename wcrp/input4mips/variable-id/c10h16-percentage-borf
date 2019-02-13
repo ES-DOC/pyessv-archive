@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "c10h16-percentage-borf",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "C10H16-percentage-BORF",
+    "label": "C10H16-percentage-BORF",
+    "namespace": "wcrp:input4mips:variable-id:c10h16-percentage-borf",
+    "raw_name": "C10H16-percentage-BORF",
+    "status": "pending",
+    "uid": "0567b509-2bd2-48fe-9a27-cbb5494515b2"
+}

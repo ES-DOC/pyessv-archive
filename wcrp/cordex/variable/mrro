@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "mrro", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mrro", 
-    "namespace": "wcrp:cordex:variable:mrro", 
-    "status": "pending", 
-    "uid": "3d9ead67-989e-42a7-9abd-fbc73640081c"
+    "_type": "term",
+    "canonical_name": "mrro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mrro",
+    "namespace": "wcrp:cordex:variable:mrro",
+    "status": "pending",
+    "uid": "a29c7dc4-b945-4f9e-9b17-a0bccf3762de"
 }

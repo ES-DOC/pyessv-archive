@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tran", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tran", 
-    "namespace": "wcrp:cmip5:variable:tran", 
-    "status": "pending", 
-    "uid": "380517e9-fdf9-4e9e-b360-bc320f9f103b"
+    "_type": "term",
+    "canonical_name": "tran",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tran",
+    "namespace": "wcrp:cmip5:variable:tran",
+    "status": "pending",
+    "uid": "ebafff71-91e4-44fa-af40-d9dae375f307"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "fediss", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "fediss", 
-    "namespace": "wcrp:cmip5:variable:fediss", 
-    "status": "pending", 
-    "uid": "3a5d5cef-ac67-4b7f-9c25-f833bade3153"
+    "_type": "term",
+    "canonical_name": "fediss",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "fediss",
+    "namespace": "wcrp:cmip5:variable:fediss",
+    "status": "pending",
+    "uid": "aea65c2b-ab8c-4609-8c1e-fb542276755b"
 }

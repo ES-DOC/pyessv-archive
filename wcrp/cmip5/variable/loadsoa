@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "loadsoa", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "loadsoa", 
-    "namespace": "wcrp:cmip5:variable:loadsoa", 
-    "status": "pending", 
-    "uid": "ca266814-b3e0-48ac-bd88-23a18d83420b"
+    "_type": "term",
+    "canonical_name": "loadsoa",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "loadsoa",
+    "namespace": "wcrp:cmip5:variable:loadsoa",
+    "status": "pending",
+    "uid": "55558b74-e07f-4194-b280-1de20266871a"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnsclirir", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnsclirir", 
-    "namespace": "wcrp:cmip5:variable:tnsclirir", 
-    "status": "pending", 
-    "uid": "80682739-01c0-4101-bc69-b09caa628c3a"
+    "_type": "term",
+    "canonical_name": "tnsclirir",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnsclirir",
+    "namespace": "wcrp:cmip5:variable:tnsclirir",
+    "status": "pending",
+    "uid": "da1d325f-6e30-456b-9bc4-bbc8cc786759"
 }

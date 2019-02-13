@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "wetdust", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "wetdust", 
-    "namespace": "wcrp:cmip5:variable:wetdust", 
-    "status": "pending", 
-    "uid": "e8da7006-1e12-44d0-9a2d-de4c4c7d73c1"
+    "_type": "term",
+    "canonical_name": "wetdust",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "wetdust",
+    "namespace": "wcrp:cmip5:variable:wetdust",
+    "status": "pending",
+    "uid": "5b56ef9b-3ad2-4af2-bc6f-0aa836297d52"
 }

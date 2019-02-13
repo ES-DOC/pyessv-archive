@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hfxba", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hfxba", 
-    "namespace": "wcrp:cmip5:variable:hfxba", 
-    "status": "pending", 
-    "uid": "3897d69a-4622-429c-b517-31780bfcf789"
+    "_type": "term",
+    "canonical_name": "hfxba",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hfxba",
+    "namespace": "wcrp:cmip5:variable:hfxba",
+    "status": "pending",
+    "uid": "6ad9a786-2217-44c4-b466-7dfb0ff8e2f2"
 }

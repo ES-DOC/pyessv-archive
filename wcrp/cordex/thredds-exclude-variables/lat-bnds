@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "lat-bnds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "lat_bnds", 
-    "label": "lat_bnds", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:lat-bnds", 
-    "raw_name": "lat_bnds", 
-    "status": "pending", 
-    "uid": "41ec5e45-1ac4-45d2-a967-ed40b0105f0d"
+    "_type": "term",
+    "canonical_name": "lat-bnds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "lat_bnds",
+    "label": "lat_bnds",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:lat-bnds",
+    "raw_name": "lat_bnds",
+    "status": "pending",
+    "uid": "59c3643d-9f56-477e-b5fd-5831a16b6d28"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "uas", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "uas", 
-    "namespace": "wcrp:cordex:variable:uas", 
-    "status": "pending", 
-    "uid": "a6900063-0a44-44dd-b2b4-57f6e16125c5"
+    "_type": "term",
+    "canonical_name": "uas",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "uas",
+    "namespace": "wcrp:cordex:variable:uas",
+    "status": "pending",
+    "uid": "a7059b6a-e8fc-4f96-bd58-0a8f37bbadb4"
 }

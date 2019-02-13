@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "snm", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "snm", 
-    "namespace": "wcrp:cordex:variable:snm", 
-    "status": "pending", 
-    "uid": "b399e489-dbc7-4744-90d6-9ac1c8e79bed"
+    "_type": "term",
+    "canonical_name": "snm",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "snm",
+    "namespace": "wcrp:cordex:variable:snm",
+    "status": "pending",
+    "uid": "01a54920-69fe-45c9-91ad-389557decb72"
 }

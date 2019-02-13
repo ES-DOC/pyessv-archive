@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "rmib-ugent", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "RMIB-UGent", 
-    "label": "RMIB-UGent", 
-    "namespace": "wcrp:cordex:institute:rmib-ugent", 
-    "raw_name": "RMIB-UGent", 
-    "status": "pending", 
-    "uid": "2e04282a-c8f9-4284-8cf4-03b83cb67a25"
+    "_type": "term",
+    "canonical_name": "rmib-ugent",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "RMIB-UGent",
+    "label": "RMIB-UGent",
+    "namespace": "wcrp:cordex:institute:rmib-ugent",
+    "raw_name": "RMIB-UGent",
+    "status": "pending",
+    "uid": "3c8d1213-2bb6-486d-acba-495d52769303"
 }

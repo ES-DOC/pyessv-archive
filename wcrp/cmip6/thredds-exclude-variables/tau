@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tau", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tau", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:tau", 
-    "status": "pending", 
-    "uid": "8cc145e9-e62b-48ee-8190-72bae119ebd8"
+    "_type": "term",
+    "canonical_name": "tau",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tau",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:tau",
+    "status": "pending",
+    "uid": "92bbc9fc-bfb4-4735-b339-428e901b4dc9"
 }

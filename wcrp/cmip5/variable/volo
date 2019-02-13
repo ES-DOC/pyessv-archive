@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "volo", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "volo", 
-    "namespace": "wcrp:cmip5:variable:volo", 
-    "status": "pending", 
-    "uid": "4e5ee20e-080c-48dc-a110-2a8bf01b8b7d"
+    "_type": "term",
+    "canonical_name": "volo",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "volo",
+    "namespace": "wcrp:cmip5:variable:volo",
+    "status": "pending",
+    "uid": "48d2ab84-cdc8-4781-914f-5c230f42bb38"
 }

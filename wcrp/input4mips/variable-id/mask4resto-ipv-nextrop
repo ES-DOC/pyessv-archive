@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "mask4resto-ipv-nextrop",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mask4resto-ipv-Nextrop",
+    "label": "mask4resto-ipv-Nextrop",
+    "namespace": "wcrp:input4mips:variable-id:mask4resto-ipv-nextrop",
+    "raw_name": "mask4resto-ipv-Nextrop",
+    "status": "pending",
+    "uid": "de5475ca-b563-48a0-80e0-2af39042d03e"
+}

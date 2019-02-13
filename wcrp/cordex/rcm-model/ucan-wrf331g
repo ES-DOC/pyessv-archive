@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "ucan-wrf331g", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "UCAN-WRF331G", 
-    "label": "UCAN-WRF331G", 
-    "namespace": "wcrp:cordex:rcm-model:ucan-wrf331g", 
-    "raw_name": "UCAN-WRF331G", 
-    "status": "pending", 
-    "uid": "f3f81cda-16d3-43a9-a300-f2958c1d3030"
+    "_type": "term",
+    "canonical_name": "ucan-wrf331g",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "UCAN-WRF331G",
+    "label": "UCAN-WRF331G",
+    "namespace": "wcrp:cordex:rcm-model:ucan-wrf331g",
+    "raw_name": "UCAN-WRF331G",
+    "status": "pending",
+    "uid": "7d3fa603-39dd-48ee-97bb-e240faa29b07"
 }

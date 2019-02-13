@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "6hr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "6hr", 
-    "namespace": "wcrp:cmip5:time-frequency:6hr", 
-    "status": "pending", 
-    "uid": "ad534db3-952c-43c9-861e-74fe4c9ae6be"
+    "_type": "term",
+    "canonical_name": "6hr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "6hr",
+    "namespace": "wcrp:cmip5:time-frequency:6hr",
+    "status": "pending",
+    "uid": "9e5d9685-4054-4ef9-9d62-f58d75c3f4b8"
 }

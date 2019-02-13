@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "bnu-esm", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "BNU-ESM", 
-    "label": "BNU-ESM", 
-    "namespace": "wcrp:cmip5:model:bnu-esm", 
-    "raw_name": "BNU-ESM", 
-    "status": "pending", 
-    "uid": "23a4143e-a071-4504-8ee0-9beca006dc35"
+    "_type": "term",
+    "canonical_name": "bnu-esm",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "BNU-ESM",
+    "label": "BNU-ESM",
+    "namespace": "wcrp:cmip5:model:bnu-esm",
+    "raw_name": "BNU-ESM",
+    "status": "pending",
+    "uid": "487d0296-9fb3-40ef-80eb-c4ddd85fec88"
 }

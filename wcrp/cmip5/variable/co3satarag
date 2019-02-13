@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "co3satarag", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "co3satarag", 
-    "namespace": "wcrp:cmip5:variable:co3satarag", 
-    "status": "pending", 
-    "uid": "c99a9b92-ddd2-4f66-a9ea-6d6f44bd9cde"
+    "_type": "term",
+    "canonical_name": "co3satarag",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "co3satarag",
+    "namespace": "wcrp:cmip5:variable:co3satarag",
+    "status": "pending",
+    "uid": "52b1a645-3866-4397-a4b8-d1f240467dd8"
 }

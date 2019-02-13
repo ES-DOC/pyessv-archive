@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "msftmyz", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "msftmyz", 
-    "namespace": "wcrp:cmip5:variable:msftmyz", 
-    "status": "pending", 
-    "uid": "4d245992-aaae-4389-a6e3-247c19414407"
+    "_type": "term",
+    "canonical_name": "msftmyz",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "msftmyz",
+    "namespace": "wcrp:cmip5:variable:msftmyz",
+    "status": "pending",
+    "uid": "f0b65521-da94-41b5-885e-7325d202f618"
 }

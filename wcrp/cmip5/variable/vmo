@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "vmo", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "vmo", 
-    "namespace": "wcrp:cmip5:variable:vmo", 
-    "status": "pending", 
-    "uid": "88f92a68-c300-4b6a-afc7-1ffb6adffbf6"
+    "_type": "term",
+    "canonical_name": "vmo",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "vmo",
+    "namespace": "wcrp:cmip5:variable:vmo",
+    "status": "pending",
+    "uid": "0409d911-d53d-401f-adad-3e246cf591c7"
 }

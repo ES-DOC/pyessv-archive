@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnscliemi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnscliemi", 
-    "namespace": "wcrp:cmip5:variable:tnscliemi", 
-    "status": "pending", 
-    "uid": "47ecc48e-2ee6-46c2-8f26-83c5aec01ab6"
+    "_type": "term",
+    "canonical_name": "tnscliemi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnscliemi",
+    "namespace": "wcrp:cmip5:variable:tnscliemi",
+    "status": "pending",
+    "uid": "327186c4-22ae-4b73-ab0d-5335923c296c"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "evap", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "evap", 
-    "namespace": "wcrp:cmip5:variable:evap", 
-    "status": "pending", 
-    "uid": "f79a90c1-6e50-4dee-8bec-6a695a878517"
+    "_type": "term",
+    "canonical_name": "evap",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "evap",
+    "namespace": "wcrp:cmip5:variable:evap",
+    "status": "pending",
+    "uid": "77a46c5c-b626-4ed8-ba7f-80b354b9faa2"
 }

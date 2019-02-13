@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "nppwood", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "nppWood", 
-    "label": "nppWood", 
-    "namespace": "wcrp:cmip5:variable:nppwood", 
-    "raw_name": "nppWood", 
-    "status": "pending", 
-    "uid": "4a316143-bbf3-477d-aded-9169298bf8ff"
+    "_type": "term",
+    "canonical_name": "nppwood",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "nppWood",
+    "label": "nppWood",
+    "namespace": "wcrp:cmip5:variable:nppwood",
+    "raw_name": "nppWood",
+    "status": "pending",
+    "uid": "24adba0a-cce9-4c13-8bac-57cb8ec3a7a6"
 }

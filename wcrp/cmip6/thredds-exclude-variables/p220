@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "p220", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "p220", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:p220", 
-    "status": "pending", 
-    "uid": "3ccbcd4c-544f-482c-a2a4-fcf5ac3fe8d1"
+    "_type": "term",
+    "canonical_name": "p220",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "p220",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:p220",
+    "status": "pending",
+    "uid": "563661b0-3f74-40cf-a7f3-667b9676690a"
 }

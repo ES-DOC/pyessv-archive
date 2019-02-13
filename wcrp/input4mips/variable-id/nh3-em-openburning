@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "nh3-em-openburning",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NH3_em_openburning",
+    "label": "NH3_em_openburning",
+    "namespace": "wcrp:input4mips:variable-id:nh3-em-openburning",
+    "raw_name": "NH3_em_openburning",
+    "status": "pending",
+    "uid": "ac5ac81c-927e-4162-81ff-c848d5202863"
+}

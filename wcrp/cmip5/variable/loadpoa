@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "loadpoa", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "loadpoa", 
-    "namespace": "wcrp:cmip5:variable:loadpoa", 
-    "status": "pending", 
-    "uid": "6a6a2f02-1c36-4fe7-9aa2-eedf7fc8126f"
+    "_type": "term",
+    "canonical_name": "loadpoa",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "loadpoa",
+    "namespace": "wcrp:cmip5:variable:loadpoa",
+    "status": "pending",
+    "uid": "8c31dd4b-740a-46ac-a6b6-8acc5c08787e"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "loadss", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "loadss", 
-    "namespace": "wcrp:cmip5:variable:loadss", 
-    "status": "pending", 
-    "uid": "944f52b0-8cac-4dd1-86c1-6a801dc1f559"
+    "_type": "term",
+    "canonical_name": "loadss",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "loadss",
+    "namespace": "wcrp:cmip5:variable:loadss",
+    "status": "pending",
+    "uid": "2c14f003-4fc8-4dfc-97a6-509a17e7c226"
 }

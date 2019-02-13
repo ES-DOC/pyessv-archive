@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "height2m", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "height2m", 
-    "namespace": "wcrp:cmip5:thredds-exclude-variables:height2m", 
-    "status": "pending", 
-    "uid": "57da2c7e-1dc5-4b9d-9237-9cbc9bee2367"
+    "_type": "term",
+    "canonical_name": "height2m",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "height2m",
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:height2m",
+    "status": "pending",
+    "uid": "abd28e7a-5241-4b8e-97af-faa0aff0b51b"
 }

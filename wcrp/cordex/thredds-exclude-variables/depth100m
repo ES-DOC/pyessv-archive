@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "depth100m", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "depth100m", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:depth100m", 
-    "status": "pending", 
-    "uid": "7d886617-c6dc-480a-8cd1-d363512e779a"
+    "_type": "term",
+    "canonical_name": "depth100m",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "depth100m",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:depth100m",
+    "status": "pending",
+    "uid": "6e57162a-1d73-4edf-b221-7c560e619111"
 }

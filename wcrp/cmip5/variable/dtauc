@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "dtauc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "dtauc", 
-    "namespace": "wcrp:cmip5:variable:dtauc", 
-    "status": "pending", 
-    "uid": "5983482a-9a8a-4f2a-b599-b4ea3eecb39d"
+    "_type": "term",
+    "canonical_name": "dtauc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "dtauc",
+    "namespace": "wcrp:cmip5:variable:dtauc",
+    "status": "pending",
+    "uid": "1be07c4e-737e-4e81-b56f-d3c9a4f6c92a"
 }

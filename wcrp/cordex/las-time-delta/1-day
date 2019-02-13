@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "1-day", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "1 day", 
-    "namespace": "wcrp:cordex:las-time-delta:1-day", 
-    "raw_name": "1 day", 
-    "status": "pending", 
-    "uid": "7efc1088-f17d-420b-8070-88bbe4af6868"
+    "_type": "term",
+    "canonical_name": "1-day",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "1 day",
+    "namespace": "wcrp:cordex:las-time-delta:1-day",
+    "raw_name": "1 day",
+    "status": "pending",
+    "uid": "11434716-7173-44bc-a3f5-6b9abae5af46"
 }

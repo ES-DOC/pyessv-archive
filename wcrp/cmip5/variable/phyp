@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "phyp", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "phyp", 
-    "namespace": "wcrp:cmip5:variable:phyp", 
-    "status": "pending", 
-    "uid": "19bfcacb-8383-4e72-9f33-535dbc5c8b54"
+    "_type": "term",
+    "canonical_name": "phyp",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "phyp",
+    "namespace": "wcrp:cmip5:variable:phyp",
+    "status": "pending",
+    "uid": "81a507f0-790f-4967-92ae-58c98826e74e"
 }

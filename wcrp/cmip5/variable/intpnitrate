@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "intpnitrate", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "intpnitrate", 
-    "namespace": "wcrp:cmip5:variable:intpnitrate", 
-    "status": "pending", 
-    "uid": "8221678e-f20b-43c6-8ccd-1476db4cf5c4"
+    "_type": "term",
+    "canonical_name": "intpnitrate",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "intpnitrate",
+    "namespace": "wcrp:cmip5:variable:intpnitrate",
+    "status": "pending",
+    "uid": "b408080d-3ffb-43aa-927e-3a6e57701d53"
 }

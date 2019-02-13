@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sst", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sst", 
-    "namespace": "wcrp:cordex:variable:sst", 
-    "status": "pending", 
-    "uid": "12d48824-8556-4e5f-9ba8-ab916987a93e"
+    "_type": "term",
+    "canonical_name": "sst",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sst",
+    "namespace": "wcrp:cordex:variable:sst",
+    "status": "pending",
+    "uid": "a92970cf-f0e6-4798-beb2-8f406c77f5a8"
 }

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "ncc-noresm1-m", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "NCC-NorESM1-M", 
-    "label": "NCC-NorESM1-M", 
-    "namespace": "wcrp:cordex:driving-model:ncc-noresm1-m", 
-    "raw_name": "NCC-NorESM1-M", 
-    "status": "pending", 
-    "uid": "b96c1b57-500a-4b39-a993-93d4f58ddf98"
+    "_type": "term",
+    "canonical_name": "ncc-noresm1-m",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NCC-NorESM1-M",
+    "label": "NCC-NorESM1-M",
+    "namespace": "wcrp:cordex:driving-model:ncc-noresm1-m",
+    "raw_name": "NCC-NorESM1-M",
+    "status": "pending",
+    "uid": "c053b990-e4e6-4932-bd0e-ce39077749d3"
 }

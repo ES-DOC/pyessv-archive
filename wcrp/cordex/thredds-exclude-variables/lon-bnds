@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "lon-bnds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "lon_bnds", 
-    "label": "lon_bnds", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:lon-bnds", 
-    "raw_name": "lon_bnds", 
-    "status": "pending", 
-    "uid": "f1477b63-42bd-46c5-988d-ed6282212767"
+    "_type": "term",
+    "canonical_name": "lon-bnds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "lon_bnds",
+    "label": "lon_bnds",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:lon-bnds",
+    "raw_name": "lon_bnds",
+    "status": "pending",
+    "uid": "9ea40ff0-56b9-4610-976d-3077abd3fa59"
 }

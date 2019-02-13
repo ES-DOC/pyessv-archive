@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnscliag", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnscliag", 
-    "namespace": "wcrp:cmip5:variable:tnscliag", 
-    "status": "pending", 
-    "uid": "991468d6-a9c1-4043-8837-35f4d2e4e9e5"
+    "_type": "term",
+    "canonical_name": "tnscliag",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnscliag",
+    "namespace": "wcrp:cmip5:variable:tnscliag",
+    "status": "pending",
+    "uid": "44b37cbd-6554-4fe3-bb72-1cc63c8602b3"
 }

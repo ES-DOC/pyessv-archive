@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "amip", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "AMIP", 
-    "namespace": "wcrp:cmip5:experiment:amip", 
-    "status": "pending", 
-    "uid": "0f0ddc63-1958-4d17-8d95-d9d289efb790"
+    "_type": "term",
+    "canonical_name": "amip",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "AMIP",
+    "namespace": "wcrp:cmip5:experiment:amip",
+    "status": "pending",
+    "uid": "1d325eac-1760-4b6d-ab09-af0bb4d88275"
 }

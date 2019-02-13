@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "c2h4-percentage-peat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "C2H4-percentage-PEAT",
+    "label": "C2H4-percentage-PEAT",
+    "namespace": "wcrp:input4mips:variable-id:c2h4-percentage-peat",
+    "raw_name": "C2H4-percentage-PEAT",
+    "status": "pending",
+    "uid": "60fe5e9d-9e60-44c3-b7a6-5107d33715c1"
+}

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rtmt", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rtmt", 
-    "namespace": "wcrp:cmip5:variable:rtmt", 
-    "status": "pending", 
-    "uid": "1fcca3ec-7c7a-4673-af4d-69ace43bbb7a"
+    "_type": "term",
+    "canonical_name": "rtmt",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rtmt",
+    "namespace": "wcrp:cmip5:variable:rtmt",
+    "status": "pending",
+    "uid": "1779f87c-98d3-4980-8e07-61f42203bbd9"
 }

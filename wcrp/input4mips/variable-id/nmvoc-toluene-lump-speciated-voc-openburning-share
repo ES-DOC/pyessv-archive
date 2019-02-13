@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "nmvoc-toluene-lump-speciated-voc-openburning-share",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NMVOC_Toluene_lump_speciated_VOC_openburning_share",
+    "label": "NMVOC_Toluene_lump_speciated_VOC_openburning_share",
+    "namespace": "wcrp:input4mips:variable-id:nmvoc-toluene-lump-speciated-voc-openburning-share",
+    "raw_name": "NMVOC_Toluene_lump_speciated_VOC_openburning_share",
+    "status": "pending",
+    "uid": "3ae16344-22a8-40e7-8c35-86dec54ab9f3"
+}

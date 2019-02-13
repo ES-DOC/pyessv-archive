@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "smhi-rca4-sn", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "SMHI-RCA4-SN", 
-    "label": "SMHI-RCA4-SN", 
-    "namespace": "wcrp:cordex:rcm-model:smhi-rca4-sn", 
-    "raw_name": "SMHI-RCA4-SN", 
-    "status": "pending", 
-    "uid": "ec3740d7-7c6e-4468-997f-b45a392273ef"
+    "_type": "term",
+    "canonical_name": "smhi-rca4-sn",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "SMHI-RCA4-SN",
+    "label": "SMHI-RCA4-SN",
+    "namespace": "wcrp:cordex:rcm-model:smhi-rca4-sn",
+    "raw_name": "SMHI-RCA4-SN",
+    "status": "pending",
+    "uid": "ed8c3fcc-8d46-4714-ba27-bb8145765066"
 }

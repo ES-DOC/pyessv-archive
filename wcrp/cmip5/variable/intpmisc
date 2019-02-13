@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "intpmisc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "intpmisc", 
-    "namespace": "wcrp:cmip5:variable:intpmisc", 
-    "status": "pending", 
-    "uid": "444ea59e-5812-4b27-913f-edadcff49603"
+    "_type": "term",
+    "canonical_name": "intpmisc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "intpmisc",
+    "namespace": "wcrp:cmip5:variable:intpmisc",
+    "status": "pending",
+    "uid": "144ff87b-3408-4d02-9ca9-07ccce00d7f2"
 }

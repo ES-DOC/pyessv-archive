@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "basin", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "basin", 
-    "namespace": "wcrp:cmip5:variable:basin", 
-    "status": "pending", 
-    "uid": "117672c4-d570-474a-9f30-0040244a3cf8"
+    "_type": "term",
+    "canonical_name": "basin",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "basin",
+    "namespace": "wcrp:cmip5:variable:basin",
+    "status": "pending",
+    "uid": "91ac23c2-656d-4835-890c-2390febd0f69"
 }

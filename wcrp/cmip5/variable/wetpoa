@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "wetpoa", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "wetpoa", 
-    "namespace": "wcrp:cmip5:variable:wetpoa", 
-    "status": "pending", 
-    "uid": "94cab3b8-a98c-48b5-8a66-0625a49463ce"
+    "_type": "term",
+    "canonical_name": "wetpoa",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "wetpoa",
+    "namespace": "wcrp:cmip5:variable:wetpoa",
+    "status": "pending",
+    "uid": "4d927fdb-b1c2-43d5-9293-25a23af97a6b"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "fx", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "fx", 
-    "namespace": "wcrp:cmip5:cmor-table:fx", 
-    "status": "pending", 
-    "uid": "876ff17f-b2eb-4090-bdd2-d5ffc8f313a7"
+    "_type": "term",
+    "canonical_name": "fx",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "fx",
+    "namespace": "wcrp:cmip5:cmor-table:fx",
+    "status": "pending",
+    "uid": "3f589e5c-0440-4dec-8d07-80d50e0407da"
 }

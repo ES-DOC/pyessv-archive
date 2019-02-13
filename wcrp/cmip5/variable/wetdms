@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "wetdms", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "wetdms", 
-    "namespace": "wcrp:cmip5:variable:wetdms", 
-    "status": "pending", 
-    "uid": "624995de-77b8-4408-9468-8e529361d32b"
+    "_type": "term",
+    "canonical_name": "wetdms",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "wetdms",
+    "namespace": "wcrp:cmip5:variable:wetdms",
+    "status": "pending",
+    "uid": "44a171cb-b554-4760-8ba1-e649d7c2cb56"
 }

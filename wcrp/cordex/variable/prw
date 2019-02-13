@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "prw", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "prw", 
-    "namespace": "wcrp:cordex:variable:prw", 
-    "status": "pending", 
-    "uid": "96115968-bb0e-4578-a1c2-cab3b1e84394"
+    "_type": "term",
+    "canonical_name": "prw",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "prw",
+    "namespace": "wcrp:cordex:variable:prw",
+    "status": "pending",
+    "uid": "06fd3807-7ec6-4b1d-a11e-6dbd4b06a4f3"
 }

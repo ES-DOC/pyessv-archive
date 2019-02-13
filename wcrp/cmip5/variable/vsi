@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "vsi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "vsi", 
-    "namespace": "wcrp:cmip5:variable:vsi", 
-    "status": "pending", 
-    "uid": "5cd44ef7-cc61-42ff-a282-8aeb535fe715"
+    "_type": "term",
+    "canonical_name": "vsi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "vsi",
+    "namespace": "wcrp:cmip5:variable:vsi",
+    "status": "pending",
+    "uid": "6235eacf-095f-41a6-8e8d-7a5e20cbf42b"
 }

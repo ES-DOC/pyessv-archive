@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "frn", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "frn", 
-    "namespace": "wcrp:cmip5:variable:frn", 
-    "status": "pending", 
-    "uid": "80c50d2b-a082-456c-807f-cd99de81157d"
+    "_type": "term",
+    "canonical_name": "frn",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "frn",
+    "namespace": "wcrp:cmip5:variable:frn",
+    "status": "pending",
+    "uid": "546ee39b-e89c-47b7-863b-5ae1c8c88e75"
 }

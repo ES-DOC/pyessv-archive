@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "csiro-mk3-6-0", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CSIRO-Mk3-6-0", 
-    "label": "CSIRO-Mk3-6-0", 
-    "namespace": "wcrp:cmip5:model:csiro-mk3-6-0", 
-    "raw_name": "CSIRO-Mk3-6-0", 
-    "status": "pending", 
-    "uid": "83ce6a32-e292-4c3c-a4a8-7b52f70fd405"
+    "_type": "term",
+    "canonical_name": "csiro-mk3-6-0",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CSIRO-Mk3-6-0",
+    "label": "CSIRO-Mk3-6-0",
+    "namespace": "wcrp:cmip5:model:csiro-mk3-6-0",
+    "raw_name": "CSIRO-Mk3-6-0",
+    "status": "pending",
+    "uid": "8563025d-daa8-4ba4-b46d-ae88323a45ab"
 }

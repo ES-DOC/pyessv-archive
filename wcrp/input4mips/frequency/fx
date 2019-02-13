@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "fx",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "fx",
+    "namespace": "wcrp:input4mips:frequency:fx",
+    "status": "pending",
+    "uid": "b3aca71c-cb30-4a46-8fcb-55efc7d456e3"
+}

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "n2oglobal", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "n2oglobal", 
-    "namespace": "wcrp:cmip5:variable:n2oglobal", 
-    "status": "pending", 
-    "uid": "a4930575-2eae-434e-a450-112eecd684fd"
+    "_type": "term",
+    "canonical_name": "n2oglobal",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "n2oglobal",
+    "namespace": "wcrp:cmip5:variable:n2oglobal",
+    "status": "pending",
+    "uid": "de0f297a-3366-4cd7-b3af-d7ee18c19cc4"
 }

@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "iamc-image-ssp119-1-1",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "IAMC-IMAGE-ssp119-1-1",
+    "label": "IAMC-IMAGE-ssp119-1-1",
+    "namespace": "wcrp:input4mips:source-id:iamc-image-ssp119-1-1",
+    "raw_name": "IAMC-IMAGE-ssp119-1-1",
+    "status": "pending",
+    "uid": "ed4f0c56-0883-4695-aa49-90b4b7b321c9"
+}

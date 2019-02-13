@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "grfrazil", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "grFrazil", 
-    "label": "grFrazil", 
-    "namespace": "wcrp:cmip5:variable:grfrazil", 
-    "raw_name": "grFrazil", 
-    "status": "pending", 
-    "uid": "ede6ed0e-0624-4a3e-b9ee-19d49ebe86e7"
+    "_type": "term",
+    "canonical_name": "grfrazil",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "grFrazil",
+    "label": "grFrazil",
+    "namespace": "wcrp:cmip5:variable:grfrazil",
+    "raw_name": "grFrazil",
+    "status": "pending",
+    "uid": "581ec764-d4e0-48ea-8147-4040ab40ad44"
 }

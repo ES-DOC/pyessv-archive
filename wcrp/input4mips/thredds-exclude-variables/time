@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "time",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "time",
+    "namespace": "wcrp:input4mips:thredds-exclude-variables:time",
+    "status": "pending",
+    "uid": "390750e5-b578-4a9b-b5a0-e5715a3e07c4"
+}

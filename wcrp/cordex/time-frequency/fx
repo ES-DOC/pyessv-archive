@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "fx", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "fx", 
-    "namespace": "wcrp:cordex:time-frequency:fx", 
-    "status": "pending", 
-    "uid": "61bcc767-26a1-4de7-899f-a914a4ac804b"
+    "_type": "term",
+    "canonical_name": "fx",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "fx",
+    "namespace": "wcrp:cordex:time-frequency:fx",
+    "status": "pending",
+    "uid": "3346b796-ff03-4b49-aac9-7635a77be1ae"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "uas", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "uas", 
-    "namespace": "wcrp:cmip5:variable:uas", 
-    "status": "pending", 
-    "uid": "3f87eee3-2e63-4761-ad78-e3eb4eb0109b"
+    "_type": "term",
+    "canonical_name": "uas",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "uas",
+    "namespace": "wcrp:cmip5:variable:uas",
+    "status": "pending",
+    "uid": "290646f9-7dd7-4b22-8e94-cc2219f35b5c"
 }

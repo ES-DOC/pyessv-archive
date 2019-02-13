@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "darag", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "darag", 
-    "namespace": "wcrp:cmip5:variable:darag", 
-    "status": "pending", 
-    "uid": "fbc44e0d-d957-4138-9212-989637a946a9"
+    "_type": "term",
+    "canonical_name": "darag",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "darag",
+    "namespace": "wcrp:cmip5:variable:darag",
+    "status": "pending",
+    "uid": "11d8072a-ff1b-4121-b513-7c22a4e6930c"
 }

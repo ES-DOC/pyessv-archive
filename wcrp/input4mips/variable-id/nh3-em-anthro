@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "nh3-em-anthro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NH3-em-anthro",
+    "label": "NH3-em-anthro",
+    "namespace": "wcrp:input4mips:variable-id:nh3-em-anthro",
+    "raw_name": "NH3-em-anthro",
+    "status": "pending",
+    "uid": "50035713-99fb-4977-b487-dae4e18364b2"
+}

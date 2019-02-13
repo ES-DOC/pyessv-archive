@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "lat-bnds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "lat_bnds", 
-    "label": "lat_bnds", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:lat-bnds", 
-    "raw_name": "lat_bnds", 
-    "status": "pending", 
-    "uid": "91af9314-196f-48ea-a95e-5bdaf20f50bb"
+    "_type": "term",
+    "canonical_name": "lat-bnds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "lat_bnds",
+    "label": "lat_bnds",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:lat-bnds",
+    "raw_name": "lat_bnds",
+    "status": "pending",
+    "uid": "4e2b54a5-db81-4d12-ae1f-c063a79bac07"
 }

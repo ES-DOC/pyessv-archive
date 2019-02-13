@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "burntarea", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "burntArea", 
-    "label": "burntArea", 
-    "namespace": "wcrp:cmip5:variable:burntarea", 
-    "raw_name": "burntArea", 
-    "status": "pending", 
-    "uid": "b7123786-3675-4097-b470-46f5ac95d700"
+    "_type": "term",
+    "canonical_name": "burntarea",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "burntArea",
+    "label": "burntArea",
+    "namespace": "wcrp:cmip5:variable:burntarea",
+    "raw_name": "burntArea",
+    "status": "pending",
+    "uid": "baa89f8d-02d0-4433-a5d0-98a38418d10a"
 }

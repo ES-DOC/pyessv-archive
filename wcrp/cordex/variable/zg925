@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "zg925", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "zg925", 
-    "namespace": "wcrp:cordex:variable:zg925", 
-    "status": "pending", 
-    "uid": "a448b4b4-bc55-4f89-889d-906871190dd2"
+    "_type": "term",
+    "canonical_name": "zg925",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "zg925",
+    "namespace": "wcrp:cordex:variable:zg925",
+    "status": "pending",
+    "uid": "a0c42c53-9f6f-4d2b-af8b-313d7f8b24b4"
 }

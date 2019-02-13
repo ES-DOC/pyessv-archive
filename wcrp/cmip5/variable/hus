@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hus", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hus", 
-    "namespace": "wcrp:cmip5:variable:hus", 
-    "status": "pending", 
-    "uid": "b9cc638f-a088-4591-9c7d-bd5ed59d7171"
+    "_type": "term",
+    "canonical_name": "hus",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hus",
+    "namespace": "wcrp:cmip5:variable:hus",
+    "status": "pending",
+    "uid": "dd36e986-4eb3-43d8-9bf8-907cbf67cfa5"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "bddtdip", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "bddtdip", 
-    "namespace": "wcrp:cmip5:variable:bddtdip", 
-    "status": "pending", 
-    "uid": "05f783d6-bdd1-47b9-aa98-93291129ced0"
+    "_type": "term",
+    "canonical_name": "bddtdip",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "bddtdip",
+    "namespace": "wcrp:cmip5:variable:bddtdip",
+    "status": "pending",
+    "uid": "4ac956ca-6636-4755-adea-a473cfa58bdc"
 }

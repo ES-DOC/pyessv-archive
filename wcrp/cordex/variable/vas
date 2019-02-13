@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "vas", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "vas", 
-    "namespace": "wcrp:cordex:variable:vas", 
-    "status": "pending", 
-    "uid": "7ad41a0e-4981-4dc6-9696-4f717eac8dee"
+    "_type": "term",
+    "canonical_name": "vas",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "vas",
+    "namespace": "wcrp:cordex:variable:vas",
+    "status": "pending",
+    "uid": "9c39265b-b4da-4651-8fef-a91c152b9394"
 }

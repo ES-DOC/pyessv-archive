@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "difvso", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "difvso", 
-    "namespace": "wcrp:cmip5:variable:difvso", 
-    "status": "pending", 
-    "uid": "91a2b0d8-ec61-4a16-93e3-5024c6396dad"
+    "_type": "term",
+    "canonical_name": "difvso",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "difvso",
+    "namespace": "wcrp:cmip5:variable:difvso",
+    "status": "pending",
+    "uid": "444b3d99-8f41-4b7f-ba85-dcfb491cfc10"
 }

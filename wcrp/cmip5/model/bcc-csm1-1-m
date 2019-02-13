@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "bcc-csm1-1-m", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "bcc-csm1-1-m", 
-    "namespace": "wcrp:cmip5:model:bcc-csm1-1-m", 
-    "status": "pending", 
-    "uid": "80a2ca68-e300-4718-8b08-7e7c81b20bdb"
+    "_type": "term",
+    "canonical_name": "bcc-csm1-1-m",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "bcc-csm1-1-m",
+    "namespace": "wcrp:cmip5:model:bcc-csm1-1-m",
+    "status": "pending",
+    "uid": "d41435f3-fddf-4984-9a3d-c5429b154151"
 }

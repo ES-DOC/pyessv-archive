@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "graz", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "graz", 
-    "namespace": "wcrp:cmip5:variable:graz", 
-    "status": "pending", 
-    "uid": "ddde79fa-098e-414c-8fec-41d9c838d220"
+    "_type": "term",
+    "canonical_name": "graz",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "graz",
+    "namespace": "wcrp:cmip5:variable:graz",
+    "status": "pending",
+    "uid": "aaeca20a-7799-412d-b08b-cce65eaba837"
 }

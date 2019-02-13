@@ -1,12 +1,12 @@
 {
-    "_type": "term", 
-    "canonical_name": "resolved", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
+    "_type": "term",
+    "canonical_name": "resolved",
+    "create_date": "2017-06-21 00:00:00+00:00",
     "data": {
         "color": "#0c343d"
-    }, 
-    "label": "Resolved", 
-    "namespace": "esdoc:errata:status:resolved", 
-    "status": "pending", 
+    },
+    "label": "Resolved",
+    "namespace": "esdoc:errata:status:resolved",
+    "status": "pending",
     "uid": "efffd42c-74c7-4816-ac5c-4d4fbc0f0e68"
 }

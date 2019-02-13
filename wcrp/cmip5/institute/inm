@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "inm", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "INM", 
-    "namespace": "wcrp:cmip5:institute:inm", 
-    "raw_name": "INM", 
-    "status": "pending", 
-    "uid": "7af53ba3-c186-433e-b838-52ffe209c6ee"
+    "_type": "term",
+    "canonical_name": "inm",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "INM",
+    "namespace": "wcrp:cmip5:institute:inm",
+    "raw_name": "INM",
+    "status": "pending",
+    "uid": "231de68e-ab97-426d-8ae8-6cf4169edf22"
 }

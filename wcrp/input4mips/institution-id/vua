@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "vua",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "VUA",
+    "label": "VUA",
+    "namespace": "wcrp:input4mips:institution-id:vua",
+    "raw_name": "VUA",
+    "status": "pending",
+    "uid": "7e1a5055-b13b-4cd5-b129-4c427713d1b5"
+}

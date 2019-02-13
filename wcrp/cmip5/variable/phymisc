@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "phymisc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "phymisc", 
-    "namespace": "wcrp:cmip5:variable:phymisc", 
-    "status": "pending", 
-    "uid": "ae92ccb4-5874-4cee-845e-250dae2c1096"
+    "_type": "term",
+    "canonical_name": "phymisc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "phymisc",
+    "namespace": "wcrp:cmip5:variable:phymisc",
+    "status": "pending",
+    "uid": "8422c223-dbde-4456-911c-89d53e451e4d"
 }

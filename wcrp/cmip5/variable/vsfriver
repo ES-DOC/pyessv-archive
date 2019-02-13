@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "vsfriver", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "vsfriver", 
-    "namespace": "wcrp:cmip5:variable:vsfriver", 
-    "status": "pending", 
-    "uid": "7a806d73-84b0-4e06-b7fb-c8023451444f"
+    "_type": "term",
+    "canonical_name": "vsfriver",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "vsfriver",
+    "namespace": "wcrp:cmip5:variable:vsfriver",
+    "status": "pending",
+    "uid": "94a8693b-b413-49cb-a50d-6618f809c26c"
 }

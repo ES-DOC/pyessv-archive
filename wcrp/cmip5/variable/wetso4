@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "wetso4", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "wetso4", 
-    "namespace": "wcrp:cmip5:variable:wetso4", 
-    "status": "pending", 
-    "uid": "41b16f8a-0ac0-4920-af04-7181ca59f660"
+    "_type": "term",
+    "canonical_name": "wetso4",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "wetso4",
+    "namespace": "wcrp:cmip5:variable:wetso4",
+    "status": "pending",
+    "uid": "b8b45694-2dd3-4580-b916-98785dd34b0f"
 }

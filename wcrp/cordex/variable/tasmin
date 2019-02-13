@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tasmin", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tasmin", 
-    "namespace": "wcrp:cordex:variable:tasmin", 
-    "status": "pending", 
-    "uid": "d19e12c5-3bba-4198-ba6c-8ccfd910c3ec"
+    "_type": "term",
+    "canonical_name": "tasmin",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tasmin",
+    "namespace": "wcrp:cordex:variable:tasmin",
+    "status": "pending",
+    "uid": "e78a226f-2a5b-4909-8491-ccd8baa9be72"
 }

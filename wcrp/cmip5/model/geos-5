@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "geos-5", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "GEOS-5", 
-    "label": "GEOS-5", 
-    "namespace": "wcrp:cmip5:model:geos-5", 
-    "raw_name": "GEOS-5", 
-    "status": "pending", 
-    "uid": "9fa9715f-23e9-4cd8-8f99-58be3009fbb2"
+    "_type": "term",
+    "canonical_name": "geos-5",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "GEOS-5",
+    "label": "GEOS-5",
+    "namespace": "wcrp:cmip5:model:geos-5",
+    "raw_name": "GEOS-5",
+    "status": "pending",
+    "uid": "6284374d-ef97-43ca-8d1b-79d0e0b1c602"
 }

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "ecmwf-eraint", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ECMWF-ERAINT", 
-    "label": "ECMWF-ERAINT", 
-    "namespace": "wcrp:cordex:driving-model:ecmwf-eraint", 
-    "raw_name": "ECMWF-ERAINT", 
-    "status": "pending", 
-    "uid": "fffe599a-4e39-4750-aa7c-680edad4c425"
+    "_type": "term",
+    "canonical_name": "ecmwf-eraint",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ECMWF-ERAINT",
+    "label": "ECMWF-ERAINT",
+    "namespace": "wcrp:cordex:driving-model:ecmwf-eraint",
+    "raw_name": "ECMWF-ERAINT",
+    "status": "pending",
+    "uid": "37448a06-e63b-423e-823f-0977f5d80d63"
 }

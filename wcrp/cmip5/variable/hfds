@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hfds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hfds", 
-    "namespace": "wcrp:cmip5:variable:hfds", 
-    "status": "pending", 
-    "uid": "a193292b-fb8a-4882-8a25-d953abc96075"
+    "_type": "term",
+    "canonical_name": "hfds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hfds",
+    "namespace": "wcrp:cmip5:variable:hfds",
+    "status": "pending",
+    "uid": "8b788291-9b41-49b2-8f85-159e463c143e"
 }

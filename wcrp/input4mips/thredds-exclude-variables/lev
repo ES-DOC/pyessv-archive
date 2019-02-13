@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "lev",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "lev",
+    "namespace": "wcrp:input4mips:thredds-exclude-variables:lev",
+    "status": "pending",
+    "uid": "94efe323-df5b-4bcd-9dd2-75bc07bcce39"
+}

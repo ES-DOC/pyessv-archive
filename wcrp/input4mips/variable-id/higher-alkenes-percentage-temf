@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "higher-alkenes-percentage-temf",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Higher-Alkenes-percentage-TEMF",
+    "label": "Higher-Alkenes-percentage-TEMF",
+    "namespace": "wcrp:input4mips:variable-id:higher-alkenes-percentage-temf",
+    "raw_name": "Higher-Alkenes-percentage-TEMF",
+    "status": "pending",
+    "uid": "656f7354-b4af-46a0-a738-f0859b685040"
+}

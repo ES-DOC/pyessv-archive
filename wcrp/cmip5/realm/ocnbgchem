@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "ocnbgchem", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ocnBgchem", 
-    "label": "ocnBgchem", 
-    "namespace": "wcrp:cmip5:realm:ocnbgchem", 
-    "raw_name": "ocnBgchem", 
-    "status": "pending", 
-    "uid": "5480ef91-0385-46e3-a6fd-a888ad191409"
+    "_type": "term",
+    "canonical_name": "ocnbgchem",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ocnBgchem",
+    "label": "ocnBgchem",
+    "namespace": "wcrp:cmip5:realm:ocnbgchem",
+    "raw_name": "ocnBgchem",
+    "status": "pending",
+    "uid": "b9b1f911-5b00-45cf-84c0-52b14ce21817"
 }

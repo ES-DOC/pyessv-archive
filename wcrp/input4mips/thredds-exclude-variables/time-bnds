@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "time-bnds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "time_bnds",
+    "label": "time_bnds",
+    "namespace": "wcrp:input4mips:thredds-exclude-variables:time-bnds",
+    "raw_name": "time_bnds",
+    "status": "pending",
+    "uid": "a053704b-a161-42a2-8d81-70f6853a396a"
+}

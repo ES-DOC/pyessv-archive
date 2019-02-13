@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "zsatarag", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "zsatarag", 
-    "namespace": "wcrp:cmip5:variable:zsatarag", 
-    "status": "pending", 
-    "uid": "af47549f-0557-433a-b316-44ea9753db4f"
+    "_type": "term",
+    "canonical_name": "zsatarag",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "zsatarag",
+    "namespace": "wcrp:cmip5:variable:zsatarag",
+    "status": "pending",
+    "uid": "3bd74d01-4430-4daa-b2fe-c857bbec6297"
 }

@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "xylene-em-speciated-vocs",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "xylene-em-speciated-VOCs",
+    "label": "xylene-em-speciated-VOCs",
+    "namespace": "wcrp:input4mips:variable-id:xylene-em-speciated-vocs",
+    "raw_name": "xylene-em-speciated-VOCs",
+    "status": "pending",
+    "uid": "1794b2d5-5686-45a2-9e7e-b5f092b6e4a1"
+}

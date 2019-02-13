@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "oline", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "oline", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:oline", 
-    "status": "pending", 
-    "uid": "1a6303a3-f942-4fff-a686-7e1df4e7ce4e"
+    "_type": "term",
+    "canonical_name": "oline",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "oline",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:oline",
+    "status": "pending",
+    "uid": "2d3f2175-24f0-4778-8f28-747eed383870"
 }

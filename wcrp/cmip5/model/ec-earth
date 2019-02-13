@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "ec-earth", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "EC-EARTH", 
-    "label": "EC-EARTH", 
-    "namespace": "wcrp:cmip5:model:ec-earth", 
-    "raw_name": "EC-EARTH", 
-    "status": "pending", 
-    "uid": "1c3a8b1c-f3c4-4d8a-90b1-759b4f0effe1"
+    "_type": "term",
+    "canonical_name": "ec-earth",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "EC-EARTH",
+    "label": "EC-EARTH",
+    "namespace": "wcrp:cmip5:model:ec-earth",
+    "raw_name": "EC-EARTH",
+    "status": "pending",
+    "uid": "9edefc05-b1ff-4977-9a28-84db9a950a51"
 }

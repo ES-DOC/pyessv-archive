@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "iamc-aim-ssp370-1-0",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "IAMC-AIM-ssp370-1-0",
+    "label": "IAMC-AIM-ssp370-1-0",
+    "namespace": "wcrp:input4mips:source-id:iamc-aim-ssp370-1-0",
+    "raw_name": "IAMC-AIM-ssp370-1-0",
+    "status": "pending",
+    "uid": "be6ce634-1dcf-4a9d-8fea-fcab67d4179c"
+}

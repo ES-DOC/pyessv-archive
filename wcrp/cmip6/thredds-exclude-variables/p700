@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "p700", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "p700", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:p700", 
-    "status": "pending", 
-    "uid": "7adedbaa-51da-4120-b220-82b57ef377a4"
+    "_type": "term",
+    "canonical_name": "p700",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "p700",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:p700",
+    "status": "pending",
+    "uid": "e3faa4d5-6ab1-47ec-8d0b-0366d6b410a0"
 }

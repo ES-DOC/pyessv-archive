@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hfrainds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hfrainds", 
-    "namespace": "wcrp:cmip5:variable:hfrainds", 
-    "status": "pending", 
-    "uid": "921d918a-7a3f-4f10-a2a8-157c0af7cce8"
+    "_type": "term",
+    "canonical_name": "hfrainds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hfrainds",
+    "namespace": "wcrp:cmip5:variable:hfrainds",
+    "status": "pending",
+    "uid": "d54da50b-8bed-4f23-90bf-7383ee36d077"
 }

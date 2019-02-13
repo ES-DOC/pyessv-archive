@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "lmon", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Lmon", 
-    "label": "Lmon", 
-    "namespace": "wcrp:cmip5:cmor-table:lmon", 
-    "raw_name": "Lmon", 
-    "status": "pending", 
-    "uid": "7d17ab56-8a8a-4abb-896d-3a8ab3d4f641"
+    "_type": "term",
+    "canonical_name": "lmon",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Lmon",
+    "label": "Lmon",
+    "namespace": "wcrp:cmip5:cmor-table:lmon",
+    "raw_name": "Lmon",
+    "status": "pending",
+    "uid": "75e8d287-4e7e-4d5e-85a9-eb1752c3c75f"
 }

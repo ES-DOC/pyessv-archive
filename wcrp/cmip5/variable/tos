@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tos", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tos", 
-    "namespace": "wcrp:cmip5:variable:tos", 
-    "status": "pending", 
-    "uid": "2801bd37-23f0-4202-ae29-064e5ddbb53c"
+    "_type": "term",
+    "canonical_name": "tos",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tos",
+    "namespace": "wcrp:cmip5:variable:tos",
+    "status": "pending",
+    "uid": "66049b83-5226-4c1f-a3c6-90c91411e2ee"
 }

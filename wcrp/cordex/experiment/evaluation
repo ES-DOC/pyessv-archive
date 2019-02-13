@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "evaluation", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Evaluation", 
-    "namespace": "wcrp:cordex:experiment:evaluation", 
-    "status": "pending", 
-    "uid": "29db99c1-089e-4c2b-aae9-c9160f0d4188"
+    "_type": "term",
+    "canonical_name": "evaluation",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Evaluation",
+    "namespace": "wcrp:cordex:experiment:evaluation",
+    "status": "pending",
+    "uid": "642a48c3-6ef3-4095-88a4-6c38e9588d65"
 }

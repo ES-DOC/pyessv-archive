@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "doe-cola-cmmap-gmu", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "DOE-COLA-CMMAP-GMU", 
-    "namespace": "wcrp:cmip5:institute:doe-cola-cmmap-gmu", 
-    "raw_name": "DOE-COLA-CMMAP-GMU", 
-    "status": "pending", 
-    "uid": "e8bfb6c2-21ab-4412-9df3-3c40b22a4364"
+    "_type": "term",
+    "canonical_name": "doe-cola-cmmap-gmu",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "DOE-COLA-CMMAP-GMU",
+    "namespace": "wcrp:cmip5:institute:doe-cola-cmmap-gmu",
+    "raw_name": "DOE-COLA-CMMAP-GMU",
+    "status": "pending",
+    "uid": "92b32cf2-ef1c-4df8-827f-221be6829ea1"
 }

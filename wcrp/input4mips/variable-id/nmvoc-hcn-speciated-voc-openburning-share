@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "nmvoc-hcn-speciated-voc-openburning-share",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NMVOC_HCN_speciated_VOC_openburning_share",
+    "label": "NMVOC_HCN_speciated_VOC_openburning_share",
+    "namespace": "wcrp:input4mips:variable-id:nmvoc-hcn-speciated-voc-openburning-share",
+    "raw_name": "NMVOC_HCN_speciated_VOC_openburning_share",
+    "status": "pending",
+    "uid": "d91f9c25-b4ee-40d4-a2d5-48cf3e99126f"
+}

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rsdt", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rsdt", 
-    "namespace": "wcrp:cmip5:variable:rsdt", 
-    "status": "pending", 
-    "uid": "014124d1-fd71-462e-b933-68cd40243a04"
+    "_type": "term",
+    "canonical_name": "rsdt",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rsdt",
+    "namespace": "wcrp:cmip5:variable:rsdt",
+    "status": "pending",
+    "uid": "5c8e68a2-d473-4884-b734-8a779858c2a5"
 }

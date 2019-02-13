@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "arag", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "arag", 
-    "namespace": "wcrp:cmip5:variable:arag", 
-    "status": "pending", 
-    "uid": "bd8d80b0-a319-4e27-941c-c109de5ff1fe"
+    "_type": "term",
+    "canonical_name": "arag",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "arag",
+    "namespace": "wcrp:cmip5:variable:arag",
+    "status": "pending",
+    "uid": "0f6226bd-facd-4472-a099-8e5195bbd835"
 }

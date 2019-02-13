@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "time-bnds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "time_bnds", 
-    "label": "time_bnds", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:time-bnds", 
-    "raw_name": "time_bnds", 
-    "status": "pending", 
-    "uid": "508b3e38-5397-4d4a-a289-30876ee6ba13"
+    "_type": "term",
+    "canonical_name": "time-bnds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "time_bnds",
+    "label": "time_bnds",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:time-bnds",
+    "raw_name": "time_bnds",
+    "status": "pending",
+    "uid": "62b4f9da-85a7-4ba7-b1a8-8923efa29f16"
 }

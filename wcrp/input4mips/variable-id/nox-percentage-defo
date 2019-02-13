@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "nox-percentage-defo",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NOx-percentage-DEFO",
+    "label": "NOx-percentage-DEFO",
+    "namespace": "wcrp:input4mips:variable-id:nox-percentage-defo",
+    "raw_name": "NOx-percentage-DEFO",
+    "status": "pending",
+    "uid": "7935d1c3-9385-4322-9e50-d1a5b1af27a8"
+}

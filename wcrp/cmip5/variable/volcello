@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "volcello", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "volcello", 
-    "namespace": "wcrp:cmip5:variable:volcello", 
-    "status": "pending", 
-    "uid": "c4cf1096-0def-44e9-b163-acb13fc9ea3f"
+    "_type": "term",
+    "canonical_name": "volcello",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "volcello",
+    "namespace": "wcrp:cmip5:variable:volcello",
+    "status": "pending",
+    "uid": "d6086b45-9a9f-4862-8203-7a3ed4decf14"
 }

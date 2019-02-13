@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "c2h6s-percentage-borf",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "C2H6S-percentage-BORF",
+    "label": "C2H6S-percentage-BORF",
+    "namespace": "wcrp:input4mips:variable-id:c2h6s-percentage-borf",
+    "raw_name": "C2H6S-percentage-BORF",
+    "status": "pending",
+    "uid": "d8181216-afad-4984-94fd-be3898507629"
+}

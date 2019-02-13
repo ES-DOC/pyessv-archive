@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "output", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "output", 
-    "namespace": "wcrp:cordex:product:output", 
-    "status": "pending", 
-    "uid": "bf2c59ae-5dfb-4d55-a84b-aaf33c6156e1"
+    "_type": "term",
+    "canonical_name": "output",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "output",
+    "namespace": "wcrp:cordex:product:output",
+    "status": "pending",
+    "uid": "3ddea714-272a-43b7-90b6-f59d3d607c95"
 }

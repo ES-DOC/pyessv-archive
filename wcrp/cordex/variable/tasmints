@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tasmints", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tasmints", 
-    "namespace": "wcrp:cordex:variable:tasmints", 
-    "status": "pending", 
-    "uid": "1b2dacca-c273-4722-80ee-a9741f020dcd"
+    "_type": "term",
+    "canonical_name": "tasmints",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tasmints",
+    "namespace": "wcrp:cordex:variable:tasmints",
+    "status": "pending",
+    "uid": "59f9b3a0-09dd-4a2b-b9b5-2526831dabd2"
 }

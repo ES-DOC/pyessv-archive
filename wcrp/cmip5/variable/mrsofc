@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "mrsofc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mrsofc", 
-    "namespace": "wcrp:cmip5:variable:mrsofc", 
-    "status": "pending", 
-    "uid": "4ed5df2e-73c2-4973-ae8c-2ea4d7f63167"
+    "_type": "term",
+    "canonical_name": "mrsofc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mrsofc",
+    "namespace": "wcrp:cmip5:variable:mrsofc",
+    "status": "pending",
+    "uid": "356ed8e8-a336-4a30-afb0-0ae0516f2795"
 }

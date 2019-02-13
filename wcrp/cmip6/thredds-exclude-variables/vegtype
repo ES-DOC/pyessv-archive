@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "vegtype", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "vegtype", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:vegtype", 
-    "status": "pending", 
-    "uid": "71de39ed-4266-4420-b78d-560c21792e50"
+    "_type": "term",
+    "canonical_name": "vegtype",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "vegtype",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:vegtype",
+    "status": "pending",
+    "uid": "b7a6fde7-63e3-4be4-9f18-938e7a75c558"
 }

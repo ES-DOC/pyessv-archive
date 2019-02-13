@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "aqua4k", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Aqua planet plus 4K anomaly", 
-    "label": "aqua4K", 
-    "namespace": "wcrp:cmip5:experiment:aqua4k", 
-    "raw_name": "aqua4K", 
-    "status": "pending", 
-    "uid": "4d220955-3196-4f0e-8cad-36f878609f4b"
+    "_type": "term",
+    "canonical_name": "aqua4k",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Aqua planet plus 4K anomaly",
+    "label": "aqua4K",
+    "namespace": "wcrp:cmip5:experiment:aqua4k",
+    "raw_name": "aqua4K",
+    "status": "pending",
+    "uid": "ce1d3171-ee5e-4e4b-acaa-8e6e9c476d25"
 }

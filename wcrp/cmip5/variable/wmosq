@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "wmosq", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "wmosq", 
-    "namespace": "wcrp:cmip5:variable:wmosq", 
-    "status": "pending", 
-    "uid": "caef1439-8740-4630-8c14-048252a4d0ae"
+    "_type": "term",
+    "canonical_name": "wmosq",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "wmosq",
+    "namespace": "wcrp:cmip5:variable:wmosq",
+    "status": "pending",
+    "uid": "c109d494-bf6d-4c2e-8f9e-cc81a54c8dce"
 }

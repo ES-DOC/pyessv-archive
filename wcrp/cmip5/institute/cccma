@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "cccma", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "CCCma", 
-    "namespace": "wcrp:cmip5:institute:cccma", 
-    "raw_name": "CCCma", 
-    "status": "pending", 
-    "uid": "16a94170-091f-4220-93ec-0a239544710f"
+    "_type": "term",
+    "canonical_name": "cccma",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "CCCma",
+    "namespace": "wcrp:cmip5:institute:cccma",
+    "raw_name": "CCCma",
+    "status": "pending",
+    "uid": "02c1a8b6-04f6-490e-9e47-d051de5bb08e"
 }

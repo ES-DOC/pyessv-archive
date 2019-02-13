@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "mrlsl", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mrlsl", 
-    "namespace": "wcrp:cmip5:variable:mrlsl", 
-    "status": "pending", 
-    "uid": "b6948a34-c76c-445d-a6c2-f0f3d0ba3ad6"
+    "_type": "term",
+    "canonical_name": "mrlsl",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mrlsl",
+    "namespace": "wcrp:cmip5:variable:mrlsl",
+    "status": "pending",
+    "uid": "494104a6-4691-47b3-b344-17e38bf67b91"
 }

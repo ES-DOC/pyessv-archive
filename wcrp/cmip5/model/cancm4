@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cancm4", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CanCM4", 
-    "label": "CanCM4", 
-    "namespace": "wcrp:cmip5:model:cancm4", 
-    "raw_name": "CanCM4", 
-    "status": "pending", 
-    "uid": "576482c2-765c-45f5-864c-b5f2a4d464d5"
+    "_type": "term",
+    "canonical_name": "cancm4",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CanCM4",
+    "label": "CanCM4",
+    "namespace": "wcrp:cmip5:model:cancm4",
+    "raw_name": "CanCM4",
+    "status": "pending",
+    "uid": "c3696858-6789-4f91-8f48-aa4fbc995f00"
 }

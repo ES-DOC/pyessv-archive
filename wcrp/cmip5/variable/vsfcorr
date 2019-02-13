@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "vsfcorr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "vsfcorr", 
-    "namespace": "wcrp:cmip5:variable:vsfcorr", 
-    "status": "pending", 
-    "uid": "c6f433e6-1c49-46e6-85bd-5ac4f75cc72c"
+    "_type": "term",
+    "canonical_name": "vsfcorr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "vsfcorr",
+    "namespace": "wcrp:cmip5:variable:vsfcorr",
+    "status": "pending",
+    "uid": "b1f34d29-2aef-4786-8560-a8ac9c7ab967"
 }

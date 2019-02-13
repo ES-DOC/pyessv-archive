@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "intppico", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "intppico", 
-    "namespace": "wcrp:cmip5:variable:intppico", 
-    "status": "pending", 
-    "uid": "ee7b0d67-ccdc-4b69-8bc2-a576370c53fa"
+    "_type": "term",
+    "canonical_name": "intppico",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "intppico",
+    "namespace": "wcrp:cmip5:variable:intppico",
+    "status": "pending",
+    "uid": "8e822eb6-3b12-4d9a-9579-f8ea7ad22739"
 }

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "longitude-bnds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "longitude_bnds", 
-    "label": "longitude_bnds", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:longitude-bnds", 
-    "raw_name": "longitude_bnds", 
-    "status": "pending", 
-    "uid": "efba6957-4aeb-4bb2-8361-44ac3b7f2da6"
+    "_type": "term",
+    "canonical_name": "longitude-bnds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "longitude_bnds",
+    "label": "longitude_bnds",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:longitude-bnds",
+    "raw_name": "longitude_bnds",
+    "status": "pending",
+    "uid": "aaa21f9f-af99-44d5-bba7-e769bea617e6"
 }

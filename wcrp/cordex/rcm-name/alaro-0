@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "alaro-0", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "ALARO-0", 
-    "namespace": "wcrp:cordex:rcm-name:alaro-0", 
-    "raw_name": "ALARO-0", 
-    "status": "pending", 
-    "uid": "0a2be228-5e87-4e5f-9475-4c42d57dc3c8"
+    "_type": "term",
+    "canonical_name": "alaro-0",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "ALARO-0",
+    "namespace": "wcrp:cordex:rcm-name:alaro-0",
+    "raw_name": "ALARO-0",
+    "status": "pending",
+    "uid": "dda33f71-e9e5-4b88-9507-66f69de5dccd"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "aclwdnt", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "aclwdnt", 
-    "namespace": "wcrp:cordex:variable:aclwdnt", 
-    "status": "pending", 
-    "uid": "6eb56cac-d34f-4459-a181-02a815e9b659"
+    "_type": "term",
+    "canonical_name": "aclwdnt",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "aclwdnt",
+    "namespace": "wcrp:cordex:variable:aclwdnt",
+    "status": "pending",
+    "uid": "bca4541e-14d3-4e4c-bca6-0bc7dc23a424"
 }

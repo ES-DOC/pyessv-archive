@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ch4mmr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ch4mmr", 
-    "namespace": "wcrp:cmip5:variable:ch4mmr", 
-    "status": "pending", 
-    "uid": "f5b491a4-55a7-420d-8e8d-2f6a0f6fe296"
+    "_type": "term",
+    "canonical_name": "ch4mmr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ch4mmr",
+    "namespace": "wcrp:cmip5:variable:ch4mmr",
+    "status": "pending",
+    "uid": "3a7d0d67-d791-411b-985a-99dc55d975ad"
 }

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cnrm-cerfacs-cnrm-cm5", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CNRM-CERFACS-CNRM-CM5", 
-    "label": "CNRM-CERFACS-CNRM-CM5", 
-    "namespace": "wcrp:cordex:driving-model:cnrm-cerfacs-cnrm-cm5", 
-    "raw_name": "CNRM-CERFACS-CNRM-CM5", 
-    "status": "pending", 
-    "uid": "6eed0386-93b7-46ff-b05b-253dfe45cb9c"
+    "_type": "term",
+    "canonical_name": "cnrm-cerfacs-cnrm-cm5",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CNRM-CERFACS-CNRM-CM5",
+    "label": "CNRM-CERFACS-CNRM-CM5",
+    "namespace": "wcrp:cordex:driving-model:cnrm-cerfacs-cnrm-cm5",
+    "raw_name": "CNRM-CERFACS-CNRM-CM5",
+    "status": "pending",
+    "uid": "7592fb05-2161-4112-9660-8faf9e7d3e1e"
 }

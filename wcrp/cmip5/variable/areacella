@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "areacella", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "areacella", 
-    "namespace": "wcrp:cmip5:variable:areacella", 
-    "status": "pending", 
-    "uid": "19564c56-2b83-43df-9614-51f8d6c68cc0"
+    "_type": "term",
+    "canonical_name": "areacella",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "areacella",
+    "namespace": "wcrp:cmip5:variable:areacella",
+    "status": "pending",
+    "uid": "ebb9fb61-3d02-475c-b4ac-87d81c99a674"
 }

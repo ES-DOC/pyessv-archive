@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "nmvoc-mek",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NMVOC-MEK",
+    "label": "NMVOC-MEK",
+    "namespace": "wcrp:input4mips:variable-id:nmvoc-mek",
+    "raw_name": "NMVOC-MEK",
+    "status": "pending",
+    "uid": "a7f86aa6-c1e1-4cc7-882f-ce442a5b586a"
+}

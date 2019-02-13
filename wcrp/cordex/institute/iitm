@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "iitm", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "IITM", 
-    "label": "IITM", 
-    "namespace": "wcrp:cordex:institute:iitm", 
-    "raw_name": "IITM", 
-    "status": "pending", 
-    "uid": "0140061d-ae84-4066-a570-167aebd33535"
+    "_type": "term",
+    "canonical_name": "iitm",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "IITM",
+    "label": "IITM",
+    "namespace": "wcrp:cordex:institute:iitm",
+    "raw_name": "IITM",
+    "status": "pending",
+    "uid": "06a9be17-e74f-4106-8c85-31785a951b39"
 }

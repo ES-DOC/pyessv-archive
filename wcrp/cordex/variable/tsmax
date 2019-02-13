@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tsmax", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tsmax", 
-    "namespace": "wcrp:cordex:variable:tsmax", 
-    "status": "pending", 
-    "uid": "24b9fd73-0389-4a35-a328-d2d0fa9a07eb"
+    "_type": "term",
+    "canonical_name": "tsmax",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tsmax",
+    "namespace": "wcrp:cordex:variable:tsmax",
+    "status": "pending",
+    "uid": "c1967d35-6c8d-43e9-a208-315e6557b411"
 }

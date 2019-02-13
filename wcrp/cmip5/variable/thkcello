@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "thkcello", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "thkcello", 
-    "namespace": "wcrp:cmip5:variable:thkcello", 
-    "status": "pending", 
-    "uid": "cee00126-1a40-4537-a5ba-95c011e9c60c"
+    "_type": "term",
+    "canonical_name": "thkcello",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "thkcello",
+    "namespace": "wcrp:cmip5:variable:thkcello",
+    "status": "pending",
+    "uid": "bc86ef3b-08b1-495d-b438-a400fa5356e2"
 }

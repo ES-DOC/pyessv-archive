@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "fixed", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "namespace": "wcrp:cordex:las-time-delta:fixed", 
-    "status": "pending", 
-    "uid": "3b68f31d-6c9e-4a02-bfce-b5c964204103"
+    "_type": "term",
+    "canonical_name": "fixed",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "namespace": "wcrp:cordex:las-time-delta:fixed",
+    "status": "pending",
+    "uid": "d8905eeb-c4ff-44d6-9f02-092296a7165e"
 }

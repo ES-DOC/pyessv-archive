@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clisccp", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clisccp", 
-    "namespace": "wcrp:cmip5:variable:clisccp", 
-    "status": "pending", 
-    "uid": "2d8b776e-8ee0-4063-a334-b3507ed93588"
+    "_type": "term",
+    "canonical_name": "clisccp",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clisccp",
+    "namespace": "wcrp:cmip5:variable:clisccp",
+    "status": "pending",
+    "uid": "5f3c513f-461f-419f-9702-63e03e8fc1a6"
 }

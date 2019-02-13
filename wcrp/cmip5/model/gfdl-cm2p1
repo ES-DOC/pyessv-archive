@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "gfdl-cm2p1", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "GFDL-CM2p1", 
-    "label": "GFDL-CM2p1", 
-    "namespace": "wcrp:cmip5:model:gfdl-cm2p1", 
-    "raw_name": "GFDL-CM2p1", 
-    "status": "pending", 
-    "uid": "a0d061bf-ed29-450f-96cf-7cd365b75fc9"
+    "_type": "term",
+    "canonical_name": "gfdl-cm2p1",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "GFDL-CM2p1",
+    "label": "GFDL-CM2p1",
+    "namespace": "wcrp:cmip5:model:gfdl-cm2p1",
+    "raw_name": "GFDL-CM2p1",
+    "status": "pending",
+    "uid": "347beb09-bcb6-4bcf-b1a9-ab7dc73914e0"
 }

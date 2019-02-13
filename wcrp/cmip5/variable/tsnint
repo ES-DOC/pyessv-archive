@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tsnint", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tsnint", 
-    "namespace": "wcrp:cmip5:variable:tsnint", 
-    "status": "pending", 
-    "uid": "b26bbb59-7036-41d2-bcd6-4c3ade4ed13d"
+    "_type": "term",
+    "canonical_name": "tsnint",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tsnint",
+    "namespace": "wcrp:cmip5:variable:tsnint",
+    "status": "pending",
+    "uid": "d27a0ea0-45cc-4c16-80a0-9b930dd884bf"
 }

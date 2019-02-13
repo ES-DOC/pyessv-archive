@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ci", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ci", 
-    "namespace": "wcrp:cmip5:variable:ci", 
-    "status": "pending", 
-    "uid": "45e92727-8ab8-4ec5-bdb3-9f2240d0898a"
+    "_type": "term",
+    "canonical_name": "ci",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ci",
+    "namespace": "wcrp:cmip5:variable:ci",
+    "status": "pending",
+    "uid": "2d200c67-86b6-444a-8b08-47476666230b"
 }

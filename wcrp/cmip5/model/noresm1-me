@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "noresm1-me", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "NorESM1-ME", 
-    "label": "NorESM1-ME", 
-    "namespace": "wcrp:cmip5:model:noresm1-me", 
-    "raw_name": "NorESM1-ME", 
-    "status": "pending", 
-    "uid": "ef37ea76-808a-428f-844e-f98da485b5af"
+    "_type": "term",
+    "canonical_name": "noresm1-me",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NorESM1-ME",
+    "label": "NorESM1-ME",
+    "namespace": "wcrp:cmip5:model:noresm1-me",
+    "raw_name": "NorESM1-ME",
+    "status": "pending",
+    "uid": "70a98cd8-7e04-4ff8-8ee7-816a1dbbb6a9"
 }

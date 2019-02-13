@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "croot", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cRoot", 
-    "label": "cRoot", 
-    "namespace": "wcrp:cmip5:variable:croot", 
-    "raw_name": "cRoot", 
-    "status": "pending", 
-    "uid": "1e5817b7-43aa-46b6-b55a-8e6762df5f5f"
+    "_type": "term",
+    "canonical_name": "croot",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cRoot",
+    "label": "cRoot",
+    "namespace": "wcrp:cmip5:variable:croot",
+    "raw_name": "cRoot",
+    "status": "pending",
+    "uid": "53c96855-abb4-46e0-9b73-36862a126ffa"
 }

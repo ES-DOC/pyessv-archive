@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "nmvoc-c3h8-speciated-voc-openburning-share",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NMVOC_C3H8_speciated_VOC_openburning_share",
+    "label": "NMVOC_C3H8_speciated_VOC_openburning_share",
+    "namespace": "wcrp:input4mips:variable-id:nmvoc-c3h8-speciated-voc-openburning-share",
+    "raw_name": "NMVOC_C3H8_speciated_VOC_openburning_share",
+    "status": "pending",
+    "uid": "eee0e93c-4ecd-4391-ae4c-49c44e2a5940"
+}

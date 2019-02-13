@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "mrsos", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mrsos", 
-    "namespace": "wcrp:cordex:variable:mrsos", 
-    "status": "pending", 
-    "uid": "96d32bca-a53f-4548-b465-31209f68907a"
+    "_type": "term",
+    "canonical_name": "mrsos",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mrsos",
+    "namespace": "wcrp:cordex:variable:mrsos",
+    "status": "pending",
+    "uid": "2fa28373-b222-4012-8722-bbe2706769fc"
 }

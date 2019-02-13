@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sconcbc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sconcbc", 
-    "namespace": "wcrp:cmip5:variable:sconcbc", 
-    "status": "pending", 
-    "uid": "ad21c858-b694-4ba5-9aec-f2ef9a1ac8c0"
+    "_type": "term",
+    "canonical_name": "sconcbc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sconcbc",
+    "namespace": "wcrp:cmip5:variable:sconcbc",
+    "status": "pending",
+    "uid": "1294f938-015d-4435-96e2-49326eaba75c"
 }

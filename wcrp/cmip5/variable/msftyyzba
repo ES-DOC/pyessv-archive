@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "msftyyzba", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "msftyyzba", 
-    "namespace": "wcrp:cmip5:variable:msftyyzba", 
-    "status": "pending", 
-    "uid": "90873811-1a53-493f-84e4-d82b2c88559d"
+    "_type": "term",
+    "canonical_name": "msftyyzba",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "msftyyzba",
+    "namespace": "wcrp:cmip5:variable:msftyyzba",
+    "status": "pending",
+    "uid": "940697c0-759a-4bed-8c53-e46bb4fa9b7f"
 }

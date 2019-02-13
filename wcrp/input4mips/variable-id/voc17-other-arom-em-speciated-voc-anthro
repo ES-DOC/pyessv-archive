@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "voc17-other-arom-em-speciated-voc-anthro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "VOC17-other-arom-em-speciated-VOC-anthro",
+    "label": "VOC17-other-arom-em-speciated-VOC-anthro",
+    "namespace": "wcrp:input4mips:variable-id:voc17-other-arom-em-speciated-voc-anthro",
+    "raw_name": "VOC17-other-arom-em-speciated-VOC-anthro",
+    "status": "pending",
+    "uid": "edda2c2d-61e2-4d95-8f92-a546f7246991"
+}

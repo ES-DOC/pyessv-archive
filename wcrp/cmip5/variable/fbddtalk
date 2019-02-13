@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "fbddtalk", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "fbddtalk", 
-    "namespace": "wcrp:cmip5:variable:fbddtalk", 
-    "status": "pending", 
-    "uid": "97bf9264-34da-43ff-8b85-b4466b0a10ee"
+    "_type": "term",
+    "canonical_name": "fbddtalk",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "fbddtalk",
+    "namespace": "wcrp:cmip5:variable:fbddtalk",
+    "status": "pending",
+    "uid": "e4d3be99-3352-458a-89ee-15be11eb5d2d"
 }

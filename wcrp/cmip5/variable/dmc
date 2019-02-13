@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "dmc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "dmc", 
-    "namespace": "wcrp:cmip5:variable:dmc", 
-    "status": "pending", 
-    "uid": "dffc58c4-b2be-4fa3-baa6-75d42274e5db"
+    "_type": "term",
+    "canonical_name": "dmc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "dmc",
+    "namespace": "wcrp:cmip5:variable:dmc",
+    "status": "pending",
+    "uid": "47b2ad3c-505e-40ea-a0b8-1516ca3cde0b"
 }

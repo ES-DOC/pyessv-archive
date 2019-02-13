@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rsdscs", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rsdscs", 
-    "namespace": "wcrp:cmip5:variable:rsdscs", 
-    "status": "pending", 
-    "uid": "c46cd664-7d3c-4556-aa06-942c2b2257ee"
+    "_type": "term",
+    "canonical_name": "rsdscs",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rsdscs",
+    "namespace": "wcrp:cmip5:variable:rsdscs",
+    "status": "pending",
+    "uid": "f40d9131-6ab2-4883-b984-ee2c3c87feeb"
 }

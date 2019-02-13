@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "level",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "level",
+    "namespace": "wcrp:input4mips:thredds-exclude-variables:level",
+    "status": "pending",
+    "uid": "39c9dd91-25ce-4763-ab9f-3c658aa58fc4"
+}

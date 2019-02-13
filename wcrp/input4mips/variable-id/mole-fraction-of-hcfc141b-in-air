@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-hcfc141b-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-hcfc141b-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-hcfc141b-in-air",
+    "status": "pending",
+    "uid": "1c90b79d-5efe-489a-9cde-773ff4beabf2"
+}

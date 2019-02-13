@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "drynh3", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "drynh3", 
-    "namespace": "wcrp:cmip5:variable:drynh3", 
-    "status": "pending", 
-    "uid": "f7e7676b-b15a-49c0-b2a2-109a0c9da09a"
+    "_type": "term",
+    "canonical_name": "drynh3",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "drynh3",
+    "namespace": "wcrp:cmip5:variable:drynh3",
+    "status": "pending",
+    "uid": "df3d3123-d6e1-4b63-a8f2-470bc9d650c8"
 }

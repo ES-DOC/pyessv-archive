@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tasmaxts", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tasmaxts", 
-    "namespace": "wcrp:cordex:variable:tasmaxts", 
-    "status": "pending", 
-    "uid": "04cf3e19-55de-4ad1-808d-c8b5f252a934"
+    "_type": "term",
+    "canonical_name": "tasmaxts",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tasmaxts",
+    "namespace": "wcrp:cordex:variable:tasmaxts",
+    "status": "pending",
+    "uid": "603d91b7-44f8-49a0-8f9a-bd41e8a235dc"
 }

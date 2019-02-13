@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cmcc-cesm", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CMCC-CESM", 
-    "label": "CMCC-CESM", 
-    "namespace": "wcrp:cmip5:model:cmcc-cesm", 
-    "raw_name": "CMCC-CESM", 
-    "status": "pending", 
-    "uid": "de652d15-328b-4730-8d97-7957ae9c75b0"
+    "_type": "term",
+    "canonical_name": "cmcc-cesm",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CMCC-CESM",
+    "label": "CMCC-CESM",
+    "namespace": "wcrp:cmip5:model:cmcc-cesm",
+    "raw_name": "CMCC-CESM",
+    "status": "pending",
+    "uid": "62bcabfd-c76b-4bd7-a2f1-ed44af46f32d"
 }

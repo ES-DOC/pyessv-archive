@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "miroc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "MIROC", 
-    "namespace": "wcrp:cmip5:institute:miroc", 
-    "raw_name": "MIROC", 
-    "status": "pending", 
-    "uid": "e555e907-7126-481b-99e8-50dc90d6b1a5"
+    "_type": "term",
+    "canonical_name": "miroc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "MIROC",
+    "namespace": "wcrp:cmip5:institute:miroc",
+    "raw_name": "MIROC",
+    "status": "pending",
+    "uid": "8556b080-8c20-457b-8d00-760b46aa8d60"
 }

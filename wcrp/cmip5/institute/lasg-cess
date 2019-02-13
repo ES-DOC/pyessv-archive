@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "lasg-cess", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "LASG-CESS", 
-    "namespace": "wcrp:cmip5:institute:lasg-cess", 
-    "raw_name": "LASG-CESS", 
-    "status": "pending", 
-    "uid": "3b0c3586-e745-4f89-8cd7-45ad4a11fcd0"
+    "_type": "term",
+    "canonical_name": "lasg-cess",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "LASG-CESS",
+    "namespace": "wcrp:cmip5:institute:lasg-cess",
+    "raw_name": "LASG-CESS",
+    "status": "pending",
+    "uid": "75e451d6-291a-451d-8b0b-b66bab192e2f"
 }

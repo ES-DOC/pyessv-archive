@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sic", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sic", 
-    "namespace": "wcrp:cordex:variable:sic", 
-    "status": "pending", 
-    "uid": "278ef94d-1873-44ba-9c8c-e0450fc7a6e7"
+    "_type": "term",
+    "canonical_name": "sic",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sic",
+    "namespace": "wcrp:cordex:variable:sic",
+    "status": "pending",
+    "uid": "294d36e6-dfc9-4ca7-94bd-c1bb51124df6"
 }

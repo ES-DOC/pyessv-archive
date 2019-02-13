@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "tau-bnds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tau_bnds", 
-    "label": "tau_bnds", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:tau-bnds", 
-    "raw_name": "tau_bnds", 
-    "status": "pending", 
-    "uid": "096c3d44-4664-48ae-8deb-87d64d291f61"
+    "_type": "term",
+    "canonical_name": "tau-bnds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tau_bnds",
+    "label": "tau_bnds",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:tau-bnds",
+    "raw_name": "tau_bnds",
+    "status": "pending",
+    "uid": "0814cc51-b170-4da6-868f-fc55c78d68c4"
 }

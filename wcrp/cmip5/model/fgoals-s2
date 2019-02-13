@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "fgoals-s2", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "FGOALS-s2", 
-    "label": "FGOALS-s2", 
-    "namespace": "wcrp:cmip5:model:fgoals-s2", 
-    "raw_name": "FGOALS-s2", 
-    "status": "pending", 
-    "uid": "7caf0436-7db6-4467-a984-e1100e47f893"
+    "_type": "term",
+    "canonical_name": "fgoals-s2",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "FGOALS-s2",
+    "label": "FGOALS-s2",
+    "namespace": "wcrp:cmip5:model:fgoals-s2",
+    "raw_name": "FGOALS-s2",
+    "status": "pending",
+    "uid": "b4e7a643-af53-4c22-8c37-30c36fbf3a52"
 }

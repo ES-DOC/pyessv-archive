@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "c7h8-percentage-sava",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "C7H8-percentage-SAVA",
+    "label": "C7H8-percentage-SAVA",
+    "namespace": "wcrp:input4mips:variable-id:c7h8-percentage-sava",
+    "raw_name": "C7H8-percentage-SAVA",
+    "status": "pending",
+    "uid": "92142159-9a2d-4a1a-901c-6d7722dc2280"
+}

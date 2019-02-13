@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "bacc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "bacc", 
-    "namespace": "wcrp:cmip5:variable:bacc", 
-    "status": "pending", 
-    "uid": "785cf230-d4a9-484f-8340-ee49a53c4326"
+    "_type": "term",
+    "canonical_name": "bacc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "bacc",
+    "namespace": "wcrp:cmip5:variable:bacc",
+    "status": "pending",
+    "uid": "2f8d2d7b-b74e-40ea-b01f-a6ee3fe5e8ed"
 }

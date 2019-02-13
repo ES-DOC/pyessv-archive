@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "drypoa", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "drypoa", 
-    "namespace": "wcrp:cmip5:variable:drypoa", 
-    "status": "pending", 
-    "uid": "87d51468-b4c7-426e-be07-24f26c5a166f"
+    "_type": "term",
+    "canonical_name": "drypoa",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "drypoa",
+    "namespace": "wcrp:cmip5:variable:drypoa",
+    "status": "pending",
+    "uid": "b8ff226b-d190-4473-9b42-40383f86621f"
 }

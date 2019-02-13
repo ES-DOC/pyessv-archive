@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "ncas-2-1-0",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NCAS-2-1-0",
+    "label": "NCAS-2-1-0",
+    "namespace": "wcrp:input4mips:source-id:ncas-2-1-0",
+    "raw_name": "NCAS-2-1-0",
+    "status": "pending",
+    "uid": "7a82852a-84ca-4e30-b9cd-8e14aaf50f67"
+}

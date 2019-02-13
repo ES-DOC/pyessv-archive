@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "treefracsecdec", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "treeFracSecDec", 
-    "label": "treeFracSecDec", 
-    "namespace": "wcrp:cmip5:variable:treefracsecdec", 
-    "raw_name": "treeFracSecDec", 
-    "status": "pending", 
-    "uid": "23089359-680c-4519-8abf-ea804d60df94"
+    "_type": "term",
+    "canonical_name": "treefracsecdec",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "treeFracSecDec",
+    "label": "treeFracSecDec",
+    "namespace": "wcrp:cmip5:variable:treefracsecdec",
+    "raw_name": "treeFracSecDec",
+    "status": "pending",
+    "uid": "ca66168f-b4ba-4660-97a6-c7476585a7ad"
 }

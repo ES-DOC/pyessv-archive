@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "voc01-alcohols-em-speciated-voc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "VOC01-alcohols-em-speciated-VOC",
+    "label": "VOC01-alcohols-em-speciated-VOC",
+    "namespace": "wcrp:input4mips:variable-id:voc01-alcohols-em-speciated-voc",
+    "raw_name": "VOC01-alcohols-em-speciated-VOC",
+    "status": "pending",
+    "uid": "654d5eb2-df3c-4357-984f-39e3a37074f5"
+}

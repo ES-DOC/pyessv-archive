@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "mpi-csc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "MPI-CSC", 
-    "label": "MPI-CSC", 
-    "namespace": "wcrp:cordex:institute:mpi-csc", 
-    "raw_name": "MPI-CSC", 
-    "status": "pending", 
-    "uid": "14561a29-d648-4345-9f46-6cab814f32b7"
+    "_type": "term",
+    "canonical_name": "mpi-csc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "MPI-CSC",
+    "label": "MPI-CSC",
+    "namespace": "wcrp:cordex:institute:mpi-csc",
+    "raw_name": "MPI-CSC",
+    "status": "pending",
+    "uid": "fe31c8d9-123f-413f-94ee-ec219264ffb0"
 }

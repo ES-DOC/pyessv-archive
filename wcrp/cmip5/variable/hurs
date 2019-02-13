@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hurs", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hurs", 
-    "namespace": "wcrp:cmip5:variable:hurs", 
-    "status": "pending", 
-    "uid": "3ed28223-1ab9-405b-ad63-9b6cb416a913"
+    "_type": "term",
+    "canonical_name": "hurs",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hurs",
+    "namespace": "wcrp:cmip5:variable:hurs",
+    "status": "pending",
+    "uid": "c39ad6a4-1d63-47e7-80ce-8f82ad91c59b"
 }

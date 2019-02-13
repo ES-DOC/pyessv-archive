@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "mfo", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mfo", 
-    "namespace": "wcrp:cmip5:variable:mfo", 
-    "status": "pending", 
-    "uid": "5853dc2a-78af-4467-b40b-1451dca0c6a2"
+    "_type": "term",
+    "canonical_name": "mfo",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mfo",
+    "namespace": "wcrp:cmip5:variable:mfo",
+    "status": "pending",
+    "uid": "24ed7d7f-e11c-4066-ad66-0e9fbe7ac575"
 }

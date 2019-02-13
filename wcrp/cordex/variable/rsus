@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rsus", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rsus", 
-    "namespace": "wcrp:cordex:variable:rsus", 
-    "status": "pending", 
-    "uid": "7f0b6c62-1d89-4d08-8a4c-8bca7f604813"
+    "_type": "term",
+    "canonical_name": "rsus",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rsus",
+    "namespace": "wcrp:cordex:variable:rsus",
+    "status": "pending",
+    "uid": "cdc43954-0d19-4854-bd37-ec0e78025d6d"
 }

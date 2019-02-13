@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "height",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "height",
+    "namespace": "wcrp:input4mips:thredds-exclude-variables:height",
+    "status": "pending",
+    "uid": "5042629a-2853-4513-ba3b-ff1fa219b541"
+}

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hfevapds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hfevapds", 
-    "namespace": "wcrp:cmip5:variable:hfevapds", 
-    "status": "pending", 
-    "uid": "069dd33e-6dd2-4dbe-8358-467a2fd18403"
+    "_type": "term",
+    "canonical_name": "hfevapds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hfevapds",
+    "namespace": "wcrp:cmip5:variable:hfevapds",
+    "status": "pending",
+    "uid": "f9777b27-9a43-4118-8edc-fee75552699e"
 }

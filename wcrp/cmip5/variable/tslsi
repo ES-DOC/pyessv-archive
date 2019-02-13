@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tslsi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tslsi", 
-    "namespace": "wcrp:cmip5:variable:tslsi", 
-    "status": "pending", 
-    "uid": "0f1fc76f-2480-4433-8007-0000d7e046e5"
+    "_type": "term",
+    "canonical_name": "tslsi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tslsi",
+    "namespace": "wcrp:cmip5:variable:tslsi",
+    "status": "pending",
+    "uid": "903846d9-3b24-4956-bada-5117d3f80787"
 }

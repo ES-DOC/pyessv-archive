@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "prc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "prc", 
-    "namespace": "wcrp:cordex:variable:prc", 
-    "status": "pending", 
-    "uid": "5c5f930c-0081-4287-820a-284bd3b27cf9"
+    "_type": "term",
+    "canonical_name": "prc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "prc",
+    "namespace": "wcrp:cordex:variable:prc",
+    "status": "pending",
+    "uid": "f40ff043-dd53-4a49-86fe-60074a110ee7"
 }

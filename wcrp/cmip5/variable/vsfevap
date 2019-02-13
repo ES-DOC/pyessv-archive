@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "vsfevap", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "vsfevap", 
-    "namespace": "wcrp:cmip5:variable:vsfevap", 
-    "status": "pending", 
-    "uid": "8aafa9a5-a179-4a31-8d29-c553e9b5b263"
+    "_type": "term",
+    "canonical_name": "vsfevap",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "vsfevap",
+    "namespace": "wcrp:cmip5:variable:vsfevap",
+    "status": "pending",
+    "uid": "4ded7e11-ef3e-4306-b626-1e9c6b4be7c9"
 }

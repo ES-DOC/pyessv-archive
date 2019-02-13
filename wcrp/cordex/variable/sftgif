@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sftgif", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sftgif", 
-    "namespace": "wcrp:cordex:variable:sftgif", 
-    "status": "pending", 
-    "uid": "b28d32f2-98a2-4936-a23e-3e2a9e7306e8"
+    "_type": "term",
+    "canonical_name": "sftgif",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sftgif",
+    "namespace": "wcrp:cordex:variable:sftgif",
+    "status": "pending",
+    "uid": "563203e9-a949-4df6-b06c-a165015281e1"
 }

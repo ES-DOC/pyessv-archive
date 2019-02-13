@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cesm1-cam5-1-fv2", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CESM1-CAM5-1-FV2", 
-    "label": "CESM1-CAM5-1-FV2", 
-    "namespace": "wcrp:cmip5:model:cesm1-cam5-1-fv2", 
-    "raw_name": "CESM1-CAM5-1-FV2", 
-    "status": "pending", 
-    "uid": "fe8c1a42-8d41-4845-b21c-3f420b530457"
+    "_type": "term",
+    "canonical_name": "cesm1-cam5-1-fv2",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CESM1-CAM5-1-FV2",
+    "label": "CESM1-CAM5-1-FV2",
+    "namespace": "wcrp:cmip5:model:cesm1-cam5-1-fv2",
+    "raw_name": "CESM1-CAM5-1-FV2",
+    "status": "pending",
+    "uid": "8d6defaf-524f-4af6-8016-37d30887938d"
 }

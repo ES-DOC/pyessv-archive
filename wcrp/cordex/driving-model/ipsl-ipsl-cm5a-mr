@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "ipsl-ipsl-cm5a-mr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "IPSL-IPSL-CM5A-MR", 
-    "label": "IPSL-IPSL-CM5A-MR", 
-    "namespace": "wcrp:cordex:driving-model:ipsl-ipsl-cm5a-mr", 
-    "raw_name": "IPSL-IPSL-CM5A-MR", 
-    "status": "pending", 
-    "uid": "dbd43b8b-9410-4850-a414-21fcdcc0efba"
+    "_type": "term",
+    "canonical_name": "ipsl-ipsl-cm5a-mr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "IPSL-IPSL-CM5A-MR",
+    "label": "IPSL-IPSL-CM5A-MR",
+    "namespace": "wcrp:cordex:driving-model:ipsl-ipsl-cm5a-mr",
+    "raw_name": "IPSL-IPSL-CM5A-MR",
+    "status": "pending",
+    "uid": "3ef0c94d-f170-4309-ba2d-9a25a699e452"
 }

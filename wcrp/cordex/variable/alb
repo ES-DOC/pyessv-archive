@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "alb", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "alb", 
-    "namespace": "wcrp:cordex:variable:alb", 
-    "status": "pending", 
-    "uid": "ba12a6e1-d4e9-4c0b-a9fa-3abfb1793148"
+    "_type": "term",
+    "canonical_name": "alb",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "alb",
+    "namespace": "wcrp:cordex:variable:alb",
+    "status": "pending",
+    "uid": "c66ee108-1134-4475-9812-d7a6c91efb10"
 }

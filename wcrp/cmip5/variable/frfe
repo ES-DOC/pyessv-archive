@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "frfe", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "frfe", 
-    "namespace": "wcrp:cmip5:variable:frfe", 
-    "status": "pending", 
-    "uid": "7ff16572-0c58-4460-ac39-b192d6321031"
+    "_type": "term",
+    "canonical_name": "frfe",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "frfe",
+    "namespace": "wcrp:cmip5:variable:frfe",
+    "status": "pending",
+    "uid": "0b9ef457-b1a8-4738-8bb9-2f36434913b9"
 }

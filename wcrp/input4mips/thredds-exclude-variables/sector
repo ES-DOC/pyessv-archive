@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "sector",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sector",
+    "namespace": "wcrp:input4mips:thredds-exclude-variables:sector",
+    "status": "pending",
+    "uid": "796490d5-93f2-485e-a9e5-6e8d8ab1f559"
+}

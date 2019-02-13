@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "loaddust", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "loaddust", 
-    "namespace": "wcrp:cmip5:variable:loaddust", 
-    "status": "pending", 
-    "uid": "eb20f7d7-c59a-4d8e-8939-26b303416a87"
+    "_type": "term",
+    "canonical_name": "loaddust",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "loaddust",
+    "namespace": "wcrp:cmip5:variable:loaddust",
+    "status": "pending",
+    "uid": "984ee322-a4f4-4a18-ac0e-1cf5e2195683"
 }

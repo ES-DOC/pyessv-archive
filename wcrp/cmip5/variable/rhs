@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rhs", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rhs", 
-    "namespace": "wcrp:cmip5:variable:rhs", 
-    "status": "pending", 
-    "uid": "720399a9-52f7-4487-beb3-10c7198781c0"
+    "_type": "term",
+    "canonical_name": "rhs",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rhs",
+    "namespace": "wcrp:cmip5:variable:rhs",
+    "status": "pending",
+    "uid": "cc488fef-1c14-4aed-b975-e5cac2d673dd"
 }

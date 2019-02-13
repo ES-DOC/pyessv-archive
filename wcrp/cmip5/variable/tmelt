@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tmelt", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tmelt", 
-    "namespace": "wcrp:cmip5:variable:tmelt", 
-    "status": "pending", 
-    "uid": "3518648e-95b7-47a6-a227-7837b784078a"
+    "_type": "term",
+    "canonical_name": "tmelt",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tmelt",
+    "namespace": "wcrp:cmip5:variable:tmelt",
+    "status": "pending",
+    "uid": "3bcde3cc-db13-426c-bcb5-d5aff4c8ff4e"
 }

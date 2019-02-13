@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "masscello", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "masscello", 
-    "namespace": "wcrp:cmip5:variable:masscello", 
-    "status": "pending", 
-    "uid": "2afc171b-0000-475b-b88f-5c958d4be324"
+    "_type": "term",
+    "canonical_name": "masscello",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "masscello",
+    "namespace": "wcrp:cmip5:variable:masscello",
+    "status": "pending",
+    "uid": "67fffa3a-09ad-49c1-afdb-925221966665"
 }

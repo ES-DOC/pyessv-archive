@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cnrm-arpege52", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CNRM-ARPEGE52", 
-    "label": "CNRM-ARPEGE52", 
-    "namespace": "wcrp:cordex:rcm-model:cnrm-arpege52", 
-    "raw_name": "CNRM-ARPEGE52", 
-    "status": "pending", 
-    "uid": "0c1bbb69-757a-4423-9ddb-3d78bb6e890b"
+    "_type": "term",
+    "canonical_name": "cnrm-arpege52",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CNRM-ARPEGE52",
+    "label": "CNRM-ARPEGE52",
+    "namespace": "wcrp:cordex:rcm-model:cnrm-arpege52",
+    "raw_name": "CNRM-ARPEGE52",
+    "status": "pending",
+    "uid": "3384661d-ac22-4bb4-b420-d0b7c9d6d5f9"
 }

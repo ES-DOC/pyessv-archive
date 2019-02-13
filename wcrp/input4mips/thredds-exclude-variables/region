@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "region",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "region",
+    "namespace": "wcrp:input4mips:thredds-exclude-variables:region",
+    "status": "pending",
+    "uid": "9c6aa88f-2a7c-4e12-862f-42c59c7d0d4f"
+}

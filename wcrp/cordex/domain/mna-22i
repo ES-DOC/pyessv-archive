@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "mna-22i", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Middle East and North Africa", 
-    "label": "MNA-22i", 
-    "namespace": "wcrp:cordex:domain:mna-22i", 
-    "raw_name": "MNA-22i", 
-    "status": "pending", 
-    "uid": "8dd0751b-fcd5-4a14-911e-e93503a391bf"
+    "_type": "term",
+    "canonical_name": "mna-22i",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Middle East and North Africa",
+    "label": "MNA-22i",
+    "namespace": "wcrp:cordex:domain:mna-22i",
+    "raw_name": "MNA-22i",
+    "status": "pending",
+    "uid": "6b9067ae-4748-4ac4-9c89-994720b2b05b"
 }

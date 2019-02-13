@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "fvegsoil", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "fVegSoil", 
-    "label": "fVegSoil", 
-    "namespace": "wcrp:cmip5:variable:fvegsoil", 
-    "raw_name": "fVegSoil", 
-    "status": "pending", 
-    "uid": "4d5ea079-e5d2-428a-8f2b-b951200a2223"
+    "_type": "term",
+    "canonical_name": "fvegsoil",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "fVegSoil",
+    "label": "fVegSoil",
+    "namespace": "wcrp:cmip5:variable:fvegsoil",
+    "raw_name": "fVegSoil",
+    "status": "pending",
+    "uid": "d95a6f98-9822-4fb5-99a5-ee1b4033cddf"
 }

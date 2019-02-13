@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "tau",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tau",
+    "namespace": "wcrp:input4mips:thredds-exclude-variables:tau",
+    "status": "pending",
+    "uid": "a372c9ea-bbc4-46e3-bee7-e17097cd7937"
+}

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "mon", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mon", 
-    "namespace": "wcrp:cmip5:time-frequency:mon", 
-    "status": "pending", 
-    "uid": "b013fbc6-20b2-437b-ac27-ebeaa9470748"
+    "_type": "term",
+    "canonical_name": "mon",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mon",
+    "namespace": "wcrp:cmip5:time-frequency:mon",
+    "status": "pending",
+    "uid": "a0511594-42c6-4943-9415-01fe18ba5ac1"
 }

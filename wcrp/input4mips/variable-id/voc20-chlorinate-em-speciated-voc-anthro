@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "voc20-chlorinate-em-speciated-voc-anthro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "VOC20-chlorinate-em-speciated-VOC-anthro",
+    "label": "VOC20-chlorinate-em-speciated-VOC-anthro",
+    "namespace": "wcrp:input4mips:variable-id:voc20-chlorinate-em-speciated-voc-anthro",
+    "raw_name": "VOC20-chlorinate-em-speciated-VOC-anthro",
+    "status": "pending",
+    "uid": "0350bbc7-bc1a-4e6b-a6b7-299273e7d801"
+}

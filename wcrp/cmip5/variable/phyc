@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "phyc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "phyc", 
-    "namespace": "wcrp:cmip5:variable:phyc", 
-    "status": "pending", 
-    "uid": "230fe303-c9ce-47ee-bcce-71dbf1598629"
+    "_type": "term",
+    "canonical_name": "phyc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "phyc",
+    "namespace": "wcrp:cmip5:variable:phyc",
+    "status": "pending",
+    "uid": "a982a10e-e20c-4eba-a5df-3ab366817418"
 }

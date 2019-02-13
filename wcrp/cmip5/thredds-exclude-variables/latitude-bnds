@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "latitude-bnds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "latitude_bnds", 
-    "label": "latitude_bnds", 
-    "namespace": "wcrp:cmip5:thredds-exclude-variables:latitude-bnds", 
-    "raw_name": "latitude_bnds", 
-    "status": "pending", 
-    "uid": "4dc28d8c-dc58-4102-932a-dcedb9b92140"
+    "_type": "term",
+    "canonical_name": "latitude-bnds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "latitude_bnds",
+    "label": "latitude_bnds",
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:latitude-bnds",
+    "raw_name": "latitude_bnds",
+    "status": "pending",
+    "uid": "63919e9c-c650-44ea-a362-8cadefb44702"
 }

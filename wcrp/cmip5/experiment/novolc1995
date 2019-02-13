@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "novolc1995", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Volcano-free hindcasts initiated in 1995", 
-    "label": "noVolc1995", 
-    "namespace": "wcrp:cmip5:experiment:novolc1995", 
-    "raw_name": "noVolc1995", 
-    "status": "pending", 
-    "uid": "b0f48dd3-260f-43a5-9413-0c14e9d47dde"
+    "_type": "term",
+    "canonical_name": "novolc1995",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Volcano-free hindcasts initiated in 1995",
+    "label": "noVolc1995",
+    "namespace": "wcrp:cmip5:experiment:novolc1995",
+    "raw_name": "noVolc1995",
+    "status": "pending",
+    "uid": "a85560e8-7852-49bb-9f4b-0357042a9bc7"
 }

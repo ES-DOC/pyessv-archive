@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "alevel", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "alevel", 
-    "namespace": "wcrp:cmip5:thredds-exclude-variables:alevel", 
-    "status": "pending", 
-    "uid": "0a4d7622-5cd3-4293-b1b7-923e735d6303"
+    "_type": "term",
+    "canonical_name": "alevel",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "alevel",
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:alevel",
+    "status": "pending",
+    "uid": "5a9c8275-6677-4b37-87c6-eeff90fcf39f"
 }

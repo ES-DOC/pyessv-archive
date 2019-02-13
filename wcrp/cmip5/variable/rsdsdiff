@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rsdsdiff", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rsdsdiff", 
-    "namespace": "wcrp:cmip5:variable:rsdsdiff", 
-    "status": "pending", 
-    "uid": "14652aba-6d3a-4955-a9d0-aa0f42199497"
+    "_type": "term",
+    "canonical_name": "rsdsdiff",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rsdsdiff",
+    "namespace": "wcrp:cmip5:variable:rsdsdiff",
+    "status": "pending",
+    "uid": "a1d9b7e7-e332-41a5-b768-b27563c03a69"
 }

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "ichec-ec-earth", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ICHEC-EC-EARTH", 
-    "label": "ICHEC-EC-EARTH", 
-    "namespace": "wcrp:cordex:driving-model:ichec-ec-earth", 
-    "raw_name": "ICHEC-EC-EARTH", 
-    "status": "pending", 
-    "uid": "373f9019-edb7-4c68-a2cb-9b0d3a7fd9bb"
+    "_type": "term",
+    "canonical_name": "ichec-ec-earth",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ICHEC-EC-EARTH",
+    "label": "ICHEC-EC-EARTH",
+    "namespace": "wcrp:cordex:driving-model:ichec-ec-earth",
+    "raw_name": "ICHEC-EC-EARTH",
+    "status": "pending",
+    "uid": "22bdc99b-a1b3-4cfe-a912-5fa2e955f5f6"
 }

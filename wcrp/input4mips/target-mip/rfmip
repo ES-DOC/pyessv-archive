@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "rfmip",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "RFMIP",
+    "label": "RFMIP",
+    "namespace": "wcrp:input4mips:target-mip:rfmip",
+    "raw_name": "RFMIP",
+    "status": "pending",
+    "uid": "219796da-6499-4d07-8e9e-24ae1b8278d8"
+}

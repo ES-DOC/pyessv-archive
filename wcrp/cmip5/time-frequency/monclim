@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "monclim", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "monClim", 
-    "label": "monClim", 
-    "namespace": "wcrp:cmip5:time-frequency:monclim", 
-    "raw_name": "monClim", 
-    "status": "pending", 
-    "uid": "90019fc2-48b7-42fd-add1-030b0a9d59e3"
+    "_type": "term",
+    "canonical_name": "monclim",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "monClim",
+    "label": "monClim",
+    "namespace": "wcrp:cmip5:time-frequency:monclim",
+    "raw_name": "monClim",
+    "status": "pending",
+    "uid": "7ff2a425-bc70-46d5-b3e8-cc593a237435"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "loadno3", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "loadno3", 
-    "namespace": "wcrp:cmip5:variable:loadno3", 
-    "status": "pending", 
-    "uid": "f22896ca-d87e-484e-b896-c46fb4f572d5"
+    "_type": "term",
+    "canonical_name": "loadno3",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "loadno3",
+    "namespace": "wcrp:cmip5:variable:loadno3",
+    "status": "pending",
+    "uid": "dadb2705-5da2-44ea-b70a-5bf5d06d0a26"
 }

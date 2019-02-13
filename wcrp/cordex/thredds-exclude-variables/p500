@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "p500", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "p500", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:p500", 
-    "status": "pending", 
-    "uid": "d3a470f4-6fe7-4715-ae0c-52faea757bf0"
+    "_type": "term",
+    "canonical_name": "p500",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "p500",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:p500",
+    "status": "pending",
+    "uid": "62b19cf8-fc9b-4878-9518-1eb234515ceb"
 }

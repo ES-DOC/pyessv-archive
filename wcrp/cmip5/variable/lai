@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "lai", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "lai", 
-    "namespace": "wcrp:cmip5:variable:lai", 
-    "status": "pending", 
-    "uid": "88a9c036-786c-4cea-8df7-6db36c582c27"
+    "_type": "term",
+    "canonical_name": "lai",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "lai",
+    "namespace": "wcrp:cmip5:variable:lai",
+    "status": "pending",
+    "uid": "e9abf5ff-9d82-490e-ae04-617972011842"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "drybc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "drybc", 
-    "namespace": "wcrp:cmip5:variable:drybc", 
-    "status": "pending", 
-    "uid": "6298c6ab-44cf-4913-b7b1-34f74606f1a5"
+    "_type": "term",
+    "canonical_name": "drybc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "drybc",
+    "namespace": "wcrp:cmip5:variable:drybc",
+    "status": "pending",
+    "uid": "c5ca369b-a93c-4640-adef-d71019c24f83"
 }

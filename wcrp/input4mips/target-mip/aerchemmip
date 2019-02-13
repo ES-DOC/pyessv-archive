@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "aerchemmip",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "AerChemMIP",
+    "label": "AerChemMIP",
+    "namespace": "wcrp:input4mips:target-mip:aerchemmip",
+    "raw_name": "AerChemMIP",
+    "status": "pending",
+    "uid": "72a177be-a17f-46f4-be27-602ffd9845b2"
+}

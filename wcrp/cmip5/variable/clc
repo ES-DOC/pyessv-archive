@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clc", 
-    "namespace": "wcrp:cmip5:variable:clc", 
-    "status": "pending", 
-    "uid": "49d6a3be-05e1-487b-ac02-4c6bfaa2c744"
+    "_type": "term",
+    "canonical_name": "clc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clc",
+    "namespace": "wcrp:cmip5:variable:clc",
+    "status": "pending",
+    "uid": "74b3f514-3584-4ec9-a2a9-5aef5ed8fcb0"
 }

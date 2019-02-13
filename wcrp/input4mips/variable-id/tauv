@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "tauv",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tauv",
+    "namespace": "wcrp:input4mips:variable-id:tauv",
+    "status": "pending",
+    "uid": "bf41e218-13bb-4191-b57a-5ff04962404f"
+}

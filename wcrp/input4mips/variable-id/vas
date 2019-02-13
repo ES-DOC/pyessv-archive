@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "vas",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "vas",
+    "namespace": "wcrp:input4mips:variable-id:vas",
+    "status": "pending",
+    "uid": "d7cf2067-2c09-4615-9fb4-a51f674dc5aa"
+}

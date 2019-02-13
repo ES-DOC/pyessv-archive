@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "cldncl", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cldncl", 
-    "namespace": "wcrp:cmip5:variable:cldncl", 
-    "status": "pending", 
-    "uid": "f2c33373-3fab-43ef-842e-629594050976"
+    "_type": "term",
+    "canonical_name": "cldncl",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cldncl",
+    "namespace": "wcrp:cmip5:variable:cldncl",
+    "status": "pending",
+    "uid": "c037ce61-204b-484a-a319-8988a0b3caab"
 }

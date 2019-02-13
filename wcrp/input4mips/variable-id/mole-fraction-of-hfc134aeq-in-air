@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-hfc134aeq-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-hfc134aeq-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-hfc134aeq-in-air",
+    "status": "pending",
+    "uid": "5051b936-231e-4cb6-ade7-ab2b561963df"
+}

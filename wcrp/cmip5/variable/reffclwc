@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "reffclwc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "reffclwc", 
-    "namespace": "wcrp:cmip5:variable:reffclwc", 
-    "status": "pending", 
-    "uid": "730270e0-ad61-44b1-b00d-dd8c88babd26"
+    "_type": "term",
+    "canonical_name": "reffclwc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "reffclwc",
+    "namespace": "wcrp:cmip5:variable:reffclwc",
+    "status": "pending",
+    "uid": "42b1f77f-9d9b-4e04-bb0c-62a23d2944fc"
 }

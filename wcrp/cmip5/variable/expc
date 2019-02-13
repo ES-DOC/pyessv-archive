@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "expc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "expc", 
-    "namespace": "wcrp:cmip5:variable:expc", 
-    "status": "pending", 
-    "uid": "14af5624-8e2c-4db1-a89c-fa3f67050609"
+    "_type": "term",
+    "canonical_name": "expc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "expc",
+    "namespace": "wcrp:cmip5:variable:expc",
+    "status": "pending",
+    "uid": "462e25b1-1303-4b78-abc7-0f9e9ebc840b"
 }

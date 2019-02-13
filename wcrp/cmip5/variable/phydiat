@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "phydiat", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "phydiat", 
-    "namespace": "wcrp:cmip5:variable:phydiat", 
-    "status": "pending", 
-    "uid": "0659cd3b-b7ab-4098-96e6-d06c43b5ade9"
+    "_type": "term",
+    "canonical_name": "phydiat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "phydiat",
+    "namespace": "wcrp:cmip5:variable:phydiat",
+    "status": "pending",
+    "uid": "0b2b3808-7b39-45a0-ad20-2f2a4ccfa19c"
 }

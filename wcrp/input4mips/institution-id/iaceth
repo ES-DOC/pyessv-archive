@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "iaceth",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "IACETH",
+    "label": "IACETH",
+    "namespace": "wcrp:input4mips:institution-id:iaceth",
+    "raw_name": "IACETH",
+    "status": "pending",
+    "uid": "42e2da0d-495e-4687-a5b5-0c63ca7cfd01"
+}

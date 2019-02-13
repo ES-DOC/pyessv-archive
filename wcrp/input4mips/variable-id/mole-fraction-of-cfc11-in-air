@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-cfc11-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-cfc11-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-cfc11-in-air",
+    "status": "pending",
+    "uid": "08faa221-1f82-42c7-a7de-16c535fb0aa4"
+}

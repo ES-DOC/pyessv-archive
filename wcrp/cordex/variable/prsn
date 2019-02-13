@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "prsn", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "prsn", 
-    "namespace": "wcrp:cordex:variable:prsn", 
-    "status": "pending", 
-    "uid": "9693bc75-557b-4134-9435-5f1118522deb"
+    "_type": "term",
+    "canonical_name": "prsn",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "prsn",
+    "namespace": "wcrp:cordex:variable:prsn",
+    "status": "pending",
+    "uid": "a000cfb6-433d-49c3-8942-1ccd904a5654"
 }

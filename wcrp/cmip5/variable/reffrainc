@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "reffrainc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "reffrainc", 
-    "namespace": "wcrp:cmip5:variable:reffrainc", 
-    "status": "pending", 
-    "uid": "6ed68034-8023-4588-b3f8-dbf8d3bd7553"
+    "_type": "term",
+    "canonical_name": "reffrainc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "reffrainc",
+    "namespace": "wcrp:cmip5:variable:reffrainc",
+    "status": "pending",
+    "uid": "40e391ce-63a9-41a7-aee1-8743219546d1"
 }

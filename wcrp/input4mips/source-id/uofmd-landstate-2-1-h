@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "uofmd-landstate-2-1-h",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "UofMD-landState-2-1-h",
+    "label": "UofMD-landState-2-1-h",
+    "namespace": "wcrp:input4mips:source-id:uofmd-landstate-2-1-h",
+    "raw_name": "UofMD-landState-2-1-h",
+    "status": "pending",
+    "uid": "bf08f201-a4c2-464b-a466-42b3ca5b36c5"
+}

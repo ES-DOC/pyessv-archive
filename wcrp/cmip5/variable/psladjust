@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "psladjust", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "pslAdjust", 
-    "label": "pslAdjust", 
-    "namespace": "wcrp:cmip5:variable:psladjust", 
-    "raw_name": "pslAdjust", 
-    "status": "pending", 
-    "uid": "c823f191-1731-4ec4-8230-d7f5b328e0a2"
+    "_type": "term",
+    "canonical_name": "psladjust",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "pslAdjust",
+    "label": "pslAdjust",
+    "namespace": "wcrp:cmip5:variable:psladjust",
+    "raw_name": "pslAdjust",
+    "status": "pending",
+    "uid": "a9018bad-5643-488a-a57e-0dcd6f03e9c7"
 }

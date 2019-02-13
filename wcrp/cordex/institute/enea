@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "enea", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ENEA", 
-    "label": "ENEA", 
-    "namespace": "wcrp:cordex:institute:enea", 
-    "raw_name": "ENEA", 
-    "status": "pending", 
-    "uid": "a062b274-4a14-42dd-9c27-d2ecce8e2ac1"
+    "_type": "term",
+    "canonical_name": "enea",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ENEA",
+    "label": "ENEA",
+    "namespace": "wcrp:cordex:institute:enea",
+    "raw_name": "ENEA",
+    "status": "pending",
+    "uid": "c9c3d496-ab81-4206-b4ce-97fd944b244c"
 }

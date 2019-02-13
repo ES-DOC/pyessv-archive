@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "ch2o-percentage-defo",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CH2O-percentage-DEFO",
+    "label": "CH2O-percentage-DEFO",
+    "namespace": "wcrp:input4mips:variable-id:ch2o-percentage-defo",
+    "raw_name": "CH2O-percentage-DEFO",
+    "status": "pending",
+    "uid": "0f253f10-e97c-4dad-9a86-5530506b339c"
+}

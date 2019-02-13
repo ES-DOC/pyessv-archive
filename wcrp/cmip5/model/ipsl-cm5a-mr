@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "ipsl-cm5a-mr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "IPSL-CM5A-MR", 
-    "label": "IPSL-CM5A-MR", 
-    "namespace": "wcrp:cmip5:model:ipsl-cm5a-mr", 
-    "raw_name": "IPSL-CM5A-MR", 
-    "status": "pending", 
-    "uid": "5e7f48fa-22d9-490f-997a-cbfb5a86683e"
+    "_type": "term",
+    "canonical_name": "ipsl-cm5a-mr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "IPSL-CM5A-MR",
+    "label": "IPSL-CM5A-MR",
+    "namespace": "wcrp:cmip5:model:ipsl-cm5a-mr",
+    "raw_name": "IPSL-CM5A-MR",
+    "status": "pending",
+    "uid": "c4bd9a0e-6ebd-4b38-a6a5-7d623b7a0cc3"
 }

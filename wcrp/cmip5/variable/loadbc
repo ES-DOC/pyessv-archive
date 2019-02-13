@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "loadbc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "loadbc", 
-    "namespace": "wcrp:cmip5:variable:loadbc", 
-    "status": "pending", 
-    "uid": "7b38b2dd-08aa-47a2-87a6-7453bbca43c4"
+    "_type": "term",
+    "canonical_name": "loadbc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "loadbc",
+    "namespace": "wcrp:cmip5:variable:loadbc",
+    "status": "pending",
+    "uid": "bd6297bf-3e93-4657-b3f2-5b2e794a77cb"
 }

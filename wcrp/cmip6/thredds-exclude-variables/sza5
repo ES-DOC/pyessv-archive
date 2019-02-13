@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sza5", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sza5", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:sza5", 
-    "status": "pending", 
-    "uid": "d76e2d88-f402-4ba5-86dd-487274cf3c89"
+    "_type": "term",
+    "canonical_name": "sza5",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sza5",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:sza5",
+    "status": "pending",
+    "uid": "30c9bdeb-b359-4ea9-8f84-61aef79af8d7"
 }

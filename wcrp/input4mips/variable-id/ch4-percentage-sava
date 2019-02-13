@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "ch4-percentage-sava",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CH4-percentage-SAVA",
+    "label": "CH4-percentage-SAVA",
+    "namespace": "wcrp:input4mips:variable-id:ch4-percentage-sava",
+    "raw_name": "CH4-percentage-SAVA",
+    "status": "pending",
+    "uid": "7981fe81-6d40-4688-8084-9c4dd03cce14"
+}

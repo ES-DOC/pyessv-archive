@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "uom-gcam4-ssp434-1-2-0",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "UoM-GCAM4-ssp434-1-2-0",
+    "label": "UoM-GCAM4-ssp434-1-2-0",
+    "namespace": "wcrp:input4mips:source-id:uom-gcam4-ssp434-1-2-0",
+    "raw_name": "UoM-GCAM4-ssp434-1-2-0",
+    "status": "pending",
+    "uid": "48f2c59c-0b3b-4c90-befb-8bc32f5712ce"
+}

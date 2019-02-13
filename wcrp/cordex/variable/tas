@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tas", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tas", 
-    "namespace": "wcrp:cordex:variable:tas", 
-    "status": "pending", 
-    "uid": "bb1fb456-4ef2-4779-9a82-4f5765b0683d"
+    "_type": "term",
+    "canonical_name": "tas",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tas",
+    "namespace": "wcrp:cordex:variable:tas",
+    "status": "pending",
+    "uid": "a1f9e5f8-f446-47e5-ad4b-89cc733f9c0b"
 }

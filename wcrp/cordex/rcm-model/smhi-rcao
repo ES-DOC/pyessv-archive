@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "smhi-rcao", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "SMHI-RCAO", 
-    "label": "SMHI-RCAO", 
-    "namespace": "wcrp:cordex:rcm-model:smhi-rcao", 
-    "raw_name": "SMHI-RCAO", 
-    "status": "pending", 
-    "uid": "32152448-4172-4d60-a3c0-3ef624e0d4b0"
+    "_type": "term",
+    "canonical_name": "smhi-rcao",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "SMHI-RCAO",
+    "label": "SMHI-RCAO",
+    "namespace": "wcrp:cordex:rcm-model:smhi-rcao",
+    "raw_name": "SMHI-RCAO",
+    "status": "pending",
+    "uid": "8a6899c5-4765-4aa6-b8d5-f8420d1656e4"
 }

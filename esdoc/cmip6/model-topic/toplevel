@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "toplevel", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Top Level", 
-    "label": "Top Level", 
-    "namespace": "esdoc:cmip6:model-topic:toplevel", 
-    "status": "pending", 
+    "_type": "term",
+    "canonical_name": "toplevel",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Top Level",
+    "label": "Top Level",
+    "namespace": "esdoc:cmip6:model-topic:toplevel",
+    "status": "pending",
     "uid": "d324be94-19ac-4066-9492-62db77351bc7"
 }

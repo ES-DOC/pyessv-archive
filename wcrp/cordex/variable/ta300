@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ta300", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ta300", 
-    "namespace": "wcrp:cordex:variable:ta300", 
-    "status": "pending", 
-    "uid": "73351d73-b726-41e0-a488-e3efd9974848"
+    "_type": "term",
+    "canonical_name": "ta300",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ta300",
+    "namespace": "wcrp:cordex:variable:ta300",
+    "status": "pending",
+    "uid": "852c5ba0-57dd-43bb-b20c-626360d5fe9e"
 }

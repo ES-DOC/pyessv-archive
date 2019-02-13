@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "3hr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "3hr", 
-    "namespace": "wcrp:cordex:time-frequency:3hr", 
-    "status": "pending", 
-    "uid": "6f9c74e0-124f-4c30-bb1c-0016fb8a1833"
+    "_type": "term",
+    "canonical_name": "3hr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "3hr",
+    "namespace": "wcrp:cordex:time-frequency:3hr",
+    "status": "pending",
+    "uid": "7d6c5e07-97ea-4281-ac99-be8b7a249ffa"
 }

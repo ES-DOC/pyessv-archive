@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "pctisccp", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "pctisccp", 
-    "namespace": "wcrp:cmip5:variable:pctisccp", 
-    "status": "pending", 
-    "uid": "a4f5cb26-766f-45df-84c1-0f0d0c53e55b"
+    "_type": "term",
+    "canonical_name": "pctisccp",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "pctisccp",
+    "namespace": "wcrp:cmip5:variable:pctisccp",
+    "status": "pending",
+    "uid": "ed4ef064-cc65-4750-9f98-21dbd484b163"
 }

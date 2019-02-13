@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "mpi-m-mpi-esm-lr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "MPI-M-MPI-ESM-LR", 
-    "label": "MPI-M-MPI-ESM-LR", 
-    "namespace": "wcrp:cordex:driving-model:mpi-m-mpi-esm-lr", 
-    "raw_name": "MPI-M-MPI-ESM-LR", 
-    "status": "pending", 
-    "uid": "e71530ff-acac-4d74-8034-ae3fd2be1867"
+    "_type": "term",
+    "canonical_name": "mpi-m-mpi-esm-lr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "MPI-M-MPI-ESM-LR",
+    "label": "MPI-M-MPI-ESM-LR",
+    "namespace": "wcrp:cordex:driving-model:mpi-m-mpi-esm-lr",
+    "raw_name": "MPI-M-MPI-ESM-LR",
+    "status": "pending",
+    "uid": "687c842d-a497-47e1-8e26-a03845d8ca71"
 }

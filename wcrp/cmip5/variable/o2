@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "o2", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "o2", 
-    "namespace": "wcrp:cmip5:variable:o2", 
-    "status": "pending", 
-    "uid": "98468766-6454-461e-8767-f2e9909345eb"
+    "_type": "term",
+    "canonical_name": "o2",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "o2",
+    "namespace": "wcrp:cmip5:variable:o2",
+    "status": "pending",
+    "uid": "8f3ceaba-491c-47e5-80eb-9a8b6ae5539c"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tauv", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tauv", 
-    "namespace": "wcrp:cmip5:variable:tauv", 
-    "status": "pending", 
-    "uid": "3f9e5a75-03a0-46cf-8baf-16d048073718"
+    "_type": "term",
+    "canonical_name": "tauv",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tauv",
+    "namespace": "wcrp:cmip5:variable:tauv",
+    "status": "pending",
+    "uid": "bca9785d-91ce-49a7-9680-3219fd9cc104"
 }

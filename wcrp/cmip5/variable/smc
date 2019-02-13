@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "smc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "smc", 
-    "namespace": "wcrp:cmip5:variable:smc", 
-    "status": "pending", 
-    "uid": "eb59644b-c0f5-41f0-bdb2-6f730bacfb80"
+    "_type": "term",
+    "canonical_name": "smc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "smc",
+    "namespace": "wcrp:cmip5:variable:smc",
+    "status": "pending",
+    "uid": "940271bf-249b-44a6-ab08-a9c9c108734c"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnsclwmi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnsclwmi", 
-    "namespace": "wcrp:cmip5:variable:tnsclwmi", 
-    "status": "pending", 
-    "uid": "13c3633b-2349-49f4-8402-06463f429d0a"
+    "_type": "term",
+    "canonical_name": "tnsclwmi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnsclwmi",
+    "namespace": "wcrp:cmip5:variable:tnsclwmi",
+    "status": "pending",
+    "uid": "72f6ac94-ebff-4023-bbb2-a444f8a2a99d"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "dpocdtdiaz", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "dpocdtdiaz", 
-    "namespace": "wcrp:cmip5:variable:dpocdtdiaz", 
-    "status": "pending", 
-    "uid": "eb9fe344-84e5-4786-a10d-38c4107bb4db"
+    "_type": "term",
+    "canonical_name": "dpocdtdiaz",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "dpocdtdiaz",
+    "namespace": "wcrp:cmip5:variable:dpocdtdiaz",
+    "status": "pending",
+    "uid": "9ccc069e-0e7c-4b7d-b2ed-6ca1b4f2d84b"
 }

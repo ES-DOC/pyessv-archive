@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "voc24-acids-em-speciated-voc-anthro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "VOC24-acids-em-speciated-VOC-anthro",
+    "label": "VOC24-acids-em-speciated-VOC-anthro",
+    "namespace": "wcrp:input4mips:variable-id:voc24-acids-em-speciated-voc-anthro",
+    "raw_name": "VOC24-acids-em-speciated-VOC-anthro",
+    "status": "pending",
+    "uid": "4c670b26-927c-41ae-9c08-0939dd8ae691"
+}

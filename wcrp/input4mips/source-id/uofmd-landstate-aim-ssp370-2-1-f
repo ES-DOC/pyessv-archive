@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "uofmd-landstate-aim-ssp370-2-1-f",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "UofMD-landState-AIM-ssp370-2-1-f",
+    "label": "UofMD-landState-AIM-ssp370-2-1-f",
+    "namespace": "wcrp:input4mips:source-id:uofmd-landstate-aim-ssp370-2-1-f",
+    "raw_name": "UofMD-landState-AIM-ssp370-2-1-f",
+    "status": "pending",
+    "uid": "461653ba-690d-4964-be7c-2ff2de888172"
+}

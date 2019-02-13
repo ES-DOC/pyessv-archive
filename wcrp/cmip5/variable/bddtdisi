@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "bddtdisi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "bddtdisi", 
-    "namespace": "wcrp:cmip5:variable:bddtdisi", 
-    "status": "pending", 
-    "uid": "66a35848-81a9-432a-bd73-108ac9cf2227"
+    "_type": "term",
+    "canonical_name": "bddtdisi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "bddtdisi",
+    "namespace": "wcrp:cmip5:variable:bddtdisi",
+    "status": "pending",
+    "uid": "78066bbb-349a-4a6c-9ab2-231afdf4a9a9"
 }

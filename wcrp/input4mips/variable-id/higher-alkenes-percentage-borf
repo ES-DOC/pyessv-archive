@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "higher-alkenes-percentage-borf",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Higher-Alkenes-percentage-BORF",
+    "label": "Higher-Alkenes-percentage-BORF",
+    "namespace": "wcrp:input4mips:variable-id:higher-alkenes-percentage-borf",
+    "raw_name": "Higher-Alkenes-percentage-BORF",
+    "status": "pending",
+    "uid": "5531f4b3-c85b-4ae9-b7c1-80ec82d10888"
+}

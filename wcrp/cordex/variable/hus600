@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hus600", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hus600", 
-    "namespace": "wcrp:cordex:variable:hus600", 
-    "status": "pending", 
-    "uid": "a7b1c213-cbcc-4cda-b2eb-db70f5a447d5"
+    "_type": "term",
+    "canonical_name": "hus600",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hus600",
+    "namespace": "wcrp:cordex:variable:hus600",
+    "status": "pending",
+    "uid": "1b2d2795-d354-4b38-9633-d07bd18e3d62"
 }

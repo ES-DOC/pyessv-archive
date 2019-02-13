@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "n2o-percentage-defo",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "N2O-percentage-DEFO",
+    "label": "N2O-percentage-DEFO",
+    "namespace": "wcrp:input4mips:variable-id:n2o-percentage-defo",
+    "raw_name": "N2O-percentage-DEFO",
+    "status": "pending",
+    "uid": "bda36a1e-8e7e-4773-acd7-918cd37b67be"
+}

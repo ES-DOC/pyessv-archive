@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hfbasinba", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hfbasinba", 
-    "namespace": "wcrp:cmip5:variable:hfbasinba", 
-    "status": "pending", 
-    "uid": "57967f73-5fbc-4796-8bc8-eb3d92d7896b"
+    "_type": "term",
+    "canonical_name": "hfbasinba",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hfbasinba",
+    "namespace": "wcrp:cmip5:variable:hfbasinba",
+    "status": "pending",
+    "uid": "cf5e5054-21fc-4d76-a634-5bf83e28520a"
 }

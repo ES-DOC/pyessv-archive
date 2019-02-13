@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "tas",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tas",
+    "namespace": "wcrp:input4mips:variable-id:tas",
+    "status": "pending",
+    "uid": "64db2eab-0ab9-498f-9b47-678b64f0e329"
+}

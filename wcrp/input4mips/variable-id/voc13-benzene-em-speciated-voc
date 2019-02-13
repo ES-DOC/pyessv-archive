@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "voc13-benzene-em-speciated-voc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "VOC13-benzene-em-speciated-VOC",
+    "label": "VOC13-benzene-em-speciated-VOC",
+    "namespace": "wcrp:input4mips:variable-id:voc13-benzene-em-speciated-voc",
+    "raw_name": "VOC13-benzene-em-speciated-VOC",
+    "status": "pending",
+    "uid": "b7e6a213-2b41-4651-bd35-62891ee91439"
+}

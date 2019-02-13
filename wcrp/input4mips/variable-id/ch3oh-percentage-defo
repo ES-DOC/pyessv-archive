@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "ch3oh-percentage-defo",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CH3OH-percentage-DEFO",
+    "label": "CH3OH-percentage-DEFO",
+    "namespace": "wcrp:input4mips:variable-id:ch3oh-percentage-defo",
+    "raw_name": "CH3OH-percentage-DEFO",
+    "status": "pending",
+    "uid": "63b05922-4caf-4ba7-b7a7-fa66e133997e"
+}

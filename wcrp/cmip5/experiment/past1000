@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "past1000", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Last Millennium", 
-    "namespace": "wcrp:cmip5:experiment:past1000", 
-    "status": "pending", 
-    "uid": "8426c852-2815-42c0-bfe7-dfcd9ec9723f"
+    "_type": "term",
+    "canonical_name": "past1000",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Last Millennium",
+    "namespace": "wcrp:cmip5:experiment:past1000",
+    "status": "pending",
+    "uid": "c8ae52d8-ac32-4461-b149-460b0676edeb"
 }

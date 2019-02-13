@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "hcn-percentage-sava",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "HCN-percentage-SAVA",
+    "label": "HCN-percentage-SAVA",
+    "namespace": "wcrp:input4mips:variable-id:hcn-percentage-sava",
+    "raw_name": "HCN-percentage-SAVA",
+    "status": "pending",
+    "uid": "da2a9847-ac96-4d0e-9f05-2f4df11af5d5"
+}

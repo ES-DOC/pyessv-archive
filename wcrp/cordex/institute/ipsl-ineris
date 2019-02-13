@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "ipsl-ineris", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "IPSL-INERIS", 
-    "label": "IPSL-INERIS", 
-    "namespace": "wcrp:cordex:institute:ipsl-ineris", 
-    "raw_name": "IPSL-INERIS", 
-    "status": "pending", 
-    "uid": "baf76796-ebf9-49ed-99fc-e6e23ac0e22f"
+    "_type": "term",
+    "canonical_name": "ipsl-ineris",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "IPSL-INERIS",
+    "label": "IPSL-INERIS",
+    "namespace": "wcrp:cordex:institute:ipsl-ineris",
+    "raw_name": "IPSL-INERIS",
+    "status": "pending",
+    "uid": "ab527592-c825-4ee3-9a45-2f2951d78eec"
 }

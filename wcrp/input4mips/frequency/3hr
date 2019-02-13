@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "3hr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "3hr",
+    "namespace": "wcrp:input4mips:frequency:3hr",
+    "status": "pending",
+    "uid": "86be5076-8db2-46ce-b3e1-e7a61b4178d1"
+}

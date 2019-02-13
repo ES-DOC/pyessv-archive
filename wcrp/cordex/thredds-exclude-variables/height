@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "height", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "height", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:height", 
-    "status": "pending", 
-    "uid": "3052e149-2890-488c-8928-5c2d14c75210"
+    "_type": "term",
+    "canonical_name": "height",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "height",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:height",
+    "status": "pending",
+    "uid": "90f4d504-9464-44f6-a6d7-ecdb868b6f7e"
 }

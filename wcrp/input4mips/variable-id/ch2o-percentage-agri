@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "ch2o-percentage-agri",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CH2O-percentage-AGRI",
+    "label": "CH2O-percentage-AGRI",
+    "namespace": "wcrp:input4mips:variable-id:ch2o-percentage-agri",
+    "raw_name": "CH2O-percentage-AGRI",
+    "status": "pending",
+    "uid": "de16cfcc-521a-4984-9094-ec8c2a4603f9"
+}

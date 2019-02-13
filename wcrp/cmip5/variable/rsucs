@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rsucs", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rsucs", 
-    "namespace": "wcrp:cmip5:variable:rsucs", 
-    "status": "pending", 
-    "uid": "1c73e885-79eb-4da5-b6b9-e9bce0726403"
+    "_type": "term",
+    "canonical_name": "rsucs",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rsucs",
+    "namespace": "wcrp:cmip5:variable:rsucs",
+    "status": "pending",
+    "uid": "c647ef4d-049d-4e57-8a42-c9ff7f41799b"
 }

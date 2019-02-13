@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "oimon", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "OImon", 
-    "label": "OImon", 
-    "namespace": "wcrp:cmip5:cmor-table:oimon", 
-    "raw_name": "OImon", 
-    "status": "pending", 
-    "uid": "13a5d8a3-f85e-4064-a90b-1c290721721f"
+    "_type": "term",
+    "canonical_name": "oimon",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "OImon",
+    "label": "OImon",
+    "namespace": "wcrp:cmip5:cmor-table:oimon",
+    "raw_name": "OImon",
+    "status": "pending",
+    "uid": "60441916-21e3-4771-b188-0cb28ba55e5f"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ra", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ra", 
-    "namespace": "wcrp:cmip5:variable:ra", 
-    "status": "pending", 
-    "uid": "7df87cff-01da-4ca6-a274-b9e32c4c46ab"
+    "_type": "term",
+    "canonical_name": "ra",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ra",
+    "namespace": "wcrp:cmip5:variable:ra",
+    "status": "pending",
+    "uid": "1ddaa72f-9005-40fe-a6cf-14cabe1aa77e"
 }

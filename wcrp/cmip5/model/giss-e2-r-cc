@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "giss-e2-r-cc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "GISS-E2-R-CC", 
-    "label": "GISS-E2-R-CC", 
-    "namespace": "wcrp:cmip5:model:giss-e2-r-cc", 
-    "raw_name": "GISS-E2-R-CC", 
-    "status": "pending", 
-    "uid": "5fbcbfc7-c570-425c-a1fd-5dd5424c0e67"
+    "_type": "term",
+    "canonical_name": "giss-e2-r-cc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "GISS-E2-R-CC",
+    "label": "GISS-E2-R-CC",
+    "namespace": "wcrp:cmip5:model:giss-e2-r-cc",
+    "raw_name": "GISS-E2-R-CC",
+    "status": "pending",
+    "uid": "07b34080-692f-4afb-8db2-707e8470c39d"
 }

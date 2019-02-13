@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tso", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tso", 
-    "namespace": "wcrp:cmip5:variable:tso", 
-    "status": "pending", 
-    "uid": "2498c01e-6e97-4198-ad12-862c559fe2e0"
+    "_type": "term",
+    "canonical_name": "tso",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tso",
+    "namespace": "wcrp:cmip5:variable:tso",
+    "status": "pending",
+    "uid": "79bd6faf-bda3-4db8-8cf4-1bb7b7614fca"
 }

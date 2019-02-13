@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "oyr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Oyr", 
-    "label": "Oyr", 
-    "namespace": "wcrp:cmip5:cmor-table:oyr", 
-    "raw_name": "Oyr", 
-    "status": "pending", 
-    "uid": "7800ca60-cae6-42e0-ad0f-45b5863770f4"
+    "_type": "term",
+    "canonical_name": "oyr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Oyr",
+    "label": "Oyr",
+    "namespace": "wcrp:cmip5:cmor-table:oyr",
+    "raw_name": "Oyr",
+    "status": "pending",
+    "uid": "3e923939-087b-4792-83aa-0001ed673db7"
 }

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "mgo", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "MGO", 
-    "label": "MGO", 
-    "namespace": "wcrp:cordex:institute:mgo", 
-    "raw_name": "MGO", 
-    "status": "pending", 
-    "uid": "256963b7-1545-4ae0-a309-2a5c19d3ac89"
+    "_type": "term",
+    "canonical_name": "mgo",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "MGO",
+    "label": "MGO",
+    "namespace": "wcrp:cordex:institute:mgo",
+    "raw_name": "MGO",
+    "status": "pending",
+    "uid": "8b343b2a-741b-4a74-afa3-260ce5f72e6e"
 }

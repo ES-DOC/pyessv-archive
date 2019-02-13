@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ta875", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ta875", 
-    "namespace": "wcrp:cordex:variable:ta875", 
-    "status": "pending", 
-    "uid": "f3b8bda4-c858-4c15-bbf1-1d32a2942f51"
+    "_type": "term",
+    "canonical_name": "ta875",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ta875",
+    "namespace": "wcrp:cordex:variable:ta875",
+    "status": "pending",
+    "uid": "cacaf651-a460-4cfb-a510-8914db102dca"
 }

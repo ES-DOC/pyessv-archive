@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "mohc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "MOHC", 
-    "label": "MOHC", 
-    "namespace": "wcrp:cordex:institute:mohc", 
-    "raw_name": "MOHC", 
-    "status": "pending", 
-    "uid": "f6b78557-502f-45ff-85a3-9f498c7b2b3f"
+    "_type": "term",
+    "canonical_name": "mohc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "MOHC",
+    "label": "MOHC",
+    "namespace": "wcrp:cordex:institute:mohc",
+    "raw_name": "MOHC",
+    "status": "pending",
+    "uid": "3d556ded-05b3-4634-a878-9e64a3be4fdf"
 }

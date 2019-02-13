@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tntscpbl", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tntscpbl", 
-    "namespace": "wcrp:cmip5:variable:tntscpbl", 
-    "status": "pending", 
-    "uid": "09358908-6b68-4993-ae18-84890f8f4201"
+    "_type": "term",
+    "canonical_name": "tntscpbl",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tntscpbl",
+    "namespace": "wcrp:cmip5:variable:tntscpbl",
+    "status": "pending",
+    "uid": "33ddf56f-c47c-40a0-b44e-8885496f6994"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "time", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "time", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:time", 
-    "status": "pending", 
-    "uid": "4e80ec2e-0dc2-43cd-8258-ede7d4c5287b"
+    "_type": "term",
+    "canonical_name": "time",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "time",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:time",
+    "status": "pending",
+    "uid": "d66d3162-8176-4e95-ba36-7bb6e3d9bcec"
 }

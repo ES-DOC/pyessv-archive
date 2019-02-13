@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "1-month", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "1 month", 
-    "namespace": "wcrp:cmip5:las-time-delta:1-month", 
-    "raw_name": "1 month", 
-    "status": "pending", 
-    "uid": "badbb789-94ad-4474-b94d-ee46952de534"
+    "_type": "term",
+    "canonical_name": "1-month",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "1 month",
+    "namespace": "wcrp:cmip5:las-time-delta:1-month",
+    "raw_name": "1 month",
+    "status": "pending",
+    "uid": "1a39933e-30e8-4b99-b77e-01b5dd4c8594"
 }

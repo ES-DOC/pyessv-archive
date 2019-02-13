@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rhsmin", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rhsmin", 
-    "namespace": "wcrp:cmip5:variable:rhsmin", 
-    "status": "pending", 
-    "uid": "052ae1ee-99ae-4536-bf2c-f5fa54e83f6f"
+    "_type": "term",
+    "canonical_name": "rhsmin",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rhsmin",
+    "namespace": "wcrp:cmip5:variable:rhsmin",
+    "status": "pending",
+    "uid": "30cf494a-5121-4418-ad9d-4ccd7083ccf2"
 }

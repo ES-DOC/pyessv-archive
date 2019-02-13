@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "toluene-lump-percentage-peat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Toluene-lump-percentage-PEAT",
+    "label": "Toluene-lump-percentage-PEAT",
+    "namespace": "wcrp:input4mips:variable-id:toluene-lump-percentage-peat",
+    "raw_name": "Toluene-lump-percentage-PEAT",
+    "status": "pending",
+    "uid": "5658b668-6d56-4fcd-b450-7da2564abfd4"
+}

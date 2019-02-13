@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cuni-regcm4-2", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CUNI-RegCM4-2", 
-    "label": "CUNI-RegCM4-2", 
-    "namespace": "wcrp:cordex:rcm-model:cuni-regcm4-2", 
-    "raw_name": "CUNI-RegCM4-2", 
-    "status": "pending", 
-    "uid": "38753ca7-d200-4f5b-b396-5b9d28bdd0fc"
+    "_type": "term",
+    "canonical_name": "cuni-regcm4-2",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CUNI-RegCM4-2",
+    "label": "CUNI-RegCM4-2",
+    "namespace": "wcrp:cordex:rcm-model:cuni-regcm4-2",
+    "raw_name": "CUNI-RegCM4-2",
+    "status": "pending",
+    "uid": "01a7b16d-39a3-426e-aeb8-9224c9c10a36"
 }

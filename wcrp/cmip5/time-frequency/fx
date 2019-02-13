@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "fx", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "fx", 
-    "namespace": "wcrp:cmip5:time-frequency:fx", 
-    "status": "pending", 
-    "uid": "b9709acd-7696-4e13-bd18-449d6f752633"
+    "_type": "term",
+    "canonical_name": "fx",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "fx",
+    "namespace": "wcrp:cmip5:time-frequency:fx",
+    "status": "pending",
+    "uid": "fe68e9dd-46c2-40d1-9725-16af6ea425d5"
 }

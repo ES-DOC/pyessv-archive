@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "epcalc100", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "epcalc100", 
-    "namespace": "wcrp:cmip5:variable:epcalc100", 
-    "status": "pending", 
-    "uid": "41e433bb-51cc-4a21-8738-ee613152a269"
+    "_type": "term",
+    "canonical_name": "epcalc100",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "epcalc100",
+    "namespace": "wcrp:cmip5:variable:epcalc100",
+    "status": "pending",
+    "uid": "fdd86e14-737b-4ccb-b660-fdfe0ce96cb3"
 }

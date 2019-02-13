@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "layer",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "layer",
+    "namespace": "wcrp:input4mips:thredds-exclude-variables:layer",
+    "status": "pending",
+    "uid": "428e2702-ee9d-4d55-9e6f-9cd09d68767e"
+}

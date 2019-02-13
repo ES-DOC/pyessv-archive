@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "miroc-esm", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "MIROC-ESM", 
-    "label": "MIROC-ESM", 
-    "namespace": "wcrp:cmip5:model:miroc-esm", 
-    "raw_name": "MIROC-ESM", 
-    "status": "pending", 
-    "uid": "8a09e61d-f883-4b23-95a3-4624e2006f79"
+    "_type": "term",
+    "canonical_name": "miroc-esm",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "MIROC-ESM",
+    "label": "MIROC-ESM",
+    "namespace": "wcrp:cmip5:model:miroc-esm",
+    "raw_name": "MIROC-ESM",
+    "status": "pending",
+    "uid": "232036c8-13cc-4781-a5c8-1d8118da799c"
 }

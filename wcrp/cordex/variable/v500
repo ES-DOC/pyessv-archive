@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "v500", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "v500", 
-    "namespace": "wcrp:cordex:variable:v500", 
-    "status": "pending", 
-    "uid": "4c7f01d0-2552-4e7c-bf4f-ab712525256b"
+    "_type": "term",
+    "canonical_name": "v500",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "v500",
+    "namespace": "wcrp:cordex:variable:v500",
+    "status": "pending",
+    "uid": "2715fbec-ed5a-4729-99b2-1d84058f9a16"
 }

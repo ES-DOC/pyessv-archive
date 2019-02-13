@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "expcfe", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "expcfe", 
-    "namespace": "wcrp:cmip5:variable:expcfe", 
-    "status": "pending", 
-    "uid": "828dde2e-ef0b-4c8d-adaf-4da30843a20b"
+    "_type": "term",
+    "canonical_name": "expcfe",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "expcfe",
+    "namespace": "wcrp:cmip5:variable:expcfe",
+    "status": "pending",
+    "uid": "b2c5324d-b251-4b85-97d8-095cbce3e5d3"
 }

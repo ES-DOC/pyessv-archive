@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "pasturefrac", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "pastureFrac", 
-    "label": "pastureFrac", 
-    "namespace": "wcrp:cmip5:variable:pasturefrac", 
-    "raw_name": "pastureFrac", 
-    "status": "pending", 
-    "uid": "ef006efd-34a4-4cd4-8b90-818ec4c2af71"
+    "_type": "term",
+    "canonical_name": "pasturefrac",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "pastureFrac",
+    "label": "pastureFrac",
+    "namespace": "wcrp:cmip5:variable:pasturefrac",
+    "raw_name": "pastureFrac",
+    "status": "pending",
+    "uid": "14ab0d72-0569-4bdf-ad00-fd82a8400fc9"
 }

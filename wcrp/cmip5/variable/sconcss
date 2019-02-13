@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sconcss", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sconcss", 
-    "namespace": "wcrp:cmip5:variable:sconcss", 
-    "status": "pending", 
-    "uid": "755e4b71-c80e-4fec-9bd7-e06ef5b68310"
+    "_type": "term",
+    "canonical_name": "sconcss",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sconcss",
+    "namespace": "wcrp:cmip5:variable:sconcss",
+    "status": "pending",
+    "uid": "ac5d0675-f58f-448e-8dbe-2785b616dfdf"
 }

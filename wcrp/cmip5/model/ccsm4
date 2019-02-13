@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "ccsm4", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CCSM4", 
-    "label": "CCSM4", 
-    "namespace": "wcrp:cmip5:model:ccsm4", 
-    "raw_name": "CCSM4", 
-    "status": "pending", 
-    "uid": "09a8257c-0294-483e-8c23-59d3ae174373"
+    "_type": "term",
+    "canonical_name": "ccsm4",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CCSM4",
+    "label": "CCSM4",
+    "namespace": "wcrp:cmip5:model:ccsm4",
+    "raw_name": "CCSM4",
+    "status": "pending",
+    "uid": "0f71c502-2fec-4c90-8267-b29b8b7ffca5"
 }

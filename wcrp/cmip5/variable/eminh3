@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "eminh3", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "eminh3", 
-    "namespace": "wcrp:cmip5:variable:eminh3", 
-    "status": "pending", 
-    "uid": "ff294ba3-7bf0-40e7-93c6-198e0b0a4b0e"
+    "_type": "term",
+    "canonical_name": "eminh3",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "eminh3",
+    "namespace": "wcrp:cmip5:variable:eminh3",
+    "status": "pending",
+    "uid": "7d9f748d-4455-487d-9d4f-3b7b4aa3c87c"
 }

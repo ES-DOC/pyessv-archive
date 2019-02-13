@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-hfc143a-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-hfc143a-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-hfc143a-in-air",
+    "status": "pending",
+    "uid": "053253ed-24ae-427c-af77-f86556ff6747"
+}

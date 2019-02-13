@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "zg600", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "zg600", 
-    "namespace": "wcrp:cordex:variable:zg600", 
-    "status": "pending", 
-    "uid": "fbb0b89f-6ac3-4e56-b4c3-21d0eac04d45"
+    "_type": "term",
+    "canonical_name": "zg600",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "zg600",
+    "namespace": "wcrp:cordex:variable:zg600",
+    "status": "pending",
+    "uid": "2397319b-26c2-4217-927d-5fb0579b8c43"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "bddtdife", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "bddtdife", 
-    "namespace": "wcrp:cmip5:variable:bddtdife", 
-    "status": "pending", 
-    "uid": "0e741fb2-0c70-44f6-b086-a94907c268b8"
+    "_type": "term",
+    "canonical_name": "bddtdife",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "bddtdife",
+    "namespace": "wcrp:cmip5:variable:bddtdife",
+    "status": "pending",
+    "uid": "e3c9283e-72f8-421a-ba31-bfbc9acde7d6"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sos", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sos", 
-    "namespace": "wcrp:cmip5:variable:sos", 
-    "status": "pending", 
-    "uid": "223d5e63-e11a-44bf-9be4-53a661eda5dc"
+    "_type": "term",
+    "canonical_name": "sos",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sos",
+    "namespace": "wcrp:cmip5:variable:sos",
+    "status": "pending",
+    "uid": "cfe0ff7c-cccb-46d5-8156-a0ea7c7b3368"
 }

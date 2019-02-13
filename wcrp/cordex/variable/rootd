@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "rootd",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rootd",
+    "namespace": "wcrp:cordex:variable:rootd",
+    "status": "pending",
+    "uid": "ae9666cc-2bac-4c94-9fe7-dcad9aa2e9ad"
+}

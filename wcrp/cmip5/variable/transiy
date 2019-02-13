@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "transiy", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "transiy", 
-    "namespace": "wcrp:cmip5:variable:transiy", 
-    "status": "pending", 
-    "uid": "1f4b3c9f-1fc5-4ca3-aef7-3fcff29bd65e"
+    "_type": "term",
+    "canonical_name": "transiy",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "transiy",
+    "namespace": "wcrp:cmip5:variable:transiy",
+    "status": "pending",
+    "uid": "c01aa35a-c29d-4ba6-bc51-558903a0ef86"
 }

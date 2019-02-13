@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sim", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sim", 
-    "namespace": "wcrp:cmip5:variable:sim", 
-    "status": "pending", 
-    "uid": "b9528375-db1c-4483-9716-6987c5e32d23"
+    "_type": "term",
+    "canonical_name": "sim",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sim",
+    "namespace": "wcrp:cmip5:variable:sim",
+    "status": "pending",
+    "uid": "c98c89e6-47c7-4276-8ffb-8c33cf74c027"
 }

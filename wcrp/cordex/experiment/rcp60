@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rcp60", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "RCP6.0", 
-    "namespace": "wcrp:cordex:experiment:rcp60", 
-    "status": "pending", 
-    "uid": "1dbbbb53-b8a1-4920-8cc7-128481f7dc60"
+    "_type": "term",
+    "canonical_name": "rcp60",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "RCP6.0",
+    "namespace": "wcrp:cordex:experiment:rcp60",
+    "status": "pending",
+    "uid": "f6d0c776-8c24-41ab-9d88-50d350238424"
 }

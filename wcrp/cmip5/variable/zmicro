@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "zmicro", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "zmicro", 
-    "namespace": "wcrp:cmip5:variable:zmicro", 
-    "status": "pending", 
-    "uid": "f252fa73-2a1c-4ed0-ad0f-b0b7fac8d4ad"
+    "_type": "term",
+    "canonical_name": "zmicro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "zmicro",
+    "namespace": "wcrp:cmip5:variable:zmicro",
+    "status": "pending",
+    "uid": "582df4f0-5296-4146-98d5-ffe06fdcda1d"
 }

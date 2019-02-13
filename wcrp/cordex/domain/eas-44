@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "eas-44", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "East Asia", 
-    "label": "EAS-44", 
-    "namespace": "wcrp:cordex:domain:eas-44", 
-    "raw_name": "EAS-44", 
-    "status": "pending", 
-    "uid": "da489f65-6200-4da6-97ca-a4bf75c794db"
+    "_type": "term",
+    "canonical_name": "eas-44",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "East Asia",
+    "label": "EAS-44",
+    "namespace": "wcrp:cordex:domain:eas-44",
+    "raw_name": "EAS-44",
+    "status": "pending",
+    "uid": "befa85b6-5044-44bd-885e-7d5dbd48ef85"
 }

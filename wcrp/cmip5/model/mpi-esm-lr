@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "mpi-esm-lr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "MPI-ESM-LR", 
-    "label": "MPI-ESM-LR", 
-    "namespace": "wcrp:cmip5:model:mpi-esm-lr", 
-    "raw_name": "MPI-ESM-LR", 
-    "status": "pending", 
-    "uid": "0b81e6fd-6859-4e97-b151-b3614cb60ff0"
+    "_type": "term",
+    "canonical_name": "mpi-esm-lr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "MPI-ESM-LR",
+    "label": "MPI-ESM-LR",
+    "namespace": "wcrp:cmip5:model:mpi-esm-lr",
+    "raw_name": "MPI-ESM-LR",
+    "status": "pending",
+    "uid": "2bd367e9-989a-4f89-b592-4e0c6127deec"
 }

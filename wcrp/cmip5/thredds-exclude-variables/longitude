@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "longitude", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "longitude", 
-    "namespace": "wcrp:cmip5:thredds-exclude-variables:longitude", 
-    "status": "pending", 
-    "uid": "b5f739d5-6ce8-4884-a200-58ec621fcbb0"
+    "_type": "term",
+    "canonical_name": "longitude",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "longitude",
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:longitude",
+    "status": "pending",
+    "uid": "9321dabd-9f3c-4e05-8b0d-eaf8aa88a0c7"
 }

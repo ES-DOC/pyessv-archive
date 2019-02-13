@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "prw", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "prw", 
-    "namespace": "wcrp:cmip5:variable:prw", 
-    "status": "pending", 
-    "uid": "1f5f164b-9c18-427c-80e6-fb248256f703"
+    "_type": "term",
+    "canonical_name": "prw",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "prw",
+    "namespace": "wcrp:cmip5:variable:prw",
+    "status": "pending",
+    "uid": "30340a25-3e99-4713-822d-cb838281b8ea"
 }

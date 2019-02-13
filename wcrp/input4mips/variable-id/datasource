@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "datasource",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "datasource",
+    "namespace": "wcrp:input4mips:variable-id:datasource",
+    "status": "pending",
+    "uid": "94d7d9c1-b0d3-4356-89f8-df401b16e354"
+}

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "plevs", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "plevs", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:plevs", 
-    "status": "pending", 
-    "uid": "c2d64164-13e8-404b-8f0f-74cb05ed90a8"
+    "_type": "term",
+    "canonical_name": "plevs",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "plevs",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:plevs",
+    "status": "pending",
+    "uid": "2a9070ad-4eac-4fef-a8d9-7d30b51c62b5"
 }

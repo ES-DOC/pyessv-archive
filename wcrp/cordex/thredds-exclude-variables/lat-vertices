@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "lat-vertices", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "lat_vertices", 
-    "label": "lat_vertices", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:lat-vertices", 
-    "raw_name": "lat_vertices", 
-    "status": "pending", 
-    "uid": "d22be2ef-e546-46b6-ba19-e37b034d5327"
+    "_type": "term",
+    "canonical_name": "lat-vertices",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "lat_vertices",
+    "label": "lat_vertices",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:lat-vertices",
+    "raw_name": "lat_vertices",
+    "status": "pending",
+    "uid": "654f570c-326f-422b-bdf7-01075acf653b"
 }

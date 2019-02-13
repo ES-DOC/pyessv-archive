@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "layer", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "layer", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:layer", 
-    "status": "pending", 
-    "uid": "04799760-d068-49b1-bcb7-6d1e4e2ebb1f"
+    "_type": "term",
+    "canonical_name": "layer",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "layer",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:layer",
+    "status": "pending",
+    "uid": "70f8734a-1450-4727-886e-ac7ad3b7e281"
 }

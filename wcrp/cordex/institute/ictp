@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "ictp", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ICTP", 
-    "label": "ICTP", 
-    "namespace": "wcrp:cordex:institute:ictp", 
-    "raw_name": "ICTP", 
-    "status": "pending", 
-    "uid": "6f1ec2b2-f410-4a41-88a0-e51e8227c865"
+    "_type": "term",
+    "canonical_name": "ictp",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ICTP",
+    "label": "ICTP",
+    "namespace": "wcrp:cordex:institute:ictp",
+    "raw_name": "ICTP",
+    "status": "pending",
+    "uid": "61988898-75d9-44cd-9241-0c00a3fbdb26"
 }

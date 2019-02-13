@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "gfdl-esm2m", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "GFDL-ESM2M", 
-    "label": "GFDL-ESM2M", 
-    "namespace": "wcrp:cmip5:model:gfdl-esm2m", 
-    "raw_name": "GFDL-ESM2M", 
-    "status": "pending", 
-    "uid": "d4dbe4c2-6064-4652-a706-698519cb794d"
+    "_type": "term",
+    "canonical_name": "gfdl-esm2m",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "GFDL-ESM2M",
+    "label": "GFDL-ESM2M",
+    "namespace": "wcrp:cmip5:model:gfdl-esm2m",
+    "raw_name": "GFDL-ESM2M",
+    "status": "pending",
+    "uid": "a1a64cf9-81a7-4828-af5d-161579c606d0"
 }

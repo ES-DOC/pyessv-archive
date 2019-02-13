@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "pradjust", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "prAdjust", 
-    "label": "prAdjust", 
-    "namespace": "wcrp:cmip5:variable:pradjust", 
-    "raw_name": "prAdjust", 
-    "status": "pending", 
-    "uid": "3a4221ac-b007-4e17-b871-74dd79629ec9"
+    "_type": "term",
+    "canonical_name": "pradjust",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "prAdjust",
+    "label": "prAdjust",
+    "namespace": "wcrp:cmip5:variable:pradjust",
+    "raw_name": "prAdjust",
+    "status": "pending",
+    "uid": "64e0cd45-a30e-449f-91f7-34cb8ae0641c"
 }

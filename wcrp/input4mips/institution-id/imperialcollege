@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "imperialcollege",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ImperialCollege",
+    "label": "ImperialCollege",
+    "namespace": "wcrp:input4mips:institution-id:imperialcollege",
+    "raw_name": "ImperialCollege",
+    "status": "pending",
+    "uid": "9fdf63c1-9638-4857-8223-3971d3163ca4"
+}

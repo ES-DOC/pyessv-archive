@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rlut", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rlut", 
-    "namespace": "wcrp:cmip5:variable:rlut", 
-    "status": "pending", 
-    "uid": "358f9186-0e7e-4afb-ad8a-39225ad5bbb4"
+    "_type": "term",
+    "canonical_name": "rlut",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rlut",
+    "namespace": "wcrp:cmip5:variable:rlut",
+    "status": "pending",
+    "uid": "6f2ef4ec-57c9-4adf-b651-22ea80455777"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sftgif", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sftgif", 
-    "namespace": "wcrp:cmip5:variable:sftgif", 
-    "status": "pending", 
-    "uid": "cfdc5e6e-f444-439d-9b71-e34d543d3713"
+    "_type": "term",
+    "canonical_name": "sftgif",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sftgif",
+    "namespace": "wcrp:cmip5:variable:sftgif",
+    "status": "pending",
+    "uid": "66d43d68-87c0-444a-8f41-805183467ffc"
 }

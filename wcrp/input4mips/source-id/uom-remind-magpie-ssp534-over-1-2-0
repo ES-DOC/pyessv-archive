@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "uom-remind-magpie-ssp534-over-1-2-0",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "UoM-REMIND-MAGPIE-ssp534-over-1-2-0",
+    "label": "UoM-REMIND-MAGPIE-ssp534-over-1-2-0",
+    "namespace": "wcrp:input4mips:source-id:uom-remind-magpie-ssp534-over-1-2-0",
+    "raw_name": "UoM-REMIND-MAGPIE-ssp534-over-1-2-0",
+    "status": "pending",
+    "uid": "7d7bbab5-0e28-438d-b6ab-8f19c62bba06"
+}

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sdepth1", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sdepth1", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:sdepth1", 
-    "status": "pending", 
-    "uid": "509c2ce8-6c61-49b1-909f-a0edf920a584"
+    "_type": "term",
+    "canonical_name": "sdepth1",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sdepth1",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:sdepth1",
+    "status": "pending",
+    "uid": "846b0fa4-da2a-4d58-803a-e69aae6d6b15"
 }

@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "6-hours",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "6 hours",
+    "namespace": "wcrp:cordex:las-time-delta:6-hours",
+    "raw_name": "6 hours",
+    "status": "pending",
+    "uid": "a1f68249-95a2-45c7-91bb-29c3cbd99c10"
+}

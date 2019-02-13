@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "phypico", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "phypico", 
-    "namespace": "wcrp:cmip5:variable:phypico", 
-    "status": "pending", 
-    "uid": "5f8c04de-3597-4eff-acd2-6655abf4fa21"
+    "_type": "term",
+    "canonical_name": "phypico",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "phypico",
+    "namespace": "wcrp:cmip5:variable:phypico",
+    "status": "pending",
+    "uid": "1cd56ef4-5539-4e2e-aacd-e0f29a93425a"
 }

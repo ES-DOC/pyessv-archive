@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rsu4co2", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rsu4co2", 
-    "namespace": "wcrp:cmip5:variable:rsu4co2", 
-    "status": "pending", 
-    "uid": "f451d521-a725-4f33-951b-a5f910a02c53"
+    "_type": "term",
+    "canonical_name": "rsu4co2",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rsu4co2",
+    "namespace": "wcrp:cmip5:variable:rsu4co2",
+    "status": "pending",
+    "uid": "8ad62577-8f2a-4c09-a613-724e14cef692"
 }

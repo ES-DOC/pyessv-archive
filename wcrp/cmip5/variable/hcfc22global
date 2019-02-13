@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hcfc22global", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hcfc22global", 
-    "namespace": "wcrp:cmip5:variable:hcfc22global", 
-    "status": "pending", 
-    "uid": "41940154-9760-4a5f-a2af-7e49f3f406d5"
+    "_type": "term",
+    "canonical_name": "hcfc22global",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hcfc22global",
+    "namespace": "wcrp:cmip5:variable:hcfc22global",
+    "status": "pending",
+    "uid": "b727b8aa-0f0c-4c06-bb45-086b321aafa7"
 }

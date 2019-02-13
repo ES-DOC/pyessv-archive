@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "hms", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "HMS", 
-    "label": "HMS", 
-    "namespace": "wcrp:cordex:institute:hms", 
-    "raw_name": "HMS", 
-    "status": "pending", 
-    "uid": "7ed02336-234b-41f5-bca9-d53fe54e246f"
+    "_type": "term",
+    "canonical_name": "hms",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "HMS",
+    "label": "HMS",
+    "namespace": "wcrp:cordex:institute:hms",
+    "raw_name": "HMS",
+    "status": "pending",
+    "uid": "b96270d6-ab8d-4d78-8ad6-73a30e91e5a8"
 }

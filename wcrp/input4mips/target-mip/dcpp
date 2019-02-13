@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "dcpp",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "DCPP",
+    "label": "DCPP",
+    "namespace": "wcrp:input4mips:target-mip:dcpp",
+    "raw_name": "DCPP",
+    "status": "pending",
+    "uid": "1818dea0-8b67-4d7d-bcbe-f098dad2cf14"
+}

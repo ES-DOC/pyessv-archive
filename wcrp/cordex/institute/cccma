@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cccma", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CCCma", 
-    "label": "CCCma", 
-    "namespace": "wcrp:cordex:institute:cccma", 
-    "raw_name": "CCCma", 
-    "status": "pending", 
-    "uid": "58942bac-3e08-42be-8dc1-655545ad27f3"
+    "_type": "term",
+    "canonical_name": "cccma",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CCCma",
+    "label": "CCCma",
+    "namespace": "wcrp:cordex:institute:cccma",
+    "raw_name": "CCCma",
+    "status": "pending",
+    "uid": "8c9464d2-d0b6-4d79-a57f-6d3aad6c9b29"
 }

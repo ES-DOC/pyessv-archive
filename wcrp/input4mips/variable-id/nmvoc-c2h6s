@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "nmvoc-c2h6s",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NMVOC-C2H6S",
+    "label": "NMVOC-C2H6S",
+    "namespace": "wcrp:input4mips:variable-id:nmvoc-c2h6s",
+    "raw_name": "NMVOC-C2H6S",
+    "status": "pending",
+    "uid": "1692f7e0-271d-45a3-94dc-9de9e1ace035"
+}

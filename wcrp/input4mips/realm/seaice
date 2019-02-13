@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "seaice",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "seaIce",
+    "label": "seaIce",
+    "namespace": "wcrp:input4mips:realm:seaice",
+    "raw_name": "seaIce",
+    "status": "pending",
+    "uid": "3a1b3f7b-509b-4c4a-a140-dc50719d04e7"
+}

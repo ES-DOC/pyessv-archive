@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "mross", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mross", 
-    "namespace": "wcrp:cordex:variable:mross", 
-    "status": "pending", 
-    "uid": "acf8343d-d83a-4c7f-a829-e83feb7694e2"
+    "_type": "term",
+    "canonical_name": "mross",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mross",
+    "namespace": "wcrp:cordex:variable:mross",
+    "status": "pending",
+    "uid": "92ad628f-fc42-474a-95f4-8eb7b65610eb"
 }

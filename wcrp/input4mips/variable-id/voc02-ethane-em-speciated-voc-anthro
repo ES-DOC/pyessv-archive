@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "voc02-ethane-em-speciated-voc-anthro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "VOC02-ethane-em-speciated-VOC-anthro",
+    "label": "VOC02-ethane-em-speciated-VOC-anthro",
+    "namespace": "wcrp:input4mips:variable-id:voc02-ethane-em-speciated-voc-anthro",
+    "raw_name": "VOC02-ethane-em-speciated-VOC-anthro",
+    "status": "pending",
+    "uid": "60b5ce44-c45a-4ac3-be65-31f6e7aa24cc"
+}

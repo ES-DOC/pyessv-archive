@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "oline", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "oline", 
-    "namespace": "wcrp:cmip5:thredds-exclude-variables:oline", 
-    "status": "pending", 
-    "uid": "085772d1-bbf7-4972-831b-3114dd3ccf33"
+    "_type": "term",
+    "canonical_name": "oline",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "oline",
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:oline",
+    "status": "pending",
+    "uid": "e5f5cc15-0de6-4f47-af5d-f709a32adf02"
 }

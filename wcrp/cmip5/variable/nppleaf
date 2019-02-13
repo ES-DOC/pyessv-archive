@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "nppleaf", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "nppLeaf", 
-    "label": "nppLeaf", 
-    "namespace": "wcrp:cmip5:variable:nppleaf", 
-    "raw_name": "nppLeaf", 
-    "status": "pending", 
-    "uid": "a0bfdd3b-6b84-4a94-82d5-4b000c4986ad"
+    "_type": "term",
+    "canonical_name": "nppleaf",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "nppLeaf",
+    "label": "nppLeaf",
+    "namespace": "wcrp:cmip5:variable:nppleaf",
+    "raw_name": "nppLeaf",
+    "status": "pending",
+    "uid": "d78fb16f-4909-4b94-8fcd-e26a71c150cc"
 }

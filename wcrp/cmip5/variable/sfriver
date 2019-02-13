@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sfriver", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sfriver", 
-    "namespace": "wcrp:cmip5:variable:sfriver", 
-    "status": "pending", 
-    "uid": "e5d97171-6bbf-45e5-9bb0-ef3bbfb2ee44"
+    "_type": "term",
+    "canonical_name": "sfriver",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sfriver",
+    "namespace": "wcrp:cmip5:variable:sfriver",
+    "status": "pending",
+    "uid": "7133bdd0-8d56-4e4e-9a4f-a681e543aefb"
 }

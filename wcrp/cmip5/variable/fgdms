@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "fgdms", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "fgdms", 
-    "namespace": "wcrp:cmip5:variable:fgdms", 
-    "status": "pending", 
-    "uid": "b99fae75-67e9-4997-95e5-2123c07160e6"
+    "_type": "term",
+    "canonical_name": "fgdms",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "fgdms",
+    "namespace": "wcrp:cmip5:variable:fgdms",
+    "status": "pending",
+    "uid": "e80adbd8-c2ad-4fe7-b346-8abbad8843c5"
 }

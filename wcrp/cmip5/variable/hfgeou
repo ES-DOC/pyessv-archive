@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hfgeou", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hfgeou", 
-    "namespace": "wcrp:cmip5:variable:hfgeou", 
-    "status": "pending", 
-    "uid": "dacd4e2b-11d6-40d0-952a-01198d5e3777"
+    "_type": "term",
+    "canonical_name": "hfgeou",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hfgeou",
+    "namespace": "wcrp:cmip5:variable:hfgeou",
+    "status": "pending",
+    "uid": "c748359b-6a1f-47a4-9935-b1232d25f839"
 }

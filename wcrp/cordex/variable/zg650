@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "zg650", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "zg650", 
-    "namespace": "wcrp:cordex:variable:zg650", 
-    "status": "pending", 
-    "uid": "7d76a42d-375b-4fe0-9995-2850c827d039"
+    "_type": "term",
+    "canonical_name": "zg650",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "zg650",
+    "namespace": "wcrp:cordex:variable:zg650",
+    "status": "pending",
+    "uid": "dd9d573c-1967-46f1-b74b-411c38fe5682"
 }

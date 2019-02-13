@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "pop", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "pop", 
-    "namespace": "wcrp:cmip5:variable:pop", 
-    "status": "pending", 
-    "uid": "898f486b-8943-4dbd-8399-62221a130106"
+    "_type": "term",
+    "canonical_name": "pop",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "pop",
+    "namespace": "wcrp:cmip5:variable:pop",
+    "status": "pending",
+    "uid": "8460dca0-8a64-4265-9bbb-dd05943bc0db"
 }

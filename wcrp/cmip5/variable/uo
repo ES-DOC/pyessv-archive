@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "uo", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "uo", 
-    "namespace": "wcrp:cmip5:variable:uo", 
-    "status": "pending", 
-    "uid": "1d7b492e-c754-4194-9d26-b3bcb42b56ed"
+    "_type": "term",
+    "canonical_name": "uo",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "uo",
+    "namespace": "wcrp:cmip5:variable:uo",
+    "status": "pending",
+    "uid": "1a764bd4-2cbf-48da-bbd5-841fb9c7b248"
 }

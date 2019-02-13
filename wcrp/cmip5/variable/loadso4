@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "loadso4", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "loadso4", 
-    "namespace": "wcrp:cmip5:variable:loadso4", 
-    "status": "pending", 
-    "uid": "fdfe86ab-3985-4d4e-997c-5ce69806be72"
+    "_type": "term",
+    "canonical_name": "loadso4",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "loadso4",
+    "namespace": "wcrp:cmip5:variable:loadso4",
+    "status": "pending",
+    "uid": "83926413-51ab-426d-a124-62ec213af00a"
 }

@@ -1,26 +1,26 @@
 {
-    "_type": "term", 
-    "canonical_name": "cnrm-cerfacs", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
+    "_type": "term",
+    "canonical_name": "cnrm-cerfacs",
+    "create_date": "2017-06-21 00:00:00+00:00",
     "data": {
         "consortia": [
             {
-                "code": "CNRM", 
-                "homepage": "http://www.umr-cnrm.fr", 
+                "code": "CNRM",
+                "homepage": "http://www.umr-cnrm.fr",
                 "postalAddress": "Centre National de Recherches Meteorologiques, Toulouse 31057, France"
-            }, 
+            },
             {
-                "code": "CERFACS", 
-                "homepage": "http://www.cerfacs.fr", 
+                "code": "CERFACS",
+                "homepage": "http://www.cerfacs.fr",
                 "postalAddress": "Centre Europeen de Recherche et de Formation Avancee en Calcul Scientifique, Toulouse 31057, France"
             }
-        ], 
-        "homepage": "", 
+        ],
+        "homepage": "",
         "postalAddress": ""
-    }, 
-    "label": "CNRM-CERFACS", 
-    "namespace": "wcrp:cmip6:institution-id:cnrm-cerfacs", 
-    "raw_name": "CNRM-CERFACS", 
-    "status": "pending", 
+    },
+    "label": "CNRM-CERFACS",
+    "namespace": "wcrp:cmip6:institution-id:cnrm-cerfacs",
+    "raw_name": "CNRM-CERFACS",
+    "status": "pending",
     "uid": "642db527-7df3-45fc-ab01-85dd16d0f932"
 }

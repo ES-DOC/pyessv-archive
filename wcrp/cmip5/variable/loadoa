@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "loadoa", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "loadoa", 
-    "namespace": "wcrp:cmip5:variable:loadoa", 
-    "status": "pending", 
-    "uid": "2f60f725-fcee-4d30-8419-2cb529518db1"
+    "_type": "term",
+    "canonical_name": "loadoa",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "loadoa",
+    "namespace": "wcrp:cmip5:variable:loadoa",
+    "status": "pending",
+    "uid": "be90a478-252e-424a-865a-c54e3616d5e7"
 }

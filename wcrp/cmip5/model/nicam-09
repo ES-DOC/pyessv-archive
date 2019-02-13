@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "nicam-09", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "NICAM-09", 
-    "label": "NICAM-09", 
-    "namespace": "wcrp:cmip5:model:nicam-09", 
-    "raw_name": "NICAM-09", 
-    "status": "pending", 
-    "uid": "d44946dc-caae-454c-a404-ee618b039b85"
+    "_type": "term",
+    "canonical_name": "nicam-09",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NICAM-09",
+    "label": "NICAM-09",
+    "namespace": "wcrp:cmip5:model:nicam-09",
+    "raw_name": "NICAM-09",
+    "status": "pending",
+    "uid": "432d1b2e-8fc0-440d-b779-c8e963351060"
 }

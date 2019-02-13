@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "evspsblveg", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "evspsblveg", 
-    "namespace": "wcrp:cmip5:variable:evspsblveg", 
-    "status": "pending", 
-    "uid": "1ad5a067-4be9-4842-9a27-903499d81038"
+    "_type": "term",
+    "canonical_name": "evspsblveg",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "evspsblveg",
+    "namespace": "wcrp:cmip5:variable:evspsblveg",
+    "status": "pending",
+    "uid": "c8011e46-325a-4a5e-9669-7bd90cb3b733"
 }

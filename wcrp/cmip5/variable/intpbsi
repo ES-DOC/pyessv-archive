@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "intpbsi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "intpbsi", 
-    "namespace": "wcrp:cmip5:variable:intpbsi", 
-    "status": "pending", 
-    "uid": "28144f17-c135-4028-a31a-e6654f54ff82"
+    "_type": "term",
+    "canonical_name": "intpbsi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "intpbsi",
+    "namespace": "wcrp:cmip5:variable:intpbsi",
+    "status": "pending",
+    "uid": "8c80e855-59a2-4e92-8628-c61b44c0fe39"
 }

@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "uom-remind-magpie-ssp585-1-2-0",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "UoM-REMIND-MAGPIE-ssp585-1-2-0",
+    "label": "UoM-REMIND-MAGPIE-ssp585-1-2-0",
+    "namespace": "wcrp:input4mips:source-id:uom-remind-magpie-ssp585-1-2-0",
+    "raw_name": "UoM-REMIND-MAGPIE-ssp585-1-2-0",
+    "status": "pending",
+    "uid": "46ce9f4e-751f-4aef-8a86-0b7808b226d2"
+}

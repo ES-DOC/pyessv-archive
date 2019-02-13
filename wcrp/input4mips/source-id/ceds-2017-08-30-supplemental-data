@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "ceds-2017-08-30-supplemental-data",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CEDS-2017-08-30-supplemental-data",
+    "label": "CEDS-2017-08-30-supplemental-data",
+    "namespace": "wcrp:input4mips:source-id:ceds-2017-08-30-supplemental-data",
+    "raw_name": "CEDS-2017-08-30-supplemental-data",
+    "status": "pending",
+    "uid": "11e795f6-c553-4431-8372-c32869d58b02"
+}

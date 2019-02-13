@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-nf3-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-nf3-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-nf3-in-air",
+    "status": "pending",
+    "uid": "4a2efd7b-1dd9-4bd4-8fb5-943ba422ceb9"
+}

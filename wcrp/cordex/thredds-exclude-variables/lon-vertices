@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "lon-vertices", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "lon_vertices", 
-    "label": "lon_vertices", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:lon-vertices", 
-    "raw_name": "lon_vertices", 
-    "status": "pending", 
-    "uid": "4cb395d2-7182-4d91-af1e-1b42dc3fc709"
+    "_type": "term",
+    "canonical_name": "lon-vertices",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "lon_vertices",
+    "label": "lon_vertices",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:lon-vertices",
+    "raw_name": "lon_vertices",
+    "status": "pending",
+    "uid": "6ccf64e9-b079-41ec-8925-1d19af07bd84"
 }

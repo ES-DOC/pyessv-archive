@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rlon", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rlon", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:rlon", 
-    "status": "pending", 
-    "uid": "2584bf06-5fc4-49f6-bd96-cc406d51d84a"
+    "_type": "term",
+    "canonical_name": "rlon",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rlon",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:rlon",
+    "status": "pending",
+    "uid": "36083d50-0556-4ab8-a0ea-7d324c22f155"
 }

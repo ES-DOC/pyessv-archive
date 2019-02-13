@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "prveg", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "prveg", 
-    "namespace": "wcrp:cmip5:variable:prveg", 
-    "status": "pending", 
-    "uid": "6a3a8b7d-0e74-4188-b42d-44cb2eca5725"
+    "_type": "term",
+    "canonical_name": "prveg",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "prveg",
+    "namespace": "wcrp:cmip5:variable:prveg",
+    "status": "pending",
+    "uid": "6bc7375b-328f-44c1-bb14-e3a24ab43039"
 }

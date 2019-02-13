@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "fluc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "fLuc", 
-    "label": "fLuc", 
-    "namespace": "wcrp:cmip5:variable:fluc", 
-    "raw_name": "fLuc", 
-    "status": "pending", 
-    "uid": "5e21854d-0456-418f-96c6-842cba12dd57"
+    "_type": "term",
+    "canonical_name": "fluc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "fLuc",
+    "label": "fLuc",
+    "namespace": "wcrp:cmip5:variable:fluc",
+    "raw_name": "fLuc",
+    "status": "pending",
+    "uid": "33663968-bf1e-40ea-ab4a-f1246702d5c5"
 }

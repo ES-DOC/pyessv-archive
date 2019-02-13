@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "edt", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "edt", 
-    "namespace": "wcrp:cmip5:variable:edt", 
-    "status": "pending", 
-    "uid": "e898eef6-1cd4-4f5f-84c2-3756a016b44e"
+    "_type": "term",
+    "canonical_name": "edt",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "edt",
+    "namespace": "wcrp:cmip5:variable:edt",
+    "status": "pending",
+    "uid": "75348271-480d-433c-965b-2528a0984180"
 }

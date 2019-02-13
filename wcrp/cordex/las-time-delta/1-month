@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "1-month", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "1 month", 
-    "namespace": "wcrp:cordex:las-time-delta:1-month", 
-    "raw_name": "1 month", 
-    "status": "pending", 
-    "uid": "bc41c7b4-09a3-4d80-8bd3-cfbec4b1161b"
+    "_type": "term",
+    "canonical_name": "1-month",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "1 month",
+    "namespace": "wcrp:cordex:las-time-delta:1-month",
+    "raw_name": "1 month",
+    "status": "pending",
+    "uid": "72daf0a3-7fa0-400a-a87d-f742fd45b678"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnsccwbl", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnsccwbl", 
-    "namespace": "wcrp:cmip5:variable:tnsccwbl", 
-    "status": "pending", 
-    "uid": "3e01b4b4-89dd-44ac-a4b0-7d9a98fa7a33"
+    "_type": "term",
+    "canonical_name": "tnsccwbl",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnsccwbl",
+    "namespace": "wcrp:cmip5:variable:tnsccwbl",
+    "status": "pending",
+    "uid": "00790310-e1eb-4191-a69c-0e2ec686e42e"
 }

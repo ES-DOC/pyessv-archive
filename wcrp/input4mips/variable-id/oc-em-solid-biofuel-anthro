@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "oc-em-solid-biofuel-anthro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "OC-em-SOLID-BIOFUEL-anthro",
+    "label": "OC-em-SOLID-BIOFUEL-anthro",
+    "namespace": "wcrp:input4mips:variable-id:oc-em-solid-biofuel-anthro",
+    "raw_name": "OC-em-SOLID-BIOFUEL-anthro",
+    "status": "pending",
+    "uid": "78d0a235-e4b0-41a6-a8f0-230ed6d5f78a"
+}

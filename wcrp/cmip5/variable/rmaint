@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "rmaint", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rMaint", 
-    "label": "rMaint", 
-    "namespace": "wcrp:cmip5:variable:rmaint", 
-    "raw_name": "rMaint", 
-    "status": "pending", 
-    "uid": "83e778dd-4c52-43b6-ba48-e33169b3dd85"
+    "_type": "term",
+    "canonical_name": "rmaint",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rMaint",
+    "label": "rMaint",
+    "namespace": "wcrp:cmip5:variable:rmaint",
+    "raw_name": "rMaint",
+    "status": "pending",
+    "uid": "4fa70b9b-11f1-4f49-bbf9-e5581f581e42"
 }

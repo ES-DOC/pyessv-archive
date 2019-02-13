@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ta", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ta", 
-    "namespace": "wcrp:cmip5:variable:ta", 
-    "status": "pending", 
-    "uid": "28867212-f554-4117-b860-7a2e64151e96"
+    "_type": "term",
+    "canonical_name": "ta",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ta",
+    "namespace": "wcrp:cmip5:variable:ta",
+    "status": "pending",
+    "uid": "960d351d-04dd-410d-966b-9cf07f0adf60"
 }

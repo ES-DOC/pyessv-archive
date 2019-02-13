@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-methyl-bromide-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-methyl-bromide-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-methyl-bromide-in-air",
+    "status": "pending",
+    "uid": "4d65c283-f2e0-4f20-ad29-5e03fa4ddbeb"
+}

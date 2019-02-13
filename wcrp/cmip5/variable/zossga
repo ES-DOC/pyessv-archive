@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "zossga", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "zossga", 
-    "namespace": "wcrp:cmip5:variable:zossga", 
-    "status": "pending", 
-    "uid": "670d5944-6d35-43e7-85a3-c7a1988867bb"
+    "_type": "term",
+    "canonical_name": "zossga",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "zossga",
+    "namespace": "wcrp:cmip5:variable:zossga",
+    "status": "pending",
+    "uid": "7161c340-c6b9-4bf1-9acf-1b2f6a8d5e04"
 }

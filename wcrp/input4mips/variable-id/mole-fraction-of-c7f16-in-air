@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-c7f16-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-c7f16-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-c7f16-in-air",
+    "status": "pending",
+    "uid": "45379d3a-1c28-40d7-96bf-4ecdd164461a"
+}

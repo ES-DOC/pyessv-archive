@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "snownc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "snownc", 
-    "namespace": "wcrp:cordex:variable:snownc", 
-    "status": "pending", 
-    "uid": "c64802ea-d4f3-43e1-9c02-16b08bafd97f"
+    "_type": "term",
+    "canonical_name": "snownc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "snownc",
+    "namespace": "wcrp:cordex:variable:snownc",
+    "status": "pending",
+    "uid": "0f3733a0-1d21-4419-a6b1-94086761c350"
 }

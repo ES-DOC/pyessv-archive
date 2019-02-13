@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hur400", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hur400", 
-    "namespace": "wcrp:cordex:variable:hur400", 
-    "status": "pending", 
-    "uid": "713e8a8a-6fec-440e-9aaa-94f905b99a9f"
+    "_type": "term",
+    "canonical_name": "hur400",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hur400",
+    "namespace": "wcrp:cordex:variable:hur400",
+    "status": "pending",
+    "uid": "ee31d2b4-97b4-4610-95e9-c62c4b36b86f"
 }

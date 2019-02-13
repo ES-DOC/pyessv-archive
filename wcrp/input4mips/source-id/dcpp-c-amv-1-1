@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "dcpp-c-amv-1-1",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "DCPP-C-amv-1-1",
+    "label": "DCPP-C-amv-1-1",
+    "namespace": "wcrp:input4mips:source-id:dcpp-c-amv-1-1",
+    "raw_name": "DCPP-C-amv-1-1",
+    "status": "pending",
+    "uid": "b9518cec-9662-4210-99d0-79e73836ad77"
+}

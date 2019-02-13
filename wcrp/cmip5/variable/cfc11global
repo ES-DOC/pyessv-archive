@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "cfc11global", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cfc11global", 
-    "namespace": "wcrp:cmip5:variable:cfc11global", 
-    "status": "pending", 
-    "uid": "4e83ce08-035d-40db-b79d-5026f082192d"
+    "_type": "term",
+    "canonical_name": "cfc11global",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cfc11global",
+    "namespace": "wcrp:cmip5:variable:cfc11global",
+    "status": "pending",
+    "uid": "da102ddb-a597-4085-9429-1d9ac8c52f2a"
 }

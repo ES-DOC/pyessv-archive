@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "toluene-lump-percentage-agri",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Toluene-lump-percentage-AGRI",
+    "label": "Toluene-lump-percentage-AGRI",
+    "namespace": "wcrp:input4mips:variable-id:toluene-lump-percentage-agri",
+    "raw_name": "Toluene-lump-percentage-AGRI",
+    "status": "pending",
+    "uid": "c2732faf-a0fd-44dd-b33d-5b777575d44a"
+}

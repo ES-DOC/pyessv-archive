@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ccb", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ccb", 
-    "namespace": "wcrp:cmip5:variable:ccb", 
-    "status": "pending", 
-    "uid": "22b75119-3b7d-4202-bdbf-968ab1136702"
+    "_type": "term",
+    "canonical_name": "ccb",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ccb",
+    "namespace": "wcrp:cmip5:variable:ccb",
+    "status": "pending",
+    "uid": "2d762f0a-31c6-43b0-80c3-730b917f5157"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "htovovrt", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "htovovrt", 
-    "namespace": "wcrp:cmip5:variable:htovovrt", 
-    "status": "pending", 
-    "uid": "d6f11ecc-f198-4b51-985c-8329f30fd3e8"
+    "_type": "term",
+    "canonical_name": "htovovrt",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "htovovrt",
+    "namespace": "wcrp:cmip5:variable:htovovrt",
+    "status": "pending",
+    "uid": "ca9839a9-d289-4f3d-b520-54aa1b687dc0"
 }

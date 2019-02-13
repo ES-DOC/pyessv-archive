@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "treefracprimdec", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "treeFracPrimDec", 
-    "label": "treeFracPrimDec", 
-    "namespace": "wcrp:cmip5:variable:treefracprimdec", 
-    "raw_name": "treeFracPrimDec", 
-    "status": "pending", 
-    "uid": "d2ba3b3f-43c5-45d3-b3fa-afdb4aaa7a98"
+    "_type": "term",
+    "canonical_name": "treefracprimdec",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "treeFracPrimDec",
+    "label": "treeFracPrimDec",
+    "namespace": "wcrp:cmip5:variable:treefracprimdec",
+    "raw_name": "treeFracPrimDec",
+    "status": "pending",
+    "uid": "2d968e11-9393-4650-afe9-c5715bb3e56e"
 }

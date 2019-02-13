@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "ictp-regcm4-3", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ICTP-RegCM4-3", 
-    "label": "ICTP-RegCM4-3", 
-    "namespace": "wcrp:cordex:rcm-model:ictp-regcm4-3", 
-    "raw_name": "ICTP-RegCM4-3", 
-    "status": "pending", 
-    "uid": "48fb3e29-68c6-4452-88de-91186fd16617"
+    "_type": "term",
+    "canonical_name": "ictp-regcm4-3",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ICTP-RegCM4-3",
+    "label": "ICTP-RegCM4-3",
+    "namespace": "wcrp:cordex:rcm-model:ictp-regcm4-3",
+    "raw_name": "ICTP-RegCM4-3",
+    "status": "pending",
+    "uid": "38f02363-b599-43a7-8597-9bf8c04787bb"
 }

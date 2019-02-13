@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "auth-lhtee", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "AUTH-LHTEE", 
-    "label": "AUTH-LHTEE", 
-    "namespace": "wcrp:cordex:institute:auth-lhtee", 
-    "raw_name": "AUTH-LHTEE", 
-    "status": "pending", 
-    "uid": "8eaa804f-19b2-48c0-8925-ab8a7d00987a"
+    "_type": "term",
+    "canonical_name": "auth-lhtee",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "AUTH-LHTEE",
+    "label": "AUTH-LHTEE",
+    "namespace": "wcrp:cordex:institute:auth-lhtee",
+    "raw_name": "AUTH-LHTEE",
+    "status": "pending",
+    "uid": "65d70715-7cec-49fd-aa2e-1b08823361a5"
 }

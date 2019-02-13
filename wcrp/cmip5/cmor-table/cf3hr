@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "cf3hr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cf3hr", 
-    "namespace": "wcrp:cmip5:cmor-table:cf3hr", 
-    "status": "pending", 
-    "uid": "810350d2-2a71-4152-807f-f3c6378fcab1"
+    "_type": "term",
+    "canonical_name": "cf3hr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cf3hr",
+    "namespace": "wcrp:cmip5:cmor-table:cf3hr",
+    "status": "pending",
+    "uid": "14da1da3-4cc9-491a-890d-3c6d681507fa"
 }

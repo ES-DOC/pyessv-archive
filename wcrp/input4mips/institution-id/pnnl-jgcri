@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "pnnl-jgcri",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "PNNL-JGCRI",
+    "label": "PNNL-JGCRI",
+    "namespace": "wcrp:input4mips:institution-id:pnnl-jgcri",
+    "raw_name": "PNNL-JGCRI",
+    "status": "pending",
+    "uid": "b442eb26-3c4f-41e8-af1f-3e26b1741dc7"
+}

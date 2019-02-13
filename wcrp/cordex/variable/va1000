@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "va1000", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "va1000", 
-    "namespace": "wcrp:cordex:variable:va1000", 
-    "status": "pending", 
-    "uid": "7696bcfb-d531-49d2-afae-3571174b9d55"
+    "_type": "term",
+    "canonical_name": "va1000",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "va1000",
+    "namespace": "wcrp:cordex:variable:va1000",
+    "status": "pending",
+    "uid": "238e26e3-5f0c-41e5-a247-58d9a1743bb9"
 }

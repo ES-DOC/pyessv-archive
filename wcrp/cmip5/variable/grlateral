@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "grlateral", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "grLateral", 
-    "label": "grLateral", 
-    "namespace": "wcrp:cmip5:variable:grlateral", 
-    "raw_name": "grLateral", 
-    "status": "pending", 
-    "uid": "76d37378-c0f5-4514-a960-1d4a31bc4f64"
+    "_type": "term",
+    "canonical_name": "grlateral",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "grLateral",
+    "label": "grLateral",
+    "namespace": "wcrp:cmip5:variable:grlateral",
+    "raw_name": "grLateral",
+    "status": "pending",
+    "uid": "adfa5860-b0c3-4858-8bae-62dd858ae6d8"
 }

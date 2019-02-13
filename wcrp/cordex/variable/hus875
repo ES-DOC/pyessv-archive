@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hus875", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hus875", 
-    "namespace": "wcrp:cordex:variable:hus875", 
-    "status": "pending", 
-    "uid": "12ffb6de-3634-4cac-add1-72e80fe8951e"
+    "_type": "term",
+    "canonical_name": "hus875",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hus875",
+    "namespace": "wcrp:cordex:variable:hus875",
+    "status": "pending",
+    "uid": "436199dc-f4cd-4379-82c4-b25da5de524c"
 }

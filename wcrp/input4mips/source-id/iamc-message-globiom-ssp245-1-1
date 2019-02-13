@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "iamc-message-globiom-ssp245-1-1",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "IAMC-MESSAGE-GLOBIOM-ssp245-1-1",
+    "label": "IAMC-MESSAGE-GLOBIOM-ssp245-1-1",
+    "namespace": "wcrp:input4mips:source-id:iamc-message-globiom-ssp245-1-1",
+    "raw_name": "IAMC-MESSAGE-GLOBIOM-ssp245-1-1",
+    "status": "pending",
+    "uid": "900ec14c-7818-4be3-9f22-307b92e6df86"
+}

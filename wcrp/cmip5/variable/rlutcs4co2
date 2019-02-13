@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rlutcs4co2", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rlutcs4co2", 
-    "namespace": "wcrp:cmip5:variable:rlutcs4co2", 
-    "status": "pending", 
-    "uid": "40b14365-2c84-4873-b7c5-d964895ab339"
+    "_type": "term",
+    "canonical_name": "rlutcs4co2",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rlutcs4co2",
+    "namespace": "wcrp:cmip5:variable:rlutcs4co2",
+    "status": "pending",
+    "uid": "83136629-df49-4ebe-acab-88eabdef58a9"
 }

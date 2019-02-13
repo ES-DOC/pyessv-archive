@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "miroc4h", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "MIROC4h", 
-    "label": "MIROC4h", 
-    "namespace": "wcrp:cmip5:model:miroc4h", 
-    "raw_name": "MIROC4h", 
-    "status": "pending", 
-    "uid": "8eaef437-7e00-4bf5-acc1-5617704ae011"
+    "_type": "term",
+    "canonical_name": "miroc4h",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "MIROC4h",
+    "label": "MIROC4h",
+    "namespace": "wcrp:cmip5:model:miroc4h",
+    "raw_name": "MIROC4h",
+    "status": "pending",
+    "uid": "dfa28006-b95d-4d98-8d6c-28d645f215a7"
 }

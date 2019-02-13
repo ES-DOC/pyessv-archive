@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "grids", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "grids", 
-    "namespace": "wcrp:cmip5:cmor-table:grids", 
-    "status": "pending", 
-    "uid": "6485f84e-8bd0-46d2-ac9b-e259885fb2b5"
+    "_type": "term",
+    "canonical_name": "grids",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "grids",
+    "namespace": "wcrp:cmip5:cmor-table:grids",
+    "status": "pending",
+    "uid": "ad693ea3-ab4c-4e9a-ba04-d2ed35cc2bdb"
 }

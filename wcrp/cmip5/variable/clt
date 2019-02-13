@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clt", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clt", 
-    "namespace": "wcrp:cmip5:variable:clt", 
-    "status": "pending", 
-    "uid": "7867f73f-7bff-49c0-a7c3-d70f159bb66a"
+    "_type": "term",
+    "canonical_name": "clt",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clt",
+    "namespace": "wcrp:cmip5:variable:clt",
+    "status": "pending",
+    "uid": "d158d2e9-df0f-4a14-8874-a2ec7273293a"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "strocny", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "strocny", 
-    "namespace": "wcrp:cmip5:variable:strocny", 
-    "status": "pending", 
-    "uid": "2813002d-25b1-462b-9904-2b67bcba181d"
+    "_type": "term",
+    "canonical_name": "strocny",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "strocny",
+    "namespace": "wcrp:cmip5:variable:strocny",
+    "status": "pending",
+    "uid": "f11a5433-16bc-4edf-9a55-58255cec8675"
 }

@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "psl",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "psl",
+    "namespace": "wcrp:input4mips:variable-id:psl",
+    "status": "pending",
+    "uid": "51f4d609-1681-4c0d-a1a2-12942d3b398c"
+}

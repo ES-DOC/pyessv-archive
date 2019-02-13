@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "aus-44i", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Australasia", 
-    "label": "AUS-44i", 
-    "namespace": "wcrp:cordex:domain:aus-44i", 
-    "raw_name": "AUS-44i", 
-    "status": "pending", 
-    "uid": "0d5c66db-88dd-4d76-abe2-e54c3c735018"
+    "_type": "term",
+    "canonical_name": "aus-44i",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Australasia",
+    "label": "AUS-44i",
+    "namespace": "wcrp:cordex:domain:aus-44i",
+    "raw_name": "AUS-44i",
+    "status": "pending",
+    "uid": "05fbdbca-4da3-44cf-986b-9eb721f7f9fd"
 }

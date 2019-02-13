@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clice200", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clice200", 
-    "namespace": "wcrp:cordex:variable:clice200", 
-    "status": "pending", 
-    "uid": "a0c8f0d6-1b45-4597-ac03-7430a75df774"
+    "_type": "term",
+    "canonical_name": "clice200",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clice200",
+    "namespace": "wcrp:cordex:variable:clice200",
+    "status": "pending",
+    "uid": "e5556fef-7b73-4956-83f8-42c8de807ba8"
 }

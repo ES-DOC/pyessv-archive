@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "insert", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "Insert", 
-    "namespace": "esdoc:errata:pid-task-action:insert", 
-    "status": "pending", 
+    "_type": "term",
+    "canonical_name": "insert",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "Insert",
+    "namespace": "esdoc:errata:pid-task-action:insert",
+    "status": "pending",
     "uid": "89bbc13d-bd1d-4de8-9990-3a8d802939e3"
 }

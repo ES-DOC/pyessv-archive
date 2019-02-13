@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "yr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "yr", 
-    "namespace": "wcrp:cmip5:time-frequency:yr", 
-    "status": "pending", 
-    "uid": "0168359e-5e79-4dda-a545-cf0c79be326a"
+    "_type": "term",
+    "canonical_name": "yr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "yr",
+    "namespace": "wcrp:cmip5:time-frequency:yr",
+    "status": "pending",
+    "uid": "fbdec8d6-63dc-42f5-9973-b23310f6440d"
 }

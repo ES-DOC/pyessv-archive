@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "p700", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "p700", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:p700", 
-    "status": "pending", 
-    "uid": "fdd2aaaa-34cd-4576-bf7b-03a64308a8f9"
+    "_type": "term",
+    "canonical_name": "p700",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "p700",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:p700",
+    "status": "pending",
+    "uid": "627d1e77-b56e-4312-8231-bd715017ee79"
 }

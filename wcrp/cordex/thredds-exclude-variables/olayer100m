@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "olayer100m", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "olayer100m", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:olayer100m", 
-    "status": "pending", 
-    "uid": "d8e6e9ad-9f86-43d8-a94d-2b79dd843de2"
+    "_type": "term",
+    "canonical_name": "olayer100m",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "olayer100m",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:olayer100m",
+    "status": "pending",
+    "uid": "1ac1b060-0568-4370-a761-85981f64ded2"
 }

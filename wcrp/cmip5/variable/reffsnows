@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "reffsnows", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "reffsnows", 
-    "namespace": "wcrp:cmip5:variable:reffsnows", 
-    "status": "pending", 
-    "uid": "ff6fa69f-36d4-4791-8253-c8a488d56202"
+    "_type": "term",
+    "canonical_name": "reffsnows",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "reffsnows",
+    "namespace": "wcrp:cmip5:variable:reffsnows",
+    "status": "pending",
+    "uid": "8870c58d-2ca5-4efd-bf7d-d04e124e88f6"
 }

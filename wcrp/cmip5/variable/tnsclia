@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnsclia", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnsclia", 
-    "namespace": "wcrp:cmip5:variable:tnsclia", 
-    "status": "pending", 
-    "uid": "213696a5-45be-4907-be4d-146b30488fb2"
+    "_type": "term",
+    "canonical_name": "tnsclia",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnsclia",
+    "namespace": "wcrp:cmip5:variable:tnsclia",
+    "status": "pending",
+    "uid": "a8030daa-a84a-4847-b34c-be3f39293bdf"
 }

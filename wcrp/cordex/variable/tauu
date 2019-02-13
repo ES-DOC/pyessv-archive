@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tauu", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tauu", 
-    "namespace": "wcrp:cordex:variable:tauu", 
-    "status": "pending", 
-    "uid": "90eb1c3f-213a-4cea-b62c-9eb330320cba"
+    "_type": "term",
+    "canonical_name": "tauu",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tauu",
+    "namespace": "wcrp:cordex:variable:tauu",
+    "status": "pending",
+    "uid": "aba00abe-881a-4f94-b3fb-093b8e0b5328"
 }

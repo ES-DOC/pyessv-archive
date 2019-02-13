@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "rsds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rsds",
+    "namespace": "wcrp:input4mips:variable-id:rsds",
+    "status": "pending",
+    "uid": "7f2357fe-71b9-4133-ae7b-2d1a0e3a1fc8"
+}

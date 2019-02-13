@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clice950", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clice950", 
-    "namespace": "wcrp:cordex:variable:clice950", 
-    "status": "pending", 
-    "uid": "c2faf21e-02ad-454e-ae7b-de8d8cebbacf"
+    "_type": "term",
+    "canonical_name": "clice950",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clice950",
+    "namespace": "wcrp:cordex:variable:clice950",
+    "status": "pending",
+    "uid": "46c1bb0f-3737-48de-be08-ceef7274c6db"
 }

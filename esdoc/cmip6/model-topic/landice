@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "landice", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "Land Ice", 
-    "namespace": "esdoc:cmip6:model-topic:landice", 
-    "raw_name": "landIce", 
-    "status": "pending", 
+    "_type": "term",
+    "canonical_name": "landice",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "Land Ice",
+    "namespace": "esdoc:cmip6:model-topic:landice",
+    "raw_name": "landIce",
+    "status": "pending",
     "uid": "b6de13c9-213a-4c16-8161-9ae3aecdb9f4"
 }

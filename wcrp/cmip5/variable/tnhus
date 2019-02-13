@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnhus", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnhus", 
-    "namespace": "wcrp:cmip5:variable:tnhus", 
-    "status": "pending", 
-    "uid": "9955e530-8627-4911-9392-6a4b8b07d5fc"
+    "_type": "term",
+    "canonical_name": "tnhus",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnhus",
+    "namespace": "wcrp:cmip5:variable:tnhus",
+    "status": "pending",
+    "uid": "03c35f59-d90f-4b33-80e1-595cce811917"
 }

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "sstclim4xco2", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sstClim with CO2 forcing", 
-    "label": "sstClim4xCO2", 
-    "namespace": "wcrp:cmip5:experiment:sstclim4xco2", 
-    "raw_name": "sstClim4xCO2", 
-    "status": "pending", 
-    "uid": "412f4d54-4106-44a1-916a-ee1c55862cb4"
+    "_type": "term",
+    "canonical_name": "sstclim4xco2",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sstClim with CO2 forcing",
+    "label": "sstClim4xCO2",
+    "namespace": "wcrp:cmip5:experiment:sstclim4xco2",
+    "raw_name": "sstClim4xCO2",
+    "status": "pending",
+    "uid": "ace9deb1-eda7-43e6-afe3-a1987a9a31c8"
 }

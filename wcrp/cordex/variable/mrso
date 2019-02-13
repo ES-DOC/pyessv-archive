@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "mrso", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mrso", 
-    "namespace": "wcrp:cordex:variable:mrso", 
-    "status": "pending", 
-    "uid": "117db4bd-670c-4628-92c3-ef14b1d46eb1"
+    "_type": "term",
+    "canonical_name": "mrso",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mrso",
+    "namespace": "wcrp:cordex:variable:mrso",
+    "status": "pending",
+    "uid": "bb40a844-168d-48e7-80fc-e459aab003b0"
 }

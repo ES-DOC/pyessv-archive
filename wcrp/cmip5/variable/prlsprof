@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "prlsprof", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "prlsprof", 
-    "namespace": "wcrp:cmip5:variable:prlsprof", 
-    "status": "pending", 
-    "uid": "e834ca70-550c-4e7b-ad83-2e30e1ec8a3a"
+    "_type": "term",
+    "canonical_name": "prlsprof",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "prlsprof",
+    "namespace": "wcrp:cmip5:variable:prlsprof",
+    "status": "pending",
+    "uid": "969a49f8-25a3-44ba-91c4-3aa00a11486e"
 }

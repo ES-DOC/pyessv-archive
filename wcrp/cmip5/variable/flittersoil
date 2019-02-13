@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "flittersoil", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "fLitterSoil", 
-    "label": "fLitterSoil", 
-    "namespace": "wcrp:cmip5:variable:flittersoil", 
-    "raw_name": "fLitterSoil", 
-    "status": "pending", 
-    "uid": "4e8ef1a1-7eeb-4778-993f-6c94e4edcc83"
+    "_type": "term",
+    "canonical_name": "flittersoil",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "fLitterSoil",
+    "label": "fLitterSoil",
+    "namespace": "wcrp:cmip5:variable:flittersoil",
+    "raw_name": "fLitterSoil",
+    "status": "pending",
+    "uid": "d1468cae-b5c9-4b24-b080-9791b94fd1d7"
 }

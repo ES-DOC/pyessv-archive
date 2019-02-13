@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "umo", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "umo", 
-    "namespace": "wcrp:cmip5:variable:umo", 
-    "status": "pending", 
-    "uid": "db04115d-6e22-4441-a861-a58c77a3d451"
+    "_type": "term",
+    "canonical_name": "umo",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "umo",
+    "namespace": "wcrp:cmip5:variable:umo",
+    "status": "pending",
+    "uid": "82ce1dd1-4ca3-4807-9508-7ed593f7382a"
 }

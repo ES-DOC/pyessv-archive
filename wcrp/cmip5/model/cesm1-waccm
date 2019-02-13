@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cesm1-waccm", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CESM1-WACCM", 
-    "label": "CESM1-WACCM", 
-    "namespace": "wcrp:cmip5:model:cesm1-waccm", 
-    "raw_name": "CESM1-WACCM", 
-    "status": "pending", 
-    "uid": "9a235888-380e-407a-966f-947fef5a56bc"
+    "_type": "term",
+    "canonical_name": "cesm1-waccm",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CESM1-WACCM",
+    "label": "CESM1-WACCM",
+    "namespace": "wcrp:cmip5:model:cesm1-waccm",
+    "raw_name": "CESM1-WACCM",
+    "status": "pending",
+    "uid": "de3eeef0-77c8-4e75-8971-a03a2497a089"
 }

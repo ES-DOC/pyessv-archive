@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "zg", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "zg", 
-    "namespace": "wcrp:cmip5:variable:zg", 
-    "status": "pending", 
-    "uid": "22b65731-0bc5-4753-895f-30935777d9d8"
+    "_type": "term",
+    "canonical_name": "zg",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "zg",
+    "namespace": "wcrp:cmip5:variable:zg",
+    "status": "pending",
+    "uid": "f680bf4c-e136-4493-aa22-4942a5bb1dd9"
 }

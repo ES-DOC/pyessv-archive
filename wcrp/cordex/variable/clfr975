@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clfr975", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clfr975", 
-    "namespace": "wcrp:cordex:variable:clfr975", 
-    "status": "pending", 
-    "uid": "a84b1a2a-04aa-4387-b2e0-470db2827ca1"
+    "_type": "term",
+    "canonical_name": "clfr975",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clfr975",
+    "namespace": "wcrp:cordex:variable:clfr975",
+    "status": "pending",
+    "uid": "619219c6-f880-4c1f-bce8-5187d53f3767"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hfrunoffds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hfrunoffds", 
-    "namespace": "wcrp:cmip5:variable:hfrunoffds", 
-    "status": "pending", 
-    "uid": "d460fb93-6825-4f2f-bb75-b8e2570f66c0"
+    "_type": "term",
+    "canonical_name": "hfrunoffds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hfrunoffds",
+    "namespace": "wcrp:cmip5:variable:hfrunoffds",
+    "status": "pending",
+    "uid": "7e547160-9b09-424e-b651-df5ab79ee9c2"
 }

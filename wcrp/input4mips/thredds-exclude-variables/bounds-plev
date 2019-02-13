@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "bounds-plev",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "bounds_plev",
+    "label": "bounds_plev",
+    "namespace": "wcrp:input4mips:thredds-exclude-variables:bounds-plev",
+    "raw_name": "bounds_plev",
+    "status": "pending",
+    "uid": "8af9bf3e-4749-4993-9032-9ab836d90f7f"
+}

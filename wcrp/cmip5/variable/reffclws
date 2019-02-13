@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "reffclws", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "reffclws", 
-    "namespace": "wcrp:cmip5:variable:reffclws", 
-    "status": "pending", 
-    "uid": "e95674fc-9601-426d-ab5d-850f333de8a3"
+    "_type": "term",
+    "canonical_name": "reffclws",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "reffclws",
+    "namespace": "wcrp:cmip5:variable:reffclws",
+    "status": "pending",
+    "uid": "803adfad-3e18-4944-a815-173952951aff"
 }

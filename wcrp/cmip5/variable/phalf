@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "phalf", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "phalf", 
-    "namespace": "wcrp:cmip5:variable:phalf", 
-    "status": "pending", 
-    "uid": "079e0658-c405-4197-b994-53978bfaeca1"
+    "_type": "term",
+    "canonical_name": "phalf",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "phalf",
+    "namespace": "wcrp:cmip5:variable:phalf",
+    "status": "pending",
+    "uid": "9c6d1da0-d81b-4f56-ae84-a880669a2e73"
 }

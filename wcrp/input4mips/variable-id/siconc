@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "siconc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "siconc",
+    "namespace": "wcrp:input4mips:variable-id:siconc",
+    "status": "pending",
+    "uid": "f7b65125-e61e-470c-8143-b72d3559b87d"
+}

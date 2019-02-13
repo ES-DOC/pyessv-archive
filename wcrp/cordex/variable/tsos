@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tsos", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tsos", 
-    "namespace": "wcrp:cordex:variable:tsos", 
-    "status": "pending", 
-    "uid": "30c78737-a178-42dd-a392-754400cc8fba"
+    "_type": "term",
+    "canonical_name": "tsos",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tsos",
+    "namespace": "wcrp:cordex:variable:tsos",
+    "status": "pending",
+    "uid": "984fdf65-2eae-4f0c-9798-ae3bf2ae27e4"
 }

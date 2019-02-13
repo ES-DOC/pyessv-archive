@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "6hrlev", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "6hrLev", 
-    "label": "6hrLev", 
-    "namespace": "wcrp:cmip5:cmor-table:6hrlev", 
-    "raw_name": "6hrLev", 
-    "status": "pending", 
-    "uid": "6f809795-4a04-4520-b286-cff91c46384d"
+    "_type": "term",
+    "canonical_name": "6hrlev",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "6hrLev",
+    "label": "6hrLev",
+    "namespace": "wcrp:cmip5:cmor-table:6hrlev",
+    "raw_name": "6hrLev",
+    "status": "pending",
+    "uid": "64f2765d-0155-4e68-b740-1f7cf033d489"
 }

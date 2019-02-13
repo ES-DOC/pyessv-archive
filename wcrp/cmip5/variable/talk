@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "talk", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "talk", 
-    "namespace": "wcrp:cmip5:variable:talk", 
-    "status": "pending", 
-    "uid": "92259527-5954-45ce-ae16-762684c6e654"
+    "_type": "term",
+    "canonical_name": "talk",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "talk",
+    "namespace": "wcrp:cmip5:variable:talk",
+    "status": "pending",
+    "uid": "e7cdea63-6e70-4064-ad46-74fd305ba367"
 }

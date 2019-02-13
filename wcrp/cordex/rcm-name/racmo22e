@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "racmo22e", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "RACMO22E", 
-    "namespace": "wcrp:cordex:rcm-name:racmo22e", 
-    "raw_name": "RACMO22E", 
-    "status": "pending", 
-    "uid": "84a2d3f7-ae4e-4d3a-913d-c3c764fe4a18"
+    "_type": "term",
+    "canonical_name": "racmo22e",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "RACMO22E",
+    "namespace": "wcrp:cordex:rcm-name:racmo22e",
+    "raw_name": "RACMO22E",
+    "status": "pending",
+    "uid": "afc238e6-42c3-400e-b77a-e1184a9d339a"
 }

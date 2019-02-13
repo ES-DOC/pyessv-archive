@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "intpdiaz", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "intpdiaz", 
-    "namespace": "wcrp:cmip5:variable:intpdiaz", 
-    "status": "pending", 
-    "uid": "330f5bbf-1d5d-4884-9ba4-202370a0127a"
+    "_type": "term",
+    "canonical_name": "intpdiaz",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "intpdiaz",
+    "namespace": "wcrp:cmip5:variable:intpdiaz",
+    "status": "pending",
+    "uid": "cbe19e5f-7161-4c49-9aef-31d169f852b1"
 }

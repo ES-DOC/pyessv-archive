@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "prc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "prc", 
-    "namespace": "wcrp:cmip5:variable:prc", 
-    "status": "pending", 
-    "uid": "e02f2700-a480-41bc-8946-272296cadec8"
+    "_type": "term",
+    "canonical_name": "prc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "prc",
+    "namespace": "wcrp:cmip5:variable:prc",
+    "status": "pending",
+    "uid": "ab3b3729-1d99-419b-b8d1-7ccf5a007b02"
 }

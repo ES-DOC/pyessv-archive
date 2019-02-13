@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "10-years", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "10 years", 
-    "namespace": "wcrp:cmip6:las-time-delta:10-years", 
-    "raw_name": "10 years", 
-    "status": "pending", 
-    "uid": "bc14f06e-8193-4d0b-9f18-b75ede8ee2af"
+    "_type": "term",
+    "canonical_name": "10-years",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "10 years",
+    "namespace": "wcrp:cmip6:las-time-delta:10-years",
+    "raw_name": "10 years",
+    "status": "pending",
+    "uid": "e30185c5-91b6-4277-af52-a2ad50fba236"
 }

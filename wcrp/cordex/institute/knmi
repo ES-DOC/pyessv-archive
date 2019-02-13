@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "knmi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "KNMI", 
-    "label": "KNMI", 
-    "namespace": "wcrp:cordex:institute:knmi", 
-    "raw_name": "KNMI", 
-    "status": "pending", 
-    "uid": "90728af4-9de6-4e33-9cf1-4536973459d6"
+    "_type": "term",
+    "canonical_name": "knmi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "KNMI",
+    "label": "KNMI",
+    "namespace": "wcrp:cordex:institute:knmi",
+    "raw_name": "KNMI",
+    "status": "pending",
+    "uid": "b02e6c5a-4d21-4b97-8f5d-f0cdf8c1fff0"
 }

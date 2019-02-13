@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnscli", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnscli", 
-    "namespace": "wcrp:cmip5:variable:tnscli", 
-    "status": "pending", 
-    "uid": "f6cc139d-3202-43b9-ba7c-1a81dd43870e"
+    "_type": "term",
+    "canonical_name": "tnscli",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnscli",
+    "namespace": "wcrp:cmip5:variable:tnscli",
+    "status": "pending",
+    "uid": "8326ac2d-c39b-4102-bcc1-a96a3297f88d"
 }

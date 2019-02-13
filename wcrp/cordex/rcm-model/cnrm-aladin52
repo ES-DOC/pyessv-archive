@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cnrm-aladin52", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CNRM-ALADIN52", 
-    "label": "CNRM-ALADIN52", 
-    "namespace": "wcrp:cordex:rcm-model:cnrm-aladin52", 
-    "raw_name": "CNRM-ALADIN52", 
-    "status": "pending", 
-    "uid": "34f39b24-f73a-48ac-8ab4-b531ada7388f"
+    "_type": "term",
+    "canonical_name": "cnrm-aladin52",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CNRM-ALADIN52",
+    "label": "CNRM-ALADIN52",
+    "namespace": "wcrp:cordex:rcm-model:cnrm-aladin52",
+    "raw_name": "CNRM-ALADIN52",
+    "status": "pending",
+    "uid": "b2ad9c7a-2b8d-4425-81d5-673c5fda5167"
 }

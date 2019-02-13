@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sund", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sund", 
-    "namespace": "wcrp:cordex:variable:sund", 
-    "status": "pending", 
-    "uid": "2cb2103b-3048-4533-881f-0ff849f64f2e"
+    "_type": "term",
+    "canonical_name": "sund",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sund",
+    "namespace": "wcrp:cordex:variable:sund",
+    "status": "pending",
+    "uid": "d8df2cb0-acc6-4c2b-aa33-a6b6195a249e"
 }

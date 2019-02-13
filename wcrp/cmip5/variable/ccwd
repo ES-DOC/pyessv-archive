@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "ccwd", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cCwd", 
-    "label": "cCwd", 
-    "namespace": "wcrp:cmip5:variable:ccwd", 
-    "raw_name": "cCwd", 
-    "status": "pending", 
-    "uid": "5a5a7378-4756-41f1-94b1-877e7dfba339"
+    "_type": "term",
+    "canonical_name": "ccwd",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cCwd",
+    "label": "cCwd",
+    "namespace": "wcrp:cmip5:variable:ccwd",
+    "raw_name": "cCwd",
+    "status": "pending",
+    "uid": "4dbfa1fe-66b6-4098-ac77-511bf1d6ff81"
 }

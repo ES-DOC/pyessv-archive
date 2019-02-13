@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "idl-wrf331d", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "IDL-WRF331D", 
-    "label": "IDL-WRF331D", 
-    "namespace": "wcrp:cordex:rcm-model:idl-wrf331d", 
-    "raw_name": "IDL-WRF331D", 
-    "status": "pending", 
-    "uid": "517dc463-5bda-4481-84fc-c6d00a75b668"
+    "_type": "term",
+    "canonical_name": "idl-wrf331d",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "IDL-WRF331D",
+    "label": "IDL-WRF331D",
+    "namespace": "wcrp:cordex:rcm-model:idl-wrf331d",
+    "raw_name": "IDL-WRF331D",
+    "status": "pending",
+    "uid": "76235040-ab65-4727-9889-5c37ef61315b"
 }

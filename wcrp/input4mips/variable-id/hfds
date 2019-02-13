@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "hfds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hfds",
+    "namespace": "wcrp:input4mips:variable-id:hfds",
+    "status": "pending",
+    "uid": "43fd8f67-5b43-4b7e-8caa-0bc186b41f47"
+}

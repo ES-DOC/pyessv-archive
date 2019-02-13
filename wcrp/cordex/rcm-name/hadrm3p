@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "hadrm3p", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "HadRM3P", 
-    "namespace": "wcrp:cordex:rcm-name:hadrm3p", 
-    "raw_name": "HadRM3P", 
-    "status": "pending", 
-    "uid": "a90fab37-9e4c-47ff-9115-0246e724b46c"
+    "_type": "term",
+    "canonical_name": "hadrm3p",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "HadRM3P",
+    "namespace": "wcrp:cordex:rcm-name:hadrm3p",
+    "raw_name": "HadRM3P",
+    "status": "pending",
+    "uid": "11f46640-95b4-43f4-b510-61e129eed6d2"
 }

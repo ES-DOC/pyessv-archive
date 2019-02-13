@@ -1,51 +1,51 @@
 {
-    "_type": "term", 
-    "canonical_name": "hammoz-consortium", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
+    "_type": "term",
+    "canonical_name": "hammoz-consortium",
+    "create_date": "2017-06-21 00:00:00+00:00",
     "data": {
         "consortia": [
             {
-                "code": "ETH", 
-                "homepage": "", 
+                "code": "ETH",
+                "homepage": "",
                 "postalAddress": ""
-            }, 
+            },
             {
-                "code": "MPI-M", 
-                "homepage": "", 
+                "code": "MPI-M",
+                "homepage": "",
                 "postalAddress": ""
-            }, 
+            },
             {
-                "code": "Forschungszentrum Julich", 
-                "homepage": "", 
+                "code": "Forschungszentrum Julich",
+                "homepage": "",
                 "postalAddress": ""
-            }, 
+            },
             {
-                "code": "University of Oxford", 
-                "homepage": "", 
+                "code": "University of Oxford",
+                "homepage": "",
                 "postalAddress": ""
-            }, 
+            },
             {
-                "code": "Finnish Meteorological Institute", 
-                "homepage": "", 
+                "code": "Finnish Meteorological Institute",
+                "homepage": "",
                 "postalAddress": ""
-            }, 
+            },
             {
-                "code": "Leibniz Institute for Tropospheric Research", 
-                "homepage": "", 
+                "code": "Leibniz Institute for Tropospheric Research",
+                "homepage": "",
                 "postalAddress": ""
-            }, 
+            },
             {
-                "code": "C2SM", 
-                "homepage": "", 
+                "code": "C2SM",
+                "homepage": "",
                 "postalAddress": ""
             }
-        ], 
-        "homepage": "http://www.c2sm.ethz.ch/services/global-climate-modeling.html", 
+        ],
+        "homepage": "http://www.c2sm.ethz.ch/services/global-climate-modeling.html",
         "postalAddress": ""
-    }, 
-    "label": "HAMMOZ-Consortium", 
-    "namespace": "wcrp:cmip6:institution-id:hammoz-consortium", 
-    "raw_name": "HAMMOZ-Consortium", 
-    "status": "pending", 
+    },
+    "label": "HAMMOZ-Consortium",
+    "namespace": "wcrp:cmip6:institution-id:hammoz-consortium",
+    "raw_name": "HAMMOZ-Consortium",
+    "status": "pending",
     "uid": "85cd8944-c340-4c15-b5c1-76a1a251bfa6"
 }

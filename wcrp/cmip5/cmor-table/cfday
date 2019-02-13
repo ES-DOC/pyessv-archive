@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cfday", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cfDay", 
-    "label": "cfDay", 
-    "namespace": "wcrp:cmip5:cmor-table:cfday", 
-    "raw_name": "cfDay", 
-    "status": "pending", 
-    "uid": "5e904f49-9450-4072-a74c-b4a20938266b"
+    "_type": "term",
+    "canonical_name": "cfday",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cfDay",
+    "label": "cfDay",
+    "namespace": "wcrp:cmip5:cmor-table:cfday",
+    "raw_name": "cfDay",
+    "status": "pending",
+    "uid": "1d9cced1-a0c5-4dec-9ef4-91136c1b511b"
 }

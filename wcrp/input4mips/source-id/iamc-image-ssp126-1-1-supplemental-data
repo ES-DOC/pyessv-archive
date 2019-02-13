@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "iamc-image-ssp126-1-1-supplemental-data",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "IAMC-IMAGE-ssp126-1-1-supplemental-data",
+    "label": "IAMC-IMAGE-ssp126-1-1-supplemental-data",
+    "namespace": "wcrp:input4mips:source-id:iamc-image-ssp126-1-1-supplemental-data",
+    "raw_name": "IAMC-IMAGE-ssp126-1-1-supplemental-data",
+    "status": "pending",
+    "uid": "48287ce0-0018-4c02-a273-32b4a599e4ee"
+}

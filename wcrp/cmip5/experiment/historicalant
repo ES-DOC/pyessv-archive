@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "historicalant", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Historical with anthropogenic forcing only", 
-    "label": "historicalAnt", 
-    "namespace": "wcrp:cmip5:experiment:historicalant", 
-    "raw_name": "historicalAnt", 
-    "status": "pending", 
-    "uid": "29d2c377-e69d-4eda-95a6-67b3e2f8ac06"
+    "_type": "term",
+    "canonical_name": "historicalant",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Historical with anthropogenic forcing only",
+    "label": "historicalAnt",
+    "namespace": "wcrp:cmip5:experiment:historicalant",
+    "raw_name": "historicalAnt",
+    "status": "pending",
+    "uid": "b5e93611-a977-4fb0-a979-143d97220bbc"
 }

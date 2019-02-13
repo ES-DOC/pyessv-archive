@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cuni", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CUNI", 
-    "label": "CUNI", 
-    "namespace": "wcrp:cordex:institute:cuni", 
-    "raw_name": "CUNI", 
-    "status": "pending", 
-    "uid": "110532ef-d764-4ab0-8e5c-1473aabd6651"
+    "_type": "term",
+    "canonical_name": "cuni",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CUNI",
+    "label": "CUNI",
+    "namespace": "wcrp:cordex:institute:cuni",
+    "raw_name": "CUNI",
+    "status": "pending",
+    "uid": "99fe1cb1-86e7-498e-88c1-0daf57e070b1"
 }

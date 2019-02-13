@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "seasonal-mean", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "seasonal mean", 
-    "namespace": "wcrp:cordex:las-time-delta:seasonal-mean", 
-    "raw_name": "seasonal mean", 
-    "status": "pending", 
-    "uid": "b9716a0a-13e7-4284-8991-f09fa933e651"
+    "_type": "term",
+    "canonical_name": "seasonal-mean",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "seasonal mean",
+    "namespace": "wcrp:cordex:las-time-delta:seasonal-mean",
+    "raw_name": "seasonal mean",
+    "status": "pending",
+    "uid": "150ed746-0f7b-46a5-ba9d-c1796229b29c"
 }

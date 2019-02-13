@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "strocnx", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "strocnx", 
-    "namespace": "wcrp:cmip5:variable:strocnx", 
-    "status": "pending", 
-    "uid": "b762e7ec-c2c6-4f38-b641-9cc62cdf553c"
+    "_type": "term",
+    "canonical_name": "strocnx",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "strocnx",
+    "namespace": "wcrp:cmip5:variable:strocnx",
+    "status": "pending",
+    "uid": "b9561baa-0663-4c9a-b8ef-bf0d2f3f4a7a"
 }

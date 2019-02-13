@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "dbze", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "dbze", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:dbze", 
-    "status": "pending", 
-    "uid": "a8b69724-314b-4bbd-8103-8c6254c0ca46"
+    "_type": "term",
+    "canonical_name": "dbze",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "dbze",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:dbze",
+    "status": "pending",
+    "uid": "deadd474-acc1-4ac9-b0db-83d50d93a20e"
 }

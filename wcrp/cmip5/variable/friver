@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "friver", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "friver", 
-    "namespace": "wcrp:cmip5:variable:friver", 
-    "status": "pending", 
-    "uid": "ff12fdd0-7f4e-46fc-bb7e-016182cd80d6"
+    "_type": "term",
+    "canonical_name": "friver",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "friver",
+    "namespace": "wcrp:cmip5:variable:friver",
+    "status": "pending",
+    "uid": "d9c8ca6c-f8b0-4528-9cdf-72004280dd06"
 }

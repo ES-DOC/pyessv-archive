@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "voc08-propene-em-speciated-voc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "VOC08-propene-em-speciated-VOC",
+    "label": "VOC08-propene-em-speciated-VOC",
+    "namespace": "wcrp:input4mips:variable-id:voc08-propene-em-speciated-voc",
+    "raw_name": "VOC08-propene-em-speciated-VOC",
+    "status": "pending",
+    "uid": "cdf472b9-0fed-450a-a2a4-35648f78e435"
+}

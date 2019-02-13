@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "snotoice", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "snoToIce", 
-    "label": "snoToIce", 
-    "namespace": "wcrp:cmip5:variable:snotoice", 
-    "raw_name": "snoToIce", 
-    "status": "pending", 
-    "uid": "629513f1-3ee6-4cc7-9d4b-645f12a1f3e6"
+    "_type": "term",
+    "canonical_name": "snotoice",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "snoToIce",
+    "label": "snoToIce",
+    "namespace": "wcrp:cmip5:variable:snotoice",
+    "raw_name": "snoToIce",
+    "status": "pending",
+    "uid": "a211338f-420c-43bc-adab-3afff6074908"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rsdssi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rsdssi", 
-    "namespace": "wcrp:cmip5:variable:rsdssi", 
-    "status": "pending", 
-    "uid": "fdc2003b-a59f-4a48-8264-14b9217a18b1"
+    "_type": "term",
+    "canonical_name": "rsdssi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rsdssi",
+    "namespace": "wcrp:cmip5:variable:rsdssi",
+    "status": "pending",
+    "uid": "f27b02e2-ae8a-431c-9391-8afe61d4f4bd"
 }

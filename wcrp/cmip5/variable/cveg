@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cveg", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cVeg", 
-    "label": "cVeg", 
-    "namespace": "wcrp:cmip5:variable:cveg", 
-    "raw_name": "cVeg", 
-    "status": "pending", 
-    "uid": "dd3ee176-93ad-45f5-a296-c270a9c85025"
+    "_type": "term",
+    "canonical_name": "cveg",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cVeg",
+    "label": "cVeg",
+    "namespace": "wcrp:cmip5:variable:cveg",
+    "raw_name": "cVeg",
+    "status": "pending",
+    "uid": "5a4bbad3-c451-483e-9454-92c19ffb5398"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "swit", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "swit", 
-    "namespace": "wcrp:cmip5:variable:swit", 
-    "status": "pending", 
-    "uid": "0e5766b7-290e-4b6f-a6f2-b7f7ed07f8af"
+    "_type": "term",
+    "canonical_name": "swit",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "swit",
+    "namespace": "wcrp:cmip5:variable:swit",
+    "status": "pending",
+    "uid": "65056548-e390-4f41-ae1d-fab1d56effbf"
 }

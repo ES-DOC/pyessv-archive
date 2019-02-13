@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "bsi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "bsi", 
-    "namespace": "wcrp:cmip5:variable:bsi", 
-    "status": "pending", 
-    "uid": "9034ce28-c402-4767-8184-2b9896364aad"
+    "_type": "term",
+    "canonical_name": "bsi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "bsi",
+    "namespace": "wcrp:cmip5:variable:bsi",
+    "status": "pending",
+    "uid": "772ef05e-8c12-4c40-9d48-77df34770df9"
 }

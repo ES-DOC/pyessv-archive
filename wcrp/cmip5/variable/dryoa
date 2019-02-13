@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "dryoa", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "dryoa", 
-    "namespace": "wcrp:cmip5:variable:dryoa", 
-    "status": "pending", 
-    "uid": "40e39b42-3b5f-43a3-9862-5681ac741d4f"
+    "_type": "term",
+    "canonical_name": "dryoa",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "dryoa",
+    "namespace": "wcrp:cmip5:variable:dryoa",
+    "status": "pending",
+    "uid": "fb67db99-de3a-4233-833a-7b834ed0189d"
 }

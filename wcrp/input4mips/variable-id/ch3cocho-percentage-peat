@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "ch3cocho-percentage-peat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CH3COCHO-percentage-PEAT",
+    "label": "CH3COCHO-percentage-PEAT",
+    "namespace": "wcrp:input4mips:variable-id:ch3cocho-percentage-peat",
+    "raw_name": "CH3COCHO-percentage-PEAT",
+    "status": "pending",
+    "uid": "5f0b2910-d17a-4b78-b2e0-232241c04ce8"
+}

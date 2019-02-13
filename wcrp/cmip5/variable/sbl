@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sbl", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sbl", 
-    "namespace": "wcrp:cmip5:variable:sbl", 
-    "status": "pending", 
-    "uid": "52b8da23-90ae-44e2-aee1-3a75321fdd53"
+    "_type": "term",
+    "canonical_name": "sbl",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sbl",
+    "namespace": "wcrp:cmip5:variable:sbl",
+    "status": "pending",
+    "uid": "28753147-c345-4309-b7bb-21de42750b97"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "albisccp", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "albisccp", 
-    "namespace": "wcrp:cmip5:variable:albisccp", 
-    "status": "pending", 
-    "uid": "26dd6c09-0b91-45f7-b157-3d486322bc7b"
+    "_type": "term",
+    "canonical_name": "albisccp",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "albisccp",
+    "namespace": "wcrp:cmip5:variable:albisccp",
+    "status": "pending",
+    "uid": "519ebb72-5cca-4346-b08b-d8152696568c"
 }

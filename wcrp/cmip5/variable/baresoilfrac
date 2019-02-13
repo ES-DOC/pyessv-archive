@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "baresoilfrac", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "baresoilFrac", 
-    "label": "baresoilFrac", 
-    "namespace": "wcrp:cmip5:variable:baresoilfrac", 
-    "raw_name": "baresoilFrac", 
-    "status": "pending", 
-    "uid": "ef206749-9f9f-4ee7-b2a8-7142c09b52b1"
+    "_type": "term",
+    "canonical_name": "baresoilfrac",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "baresoilFrac",
+    "label": "baresoilFrac",
+    "namespace": "wcrp:cmip5:variable:baresoilfrac",
+    "raw_name": "baresoilFrac",
+    "status": "pending",
+    "uid": "5dce4265-ada9-47a7-b70e-73924327165a"
 }

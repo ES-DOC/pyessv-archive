@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "rotated-latitude-longitude", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rotated_latitude_longitude", 
-    "label": "rotated_latitude_longitude", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:rotated-latitude-longitude", 
-    "raw_name": "rotated_latitude_longitude", 
-    "status": "pending", 
-    "uid": "3841f55d-aac3-4145-8b00-fe9156c8cb1d"
+    "_type": "term",
+    "canonical_name": "rotated-latitude-longitude",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rotated_latitude_longitude",
+    "label": "rotated_latitude_longitude",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:rotated-latitude-longitude",
+    "raw_name": "rotated_latitude_longitude",
+    "status": "pending",
+    "uid": "c6bf3140-13f3-4eb1-b4c1-271c207bf26d"
 }

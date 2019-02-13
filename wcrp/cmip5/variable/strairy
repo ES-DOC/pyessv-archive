@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "strairy", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "strairy", 
-    "namespace": "wcrp:cmip5:variable:strairy", 
-    "status": "pending", 
-    "uid": "95ee381c-59e8-48c5-abb6-704cb9be83c0"
+    "_type": "term",
+    "canonical_name": "strairy",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "strairy",
+    "namespace": "wcrp:cmip5:variable:strairy",
+    "status": "pending",
+    "uid": "971e2d95-6974-4667-b714-4f26110e61c0"
 }

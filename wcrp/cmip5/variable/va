@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "va", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "va", 
-    "namespace": "wcrp:cmip5:variable:va", 
-    "status": "pending", 
-    "uid": "4c7ce009-0df1-411c-b5c0-46a1739b70b7"
+    "_type": "term",
+    "canonical_name": "va",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "va",
+    "namespace": "wcrp:cmip5:variable:va",
+    "status": "pending",
+    "uid": "2bf22b6d-e6a3-4655-871f-84a00e0979cd"
 }

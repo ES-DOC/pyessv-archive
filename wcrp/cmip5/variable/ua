@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ua", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ua", 
-    "namespace": "wcrp:cmip5:variable:ua", 
-    "status": "pending", 
-    "uid": "fe872189-729f-46b0-8fef-9e64cab53e5d"
+    "_type": "term",
+    "canonical_name": "ua",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ua",
+    "namespace": "wcrp:cmip5:variable:ua",
+    "status": "pending",
+    "uid": "3f158ae0-24f7-4099-b5a0-f656f49c2b71"
 }

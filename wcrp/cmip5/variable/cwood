@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cwood", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cWood", 
-    "label": "cWood", 
-    "namespace": "wcrp:cmip5:variable:cwood", 
-    "raw_name": "cWood", 
-    "status": "pending", 
-    "uid": "54bd3d9a-2b42-41b1-aa52-e7c6447c2696"
+    "_type": "term",
+    "canonical_name": "cwood",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cWood",
+    "label": "cWood",
+    "namespace": "wcrp:cmip5:variable:cwood",
+    "raw_name": "cWood",
+    "status": "pending",
+    "uid": "ffac7fa0-33dd-475a-ac64-c12212d2034e"
 }

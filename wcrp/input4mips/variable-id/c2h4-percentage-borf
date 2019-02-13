@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "c2h4-percentage-borf",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "C2H4-percentage-BORF",
+    "label": "C2H4-percentage-BORF",
+    "namespace": "wcrp:input4mips:variable-id:c2h4-percentage-borf",
+    "raw_name": "C2H4-percentage-BORF",
+    "status": "pending",
+    "uid": "30fcd466-077a-4942-907f-3bebeb6c9000"
+}

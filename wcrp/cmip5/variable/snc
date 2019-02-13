@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "snc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "snc", 
-    "namespace": "wcrp:cmip5:variable:snc", 
-    "status": "pending", 
-    "uid": "e03fc6b3-877d-4d99-9924-40b0cbb12209"
+    "_type": "term",
+    "canonical_name": "snc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "snc",
+    "namespace": "wcrp:cmip5:variable:snc",
+    "status": "pending",
+    "uid": "ac4ea591-13e2-458a-8502-fc22363a10ae"
 }

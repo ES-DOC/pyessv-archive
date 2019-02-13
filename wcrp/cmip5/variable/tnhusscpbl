@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnhusscpbl", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnhusscpbl", 
-    "namespace": "wcrp:cmip5:variable:tnhusscpbl", 
-    "status": "pending", 
-    "uid": "5c12f5e5-8958-4ca1-8983-539d0aafcdf9"
+    "_type": "term",
+    "canonical_name": "tnhusscpbl",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnhusscpbl",
+    "namespace": "wcrp:cmip5:variable:tnhusscpbl",
+    "status": "pending",
+    "uid": "46e733b3-2dca-48bf-b507-9911f38101ce"
 }

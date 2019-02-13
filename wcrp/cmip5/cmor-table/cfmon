@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cfmon", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cfMon", 
-    "label": "cfMon", 
-    "namespace": "wcrp:cmip5:cmor-table:cfmon", 
-    "raw_name": "cfMon", 
-    "status": "pending", 
-    "uid": "ed32bdcc-b967-4001-82b7-a686812a8062"
+    "_type": "term",
+    "canonical_name": "cfmon",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cfMon",
+    "label": "cfMon",
+    "namespace": "wcrp:cmip5:cmor-table:cfmon",
+    "raw_name": "cfMon",
+    "status": "pending",
+    "uid": "c1f75bf4-ba82-407d-b26e-06a8f98daff6"
 }

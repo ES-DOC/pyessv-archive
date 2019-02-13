@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hfcorr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hfcorr", 
-    "namespace": "wcrp:cmip5:variable:hfcorr", 
-    "status": "pending", 
-    "uid": "72aa3797-957b-4e57-b5d7-798d866c6494"
+    "_type": "term",
+    "canonical_name": "hfcorr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hfcorr",
+    "namespace": "wcrp:cmip5:variable:hfcorr",
+    "status": "pending",
+    "uid": "31e6ba30-bca5-4a1c-a31c-3b24a94dccb5"
 }

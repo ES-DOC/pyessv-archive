@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tauvcorr", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tauvcorr", 
-    "namespace": "wcrp:cmip5:variable:tauvcorr", 
-    "status": "pending", 
-    "uid": "9864dbfa-5174-4bdb-82ab-17594c0a0f14"
+    "_type": "term",
+    "canonical_name": "tauvcorr",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tauvcorr",
+    "namespace": "wcrp:cmip5:variable:tauvcorr",
+    "status": "pending",
+    "uid": "73cee759-b2b6-47f9-afe3-c2281a105763"
 }

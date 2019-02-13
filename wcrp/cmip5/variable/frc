@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "frc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "frc", 
-    "namespace": "wcrp:cmip5:variable:frc", 
-    "status": "pending", 
-    "uid": "b5eb2a65-f1c0-445b-94fd-1860efc6642d"
+    "_type": "term",
+    "canonical_name": "frc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "frc",
+    "namespace": "wcrp:cmip5:variable:frc",
+    "status": "pending",
+    "uid": "cd89c6f5-583e-4d42-b58b-c0079415a810"
 }

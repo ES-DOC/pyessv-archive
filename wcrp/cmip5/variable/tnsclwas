@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnsclwas", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnsclwas", 
-    "namespace": "wcrp:cmip5:variable:tnsclwas", 
-    "status": "pending", 
-    "uid": "eb18901c-5232-4e24-9e8f-13dcf6da6925"
+    "_type": "term",
+    "canonical_name": "tnsclwas",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnsclwas",
+    "namespace": "wcrp:cmip5:variable:tnsclwas",
+    "status": "pending",
+    "uid": "a9d56032-2d8d-452d-ae63-b9ea9d94e1d4"
 }

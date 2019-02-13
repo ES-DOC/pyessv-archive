@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "rca4-sn", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "RCA4-SN", 
-    "namespace": "wcrp:cordex:rcm-name:rca4-sn", 
-    "raw_name": "RCA4-SN", 
-    "status": "pending", 
-    "uid": "5df9a595-3517-4088-81ee-62a90efc0389"
+    "_type": "term",
+    "canonical_name": "rca4-sn",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "RCA4-SN",
+    "namespace": "wcrp:cordex:rcm-name:rca4-sn",
+    "raw_name": "RCA4-SN",
+    "status": "pending",
+    "uid": "f824a2e1-7af3-4f3d-b3da-2833ae6bef69"
 }

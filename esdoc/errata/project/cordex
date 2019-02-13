@@ -1,19 +1,19 @@
 {
-    "_type": "term", 
-    "canonical_name": "cordex", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
+    "_type": "term",
+    "canonical_name": "cordex",
+    "create_date": "2017-06-21 00:00:00+00:00",
     "data": {
         "facets": [
-            "wcrp:cordex:institute", 
-            "wcrp:cordex:experiment", 
-            "wcrp:cordex:rcm-model", 
+            "wcrp:cordex:institute",
+            "wcrp:cordex:experiment",
+            "wcrp:cordex:rcm-model",
             "wcrp:cordex:variable"
-        ], 
-        "is_documented": false, 
+        ],
+        "is_documented": false,
         "is_pid_client": false
-    }, 
-    "label": "CORDEX", 
-    "namespace": "esdoc:errata:project:cordex", 
-    "status": "pending", 
+    },
+    "label": "CORDEX",
+    "namespace": "esdoc:errata:project:cordex",
+    "status": "pending",
     "uid": "7b05d8dc-7580-4b34-aaca-67d6a8692fac"
 }

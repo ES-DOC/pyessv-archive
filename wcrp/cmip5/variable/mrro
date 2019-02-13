@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "mrro", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mrro", 
-    "namespace": "wcrp:cmip5:variable:mrro", 
-    "status": "pending", 
-    "uid": "da42c251-2332-4927-8ae7-ea5b07d8e22e"
+    "_type": "term",
+    "canonical_name": "mrro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mrro",
+    "namespace": "wcrp:cmip5:variable:mrro",
+    "status": "pending",
+    "uid": "a914adb3-9e05-44a4-9c87-f7ce90715e8d"
 }

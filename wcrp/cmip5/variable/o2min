@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "o2min", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "o2min", 
-    "namespace": "wcrp:cmip5:variable:o2min", 
-    "status": "pending", 
-    "uid": "41fc0355-b769-4879-929f-9a78f5aef897"
+    "_type": "term",
+    "canonical_name": "o2min",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "o2min",
+    "namespace": "wcrp:cmip5:variable:o2min",
+    "status": "pending",
+    "uid": "43079468-51c8-49b8-9558-28d7fe66c590"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "emioa", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "emioa", 
-    "namespace": "wcrp:cmip5:variable:emioa", 
-    "status": "pending", 
-    "uid": "2580163b-6081-4b50-8891-d2bd6c3e28e6"
+    "_type": "term",
+    "canonical_name": "emioa",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "emioa",
+    "namespace": "wcrp:cmip5:variable:emioa",
+    "status": "pending",
+    "uid": "8722d1d7-997b-4825-b3d3-b8ce8419d2c7"
 }

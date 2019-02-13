@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "delta13co2-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "delta13co2-in-air",
+    "namespace": "wcrp:input4mips:variable-id:delta13co2-in-air",
+    "status": "pending",
+    "uid": "f7b9ad24-853e-4776-82ab-943dcad8b07e"
+}

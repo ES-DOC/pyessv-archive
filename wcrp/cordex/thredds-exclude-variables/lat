@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "lat", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "lat", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:lat", 
-    "status": "pending", 
-    "uid": "b81af253-deb3-402b-b53f-e1cfcf60ae4e"
+    "_type": "term",
+    "canonical_name": "lat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "lat",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:lat",
+    "status": "pending",
+    "uid": "19e53038-9031-4f03-b006-4f1b1753b8a7"
 }

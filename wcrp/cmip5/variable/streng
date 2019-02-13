@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "streng", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "streng", 
-    "namespace": "wcrp:cmip5:variable:streng", 
-    "status": "pending", 
-    "uid": "9b230e60-cc1c-4798-9f93-1fcb85f3c616"
+    "_type": "term",
+    "canonical_name": "streng",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "streng",
+    "namespace": "wcrp:cmip5:variable:streng",
+    "status": "pending",
+    "uid": "d8643e26-a1fc-4f01-ada0-5a5eeeeab247"
 }

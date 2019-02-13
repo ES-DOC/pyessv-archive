@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "height", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "height", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:height", 
-    "status": "pending", 
-    "uid": "18dee0ee-9fe0-4e32-9c4a-2ef650a1a1e4"
+    "_type": "term",
+    "canonical_name": "height",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "height",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:height",
+    "status": "pending",
+    "uid": "795a95f4-b05d-4b57-960e-e38c47fcf5fb"
 }

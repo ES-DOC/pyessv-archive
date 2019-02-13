@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "lev", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "lev", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:lev", 
-    "status": "pending", 
-    "uid": "ffff4635-a8cf-45c2-9d0d-2b8781f32b4e"
+    "_type": "term",
+    "canonical_name": "lev",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "lev",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:lev",
+    "status": "pending",
+    "uid": "239566cd-bc41-48c5-bc6a-47696b399759"
 }

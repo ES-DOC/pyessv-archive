@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "epc100", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "epc100", 
-    "namespace": "wcrp:cmip5:variable:epc100", 
-    "status": "pending", 
-    "uid": "e8395f1a-a80d-4509-9a59-3a642375e9e0"
+    "_type": "term",
+    "canonical_name": "epc100",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "epc100",
+    "namespace": "wcrp:cmip5:variable:epc100",
+    "status": "pending",
+    "uid": "08ae715b-0cd6-41b6-9c50-bee74ff82394"
 }

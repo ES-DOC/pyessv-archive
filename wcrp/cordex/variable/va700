@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "va700", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "va700", 
-    "namespace": "wcrp:cordex:variable:va700", 
-    "status": "pending", 
-    "uid": "eaacce3e-5ef2-45fa-9b7d-a7819fa5a247"
+    "_type": "term",
+    "canonical_name": "va700",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "va700",
+    "namespace": "wcrp:cordex:variable:va700",
+    "status": "pending",
+    "uid": "7c57fffe-cbc5-4aa7-a1ab-e0b034c46837"
 }

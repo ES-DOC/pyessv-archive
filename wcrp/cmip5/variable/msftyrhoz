@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "msftyrhoz", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "msftyrhoz", 
-    "namespace": "wcrp:cmip5:variable:msftyrhoz", 
-    "status": "pending", 
-    "uid": "4b9bc9d1-4bf6-45cd-9cd4-4ff06d3df2f4"
+    "_type": "term",
+    "canonical_name": "msftyrhoz",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "msftyrhoz",
+    "namespace": "wcrp:cmip5:variable:msftyrhoz",
+    "status": "pending",
+    "uid": "b76ed12b-08fa-4b48-a530-f5360bb8df09"
 }

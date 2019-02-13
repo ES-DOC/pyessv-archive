@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clivi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clivi", 
-    "namespace": "wcrp:cmip5:variable:clivi", 
-    "status": "pending", 
-    "uid": "9df63457-eb46-4eb7-b099-66ac5ba850ac"
+    "_type": "term",
+    "canonical_name": "clivi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clivi",
+    "namespace": "wcrp:cmip5:variable:clivi",
+    "status": "pending",
+    "uid": "d64891e4-5046-4940-9f12-94cd921134db"
 }

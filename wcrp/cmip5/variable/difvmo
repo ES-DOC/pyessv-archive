@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "difvmo", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "difvmo", 
-    "namespace": "wcrp:cmip5:variable:difvmo", 
-    "status": "pending", 
-    "uid": "ad81f4f1-f0a5-4423-8888-85ac9cfa912c"
+    "_type": "term",
+    "canonical_name": "difvmo",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "difvmo",
+    "namespace": "wcrp:cmip5:variable:difvmo",
+    "status": "pending",
+    "uid": "0e9536f2-aea6-433b-9d5e-5aff4789ae93"
 }

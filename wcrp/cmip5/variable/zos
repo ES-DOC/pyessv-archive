@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "zos", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "zos", 
-    "namespace": "wcrp:cmip5:variable:zos", 
-    "status": "pending", 
-    "uid": "a64086af-8f01-4fa3-aea6-ed2d7ce49ef9"
+    "_type": "term",
+    "canonical_name": "zos",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "zos",
+    "namespace": "wcrp:cmip5:variable:zos",
+    "status": "pending",
+    "uid": "8376ab7a-64fd-40c9-b24a-1cf7ffbcc9de"
 }

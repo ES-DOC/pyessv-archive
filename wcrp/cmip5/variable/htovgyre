@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "htovgyre", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "htovgyre", 
-    "namespace": "wcrp:cmip5:variable:htovgyre", 
-    "status": "pending", 
-    "uid": "0b1c6d4e-fd5a-4ca6-884a-97baa63b29a3"
+    "_type": "term",
+    "canonical_name": "htovgyre",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "htovgyre",
+    "namespace": "wcrp:cmip5:variable:htovgyre",
+    "status": "pending",
+    "uid": "80db842d-ab37-41ed-94e8-360d7212c95a"
 }

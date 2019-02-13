@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "percentageagri",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "percentageAGRI",
+    "label": "percentageAGRI",
+    "namespace": "wcrp:input4mips:variable-id:percentageagri",
+    "raw_name": "percentageAGRI",
+    "status": "pending",
+    "uid": "adaf2d8f-e86d-4eda-8561-e2c29651ce25"
+}

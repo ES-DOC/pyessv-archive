@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "cct", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cct", 
-    "namespace": "wcrp:cmip5:variable:cct", 
-    "status": "pending", 
-    "uid": "8360c57c-56b2-465e-8708-824eed2e8388"
+    "_type": "term",
+    "canonical_name": "cct",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cct",
+    "namespace": "wcrp:cmip5:variable:cct",
+    "status": "pending",
+    "uid": "d796e6bc-a30e-479b-a482-79fbf7beb349"
 }

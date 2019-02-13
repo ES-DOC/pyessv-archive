@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cproduct", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cProduct", 
-    "label": "cProduct", 
-    "namespace": "wcrp:cmip5:variable:cproduct", 
-    "raw_name": "cProduct", 
-    "status": "pending", 
-    "uid": "eb8ca71a-2661-4e4f-bfa8-4298c90b9460"
+    "_type": "term",
+    "canonical_name": "cproduct",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cProduct",
+    "label": "cProduct",
+    "namespace": "wcrp:cmip5:variable:cproduct",
+    "raw_name": "cProduct",
+    "status": "pending",
+    "uid": "b81b077c-60cb-45c5-a10c-a5264d5297dc"
 }

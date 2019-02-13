@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-carbon-tetrachloride-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-carbon-tetrachloride-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-carbon-tetrachloride-in-air",
+    "status": "pending",
+    "uid": "bc8df583-4317-41a4-9080-ef48bbc977f9"
+}

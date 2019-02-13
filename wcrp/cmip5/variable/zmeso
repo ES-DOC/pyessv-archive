@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "zmeso", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "zmeso", 
-    "namespace": "wcrp:cmip5:variable:zmeso", 
-    "status": "pending", 
-    "uid": "6d52265e-a870-47f3-be85-358f722586fe"
+    "_type": "term",
+    "canonical_name": "zmeso",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "zmeso",
+    "namespace": "wcrp:cmip5:variable:zmeso",
+    "status": "pending",
+    "uid": "46f046cb-a005-4643-8766-ab2e13b99da2"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "lat", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "lat", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:lat", 
-    "status": "pending", 
-    "uid": "52bb9bd9-6938-47b6-87ed-a707020a0adb"
+    "_type": "term",
+    "canonical_name": "lat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "lat",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:lat",
+    "status": "pending",
+    "uid": "16379662-bce9-48d1-a9ea-8af1e26a1a2d"
 }

@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "voc13-benzene-em-speciated-voc-anthro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "VOC13-benzene-em-speciated-VOC-anthro",
+    "label": "VOC13-benzene-em-speciated-VOC-anthro",
+    "namespace": "wcrp:input4mips:variable-id:voc13-benzene-em-speciated-voc-anthro",
+    "raw_name": "VOC13-benzene-em-speciated-VOC-anthro",
+    "status": "pending",
+    "uid": "e43c1278-4ab6-4772-bf9f-04b8ef4f4fa7"
+}

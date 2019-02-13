@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "3-hours", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "3 hours", 
-    "namespace": "wcrp:cmip6:las-time-delta:3-hours", 
-    "raw_name": "3 hours", 
-    "status": "pending", 
-    "uid": "76522f82-afd0-41e1-a38f-8cfc5d3955c5"
+    "_type": "term",
+    "canonical_name": "3-hours",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "3 hours",
+    "namespace": "wcrp:cmip6:las-time-delta:3-hours",
+    "raw_name": "3 hours",
+    "status": "pending",
+    "uid": "676cda54-aff7-4915-a630-5891ed0c3606"
 }

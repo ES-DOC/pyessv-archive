@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnsclwar", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnsclwar", 
-    "namespace": "wcrp:cmip5:variable:tnsclwar", 
-    "status": "pending", 
-    "uid": "f3263cfb-20aa-4824-b946-28f6b42cd153"
+    "_type": "term",
+    "canonical_name": "tnsclwar",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnsclwar",
+    "namespace": "wcrp:cmip5:variable:tnsclwar",
+    "status": "pending",
+    "uid": "75a16ec3-7db8-43d6-8ca7-3f34b70446e8"
 }

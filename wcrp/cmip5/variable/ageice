@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ageice", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ageice", 
-    "namespace": "wcrp:cmip5:variable:ageice", 
-    "status": "pending", 
-    "uid": "f7b30356-e00f-4251-9480-8c1045228d95"
+    "_type": "term",
+    "canonical_name": "ageice",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ageice",
+    "namespace": "wcrp:cmip5:variable:ageice",
+    "status": "pending",
+    "uid": "1ceb8b5c-144e-4e1a-a817-b813a94a35fe"
 }

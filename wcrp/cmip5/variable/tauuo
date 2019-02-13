@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tauuo", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tauuo", 
-    "namespace": "wcrp:cmip5:variable:tauuo", 
-    "status": "pending", 
-    "uid": "f8741c2f-403f-4828-a879-08c7b381c17d"
+    "_type": "term",
+    "canonical_name": "tauuo",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tauuo",
+    "namespace": "wcrp:cmip5:variable:tauuo",
+    "status": "pending",
+    "uid": "25c63d35-3f66-4d8e-b504-4c809ccacea2"
 }

@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-hfc125-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-hfc125-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-hfc125-in-air",
+    "status": "pending",
+    "uid": "73bff60f-691d-48f3-ae08-62e06608e3c0"
+}

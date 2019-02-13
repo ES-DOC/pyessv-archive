@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "wetoa", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "wetoa", 
-    "namespace": "wcrp:cmip5:variable:wetoa", 
-    "status": "pending", 
-    "uid": "a50c6836-a1db-42e6-b546-150f7878222c"
+    "_type": "term",
+    "canonical_name": "wetoa",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "wetoa",
+    "namespace": "wcrp:cmip5:variable:wetoa",
+    "status": "pending",
+    "uid": "b8712464-5dd6-498e-9e66-4f2b99eb44c7"
 }

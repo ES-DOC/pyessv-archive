@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "npp", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "npp", 
-    "namespace": "wcrp:cmip5:variable:npp", 
-    "status": "pending", 
-    "uid": "7423509d-24a5-4b86-afa8-7f2719294532"
+    "_type": "term",
+    "canonical_name": "npp",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "npp",
+    "namespace": "wcrp:cmip5:variable:npp",
+    "status": "pending",
+    "uid": "10af9c4b-ce8d-4900-974a-d67d5b709242"
 }

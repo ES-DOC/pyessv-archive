@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ridgice", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ridgice", 
-    "namespace": "wcrp:cmip5:variable:ridgice", 
-    "status": "pending", 
-    "uid": "29a8c9bf-c899-4746-baa2-3b4349d6ef38"
+    "_type": "term",
+    "canonical_name": "ridgice",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ridgice",
+    "namespace": "wcrp:cmip5:variable:ridgice",
+    "status": "pending",
+    "uid": "3062958b-db47-4091-b424-46fa2f0b3c02"
 }

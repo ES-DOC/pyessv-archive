@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "aero", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "aero", 
-    "namespace": "wcrp:cmip5:cmor-table:aero", 
-    "status": "pending", 
-    "uid": "9761620e-3dce-4798-b4bc-341c79240813"
+    "_type": "term",
+    "canonical_name": "aero",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "aero",
+    "namespace": "wcrp:cmip5:cmor-table:aero",
+    "status": "pending",
+    "uid": "8493e6ef-2775-4685-9a4f-6520827e6f8f"
 }

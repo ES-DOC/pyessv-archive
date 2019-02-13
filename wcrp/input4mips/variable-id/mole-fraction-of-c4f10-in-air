@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-c4f10-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-c4f10-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-c4f10-in-air",
+    "status": "pending",
+    "uid": "e54297c9-2a6d-4267-8bf5-1215b718a5d0"
+}

@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "nox-em-air-anthro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NOx-em-AIR-anthro",
+    "label": "NOx-em-AIR-anthro",
+    "namespace": "wcrp:input4mips:variable-id:nox-em-air-anthro",
+    "raw_name": "NOx-em-AIR-anthro",
+    "status": "pending",
+    "uid": "0e561e54-8c4a-40a4-a33d-3eec52fd30b3"
+}

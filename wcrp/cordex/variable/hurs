@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hurs", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hurs", 
-    "namespace": "wcrp:cordex:variable:hurs", 
-    "status": "pending", 
-    "uid": "7c33ab9d-3d13-4bc4-a77d-467278ce44e1"
+    "_type": "term",
+    "canonical_name": "hurs",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hurs",
+    "namespace": "wcrp:cordex:variable:hurs",
+    "status": "pending",
+    "uid": "c1f9e99c-c691-4ac5-991a-804ea7f7b8f3"
 }

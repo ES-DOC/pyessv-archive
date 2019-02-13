@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rsussi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rsussi", 
-    "namespace": "wcrp:cmip5:variable:rsussi", 
-    "status": "pending", 
-    "uid": "b1d62710-6c51-4ee9-8929-6e57bd6d1692"
+    "_type": "term",
+    "canonical_name": "rsussi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rsussi",
+    "namespace": "wcrp:cmip5:variable:rsussi",
+    "status": "pending",
+    "uid": "3023e9a9-1aa3-40ab-8616-8132ce1a285e"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clic", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clic", 
-    "namespace": "wcrp:cmip5:variable:clic", 
-    "status": "pending", 
-    "uid": "c4f6e8de-990c-4c76-b259-ee13ab607755"
+    "_type": "term",
+    "canonical_name": "clic",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clic",
+    "namespace": "wcrp:cmip5:variable:clic",
+    "status": "pending",
+    "uid": "52d257d2-a68c-44d6-aa50-4be32c57ebf8"
 }

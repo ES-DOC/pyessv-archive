@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "dcalc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "dcalc", 
-    "namespace": "wcrp:cmip5:variable:dcalc", 
-    "status": "pending", 
-    "uid": "6b7b868a-3912-4345-b6c9-978b647b9405"
+    "_type": "term",
+    "canonical_name": "dcalc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "dcalc",
+    "namespace": "wcrp:cmip5:variable:dcalc",
+    "status": "pending",
+    "uid": "e18753b1-4f02-492f-b795-7041fa83d9f8"
 }

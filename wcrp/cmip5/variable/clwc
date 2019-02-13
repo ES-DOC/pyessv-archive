@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clwc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clwc", 
-    "namespace": "wcrp:cmip5:variable:clwc", 
-    "status": "pending", 
-    "uid": "2ccdfee7-fe37-4439-9a51-76ee7512a58e"
+    "_type": "term",
+    "canonical_name": "clwc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clwc",
+    "namespace": "wcrp:cmip5:variable:clwc",
+    "status": "pending",
+    "uid": "b688c2aa-609d-4d61-944b-38fc420ab97c"
 }

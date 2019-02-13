@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "co3", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "co3", 
-    "namespace": "wcrp:cmip5:variable:co3", 
-    "status": "pending", 
-    "uid": "217c5566-f56e-4d94-99bf-71262a2210df"
+    "_type": "term",
+    "canonical_name": "co3",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "co3",
+    "namespace": "wcrp:cmip5:variable:co3",
+    "status": "pending",
+    "uid": "67d4df23-33db-40cc-b0c4-d1251bc4ecf4"
 }

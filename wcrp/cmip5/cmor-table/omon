@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "omon", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Omon", 
-    "label": "Omon", 
-    "namespace": "wcrp:cmip5:cmor-table:omon", 
-    "raw_name": "Omon", 
-    "status": "pending", 
-    "uid": "1fe12958-c1b8-465f-a94d-3fdeed41788c"
+    "_type": "term",
+    "canonical_name": "omon",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Omon",
+    "label": "Omon",
+    "namespace": "wcrp:cmip5:cmor-table:omon",
+    "raw_name": "Omon",
+    "status": "pending",
+    "uid": "81f9b9af-23df-4e2e-b165-0a104189f6c1"
 }

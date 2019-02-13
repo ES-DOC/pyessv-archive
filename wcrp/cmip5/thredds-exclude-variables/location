@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "location", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "location", 
-    "namespace": "wcrp:cmip5:thredds-exclude-variables:location", 
-    "status": "pending", 
-    "uid": "1086b8d3-5b60-450b-8147-6f95de196aad"
+    "_type": "term",
+    "canonical_name": "location",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "location",
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:location",
+    "status": "pending",
+    "uid": "178fd080-85a1-4c39-8a50-9e208fbff409"
 }

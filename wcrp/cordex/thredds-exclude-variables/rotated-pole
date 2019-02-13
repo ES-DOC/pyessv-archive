@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "rotated-pole", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rotated_pole", 
-    "label": "rotated_pole", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:rotated-pole", 
-    "raw_name": "rotated_pole", 
-    "status": "pending", 
-    "uid": "0cc48d9e-123a-49d1-b376-007495b77560"
+    "_type": "term",
+    "canonical_name": "rotated-pole",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rotated_pole",
+    "label": "rotated_pole",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:rotated-pole",
+    "raw_name": "rotated_pole",
+    "status": "pending",
+    "uid": "ac73cb33-9ff6-4b3e-9fb0-37c27dbfeadd"
 }

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "ulg-mar36", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ULg-MAR36", 
-    "label": "ULg-MAR36", 
-    "namespace": "wcrp:cordex:rcm-model:ulg-mar36", 
-    "raw_name": "ULg-MAR36", 
-    "status": "pending", 
-    "uid": "6b16657e-072e-4971-a8ab-8c39ff103b4a"
+    "_type": "term",
+    "canonical_name": "ulg-mar36",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ULg-MAR36",
+    "label": "ULg-MAR36",
+    "namespace": "wcrp:cordex:rcm-model:ulg-mar36",
+    "raw_name": "ULg-MAR36",
+    "status": "pending",
+    "uid": "73b6def1-62bb-42a3-9d13-ab1128c2edcf"
 }

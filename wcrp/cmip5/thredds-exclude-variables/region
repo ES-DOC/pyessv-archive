@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "region", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "region", 
-    "namespace": "wcrp:cmip5:thredds-exclude-variables:region", 
-    "status": "pending", 
-    "uid": "a602b41d-8766-486a-8251-9b12462967ac"
+    "_type": "term",
+    "canonical_name": "region",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "region",
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:region",
+    "status": "pending",
+    "uid": "6b8f2009-c531-4076-8373-2f70c58a995e"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rcp85", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "RCP8.5", 
-    "namespace": "wcrp:cmip5:experiment:rcp85", 
-    "status": "pending", 
-    "uid": "8b467382-5189-4e06-812f-a7dc8cc51a53"
+    "_type": "term",
+    "canonical_name": "rcp85",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "RCP8.5",
+    "namespace": "wcrp:cmip5:experiment:rcp85",
+    "status": "pending",
+    "uid": "b35d8b5d-5243-4c94-89fc-b53108951564"
 }

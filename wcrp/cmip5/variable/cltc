@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "cltc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cltc", 
-    "namespace": "wcrp:cmip5:variable:cltc", 
-    "status": "pending", 
-    "uid": "f210cf63-0e4d-4dee-a7e8-f1e838571c50"
+    "_type": "term",
+    "canonical_name": "cltc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cltc",
+    "namespace": "wcrp:cmip5:variable:cltc",
+    "status": "pending",
+    "uid": "0c9538d9-4c2e-4bd8-a6c0-72730474d590"
 }

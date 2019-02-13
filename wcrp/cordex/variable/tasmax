@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tasmax", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tasmax", 
-    "namespace": "wcrp:cordex:variable:tasmax", 
-    "status": "pending", 
-    "uid": "d5872190-519c-4612-8b54-6dbfbd06a76a"
+    "_type": "term",
+    "canonical_name": "tasmax",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tasmax",
+    "namespace": "wcrp:cordex:variable:tasmax",
+    "status": "pending",
+    "uid": "60cc0159-39fd-4921-a958-68c1825fd1ea"
 }

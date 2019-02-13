@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "historical", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Historical", 
-    "namespace": "wcrp:cmip5:experiment:historical", 
-    "status": "pending", 
-    "uid": "304d7600-eeed-4e3d-9a96-f48909581938"
+    "_type": "term",
+    "canonical_name": "historical",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Historical",
+    "namespace": "wcrp:cmip5:experiment:historical",
+    "status": "pending",
+    "uid": "72675ec1-95b1-462f-87d2-da7bc583a6bb"
 }

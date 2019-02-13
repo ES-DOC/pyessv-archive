@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "highresmip",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "HighResMIP",
+    "label": "HighResMIP",
+    "namespace": "wcrp:input4mips:target-mip:highresmip",
+    "raw_name": "HighResMIP",
+    "status": "pending",
+    "uid": "af124fcf-83b3-414d-ad55-2b847630d28a"
+}

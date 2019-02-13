@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "fco2fos", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "fco2fos", 
-    "namespace": "wcrp:cmip5:variable:fco2fos", 
-    "status": "pending", 
-    "uid": "5d1351c6-c688-4903-8cb2-cd4836a8f4ae"
+    "_type": "term",
+    "canonical_name": "fco2fos",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "fco2fos",
+    "namespace": "wcrp:cmip5:variable:fco2fos",
+    "status": "pending",
+    "uid": "6e0e9ace-d876-428f-a628-5effdc9b158f"
 }

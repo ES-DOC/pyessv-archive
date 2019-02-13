@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "ucolorado-rfmip-0-4",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "UColorado-RFMIP-0-4",
+    "label": "UColorado-RFMIP-0-4",
+    "namespace": "wcrp:input4mips:source-id:ucolorado-rfmip-0-4",
+    "raw_name": "UColorado-RFMIP-0-4",
+    "status": "pending",
+    "uid": "3a11102f-3ad7-41a9-82f6-73a2a4074182"
+}

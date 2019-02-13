@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "phyn", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "phyn", 
-    "namespace": "wcrp:cmip5:variable:phyn", 
-    "status": "pending", 
-    "uid": "5a9f0116-bac2-4700-aee4-7e31ead2297b"
+    "_type": "term",
+    "canonical_name": "phyn",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "phyn",
+    "namespace": "wcrp:cmip5:variable:phyn",
+    "status": "pending",
+    "uid": "76f6e629-530d-471e-92fa-36b97670ad54"
 }

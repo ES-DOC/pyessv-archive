@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rlus", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rlus", 
-    "namespace": "wcrp:cordex:variable:rlus", 
-    "status": "pending", 
-    "uid": "12a45100-ab5e-47c4-9812-b32af1079825"
+    "_type": "term",
+    "canonical_name": "rlus",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rlus",
+    "namespace": "wcrp:cordex:variable:rlus",
+    "status": "pending",
+    "uid": "c10717f8-ec86-40a9-ba5e-158bd59d76ee"
 }

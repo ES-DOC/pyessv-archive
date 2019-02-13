@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "bc-percentage-defo",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "BC-percentage-DEFO",
+    "label": "BC-percentage-DEFO",
+    "namespace": "wcrp:input4mips:variable-id:bc-percentage-defo",
+    "raw_name": "BC-percentage-DEFO",
+    "status": "pending",
+    "uid": "2a70541a-2b67-4a49-83a4-2864ae1d098f"
+}

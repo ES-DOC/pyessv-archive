@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "c4pftfrac", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "c4PftFrac", 
-    "label": "c4PftFrac", 
-    "namespace": "wcrp:cmip5:variable:c4pftfrac", 
-    "raw_name": "c4PftFrac", 
-    "status": "pending", 
-    "uid": "a116d5d7-5c36-4ee1-ac30-d454aaf58229"
+    "_type": "term",
+    "canonical_name": "c4pftfrac",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "c4PftFrac",
+    "label": "c4PftFrac",
+    "namespace": "wcrp:cmip5:variable:c4pftfrac",
+    "raw_name": "c4PftFrac",
+    "status": "pending",
+    "uid": "b1b8c9dc-1aec-433f-8334-e52e35f0a981"
 }

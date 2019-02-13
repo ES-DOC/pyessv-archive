@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "prcprof", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "prcprof", 
-    "namespace": "wcrp:cmip5:variable:prcprof", 
-    "status": "pending", 
-    "uid": "59dee784-ea8c-4e29-bb8c-230ed255a397"
+    "_type": "term",
+    "canonical_name": "prcprof",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "prcprof",
+    "namespace": "wcrp:cmip5:variable:prcprof",
+    "status": "pending",
+    "uid": "cf16e68a-f4ed-4f4a-9fc6-8bd24f95fd98"
 }

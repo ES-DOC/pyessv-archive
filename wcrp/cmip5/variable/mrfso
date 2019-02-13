@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "mrfso", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mrfso", 
-    "namespace": "wcrp:cmip5:variable:mrfso", 
-    "status": "pending", 
-    "uid": "d4c25beb-bb9e-489c-b343-4b0a08445808"
+    "_type": "term",
+    "canonical_name": "mrfso",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mrfso",
+    "namespace": "wcrp:cmip5:variable:mrfso",
+    "status": "pending",
+    "uid": "ede41430-a3f6-4ba9-a6f3-d5491b9d30ae"
 }

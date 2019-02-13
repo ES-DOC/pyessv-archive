@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "mek-percentage-borf",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "MEK-percentage-BORF",
+    "label": "MEK-percentage-BORF",
+    "namespace": "wcrp:input4mips:variable-id:mek-percentage-borf",
+    "raw_name": "MEK-percentage-BORF",
+    "status": "pending",
+    "uid": "0cf687f1-f5fb-4872-b507-aa82ed5681b4"
+}

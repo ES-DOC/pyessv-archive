@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "b",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "b",
+    "namespace": "wcrp:input4mips:thredds-exclude-variables:b",
+    "status": "pending",
+    "uid": "e0801a1b-75f2-46e2-bae5-6d311e0b6b35"
+}

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "sfcwind", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sfcWind", 
-    "label": "sfcWind", 
-    "namespace": "wcrp:cmip5:variable:sfcwind", 
-    "raw_name": "sfcWind", 
-    "status": "pending", 
-    "uid": "6bb60597-caaa-4ad6-acca-f03c500b743e"
+    "_type": "term",
+    "canonical_name": "sfcwind",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sfcWind",
+    "label": "sfcWind",
+    "namespace": "wcrp:cmip5:variable:sfcwind",
+    "raw_name": "sfcWind",
+    "status": "pending",
+    "uid": "1a4434b5-7298-42d6-a389-dae6b1dc2368"
 }

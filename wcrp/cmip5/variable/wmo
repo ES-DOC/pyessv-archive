@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "wmo", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "wmo", 
-    "namespace": "wcrp:cmip5:variable:wmo", 
-    "status": "pending", 
-    "uid": "2d1d10cb-8383-4cc7-a8bf-d0df793a53e7"
+    "_type": "term",
+    "canonical_name": "wmo",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "wmo",
+    "namespace": "wcrp:cmip5:variable:wmo",
+    "status": "pending",
+    "uid": "859cdf8a-d83c-48b4-9a12-9219d3f06f93"
 }

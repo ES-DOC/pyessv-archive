@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "strairx", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "strairx", 
-    "namespace": "wcrp:cmip5:variable:strairx", 
-    "status": "pending", 
-    "uid": "484a83f7-2d07-4c44-afcf-fa0d053c6bfa"
+    "_type": "term",
+    "canonical_name": "strairx",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "strairx",
+    "namespace": "wcrp:cmip5:variable:strairx",
+    "status": "pending",
+    "uid": "9fcadc54-63d1-4107-9be0-20028d8c70b0"
 }

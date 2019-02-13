@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "bounds-lat", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "bounds_lat", 
-    "label": "bounds_lat", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:bounds-lat", 
-    "raw_name": "bounds_lat", 
-    "status": "pending", 
-    "uid": "45cad1e4-3c73-43cf-8409-4c70e34480ea"
+    "_type": "term",
+    "canonical_name": "bounds-lat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "bounds_lat",
+    "label": "bounds_lat",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:bounds-lat",
+    "raw_name": "bounds_lat",
+    "status": "pending",
+    "uid": "71470f54-750e-402e-9b33-2b9f84d9fb82"
 }

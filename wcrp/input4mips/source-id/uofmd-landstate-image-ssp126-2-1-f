@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "uofmd-landstate-image-ssp126-2-1-f",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "UofMD-landState-IMAGE-ssp126-2-1-f",
+    "label": "UofMD-landState-IMAGE-ssp126-2-1-f",
+    "namespace": "wcrp:input4mips:source-id:uofmd-landstate-image-ssp126-2-1-f",
+    "raw_name": "UofMD-landState-IMAGE-ssp126-2-1-f",
+    "status": "pending",
+    "uid": "99cd8bcf-26ae-4cde-8c0b-52f09b33345a"
+}

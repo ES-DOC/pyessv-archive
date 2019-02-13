@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "zmla", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "zmla", 
-    "namespace": "wcrp:cordex:variable:zmla", 
-    "status": "pending", 
-    "uid": "a81416e4-36d3-4b11-b9d1-74d2503ad86b"
+    "_type": "term",
+    "canonical_name": "zmla",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "zmla",
+    "namespace": "wcrp:cordex:variable:zmla",
+    "status": "pending",
+    "uid": "d6118d0a-ad27-4b90-a45f-2550033ee727"
 }

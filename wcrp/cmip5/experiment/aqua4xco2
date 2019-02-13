@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "aqua4xco2", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "4xCO2 aqua planet", 
-    "label": "aqua4xCO2", 
-    "namespace": "wcrp:cmip5:experiment:aqua4xco2", 
-    "raw_name": "aqua4xCO2", 
-    "status": "pending", 
-    "uid": "bd0f76b0-78df-4459-90f2-0e884fed4ad2"
+    "_type": "term",
+    "canonical_name": "aqua4xco2",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "4xCO2 aqua planet",
+    "label": "aqua4xCO2",
+    "namespace": "wcrp:cmip5:experiment:aqua4xco2",
+    "raw_name": "aqua4xCO2",
+    "status": "pending",
+    "uid": "57db16e9-3aef-4447-a340-2a6c587ea7f2"
 }

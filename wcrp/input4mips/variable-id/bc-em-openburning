@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "bc-em-openburning",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "BC_em_openburning",
+    "label": "BC_em_openburning",
+    "namespace": "wcrp:input4mips:variable-id:bc-em-openburning",
+    "raw_name": "BC_em_openburning",
+    "status": "pending",
+    "uid": "dcf0eff5-7241-4aae-ad9f-a38da8ece252"
+}

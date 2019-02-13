@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sftof", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sftof", 
-    "namespace": "wcrp:cmip5:variable:sftof", 
-    "status": "pending", 
-    "uid": "e9b0d61d-9fc3-4341-8213-b1dc661bc12f"
+    "_type": "term",
+    "canonical_name": "sftof",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sftof",
+    "namespace": "wcrp:cmip5:variable:sftof",
+    "status": "pending",
+    "uid": "bb8cf1f5-7155-4c21-9cb9-fd691ba2bc61"
 }

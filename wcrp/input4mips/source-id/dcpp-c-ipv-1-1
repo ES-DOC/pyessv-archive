@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "dcpp-c-ipv-1-1",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "DCPP-C-ipv-1-1",
+    "label": "DCPP-C-ipv-1-1",
+    "namespace": "wcrp:input4mips:source-id:dcpp-c-ipv-1-1",
+    "raw_name": "DCPP-C-ipv-1-1",
+    "status": "pending",
+    "uid": "a4cce047-0342-442f-9497-40a1cdcb3f6a"
+}

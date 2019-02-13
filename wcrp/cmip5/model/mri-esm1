@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "mri-esm1", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "MRI-ESM1", 
-    "label": "MRI-ESM1", 
-    "namespace": "wcrp:cmip5:model:mri-esm1", 
-    "raw_name": "MRI-ESM1", 
-    "status": "pending", 
-    "uid": "8ca0c239-e5e8-43dd-aad7-3c9689d788b1"
+    "_type": "term",
+    "canonical_name": "mri-esm1",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "MRI-ESM1",
+    "label": "MRI-ESM1",
+    "namespace": "wcrp:cmip5:model:mri-esm1",
+    "raw_name": "MRI-ESM1",
+    "status": "pending",
+    "uid": "ff3b1750-5a3f-4ddb-b871-2f2dde834730"
 }

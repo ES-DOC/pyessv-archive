@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "snw", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "snw", 
-    "namespace": "wcrp:cordex:variable:snw", 
-    "status": "pending", 
-    "uid": "54774ceb-d47a-4a34-b3a2-c62693a19f43"
+    "_type": "term",
+    "canonical_name": "snw",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "snw",
+    "namespace": "wcrp:cordex:variable:snw",
+    "status": "pending",
+    "uid": "9505f812-5d85-4504-8519-daff4369ac46"
 }

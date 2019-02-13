@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "so2",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "SO2",
+    "label": "SO2",
+    "namespace": "wcrp:input4mips:variable-id:so2",
+    "raw_name": "SO2",
+    "status": "pending",
+    "uid": "babc6375-ba3f-4a98-9e8f-94fbab9d9c7e"
+}

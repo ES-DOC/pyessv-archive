@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "ncar-ccmi-ssp585-2-0",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NCAR-CCMI-ssp585-2-0",
+    "label": "NCAR-CCMI-ssp585-2-0",
+    "namespace": "wcrp:input4mips:source-id:ncar-ccmi-ssp585-2-0",
+    "raw_name": "NCAR-CCMI-ssp585-2-0",
+    "status": "pending",
+    "uid": "79766492-df12-4c07-8c6f-a96d1468800d"
+}

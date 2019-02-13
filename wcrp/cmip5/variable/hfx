@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hfx", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hfx", 
-    "namespace": "wcrp:cmip5:variable:hfx", 
-    "status": "pending", 
-    "uid": "8d9a0d6a-9518-421d-9638-43ca98a96ece"
+    "_type": "term",
+    "canonical_name": "hfx",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hfx",
+    "namespace": "wcrp:cmip5:variable:hfx",
+    "status": "pending",
+    "uid": "3acfc0d6-0db3-434a-a2c7-19d662e8f761"
 }

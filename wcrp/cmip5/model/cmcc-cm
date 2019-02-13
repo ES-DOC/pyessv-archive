@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cmcc-cm", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CMCC-CM", 
-    "label": "CMCC-CM", 
-    "namespace": "wcrp:cmip5:model:cmcc-cm", 
-    "raw_name": "CMCC-CM", 
-    "status": "pending", 
-    "uid": "a3b7824e-1a9e-4c0d-93e8-0bfd68ae2378"
+    "_type": "term",
+    "canonical_name": "cmcc-cm",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CMCC-CM",
+    "label": "CMCC-CM",
+    "namespace": "wcrp:cmip5:model:cmcc-cm",
+    "raw_name": "CMCC-CM",
+    "status": "pending",
+    "uid": "cb4b0a9c-e71a-4b02-812b-f28a08946de2"
 }

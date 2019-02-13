@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "soga", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "soga", 
-    "namespace": "wcrp:cmip5:variable:soga", 
-    "status": "pending", 
-    "uid": "3b947421-245a-4c14-9bd0-941ecb42d8ad"
+    "_type": "term",
+    "canonical_name": "soga",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "soga",
+    "namespace": "wcrp:cmip5:variable:soga",
+    "status": "pending",
+    "uid": "b0aa7a64-9faf-44ed-a810-aa663c1100f7"
 }

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "clitter", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cLitter", 
-    "label": "cLitter", 
-    "namespace": "wcrp:cmip5:variable:clitter", 
-    "raw_name": "cLitter", 
-    "status": "pending", 
-    "uid": "307a6442-7cb9-4a1a-83f1-c9e78bc78374"
+    "_type": "term",
+    "canonical_name": "clitter",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cLitter",
+    "label": "cLitter",
+    "namespace": "wcrp:cmip5:variable:clitter",
+    "raw_name": "cLitter",
+    "status": "pending",
+    "uid": "2aa12fc6-bfa9-47af-a0f6-8394110d298a"
 }

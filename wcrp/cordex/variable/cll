@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "cll", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cll", 
-    "namespace": "wcrp:cordex:variable:cll", 
-    "status": "pending", 
-    "uid": "67bb50e6-1470-435f-ab5b-22f2b7b8bf1d"
+    "_type": "term",
+    "canonical_name": "cll",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cll",
+    "namespace": "wcrp:cordex:variable:cll",
+    "status": "pending",
+    "uid": "e4d0db66-3535-4167-b4fb-6440f7cf97aa"
 }

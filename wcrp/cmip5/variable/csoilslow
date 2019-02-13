@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "csoilslow", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cSoilSlow", 
-    "label": "cSoilSlow", 
-    "namespace": "wcrp:cmip5:variable:csoilslow", 
-    "raw_name": "cSoilSlow", 
-    "status": "pending", 
-    "uid": "4a239849-89c0-4608-bf93-834f4c5ed356"
+    "_type": "term",
+    "canonical_name": "csoilslow",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cSoilSlow",
+    "label": "cSoilSlow",
+    "namespace": "wcrp:cmip5:variable:csoilslow",
+    "raw_name": "cSoilSlow",
+    "status": "pending",
+    "uid": "ae470d19-e2d5-4bac-b113-9f230cf44e20"
 }

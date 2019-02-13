@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "zg350", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "zg350", 
-    "namespace": "wcrp:cordex:variable:zg350", 
-    "status": "pending", 
-    "uid": "9e1718b2-133a-40ab-8f28-aa759407edbe"
+    "_type": "term",
+    "canonical_name": "zg350",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "zg350",
+    "namespace": "wcrp:cordex:variable:zg350",
+    "status": "pending",
+    "uid": "7f5854d9-ef80-4733-bb0f-b55d32663279"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "prhmax", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "prhmax", 
-    "namespace": "wcrp:cordex:variable:prhmax", 
-    "status": "pending", 
-    "uid": "846b529a-a0e2-46a9-96b6-987a847a0176"
+    "_type": "term",
+    "canonical_name": "prhmax",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "prhmax",
+    "namespace": "wcrp:cordex:variable:prhmax",
+    "status": "pending",
+    "uid": "f6bf494a-38fb-4faa-b8a7-e36d6e1c5079"
 }

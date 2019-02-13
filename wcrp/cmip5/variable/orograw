@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "orograw", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "orograw", 
-    "namespace": "wcrp:cmip5:variable:orograw", 
-    "status": "pending", 
-    "uid": "65681478-43b6-4f58-bc11-d0498d59e6db"
+    "_type": "term",
+    "canonical_name": "orograw",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "orograw",
+    "namespace": "wcrp:cmip5:variable:orograw",
+    "status": "pending",
+    "uid": "0518d406-7cc1-4b65-91bb-a365e3cb1c2b"
 }

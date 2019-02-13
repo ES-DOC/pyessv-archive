@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "miroc-esm-chem", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "MIROC-ESM-CHEM", 
-    "label": "MIROC-ESM-CHEM", 
-    "namespace": "wcrp:cmip5:model:miroc-esm-chem", 
-    "raw_name": "MIROC-ESM-CHEM", 
-    "status": "pending", 
-    "uid": "314babd6-1327-4da0-8a76-0706f34f94d9"
+    "_type": "term",
+    "canonical_name": "miroc-esm-chem",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "MIROC-ESM-CHEM",
+    "label": "MIROC-ESM-CHEM",
+    "namespace": "wcrp:cmip5:model:miroc-esm-chem",
+    "raw_name": "MIROC-ESM-CHEM",
+    "status": "pending",
+    "uid": "995bd5e2-ebb6-46e4-be6b-212d89e3f0fe"
 }

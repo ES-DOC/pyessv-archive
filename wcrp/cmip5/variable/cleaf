@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cleaf", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cLeaf", 
-    "label": "cLeaf", 
-    "namespace": "wcrp:cmip5:variable:cleaf", 
-    "raw_name": "cLeaf", 
-    "status": "pending", 
-    "uid": "7581fe78-135c-49f7-9583-d23646b37548"
+    "_type": "term",
+    "canonical_name": "cleaf",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cLeaf",
+    "label": "cLeaf",
+    "namespace": "wcrp:cmip5:variable:cleaf",
+    "raw_name": "cLeaf",
+    "status": "pending",
+    "uid": "539ffbdd-49f0-4611-8074-564a87491b43"
 }

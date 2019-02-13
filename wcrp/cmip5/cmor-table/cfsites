@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cfsites", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cfSites", 
-    "label": "cfSites", 
-    "namespace": "wcrp:cmip5:cmor-table:cfsites", 
-    "raw_name": "cfSites", 
-    "status": "pending", 
-    "uid": "1f0ffd6a-f277-4112-b8cc-2c8d99b6df9a"
+    "_type": "term",
+    "canonical_name": "cfsites",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cfSites",
+    "label": "cfSites",
+    "namespace": "wcrp:cmip5:cmor-table:cfsites",
+    "raw_name": "cfSites",
+    "status": "pending",
+    "uid": "9796ee6d-ea51-4742-a1cf-4c8c26656c1a"
 }

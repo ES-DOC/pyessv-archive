@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "uofmd-landstate-gcam-ssp434-2-1-f",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "UofMD-landState-GCAM-ssp434-2-1-f",
+    "label": "UofMD-landState-GCAM-ssp434-2-1-f",
+    "namespace": "wcrp:input4mips:source-id:uofmd-landstate-gcam-ssp434-2-1-f",
+    "raw_name": "UofMD-landState-GCAM-ssp434-2-1-f",
+    "status": "pending",
+    "uid": "0ad941f5-60d2-43d6-b5d9-ba497a6ba8e7"
+}

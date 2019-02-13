@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mon",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mon",
+    "namespace": "wcrp:input4mips:frequency:mon",
+    "status": "pending",
+    "uid": "cb647b81-61d8-4405-9648-b3d966fe0fc7"
+}

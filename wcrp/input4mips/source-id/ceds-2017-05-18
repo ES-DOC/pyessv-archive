@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "ceds-2017-05-18",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CEDS-2017-05-18",
+    "label": "CEDS-2017-05-18",
+    "namespace": "wcrp:input4mips:source-id:ceds-2017-05-18",
+    "raw_name": "CEDS-2017-05-18",
+    "status": "pending",
+    "uid": "a612d036-fe34-4d3d-8f60-5d626a2b29b1"
+}

@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "mohc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "MOHC", 
-    "namespace": "wcrp:cmip5:institute:mohc", 
-    "raw_name": "MOHC", 
-    "status": "pending", 
-    "uid": "6f9ab9d6-62e2-44aa-8d0f-9b4929a40270"
+    "_type": "term",
+    "canonical_name": "mohc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "MOHC",
+    "namespace": "wcrp:cmip5:institute:mohc",
+    "raw_name": "MOHC",
+    "status": "pending",
+    "uid": "a0955e87-9c4f-4d88-bb17-5fb4568b2995"
 }

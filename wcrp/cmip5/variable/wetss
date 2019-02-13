@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "wetss", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "wetss", 
-    "namespace": "wcrp:cmip5:variable:wetss", 
-    "status": "pending", 
-    "uid": "680c9d85-1db9-47d9-98d5-8d9caae3efee"
+    "_type": "term",
+    "canonical_name": "wetss",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "wetss",
+    "namespace": "wcrp:cmip5:variable:wetss",
+    "status": "pending",
+    "uid": "e6f02758-8383-4dc1-bb89-379a43ce0854"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "emidust", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "emidust", 
-    "namespace": "wcrp:cmip5:variable:emidust", 
-    "status": "pending", 
-    "uid": "a8a78906-96f6-46d6-859f-6baa5fd5143b"
+    "_type": "term",
+    "canonical_name": "emidust",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "emidust",
+    "namespace": "wcrp:cmip5:variable:emidust",
+    "status": "pending",
+    "uid": "bb11699d-6ade-41f7-8998-1136b8970f44"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "emibc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "emibc", 
-    "namespace": "wcrp:cmip5:variable:emibc", 
-    "status": "pending", 
-    "uid": "048ba8c0-97b0-455b-8cf2-e7fc7690e680"
+    "_type": "term",
+    "canonical_name": "emibc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "emibc",
+    "namespace": "wcrp:cmip5:variable:emibc",
+    "status": "pending",
+    "uid": "c903011d-a30b-48c6-8888-429986048633"
 }

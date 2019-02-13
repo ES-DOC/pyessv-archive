@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "time", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "time", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:time", 
-    "status": "pending", 
-    "uid": "abdba6fa-93ce-47c4-b214-61a25feba2af"
+    "_type": "term",
+    "canonical_name": "time",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "time",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:time",
+    "status": "pending",
+    "uid": "29e93e2f-8efb-41f3-bd21-ee950988d05f"
 }

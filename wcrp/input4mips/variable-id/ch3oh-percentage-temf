@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "ch3oh-percentage-temf",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CH3OH-percentage-TEMF",
+    "label": "CH3OH-percentage-TEMF",
+    "namespace": "wcrp:input4mips:variable-id:ch3oh-percentage-temf",
+    "raw_name": "CH3OH-percentage-TEMF",
+    "status": "pending",
+    "uid": "f2e6f02a-d1ac-4343-8898-35a5b976e6ac"
+}

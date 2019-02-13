@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "wap", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "wap", 
-    "namespace": "wcrp:cmip5:variable:wap", 
-    "status": "pending", 
-    "uid": "1dc3fc59-464d-4330-ae77-0e1a81ca14a4"
+    "_type": "term",
+    "canonical_name": "wap",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "wap",
+    "namespace": "wcrp:cmip5:variable:wap",
+    "status": "pending",
+    "uid": "9166a64a-89b6-4d70-acdf-00e3bfd4d973"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "drynh4", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "drynh4", 
-    "namespace": "wcrp:cmip5:variable:drynh4", 
-    "status": "pending", 
-    "uid": "d0d0c056-a58d-4a71-92ff-445d027cd65d"
+    "_type": "term",
+    "canonical_name": "drynh4",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "drynh4",
+    "namespace": "wcrp:cmip5:variable:drynh4",
+    "status": "pending",
+    "uid": "20c577da-d773-4feb-b463-46c1c81604b7"
 }

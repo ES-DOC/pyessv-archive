@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "psl", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "psl", 
-    "namespace": "wcrp:cmip5:variable:psl", 
-    "status": "pending", 
-    "uid": "8528787c-947c-460d-a671-da18f869f42e"
+    "_type": "term",
+    "canonical_name": "psl",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "psl",
+    "namespace": "wcrp:cmip5:variable:psl",
+    "status": "pending",
+    "uid": "ae5abf3f-6624-4c6d-bfd0-a0b959e44820"
 }

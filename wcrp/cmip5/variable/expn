@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "expn", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "expn", 
-    "namespace": "wcrp:cmip5:variable:expn", 
-    "status": "pending", 
-    "uid": "9719f7b0-5838-4d1e-840a-14f3e8ff0b8a"
+    "_type": "term",
+    "canonical_name": "expn",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "expn",
+    "namespace": "wcrp:cmip5:variable:expn",
+    "status": "pending",
+    "uid": "cd168042-1641-4114-9aaf-42a97c97fbdc"
 }

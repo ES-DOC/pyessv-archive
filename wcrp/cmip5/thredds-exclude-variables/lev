@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "lev", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "lev", 
-    "namespace": "wcrp:cmip5:thredds-exclude-variables:lev", 
-    "status": "pending", 
-    "uid": "ec086f98-19e4-43e5-b82a-22a5767a4a24"
+    "_type": "term",
+    "canonical_name": "lev",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "lev",
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:lev",
+    "status": "pending",
+    "uid": "fc51fdf2-5e0e-4754-b911-2bcbdb10f8fb"
 }

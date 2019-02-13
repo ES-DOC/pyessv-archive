@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "gridcellarea",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "gridcellarea",
+    "namespace": "wcrp:input4mips:variable-id:gridcellarea",
+    "status": "pending",
+    "uid": "3514e793-60c6-4621-bb2f-a894db9e216b"
+}

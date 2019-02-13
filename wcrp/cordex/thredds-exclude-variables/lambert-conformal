@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "lambert-conformal", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Lambert_Conformal", 
-    "label": "Lambert_Conformal", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:lambert-conformal", 
-    "raw_name": "Lambert_Conformal", 
-    "status": "pending", 
-    "uid": "f4ae4ec2-8c04-45a3-abab-c951746aab43"
+    "_type": "term",
+    "canonical_name": "lambert-conformal",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Lambert_Conformal",
+    "label": "Lambert_Conformal",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:lambert-conformal",
+    "raw_name": "Lambert_Conformal",
+    "status": "pending",
+    "uid": "0b0fe794-bf9b-4a1b-a781-913e5273b07c"
 }

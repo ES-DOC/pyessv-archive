@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "ucolorado",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "UColorado",
+    "label": "UColorado",
+    "namespace": "wcrp:input4mips:institution-id:ucolorado",
+    "raw_name": "UColorado",
+    "status": "pending",
+    "uid": "9fa0517e-1f30-44e4-a9d8-cd6a70190328"
+}

@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-cf4-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-cf4-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-cf4-in-air",
+    "status": "pending",
+    "uid": "1497b994-55c9-45c9-b6a0-b978f1dfb62b"
+}

@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "pressure1",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "pressure1",
+    "namespace": "wcrp:input4mips:thredds-exclude-variables:pressure1",
+    "status": "pending",
+    "uid": "68d1a66d-bfec-43b1-b414-9c901834eecd"
+}

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "h2o", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "h2o", 
-    "namespace": "wcrp:cmip5:variable:h2o", 
-    "status": "pending", 
-    "uid": "015b67b4-4849-4de4-bf30-aa4a18f1162a"
+    "_type": "term",
+    "canonical_name": "h2o",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "h2o",
+    "namespace": "wcrp:cmip5:variable:h2o",
+    "status": "pending",
+    "uid": "11b10392-6fd6-4a4e-9ba9-30530ba86481"
 }

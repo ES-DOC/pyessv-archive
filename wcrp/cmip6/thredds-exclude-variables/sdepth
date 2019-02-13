@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sdepth", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sdepth", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:sdepth", 
-    "status": "pending", 
-    "uid": "787cb611-a1b1-4d34-b3b8-564b007ed246"
+    "_type": "term",
+    "canonical_name": "sdepth",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sdepth",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:sdepth",
+    "status": "pending",
+    "uid": "73c5fa52-fcb0-4d3c-87da-7e92c6c3a4c4"
 }

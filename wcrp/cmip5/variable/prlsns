@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "prlsns", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "prlsns", 
-    "namespace": "wcrp:cmip5:variable:prlsns", 
-    "status": "pending", 
-    "uid": "7e29dfef-c853-4ae5-9f2a-ea82472df97e"
+    "_type": "term",
+    "canonical_name": "prlsns",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "prlsns",
+    "namespace": "wcrp:cmip5:variable:prlsns",
+    "status": "pending",
+    "uid": "769acf6c-7064-4a50-adb7-aab2bdf10140"
 }

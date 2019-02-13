@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-sf6-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-sf6-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-sf6-in-air",
+    "status": "pending",
+    "uid": "87c6d481-c58c-4400-837d-87d0737c1757"
+}

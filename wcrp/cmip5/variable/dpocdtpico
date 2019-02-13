@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "dpocdtpico", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "dpocdtpico", 
-    "namespace": "wcrp:cmip5:variable:dpocdtpico", 
-    "status": "pending", 
-    "uid": "afb0b246-1faa-41d5-8ea2-74dd812bef6e"
+    "_type": "term",
+    "canonical_name": "dpocdtpico",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "dpocdtpico",
+    "namespace": "wcrp:cmip5:variable:dpocdtpico",
+    "status": "pending",
+    "uid": "04093677-9416-4797-9463-c50be33e5c9d"
 }

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "historicalnat", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Historical with natural forcing only", 
-    "label": "historicalNat", 
-    "namespace": "wcrp:cmip5:experiment:historicalnat", 
-    "raw_name": "historicalNat", 
-    "status": "pending", 
-    "uid": "bf25d817-01b3-4403-9095-5bb7c299dd78"
+    "_type": "term",
+    "canonical_name": "historicalnat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Historical with natural forcing only",
+    "label": "historicalNat",
+    "namespace": "wcrp:cmip5:experiment:historicalnat",
+    "raw_name": "historicalNat",
+    "status": "pending",
+    "uid": "e1c01140-c668-440a-8aff-9dd7b3b01f3f"
 }

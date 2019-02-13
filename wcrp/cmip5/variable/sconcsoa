@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sconcsoa", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sconcsoa", 
-    "namespace": "wcrp:cmip5:variable:sconcsoa", 
-    "status": "pending", 
-    "uid": "bdf6f584-8b6b-454e-ae47-35f281d3e1d5"
+    "_type": "term",
+    "canonical_name": "sconcsoa",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sconcsoa",
+    "namespace": "wcrp:cmip5:variable:sconcsoa",
+    "status": "pending",
+    "uid": "d6c97ec8-b05b-49b3-83ad-53259a9f5f78"
 }

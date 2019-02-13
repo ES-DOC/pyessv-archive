@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnsclias", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnsclias", 
-    "namespace": "wcrp:cmip5:variable:tnsclias", 
-    "status": "pending", 
-    "uid": "9559025b-f6d7-4c1e-beac-ccf727596384"
+    "_type": "term",
+    "canonical_name": "tnsclias",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnsclias",
+    "namespace": "wcrp:cmip5:variable:tnsclias",
+    "status": "pending",
+    "uid": "bcec3e4b-92e8-43b2-bd1c-905427920a74"
 }

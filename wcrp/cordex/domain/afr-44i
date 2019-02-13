@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "afr-44i", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "Africa", 
-    "label": "AFR-44i", 
-    "namespace": "wcrp:cordex:domain:afr-44i", 
-    "raw_name": "AFR-44i", 
-    "status": "pending", 
-    "uid": "1917fb61-6c1b-4f5b-8448-5d3e3393224f"
+    "_type": "term",
+    "canonical_name": "afr-44i",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Africa",
+    "label": "AFR-44i",
+    "namespace": "wcrp:cordex:domain:afr-44i",
+    "raw_name": "AFR-44i",
+    "status": "pending",
+    "uid": "f26cd42b-f811-4bff-b00b-4ba24ccb282d"
 }

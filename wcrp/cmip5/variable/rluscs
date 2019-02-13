@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rluscs", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rluscs", 
-    "namespace": "wcrp:cmip5:variable:rluscs", 
-    "status": "pending", 
-    "uid": "af38e45d-3fe9-415f-8a42-c5ef192ad0f0"
+    "_type": "term",
+    "canonical_name": "rluscs",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rluscs",
+    "namespace": "wcrp:cmip5:variable:rluscs",
+    "status": "pending",
+    "uid": "26caf83f-002e-47ec-9658-516a3ab5a3ee"
 }

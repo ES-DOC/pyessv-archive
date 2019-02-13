@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnsclwa", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnsclwa", 
-    "namespace": "wcrp:cmip5:variable:tnsclwa", 
-    "status": "pending", 
-    "uid": "3dafd5bd-0f45-4923-918d-c6a6245317bd"
+    "_type": "term",
+    "canonical_name": "tnsclwa",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnsclwa",
+    "namespace": "wcrp:cmip5:variable:tnsclwa",
+    "status": "pending",
+    "uid": "4ac6e8a2-0e0d-4127-b340-90206ea5fd9c"
 }

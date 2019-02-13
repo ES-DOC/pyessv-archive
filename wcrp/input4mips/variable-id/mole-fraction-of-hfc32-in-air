@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "mole-fraction-of-hfc32-in-air",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mole-fraction-of-hfc32-in-air",
+    "namespace": "wcrp:input4mips:variable-id:mole-fraction-of-hfc32-in-air",
+    "status": "pending",
+    "uid": "e1f19932-14d6-4b9d-bbb7-860a44fad7ed"
+}

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "concbb", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "concbb", 
-    "namespace": "wcrp:cmip5:variable:concbb", 
-    "status": "pending", 
-    "uid": "b472af7c-75bc-4493-a579-af8242bd26e6"
+    "_type": "term",
+    "canonical_name": "concbb",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "concbb",
+    "namespace": "wcrp:cmip5:variable:concbb",
+    "status": "pending",
+    "uid": "033828b5-d832-4721-b0f1-2d82c03dc5a3"
 }

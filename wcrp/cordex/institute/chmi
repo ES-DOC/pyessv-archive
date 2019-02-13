@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "chmi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CHMI", 
-    "label": "CHMI", 
-    "namespace": "wcrp:cordex:institute:chmi", 
-    "raw_name": "CHMI", 
-    "status": "pending", 
-    "uid": "15bea3c0-c693-486d-bd89-b94978c614ab"
+    "_type": "term",
+    "canonical_name": "chmi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CHMI",
+    "label": "CHMI",
+    "namespace": "wcrp:cordex:institute:chmi",
+    "raw_name": "CHMI",
+    "status": "pending",
+    "uid": "f3980348-f8ec-4241-aa59-f0f751741f26"
 }

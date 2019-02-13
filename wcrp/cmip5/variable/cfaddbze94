@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cfaddbze94", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "cfadDbze94", 
-    "label": "cfadDbze94", 
-    "namespace": "wcrp:cmip5:variable:cfaddbze94", 
-    "raw_name": "cfadDbze94", 
-    "status": "pending", 
-    "uid": "ec09c929-6156-42a4-b447-0340b5ae4c75"
+    "_type": "term",
+    "canonical_name": "cfaddbze94",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "cfadDbze94",
+    "label": "cfadDbze94",
+    "namespace": "wcrp:cmip5:variable:cfaddbze94",
+    "raw_name": "cfadDbze94",
+    "status": "pending",
+    "uid": "04335d2b-bca9-4d9a-9adc-cf8eb7d565c0"
 }

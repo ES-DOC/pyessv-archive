@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "fveglitter", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "fVegLitter", 
-    "label": "fVegLitter", 
-    "namespace": "wcrp:cmip5:variable:fveglitter", 
-    "raw_name": "fVegLitter", 
-    "status": "pending", 
-    "uid": "07acd46c-d218-41ca-836f-69fdd2ed6d66"
+    "_type": "term",
+    "canonical_name": "fveglitter",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "fVegLitter",
+    "label": "fVegLitter",
+    "namespace": "wcrp:cmip5:variable:fveglitter",
+    "raw_name": "fVegLitter",
+    "status": "pending",
+    "uid": "a0d2804a-5138-4eeb-a1d5-9e816761d257"
 }

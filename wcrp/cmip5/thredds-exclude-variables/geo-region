@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "geo-region", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "geo_region", 
-    "label": "geo_region", 
-    "namespace": "wcrp:cmip5:thredds-exclude-variables:geo-region", 
-    "raw_name": "geo_region", 
-    "status": "pending", 
-    "uid": "9bda1b85-25ec-4805-bbef-2f39225ddc6f"
+    "_type": "term",
+    "canonical_name": "geo-region",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "geo_region",
+    "label": "geo_region",
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:geo-region",
+    "raw_name": "geo_region",
+    "status": "pending",
+    "uid": "bbd31c7e-e159-430e-99a9-bd5627c26df3"
 }

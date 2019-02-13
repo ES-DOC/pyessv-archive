@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "awi", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "AWI", 
-    "label": "AWI", 
-    "namespace": "wcrp:cordex:institute:awi", 
-    "raw_name": "AWI", 
-    "status": "pending", 
-    "uid": "5c215237-ab31-44cf-9fad-fa537cbd02f3"
+    "_type": "term",
+    "canonical_name": "awi",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "AWI",
+    "label": "AWI",
+    "namespace": "wcrp:cordex:institute:awi",
+    "raw_name": "AWI",
+    "status": "pending",
+    "uid": "1a6d4efa-c3a5-469d-b946-9110fa75beaf"
 }

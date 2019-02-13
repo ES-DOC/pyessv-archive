@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "mrsowp", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mrsowp", 
-    "namespace": "wcrp:cordex:variable:mrsowp", 
-    "status": "pending", 
-    "uid": "30b93b79-3a44-4663-a01a-4424d931efae"
+    "_type": "term",
+    "canonical_name": "mrsowp",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mrsowp",
+    "namespace": "wcrp:cordex:variable:mrsowp",
+    "status": "pending",
+    "uid": "02985907-13e8-4757-93f6-abc4ef290dce"
 }

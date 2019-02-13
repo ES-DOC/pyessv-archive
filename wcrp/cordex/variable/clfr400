@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "clfr400", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "clfr400", 
-    "namespace": "wcrp:cordex:variable:clfr400", 
-    "status": "pending", 
-    "uid": "a313e2bf-650e-47e7-912a-da329071754f"
+    "_type": "term",
+    "canonical_name": "clfr400",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "clfr400",
+    "namespace": "wcrp:cordex:variable:clfr400",
+    "status": "pending",
+    "uid": "b9d4ca03-bb17-4b61-9f50-ed5085d65034"
 }

@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "nmvoc-bulk-percentage-peat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NMVOC-bulk-percentage-PEAT",
+    "label": "NMVOC-bulk-percentage-PEAT",
+    "namespace": "wcrp:input4mips:variable-id:nmvoc-bulk-percentage-peat",
+    "raw_name": "NMVOC-bulk-percentage-PEAT",
+    "status": "pending",
+    "uid": "99b4d7ad-6f42-4d01-a111-8d65d46d7779"
+}

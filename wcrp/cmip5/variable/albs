@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "albs", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "albs", 
-    "namespace": "wcrp:cmip5:variable:albs", 
-    "status": "pending", 
-    "uid": "44b68a8f-306d-40fb-9dd1-ca196415287b"
+    "_type": "term",
+    "canonical_name": "albs",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "albs",
+    "namespace": "wcrp:cmip5:variable:albs",
+    "status": "pending",
+    "uid": "6a291387-6b5c-4938-9d66-0cf141fbc9e0"
 }

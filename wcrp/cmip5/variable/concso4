@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "concso4", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "concso4", 
-    "namespace": "wcrp:cmip5:variable:concso4", 
-    "status": "pending", 
-    "uid": "4935d471-b463-4333-ae07-ff7a794083fe"
+    "_type": "term",
+    "canonical_name": "concso4",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "concso4",
+    "namespace": "wcrp:cmip5:variable:concso4",
+    "status": "pending",
+    "uid": "084ae47b-b0bc-4de4-be16-570b73e999bb"
 }

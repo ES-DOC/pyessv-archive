@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "c2h6s-percentage-agri",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "C2H6S-percentage-AGRI",
+    "label": "C2H6S-percentage-AGRI",
+    "namespace": "wcrp:input4mips:variable-id:c2h6s-percentage-agri",
+    "raw_name": "C2H6S-percentage-AGRI",
+    "status": "pending",
+    "uid": "199b38c3-4b3e-4d33-bdf1-5b9e88ff7552"
+}

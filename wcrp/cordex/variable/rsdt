@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rsdt", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rsdt", 
-    "namespace": "wcrp:cordex:variable:rsdt", 
-    "status": "pending", 
-    "uid": "6c98aefe-c7e8-482f-9c45-d0df3fd454ed"
+    "_type": "term",
+    "canonical_name": "rsdt",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rsdt",
+    "namespace": "wcrp:cordex:variable:rsdt",
+    "status": "pending",
+    "uid": "8c3a0edb-2fa5-4084-b1c6-f6538e6305e8"
 }

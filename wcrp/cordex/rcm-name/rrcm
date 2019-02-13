@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "rrcm", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "RRCM", 
-    "namespace": "wcrp:cordex:rcm-name:rrcm", 
-    "raw_name": "RRCM", 
-    "status": "pending", 
-    "uid": "472df518-995b-4f60-a1d5-86a9ee9f4cf0"
+    "_type": "term",
+    "canonical_name": "rrcm",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "RRCM",
+    "namespace": "wcrp:cordex:rcm-name:rrcm",
+    "raw_name": "RRCM",
+    "status": "pending",
+    "uid": "dac70cf7-0bbc-4227-9ead-0248f8be2b7f"
 }

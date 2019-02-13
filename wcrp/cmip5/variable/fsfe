@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "fsfe", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "fsfe", 
-    "namespace": "wcrp:cmip5:variable:fsfe", 
-    "status": "pending", 
-    "uid": "68195049-aca0-4526-a5b1-265583e869b1"
+    "_type": "term",
+    "canonical_name": "fsfe",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "fsfe",
+    "namespace": "wcrp:cmip5:variable:fsfe",
+    "status": "pending",
+    "uid": "cfe0ec24-4b78-4053-b69a-60687521d15e"
 }

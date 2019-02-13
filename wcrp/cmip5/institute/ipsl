@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "ipsl", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "IPSL", 
-    "namespace": "wcrp:cmip5:institute:ipsl", 
-    "raw_name": "IPSL", 
-    "status": "pending", 
-    "uid": "e61f1b08-4607-484c-9175-68607131639b"
+    "_type": "term",
+    "canonical_name": "ipsl",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "IPSL",
+    "namespace": "wcrp:cmip5:institute:ipsl",
+    "raw_name": "IPSL",
+    "status": "pending",
+    "uid": "972da647-22d1-4e28-80d0-23a0658b17cc"
 }

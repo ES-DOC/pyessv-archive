@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "chldiat", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "chldiat", 
-    "namespace": "wcrp:cmip5:variable:chldiat", 
-    "status": "pending", 
-    "uid": "b70a4c11-81f0-45e2-96b4-d8c8cbbb6901"
+    "_type": "term",
+    "canonical_name": "chldiat",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "chldiat",
+    "namespace": "wcrp:cmip5:variable:chldiat",
+    "status": "pending",
+    "uid": "1d092b2f-eefc-45a7-a10d-8d4351f7047e"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "hus200", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "hus200", 
-    "namespace": "wcrp:cordex:variable:hus200", 
-    "status": "pending", 
-    "uid": "4b468c76-119d-41d9-8e0a-2b0fb79f6479"
+    "_type": "term",
+    "canonical_name": "hus200",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "hus200",
+    "namespace": "wcrp:cordex:variable:hus200",
+    "status": "pending",
+    "uid": "a59b99df-d141-4b8f-b3f7-5363761e3ec3"
 }

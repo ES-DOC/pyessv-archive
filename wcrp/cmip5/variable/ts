@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ts", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ts", 
-    "namespace": "wcrp:cmip5:variable:ts", 
-    "status": "pending", 
-    "uid": "65220446-e098-48f3-8a16-540f0e5fd2f3"
+    "_type": "term",
+    "canonical_name": "ts",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ts",
+    "namespace": "wcrp:cmip5:variable:ts",
+    "status": "pending",
+    "uid": "0cdd9882-266e-4c04-8f2b-5f2cece9d027"
 }

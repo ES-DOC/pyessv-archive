@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "hirham5", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "HIRHAM5", 
-    "namespace": "wcrp:cordex:rcm-name:hirham5", 
-    "raw_name": "HIRHAM5", 
-    "status": "pending", 
-    "uid": "6baa7444-10c9-4e54-8b9c-268ba7ab8ebc"
+    "_type": "term",
+    "canonical_name": "hirham5",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "HIRHAM5",
+    "namespace": "wcrp:cordex:rcm-name:hirham5",
+    "raw_name": "HIRHAM5",
+    "status": "pending",
+    "uid": "761edeb8-06bb-4fe8-9bcb-6f48341c336c"
 }

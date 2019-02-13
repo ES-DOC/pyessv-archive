@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "shrubfrac", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "shrubFrac", 
-    "label": "shrubFrac", 
-    "namespace": "wcrp:cmip5:variable:shrubfrac", 
-    "raw_name": "shrubFrac", 
-    "status": "pending", 
-    "uid": "c7db3f0f-ceca-4523-b5ad-982398e647bb"
+    "_type": "term",
+    "canonical_name": "shrubfrac",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "shrubFrac",
+    "label": "shrubFrac",
+    "namespace": "wcrp:cmip5:variable:shrubfrac",
+    "raw_name": "shrubFrac",
+    "status": "pending",
+    "uid": "44539d91-eaca-4a68-af9f-94c9c2c398aa"
 }

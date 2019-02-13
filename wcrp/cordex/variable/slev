@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "slev", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "slev", 
-    "namespace": "wcrp:cordex:variable:slev", 
-    "status": "pending", 
-    "uid": "3a7fd58f-8ecf-4133-9457-07e8912e466e"
+    "_type": "term",
+    "canonical_name": "slev",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "slev",
+    "namespace": "wcrp:cordex:variable:slev",
+    "status": "pending",
+    "uid": "cd34886a-5781-4bd9-84f3-5e3b350e8dc8"
 }

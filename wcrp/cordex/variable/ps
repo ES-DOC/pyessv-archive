@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ps", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ps", 
-    "namespace": "wcrp:cordex:variable:ps", 
-    "status": "pending", 
-    "uid": "74a9ac20-b185-4c5f-97a0-b3117cfb193f"
+    "_type": "term",
+    "canonical_name": "ps",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ps",
+    "namespace": "wcrp:cordex:variable:ps",
+    "status": "pending",
+    "uid": "e2b0a36a-c041-4b62-b770-03b46c2cbbf8"
 }

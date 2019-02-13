@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnsclibfpcl", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnsclibfpcl", 
-    "namespace": "wcrp:cmip5:variable:tnsclibfpcl", 
-    "status": "pending", 
-    "uid": "18d63bf0-c483-4852-a5d4-b0dbf2f89c06"
+    "_type": "term",
+    "canonical_name": "tnsclibfpcl",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnsclibfpcl",
+    "namespace": "wcrp:cmip5:variable:tnsclibfpcl",
+    "status": "pending",
+    "uid": "f51aef18-a528-4555-a4e8-5113bff144bf"
 }

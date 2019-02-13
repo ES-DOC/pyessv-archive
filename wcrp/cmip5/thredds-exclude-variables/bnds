@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "bnds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "bnds", 
-    "namespace": "wcrp:cmip5:thredds-exclude-variables:bnds", 
-    "status": "pending", 
-    "uid": "d3b7c362-f05e-4748-8c80-17013c3cf0df"
+    "_type": "term",
+    "canonical_name": "bnds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "bnds",
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:bnds",
+    "status": "pending",
+    "uid": "0b697402-013e-4cc2-b559-6582e95e4b2d"
 }

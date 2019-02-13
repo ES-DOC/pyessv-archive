@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "1-minute", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "1 minute", 
-    "namespace": "wcrp:cmip6:las-time-delta:1-minute", 
-    "raw_name": "1 minute", 
-    "status": "pending", 
-    "uid": "ecbcf946-f6f1-407c-9646-4d10ee0a3706"
+    "_type": "term",
+    "canonical_name": "1-minute",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "1 minute",
+    "namespace": "wcrp:cmip6:las-time-delta:1-minute",
+    "raw_name": "1 minute",
+    "status": "pending",
+    "uid": "cd4f91c4-281c-4711-81bc-4c1b008a750c"
 }

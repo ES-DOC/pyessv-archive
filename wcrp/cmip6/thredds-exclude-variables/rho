@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rho", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rho", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:rho", 
-    "status": "pending", 
-    "uid": "10ade68f-88dd-4772-8fb7-480283365e38"
+    "_type": "term",
+    "canonical_name": "rho",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rho",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:rho",
+    "status": "pending",
+    "uid": "336f19af-2835-41af-bb68-930f521042b7"
 }

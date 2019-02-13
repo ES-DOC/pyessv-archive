@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "olevel", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "olevel", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:olevel", 
-    "status": "pending", 
-    "uid": "d5e0aed4-4bbc-405f-b41d-df80827313e9"
+    "_type": "term",
+    "canonical_name": "olevel",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "olevel",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:olevel",
+    "status": "pending",
+    "uid": "84281487-ef62-4635-9b8b-15180be192e7"
 }

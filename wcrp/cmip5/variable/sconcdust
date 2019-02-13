@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "sconcdust", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "sconcdust", 
-    "namespace": "wcrp:cmip5:variable:sconcdust", 
-    "status": "pending", 
-    "uid": "c6069bf5-0561-4acf-b8b8-5d1643dfed40"
+    "_type": "term",
+    "canonical_name": "sconcdust",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "sconcdust",
+    "namespace": "wcrp:cmip5:variable:sconcdust",
+    "status": "pending",
+    "uid": "50306a91-6f21-4064-95bb-4d64b0494c5d"
 }

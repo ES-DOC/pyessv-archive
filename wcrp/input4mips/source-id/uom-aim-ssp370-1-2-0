@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "uom-aim-ssp370-1-2-0",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "UoM-AIM-ssp370-1-2-0",
+    "label": "UoM-AIM-ssp370-1-2-0",
+    "namespace": "wcrp:input4mips:source-id:uom-aim-ssp370-1-2-0",
+    "raw_name": "UoM-AIM-ssp370-1-2-0",
+    "status": "pending",
+    "uid": "9696dcb5-29d8-4608-9109-00f8cf7f27a8"
+}

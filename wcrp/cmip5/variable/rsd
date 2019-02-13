@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rsd", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rsd", 
-    "namespace": "wcrp:cmip5:variable:rsd", 
-    "status": "pending", 
-    "uid": "19390413-925b-4585-a7e3-a9ed73e59d91"
+    "_type": "term",
+    "canonical_name": "rsd",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rsd",
+    "namespace": "wcrp:cmip5:variable:rsd",
+    "status": "pending",
+    "uid": "4d043997-7790-4c55-885a-b6f2351c3736"
 }

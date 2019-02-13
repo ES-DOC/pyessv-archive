@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "reffclis", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "reffclis", 
-    "namespace": "wcrp:cmip5:variable:reffclis", 
-    "status": "pending", 
-    "uid": "a9dd9ec2-a8b7-4d23-ba27-a2bcfaa48b89"
+    "_type": "term",
+    "canonical_name": "reffclis",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "reffclis",
+    "namespace": "wcrp:cmip5:variable:reffclis",
+    "status": "pending",
+    "uid": "5203b8ac-88b2-4186-918c-b17e1caae001"
 }

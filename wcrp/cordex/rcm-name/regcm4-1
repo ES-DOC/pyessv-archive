@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "regcm4-1", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "RegCM4-1", 
-    "namespace": "wcrp:cordex:rcm-name:regcm4-1", 
-    "raw_name": "RegCM4-1", 
-    "status": "pending", 
-    "uid": "f7bc6ea1-7618-41ad-a9b5-55316e8c7b4a"
+    "_type": "term",
+    "canonical_name": "regcm4-1",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "RegCM4-1",
+    "namespace": "wcrp:cordex:rcm-name:regcm4-1",
+    "raw_name": "RegCM4-1",
+    "status": "pending",
+    "uid": "d7b25231-803e-451a-8b74-a49f17750acf"
 }

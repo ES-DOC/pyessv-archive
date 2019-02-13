@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "cmcc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "CMCC", 
-    "namespace": "wcrp:cmip5:institute:cmcc", 
-    "raw_name": "CMCC", 
-    "status": "pending", 
-    "uid": "c20d8751-25d7-48e7-977a-c73a9a1239d7"
+    "_type": "term",
+    "canonical_name": "cmcc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "CMCC",
+    "namespace": "wcrp:cmip5:institute:cmcc",
+    "raw_name": "CMCC",
+    "status": "pending",
+    "uid": "9ca7e9b5-b2a4-49ba-a50a-2284373f6713"
 }

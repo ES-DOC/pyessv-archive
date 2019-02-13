@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "cesm1-fastchem", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "CESM1-FASTCHEM", 
-    "label": "CESM1-FASTCHEM", 
-    "namespace": "wcrp:cmip5:model:cesm1-fastchem", 
-    "raw_name": "CESM1-FASTCHEM", 
-    "status": "pending", 
-    "uid": "5c934567-3cf9-4337-a7f4-4cec5573a3a5"
+    "_type": "term",
+    "canonical_name": "cesm1-fastchem",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "CESM1-FASTCHEM",
+    "label": "CESM1-FASTCHEM",
+    "namespace": "wcrp:cmip5:model:cesm1-fastchem",
+    "raw_name": "CESM1-FASTCHEM",
+    "status": "pending",
+    "uid": "88439f91-ee2f-4cf9-94be-16b84121b19f"
 }

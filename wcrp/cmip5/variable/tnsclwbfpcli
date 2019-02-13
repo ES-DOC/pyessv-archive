@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "tnsclwbfpcli", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "tnsclwbfpcli", 
-    "namespace": "wcrp:cmip5:variable:tnsclwbfpcli", 
-    "status": "pending", 
-    "uid": "b5f73c6d-62b7-495b-8fdd-b9da81044fa3"
+    "_type": "term",
+    "canonical_name": "tnsclwbfpcli",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "tnsclwbfpcli",
+    "namespace": "wcrp:cmip5:variable:tnsclwbfpcli",
+    "status": "pending",
+    "uid": "5a5e5e14-7713-43bd-9878-8f77a5776eef"
 }

@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "eur-11", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "High-res. Europe", 
-    "label": "EUR-11", 
-    "namespace": "wcrp:cordex:domain:eur-11", 
-    "raw_name": "EUR-11", 
-    "status": "pending", 
-    "uid": "f4122ab2-4855-4b44-b32f-0702c93d6c98"
+    "_type": "term",
+    "canonical_name": "eur-11",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "High-res. Europe",
+    "label": "EUR-11",
+    "namespace": "wcrp:cordex:domain:eur-11",
+    "raw_name": "EUR-11",
+    "status": "pending",
+    "uid": "2b158503-456a-400e-9d9f-74c6a1c28e85"
 }

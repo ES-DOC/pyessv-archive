@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "csiro-bom", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "CSIRO-BOM", 
-    "namespace": "wcrp:cmip5:institute:csiro-bom", 
-    "raw_name": "CSIRO-BOM", 
-    "status": "pending", 
-    "uid": "0e6e907e-00cf-431c-8e2d-67da4f6c5d3f"
+    "_type": "term",
+    "canonical_name": "csiro-bom",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "CSIRO-BOM",
+    "namespace": "wcrp:cmip5:institute:csiro-bom",
+    "raw_name": "CSIRO-BOM",
+    "status": "pending",
+    "uid": "018b99f1-0d8e-4258-974d-f8bfd3ccfa27"
 }

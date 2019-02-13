@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "location", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "location", 
-    "namespace": "wcrp:cordex:thredds-exclude-variables:location", 
-    "status": "pending", 
-    "uid": "7c025da4-8282-4276-845e-9a043cd1fe7c"
+    "_type": "term",
+    "canonical_name": "location",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "location",
+    "namespace": "wcrp:cordex:thredds-exclude-variables:location",
+    "status": "pending",
+    "uid": "90acd8f8-624d-45f6-a925-8f19cd224ccb"
 }

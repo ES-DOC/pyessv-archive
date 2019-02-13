@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "latitude",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "latitude",
+    "namespace": "wcrp:input4mips:thredds-exclude-variables:latitude",
+    "status": "pending",
+    "uid": "5d1fb520-84d6-4615-8299-5c9194c22f70"
+}

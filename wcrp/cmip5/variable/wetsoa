@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "wetsoa", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "wetsoa", 
-    "namespace": "wcrp:cmip5:variable:wetsoa", 
-    "status": "pending", 
-    "uid": "36be05dd-af27-486d-81cb-37c50eb7cc3d"
+    "_type": "term",
+    "canonical_name": "wetsoa",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "wetsoa",
+    "namespace": "wcrp:cmip5:variable:wetsoa",
+    "status": "pending",
+    "uid": "dc638985-bdcc-4a3b-a67d-37d0c3b989f8"
 }

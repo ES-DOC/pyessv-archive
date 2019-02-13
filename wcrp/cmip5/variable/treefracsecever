@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "treefracsecever", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "treeFracSecEver", 
-    "label": "treeFracSecEver", 
-    "namespace": "wcrp:cmip5:variable:treefracsecever", 
-    "raw_name": "treeFracSecEver", 
-    "status": "pending", 
-    "uid": "a72bd410-9bc1-44fc-804d-ace357ef9fe1"
+    "_type": "term",
+    "canonical_name": "treefracsecever",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "treeFracSecEver",
+    "label": "treeFracSecEver",
+    "namespace": "wcrp:cmip5:variable:treefracsecever",
+    "raw_name": "treeFracSecEver",
+    "status": "pending",
+    "uid": "2578d010-f9d5-447f-b6d8-fb9581db2568"
 }

@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "difvho", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "difvho", 
-    "namespace": "wcrp:cmip5:variable:difvho", 
-    "status": "pending", 
-    "uid": "dc845844-a7f8-448d-b899-1ccd433e83ea"
+    "_type": "term",
+    "canonical_name": "difvho",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "difvho",
+    "namespace": "wcrp:cmip5:variable:difvho",
+    "status": "pending",
+    "uid": "e20d1853-800c-4c55-8d16-be01cc8add56"
 }

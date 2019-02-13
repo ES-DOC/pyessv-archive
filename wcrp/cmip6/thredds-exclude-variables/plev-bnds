@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "plev-bnds", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "plev_bnds", 
-    "label": "plev_bnds", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:plev-bnds", 
-    "raw_name": "plev_bnds", 
-    "status": "pending", 
-    "uid": "831895f2-6064-4c62-a96b-b42c83d3c0ff"
+    "_type": "term",
+    "canonical_name": "plev-bnds",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "plev_bnds",
+    "label": "plev_bnds",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:plev-bnds",
+    "raw_name": "plev_bnds",
+    "status": "pending",
+    "uid": "3c06b9d4-1fb3-4982-892d-edfacfa0e02a"
 }

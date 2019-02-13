@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "unsw", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "label": "UNSW", 
-    "namespace": "wcrp:cmip5:institute:unsw", 
-    "raw_name": "UNSW", 
-    "status": "pending", 
-    "uid": "7629dc38-cb3a-4c9f-b664-72638beee059"
+    "_type": "term",
+    "canonical_name": "unsw",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "label": "UNSW",
+    "namespace": "wcrp:cmip5:institute:unsw",
+    "raw_name": "UNSW",
+    "status": "pending",
+    "uid": "f7e8ca07-1972-4d31-8182-1db467bb9420"
 }

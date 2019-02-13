@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "drydust", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "drydust", 
-    "namespace": "wcrp:cmip5:variable:drydust", 
-    "status": "pending", 
-    "uid": "6bf25350-d0b1-41ee-a0c0-5d3d7431cdaa"
+    "_type": "term",
+    "canonical_name": "drydust",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "drydust",
+    "namespace": "wcrp:cmip5:variable:drydust",
+    "status": "pending",
+    "uid": "c4a37c0e-94c9-4bb3-9d44-c09cd754b4d9"
 }

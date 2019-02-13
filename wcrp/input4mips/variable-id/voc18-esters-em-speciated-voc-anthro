@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "voc18-esters-em-speciated-voc-anthro",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "VOC18-esters-em-speciated-VOC-anthro",
+    "label": "VOC18-esters-em-speciated-VOC-anthro",
+    "namespace": "wcrp:input4mips:variable-id:voc18-esters-em-speciated-voc-anthro",
+    "raw_name": "VOC18-esters-em-speciated-VOC-anthro",
+    "status": "pending",
+    "uid": "548bb628-9266-4986-aa82-183fc8022f24"
+}

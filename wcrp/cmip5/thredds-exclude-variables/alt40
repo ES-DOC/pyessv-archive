@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "alt40", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "alt40", 
-    "namespace": "wcrp:cmip5:thredds-exclude-variables:alt40", 
-    "status": "pending", 
-    "uid": "b631a50b-d9bf-40bf-9c48-e710e9bb734f"
+    "_type": "term",
+    "canonical_name": "alt40",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "alt40",
+    "namespace": "wcrp:cmip5:thredds-exclude-variables:alt40",
+    "status": "pending",
+    "uid": "7f34c65a-a43f-46f8-ae5d-ad896be9ef00"
 }

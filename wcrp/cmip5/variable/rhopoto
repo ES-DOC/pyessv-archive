@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "rhopoto", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "rhopoto", 
-    "namespace": "wcrp:cmip5:variable:rhopoto", 
-    "status": "pending", 
-    "uid": "894271e7-5ae8-401e-a3be-5f89a12b67f6"
+    "_type": "term",
+    "canonical_name": "rhopoto",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "rhopoto",
+    "namespace": "wcrp:cmip5:variable:rhopoto",
+    "status": "pending",
+    "uid": "a47afa61-48ec-430a-9a4f-46f7e69512af"
 }

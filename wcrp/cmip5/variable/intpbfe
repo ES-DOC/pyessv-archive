@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "intpbfe", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "intpbfe", 
-    "namespace": "wcrp:cmip5:variable:intpbfe", 
-    "status": "pending", 
-    "uid": "0053a5f0-16ef-400f-9d5c-ead260352001"
+    "_type": "term",
+    "canonical_name": "intpbfe",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "intpbfe",
+    "namespace": "wcrp:cmip5:variable:intpbfe",
+    "status": "pending",
+    "uid": "fc21b097-bf1b-464f-975e-2a711f6a0ed9"
 }

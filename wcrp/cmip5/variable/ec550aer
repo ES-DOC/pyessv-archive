@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "ec550aer", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "ec550aer", 
-    "namespace": "wcrp:cmip5:variable:ec550aer", 
-    "status": "pending", 
-    "uid": "3ec00ed0-614f-4028-850a-9d9f001579b2"
+    "_type": "term",
+    "canonical_name": "ec550aer",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "ec550aer",
+    "namespace": "wcrp:cmip5:variable:ec550aer",
+    "status": "pending",
+    "uid": "fbf42e17-ff55-4ea8-956d-d089ccca0734"
 }

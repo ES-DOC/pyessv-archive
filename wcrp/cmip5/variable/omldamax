@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "omldamax", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "omldamax", 
-    "namespace": "wcrp:cmip5:variable:omldamax", 
-    "status": "pending", 
-    "uid": "ace23bbb-6ee5-46bf-9173-7e506a06cbad"
+    "_type": "term",
+    "canonical_name": "omldamax",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "omldamax",
+    "namespace": "wcrp:cmip5:variable:omldamax",
+    "status": "pending",
+    "uid": "904abcaa-dcd5-42e1-8738-caa400177610"
 }

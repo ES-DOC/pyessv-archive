@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "va850", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "va850", 
-    "namespace": "wcrp:cordex:variable:va850", 
-    "status": "pending", 
-    "uid": "fe451f44-9dcc-4b50-86c2-b1ffed9904ff"
+    "_type": "term",
+    "canonical_name": "va850",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "va850",
+    "namespace": "wcrp:cordex:variable:va850",
+    "status": "pending",
+    "uid": "e512c673-e820-4659-b513-d5cba55936c4"
 }

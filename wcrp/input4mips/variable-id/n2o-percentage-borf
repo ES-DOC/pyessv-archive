@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "n2o-percentage-borf",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "N2O-percentage-BORF",
+    "label": "N2O-percentage-BORF",
+    "namespace": "wcrp:input4mips:variable-id:n2o-percentage-borf",
+    "raw_name": "N2O-percentage-BORF",
+    "status": "pending",
+    "uid": "b335ae2e-1105-42d4-aa92-05ac022bc7c0"
+}

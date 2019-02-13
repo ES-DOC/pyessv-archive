@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "mrlso", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "mrlso", 
-    "namespace": "wcrp:cmip5:variable:mrlso", 
-    "status": "pending", 
-    "uid": "7649fcbb-5046-415c-a27e-1e5d506252d3"
+    "_type": "term",
+    "canonical_name": "mrlso",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "mrlso",
+    "namespace": "wcrp:cmip5:variable:mrlso",
+    "status": "pending",
+    "uid": "81455207-2836-416b-ab22-4607e6d62b04"
 }

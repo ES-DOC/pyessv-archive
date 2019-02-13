@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "depth0m", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "depth0m", 
-    "namespace": "wcrp:cmip6:thredds-exclude-variables:depth0m", 
-    "status": "pending", 
-    "uid": "ba64eaf4-aa06-45a8-bc5a-92fb8ffe7448"
+    "_type": "term",
+    "canonical_name": "depth0m",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "depth0m",
+    "namespace": "wcrp:cmip6:thredds-exclude-variables:depth0m",
+    "status": "pending",
+    "uid": "bef279ad-cb16-470b-82ba-da35f3a21922"
 }

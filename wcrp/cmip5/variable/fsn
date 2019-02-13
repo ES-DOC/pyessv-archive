@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "fsn", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "fsn", 
-    "namespace": "wcrp:cmip5:variable:fsn", 
-    "status": "pending", 
-    "uid": "9e94e274-54a8-4a1a-8d27-ecc209076a82"
+    "_type": "term",
+    "canonical_name": "fsn",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "fsn",
+    "namespace": "wcrp:cmip5:variable:fsn",
+    "status": "pending",
+    "uid": "6122ff07-08d1-43d6-abfe-c549baa0ab14"
 }

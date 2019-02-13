@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "intparag", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "intparag", 
-    "namespace": "wcrp:cmip5:variable:intparag", 
-    "status": "pending", 
-    "uid": "dcbd704d-cb80-40d6-9798-33fe494a8dac"
+    "_type": "term",
+    "canonical_name": "intparag",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "intparag",
+    "namespace": "wcrp:cmip5:variable:intparag",
+    "status": "pending",
+    "uid": "ede8509d-05be-4d97-9bed-25963c119f10"
 }

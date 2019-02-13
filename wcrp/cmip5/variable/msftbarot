@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "msftbarot", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "msftbarot", 
-    "namespace": "wcrp:cmip5:variable:msftbarot", 
-    "status": "pending", 
-    "uid": "ad0bd69e-89e1-4bfc-b44a-dbdeb049f6bf"
+    "_type": "term",
+    "canonical_name": "msftbarot",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "msftbarot",
+    "namespace": "wcrp:cmip5:variable:msftbarot",
+    "status": "pending",
+    "uid": "e6b92abf-54d2-4575-a6f6-96a34dc7d029"
 }

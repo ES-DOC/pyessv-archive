@@ -1,11 +1,11 @@
 {
-    "_type": "term", 
-    "canonical_name": "noaa-gfdl-gfdl-esm2m", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "NOAA-GFDL-GFDL-ESM2M", 
-    "label": "NOAA-GFDL-GFDL-ESM2M", 
-    "namespace": "wcrp:cordex:driving-model:noaa-gfdl-gfdl-esm2m", 
-    "raw_name": "NOAA-GFDL-GFDL-ESM2M", 
-    "status": "pending", 
-    "uid": "afe41a5a-c73d-40a1-9d1a-819f1f00c182"
+    "_type": "term",
+    "canonical_name": "noaa-gfdl-gfdl-esm2m",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "NOAA-GFDL-GFDL-ESM2M",
+    "label": "NOAA-GFDL-GFDL-ESM2M",
+    "namespace": "wcrp:cordex:driving-model:noaa-gfdl-gfdl-esm2m",
+    "raw_name": "NOAA-GFDL-GFDL-ESM2M",
+    "status": "pending",
+    "uid": "d957b6d2-c2e4-4c47-b251-c89c9b34bcb5"
 }

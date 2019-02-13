@@ -1,9 +1,9 @@
 {
-    "_type": "term", 
-    "canonical_name": "prsnc", 
-    "create_date": "2017-06-21 00:00:00+00:00", 
-    "description": "prsnc", 
-    "namespace": "wcrp:cmip5:variable:prsnc", 
-    "status": "pending", 
-    "uid": "c907963d-2b87-4cf0-a2e2-493e0cc8d5fe"
+    "_type": "term",
+    "canonical_name": "prsnc",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "prsnc",
+    "namespace": "wcrp:cmip5:variable:prsnc",
+    "status": "pending",
+    "uid": "14cc422b-581d-40e5-8055-bdbb13e2c4b4"
 }
