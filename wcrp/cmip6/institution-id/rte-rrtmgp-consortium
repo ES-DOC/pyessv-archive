@@ -6,16 +6,22 @@
         "consortia": [
             {
                 "code": "AER",
-                "homepage": "",
-                "postalAddress": "Atmospheric and Environmental Research, Lexington, MA 02421, USA"
+                "coordinates": "-71.270184,42.4624917",
+                "homepage": "https://www.aer.com/",
+                "name": "Research and Climate Group, Atmospheric and Environmental Research",
+                "postalAddress": "131 Hartwell Avenue, Lexington, MA 02421, USA"
             },
             {
                 "code": "UColorado",
-                "homepage": "",
-                "postalAddress": "University of Colorado, Boulder, CO 80309, USA"
+                "coordinates": "-105.2681304,40.0075851",
+                "homepage": "https://www.colorado.edu/",
+                "name": "University of Colorado",
+                "postalAddress": "Boulder, CO 80309, USA"
             }
         ],
+        "coordinates": "",
         "homepage": "",
+        "name": "",
         "postalAddress": "c/o AER, 131 Hartwell Avenue, Lexington, MA 02421, USA"
     },
     "label": "RTE-RRTMGP-Consortium",
