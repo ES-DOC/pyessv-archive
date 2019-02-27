@@ -505,7 +505,7 @@
                     "label": "Member ID",
                     "namespace": "wcrp:cmip6:member-id",
                     "raw_name": "member_id",
-                    "term_regex": "r[0-9]+i[0-9]+p[0-9]+f[0-9]+",
+                    "term_regex": "(s[0-9]{4}-)?r[0-9]+i[0-9]+p[0-9]+f[0-9]+",
                     "terms": [],
                     "uid": "073a8356-05d0-48f6-a196-6fc7888cf998"
                 },
