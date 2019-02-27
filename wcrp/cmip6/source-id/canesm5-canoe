@@ -1,29 +1,14 @@
 {
     "_type": "term",
-    "canonical_name": "canesm5",
+    "canonical_name": "canesm5-canoe",
     "create_date": "2017-06-21 00:00:00+00:00",
     "data": {
         "activity_participation": [
             "C4MIP",
             "CDRMIP",
-            "CFMIP",
             "CMIP",
-            "CORDEX",
-            "DAMIP",
-            "DCPP",
-            "DynVarMIP",
-            "FAFMIP",
-            "GMMIP",
-            "GeoMIP",
-            "ISMIP6",
-            "LS3MIP",
-            "LUMIP",
             "OMIP",
-            "RFMIP",
-            "SIMIP",
-            "ScenarioMIP",
-            "VIACSAB",
-            "VolMIP"
+            "ScenarioMIP"
         ],
         "cohort": [
             "Registered"
@@ -31,7 +16,7 @@
         "institution_id": [
             "CCCma"
         ],
-        "label_extended": "CanESM5",
+        "label_extended": "CanESM5-CanOE",
         "model_component": {
             "aerosol": {
                 "description": "interactive",
@@ -58,7 +43,7 @@
                 "native_nominal_resolution": "100 km"
             },
             "ocnBgchem": {
-                "description": "Canadian Model of Ocean Carbon (CMOC); NPZD ecosystem with OMIP prescribed carbonate chemistry",
+                "description": "Canadian Ocean Ecosystem (CanOE) with OMIP prescribed carbon chemistry",
                 "native_nominal_resolution": "100 km"
             },
             "seaIce": {
@@ -67,11 +52,11 @@
             }
         },
         "release_year": "2019",
-        "source_id": "CanESM5"
+        "source_id": "CanESM5-CanOE"
     },
-    "label": "CanESM5",
-    "namespace": "wcrp:cmip6:source-id:canesm5",
-    "raw_name": "CanESM5",
+    "label": "CanESM5-CanOE",
+    "namespace": "wcrp:cmip6:source-id:canesm5-canoe",
+    "raw_name": "CanESM5-CanOE",
     "status": "pending",
-    "uid": "70899cff-1d57-4146-b6c0-499ed4b41ae7"
+    "uid": "f899ebbc-66a8-4d59-b7be-de463a8bc852"
 }
