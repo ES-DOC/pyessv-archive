@@ -1,7 +1,10 @@
 {
-    "parser_type": "dataset_id",
+    "identifier_type": "dataset_id",
     "scope": "ecmwf:c3s-cmip5",
-    "template": "c3s-cmip5.%(product)s.%(institute)s.%(model)s.%(experiment)s.%(time_frequency)s.%(realm)s.%(cmor_table)s.%(ensemble)s.%(variable)s",
+    "prefix": "c3s-cmip5",
+    "template": "c3s-cmip5.{}.{}.{}.{}.{}.{}.{}.{}.{}",
+    "template_raw": "c3s-cmip5.%(product)s.%(institute)s.%(model)s.%(experiment)s.%(time_frequency)s.%(realm)s.%(cmor_table)s.%(ensemble)s.%(variable)s",
+    "seperator": ".",
     "collections": [
         "ecmwf:c3s-cmip5:product",
         "ecmwf:c3s-cmip5:institute",

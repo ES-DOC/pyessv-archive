@@ -1,7 +1,10 @@
 {
-    "parser_type": "dataset_id",
+    "identifier_type": "dataset_id",
     "scope": "wcrp:cmip5",
-    "template": "cmip5.%(product)s.%(institute)s.%(model)s.%(experiment)s.%(time_frequency)s.%(realm)s.%(cmor_table)s.%(ensemble)s",
+    "prefix": "cmip5",
+    "template": "cmip5.{}.{}.{}.{}.{}.{}.{}.{}",
+    "template_raw": "cmip5.%(product)s.%(institute)s.%(model)s.%(experiment)s.%(time_frequency)s.%(realm)s.%(cmor_table)s.%(ensemble)s",
+    "seperator": ".",
     "collections": [
         "wcrp:cmip5:product",
         "wcrp:cmip5:institute",

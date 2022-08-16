@@ -1,7 +1,10 @@
 {
-    "parser_type": "dataset_id",
+    "identifier_type": "dataset_id",
     "scope": "wcrp:euclipse",
-    "template": "euclipse.%(product)s.%(institute)s.%(model)s.%(experiment)s.%(time_frequency)s.%(realm)s.%(cmor_table)s.%(ensemble)s",
+    "prefix": "euclipse",
+    "template": "euclipse.{}.{}.{}.{}.{}.{}.{}.{}",
+    "template_raw": "euclipse.%(product)s.%(institute)s.%(model)s.%(experiment)s.%(time_frequency)s.%(realm)s.%(cmor_table)s.%(ensemble)s",
+    "seperator": ".",
     "collections": [
         "wcrp:euclipse:product",
         "wcrp:euclipse:institute",

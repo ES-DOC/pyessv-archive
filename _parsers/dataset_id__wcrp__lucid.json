@@ -1,7 +1,10 @@
 {
-    "parser_type": "dataset_id",
+    "identifier_type": "dataset_id",
     "scope": "wcrp:lucid",
-    "template": "lucid.%(product)s.%(institute)s.%(model)s.%(experiment)s.%(time_frequency)s.%(realm)s.%(cmor_table)s.%(ensemble)s",
+    "prefix": "lucid",
+    "template": "lucid.{}.{}.{}.{}.{}.{}.{}.{}",
+    "template_raw": "lucid.%(product)s.%(institute)s.%(model)s.%(experiment)s.%(time_frequency)s.%(realm)s.%(cmor_table)s.%(ensemble)s",
+    "seperator": ".",
     "collections": [
         "wcrp:lucid:product",
         "wcrp:lucid:institute",

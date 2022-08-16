@@ -1,7 +1,10 @@
 {
-    "parser_type": "dataset_id",
+    "identifier_type": "dataset_id",
     "scope": "ecmwf:c3s-cordex",
-    "template": "c3s-cordex.%(product)s.%(domain)s.%(institute)s.%(driving_model)s.%(experiment)s.%(ensemble)s.%(rcm_name)s.%(rcm_version)s.%(time_frequency)s.%(variable)s",
+    "prefix": "c3s-cordex",
+    "template": "c3s-cordex.{}.{}.{}.{}.{}.{}.{}.{}.{}.{}",
+    "template_raw": "c3s-cordex.%(product)s.%(domain)s.%(institute)s.%(driving_model)s.%(experiment)s.%(ensemble)s.%(rcm_name)s.%(rcm_version)s.%(time_frequency)s.%(variable)s",
+    "seperator": ".",
     "collections": [
         "ecmwf:c3s-cordex:product",
         "ecmwf:c3s-cordex:domain",
