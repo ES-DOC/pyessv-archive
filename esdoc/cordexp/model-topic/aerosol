@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "aerosol",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Aerosol",
+    "label": "Aerosol",
+    "namespace": "esdoc:cordexp:model-topic:aerosol",
+    "status": "pending"
+}

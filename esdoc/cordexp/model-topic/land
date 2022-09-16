@@ -1,0 +1,9 @@
+{
+    "_type": "term",
+    "canonical_name": "land",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "description": "Land Surface",
+    "label": "Land Surface",
+    "namespace": "esdoc:cordexp:model-topic:land",
+    "status": "pending"
+}
