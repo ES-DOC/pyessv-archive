@@ -8,12 +8,20 @@
             "HighResMIP"
         ],
         "cohort": [
-            "Registered"
+            "Published"
         ],
         "institution_id": [
             "MOHC"
         ],
         "label_extended": "HadGEM3-GC3.1-N216ORCA12",
+        "license_info": {
+            "exceptions_contact": "@metoffice.gov.uk <- cmip6.hadgem3",
+            "history": "2017-12-27: initially published under CC BY-SA 4.0; 2021-11-15: relaxed to CC BY 4.0",
+            "id": "CC BY 4.0",
+            "license": "Creative Commons Attribution 4.0 International License (CC BY 4.0; https://creativecommons.org/licenses/by/4.0/)",
+            "source_specific_info": "https://ukesm.ac.uk/licensing-of-met-office-nerc-and-niwa-cmip6-data/",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "model_component": {
             "aerosol": {
                 "description": "UKCA-GLOMAP-mode",

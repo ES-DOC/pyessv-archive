@@ -9,12 +9,20 @@
             "SIMIP"
         ],
         "cohort": [
-            "Registered"
+            "Published"
         ],
         "institution_id": [
             "MPI-M"
         ],
         "label_extended": "ICON-ESM-LR",
+        "license_info": {
+            "exceptions_contact": "@dkrz.de <- cmip6-mpi-esm",
+            "history": "2021-02-15: initially published under CC BY-SA 4.0; 2022-06-16: relaxed to CC BY 4.0",
+            "id": "CC BY 4.0",
+            "license": "Creative Commons Attribution 4.0 International (CC BY 4.0; https://creativecommons.org/licenses/by/4.0/)",
+            "source_specific_info": "",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "model_component": {
             "aerosol": {
                 "description": "none, prescribed MACv2-SP",
@@ -22,7 +30,7 @@
             },
             "atmos": {
                 "description": "ICON-A (icosahedral/triangles; 160 km; 47 levels; top level 80 km)",
-                "native_nominal_resolution": "100 km"
+                "native_nominal_resolution": "250 km"
             },
             "atmosChem": {
                 "description": "none",

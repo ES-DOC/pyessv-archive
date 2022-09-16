@@ -9,12 +9,20 @@
             "HighResMIP"
         ],
         "cohort": [
-            "Registered"
+            "Published"
         ],
         "institution_id": [
             "MIROC"
         ],
         "label_extended": "NICAM.16 gl07-L38 with NSW6",
+        "license_info": {
+            "exceptions_contact": "@jamstec.go.jp <- miroc-cmip6",
+            "history": "2019-03-18: initially published under CC BY-SA 4.0; 2022-06-14: relaxed to CC BY 4.0",
+            "id": "CC BY 4.0",
+            "license": "Creative Commons Attribution 4.0 International (CC BY 4.0; https://creativecommons.org/licenses/by/4.0/)",
+            "source_specific_info": "",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "model_component": {
             "aerosol": {
                 "description": "Prescribed MACv2-SP",

@@ -9,12 +9,20 @@
             "ScenarioMIP"
         ],
         "cohort": [
-            "Registered"
+            "Published"
         ],
         "institution_id": [
             "CCCR-IITM"
         ],
         "label_extended": "IITM-ESM",
+        "license_info": {
+            "exceptions_contact": "@tropmet.res.in <- iitm-esm",
+            "history": "2019-07-19: initially published under CC BY-SA 4.0",
+            "id": "CC BY-SA 4.0",
+            "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0/)",
+            "source_specific_info": "",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
         "model_component": {
             "aerosol": {
                 "description": "prescribed MAC-v2",

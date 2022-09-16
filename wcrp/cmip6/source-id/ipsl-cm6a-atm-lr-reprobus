@@ -1,0 +1,65 @@
+{
+    "_type": "term",
+    "canonical_name": "ipsl-cm6a-atm-lr-reprobus",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "data": {
+        "activity_participation": [
+            "AerChemMIP"
+        ],
+        "cohort": [
+            "Registered"
+        ],
+        "institution_id": [
+            "IPSL"
+        ],
+        "label_extended": "IPSL-CM6A-ATM-LR-REPROBUS",
+        "license_info": {
+            "exceptions_contact": "@listes.ipsl.fr <- ipsl-cmip6",
+            "history": "",
+            "id": "CC BY 4.0",
+            "license": "Creative Commons Attribution 4.0 International (CC BY 4.0; https://creativecommons.org/licenses/by/4.0/)",
+            "source_specific_info": "",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        "model_component": {
+            "aerosol": {
+                "description": "LMDZ (NPv6 ; 144 x 143 longitude/latitude; 79 levels; top level 80000 m)",
+                "native_nominal_resolution": "250 km"
+            },
+            "atmos": {
+                "description": "LMDZ (NPv6 ; 144 x 143 longitude/latitude; 79 levels; top level 80000 m)",
+                "native_nominal_resolution": "250 km"
+            },
+            "atmosChem": {
+                "description": "REPROBUS v6 (same grid as atmos)",
+                "native_nominal_resolution": "250 km"
+            },
+            "land": {
+                "description": "none",
+                "native_nominal_resolution": "none"
+            },
+            "landIce": {
+                "description": "none",
+                "native_nominal_resolution": "none"
+            },
+            "ocean": {
+                "description": "none",
+                "native_nominal_resolution": "none"
+            },
+            "ocnBgchem": {
+                "description": "none",
+                "native_nominal_resolution": "none"
+            },
+            "seaIce": {
+                "description": "none",
+                "native_nominal_resolution": "none"
+            }
+        },
+        "release_year": "2021",
+        "source_id": "IPSL-CM6A-ATM-LR-REPROBUS"
+    },
+    "label": "IPSL-CM6A-ATM-LR-REPROBUS",
+    "namespace": "wcrp:cmip6:source-id:ipsl-cm6a-atm-lr-reprobus",
+    "raw_name": "IPSL-CM6A-ATM-LR-REPROBUS",
+    "status": "pending"
+}

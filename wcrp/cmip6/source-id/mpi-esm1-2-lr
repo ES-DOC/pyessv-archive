@@ -25,14 +25,23 @@
             "VolMIP"
         ],
         "cohort": [
-            "Registered"
+            "Published"
         ],
         "institution_id": [
             "MPI-M",
             "AWI",
-            "DKRZ"
+            "DKRZ",
+            "DWD"
         ],
         "label_extended": "MPI-ESM1.2-LR",
+        "license_info": {
+            "exceptions_contact": "@dkrz.de <- cmip6-mpi-esm",
+            "history": "2019-07-10: initially published under CC BY-SA 4.0; 2022-06-16: relaxed to CC BY 4.0",
+            "id": "CC BY 4.0",
+            "license": "Creative Commons Attribution 4.0 International (CC BY 4.0; https://creativecommons.org/licenses/by/4.0/)",
+            "source_specific_info": "",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "model_component": {
             "aerosol": {
                 "description": "none, prescribed MACv2-SP",

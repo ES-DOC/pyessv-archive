@@ -25,12 +25,20 @@
             "VolMIP"
         ],
         "cohort": [
-            "Registered"
+            "Published"
         ],
         "institution_id": [
             "CAS"
         ],
         "label_extended": "CAS-ESM 2.0 (Chinese Academy of Sciences Earth System Model version 2.0)",
+        "license_info": {
+            "exceptions_contact": "@mail.iap.ac.cn <- zhanghe",
+            "history": "2020-03-01: initially published under CC BY-SA 4.0",
+            "id": "CC BY-SA 4.0",
+            "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0/)",
+            "source_specific_info": "",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
         "model_component": {
             "aerosol": {
                 "description": "IAP AACM",

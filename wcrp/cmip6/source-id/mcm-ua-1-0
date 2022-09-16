@@ -10,12 +10,20 @@
             "ScenarioMIP"
         ],
         "cohort": [
-            "Registered"
+            "Published"
         ],
         "institution_id": [
             "UA"
         ],
         "label_extended": "Manabe Climate Model v1.0 - University of Arizona",
+        "license_info": {
+            "exceptions_contact": "@email.arizona.edu <- GEOS-CMIP",
+            "history": "2019-07-31: initially published under CC BY-SA 4.0; 2022-06-02: relaxed to CC BY 4.0",
+            "id": "CC BY 4.0",
+            "license": "Creative Commons Attribution 4.0 International (CC BY 4.0; https://creativecommons.org/licenses/by/4.0/)",
+            "source_specific_info": "",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "model_component": {
             "aerosol": {
                 "description": "Modifies surface albedoes (Haywood et al. 1997, doi: 10.1175/1520-0442(1997)010&lt;1562:GCMCOT&gt;2.0.CO;2)",

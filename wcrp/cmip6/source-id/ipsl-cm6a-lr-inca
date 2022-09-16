@@ -8,12 +8,20 @@
             "RFMIP"
         ],
         "cohort": [
-            "Registered"
+            "Published"
         ],
         "institution_id": [
             "IPSL"
         ],
         "label_extended": "IPSL-CM6A-LR-INCA",
+        "license_info": {
+            "exceptions_contact": "@listes.ipsl.fr <- ipsl-cmip6",
+            "history": "2020-07-17: initially published under CC BY-NC-SA 4.0; 2022-06-03: relaxed to CC BY 4.0",
+            "id": "CC BY 4.0",
+            "license": "Creative Commons Attribution 4.0 International (CC BY 4.0; https://creativecommons.org/licenses/by/4.0/)",
+            "source_specific_info": "",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "model_component": {
             "aerosol": {
                 "description": "INCA v6 AER",

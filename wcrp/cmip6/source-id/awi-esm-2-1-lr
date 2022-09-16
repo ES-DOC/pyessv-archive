@@ -14,6 +14,14 @@
             "AWI"
         ],
         "label_extended": "AWI-ESM 2.1 LR",
+        "license_info": {
+            "exceptions_contact": "@awi.de <- mip-contact",
+            "history": "",
+            "id": "CC BY 4.0",
+            "license": "Creative Commons Attribution 4.0 International (CC BY 4.0; https://creativecommons.org/licenses/by/4.0/)",
+            "source_specific_info": "",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "model_component": {
             "aerosol": {
                 "description": "none",

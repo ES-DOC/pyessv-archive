@@ -14,12 +14,20 @@
             "ScenarioMIP"
         ],
         "cohort": [
-            "Registered"
+            "Published"
         ],
         "institution_id": [
             "THU"
         ],
         "label_extended": "Community Integrated Earth System Model",
+        "license_info": {
+            "exceptions_contact": "@tsinghua.edu.cn <- yanluan",
+            "history": "2019-12-02: initially published under CC BY-SA 4.0; 2022-07-27: relaxed to CC BY 4.0",
+            "id": "CC BY 4.0",
+            "license": "Creative Commons Attribution 4.0 International (CC BY 4.0; https://creativecommons.org/licenses/by/4.0/)",
+            "source_specific_info": "",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "model_component": {
             "aerosol": {
                 "description": "MAM4",

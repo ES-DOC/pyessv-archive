@@ -7,12 +7,20 @@
             "HighResMIP"
         ],
         "cohort": [
-            "Registered"
+            "Published"
         ],
         "institution_id": [
             "EC-Earth-Consortium"
         ],
         "label_extended": "EC-Earth3P-VHR in PRIMAVERA",
+        "license_info": {
+            "exceptions_contact": "@bsc.es <- pierre-antoine.bretonniere",
+            "history": "2020-10-07: initially published under CC BY-SA 4.0; 2022-06-02: relaxed to CC BY 4.0",
+            "id": "CC BY 4.0",
+            "license": "Creative Commons Attribution 4.0 International (CC BY 4.0; https://creativecommons.org/licenses/by/4.0/)",
+            "source_specific_info": "",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "model_component": {
             "aerosol": {
                 "description": "none",

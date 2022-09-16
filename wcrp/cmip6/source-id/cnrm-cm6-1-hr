@@ -12,12 +12,20 @@
             "ScenarioMIP"
         ],
         "cohort": [
-            "Registered"
+            "Published"
         ],
         "institution_id": [
             "CNRM-CERFACS"
         ],
         "label_extended": "CNRM-CM6-1-HR",
+        "license_info": {
+            "exceptions_contact": "@cerfacs.fr <- contact.cmip6",
+            "history": "2019-02-21: initially published under CC BY-NC-SA 4.0; 2022-06-17: relaxed to CC BY 4.0",
+            "id": "CC BY 4.0",
+            "license": "Creative Commons Attribution 4.0 International (CC BY 4.0; https://creativecommons.org/licenses/by/4.0/)",
+            "source_specific_info": "",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "model_component": {
             "aerosol": {
                 "description": "prescribed monthly fields computed by TACTIC_v2 scheme",

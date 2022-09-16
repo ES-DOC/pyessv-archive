@@ -7,12 +7,20 @@
             "RFMIP"
         ],
         "cohort": [
-            "Registered"
+            "Published"
         ],
         "institution_id": [
             "UHH"
         ],
         "label_extended": "ARTS 2.3 (Current development version of the Atmospheric Radiative Transfer Simulator)",
+        "license_info": {
+            "exceptions_contact": "@uni-hamburg.de <- oliver.lemke",
+            "history": "2019-06-20: initially published under CC BY-NC-SA 4.0; 2022-07-31: relaxed to CC BY 4.0",
+            "id": "CC BY 4.0",
+            "license": "Creative Commons Attribution 4.0 International (CC BY 4.0; https://creativecommons.org/licenses/by/4.0/)",
+            "source_specific_info": "",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "model_component": {
             "aerosol": {
                 "description": "none",

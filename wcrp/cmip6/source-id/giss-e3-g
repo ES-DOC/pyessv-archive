@@ -25,12 +25,20 @@
             "VolMIP"
         ],
         "cohort": [
-            "Registered"
+            "Published"
         ],
         "institution_id": [
             "NASA-GISS"
         ],
         "label_extended": "GISS-E3-G",
+        "license_info": {
+            "exceptions_contact": "@lists.nasa.gov <- cmip-giss-l",
+            "history": "2019-12-30: initially published under CC BY-NC-SA 4.0; 2021-12-01: relaxed to CC0 1.0",
+            "id": "CC0 1.0",
+            "license": "Creative Commons CC0 1.0 Universal Public Domain Dedication (CC0 1.0; https://creativecommons.org/publicdomain/zero/1.0/)",
+            "source_specific_info": "https://data.giss.nasa.gov/modelE/cmip6/#datalicense",
+            "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
         "model_component": {
             "aerosol": {
                 "description": "Varies with physics-version (p==1 none, p==3 OMA, p==4 TOMAS, p==5 MATRIX)",

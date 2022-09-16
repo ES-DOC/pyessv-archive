@@ -19,6 +19,14 @@
             "NCC"
         ],
         "label_extended": "NorESM2-MH (medium atmosphere-high ocean resolution, GHG concentration driven)",
+        "license_info": {
+            "exceptions_contact": "@met.no <- noresm-ncc",
+            "history": "",
+            "id": "CC BY 4.0",
+            "license": "Creative Commons Attribution 4.0 International (CC BY 4.0; https://creativecommons.org/licenses/by/4.0/)",
+            "source_specific_info": "",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "model_component": {
             "aerosol": {
                 "description": "OsloAero",

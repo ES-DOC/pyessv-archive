@@ -1,0 +1,66 @@
+{
+    "_type": "term",
+    "canonical_name": "taiesm1-timcom2",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "data": {
+        "activity_participation": [
+            "CMIP",
+            "OMIP"
+        ],
+        "cohort": [
+            "Published"
+        ],
+        "institution_id": [
+            "NTU"
+        ],
+        "label_extended": "Taiwan Earth System Model 1.0 using TIMCOM ocean model 2.0",
+        "license_info": {
+            "exceptions_contact": "@ntu.edu.tw <- tsengyh",
+            "history": "2021-12-13: initially published under CC BY-SA 4.0; 2022-06-10: relaxed to CC BY 4.0",
+            "id": "CC BY 4.0",
+            "license": "Creative Commons Attribution 4.0 International (CC BY 4.0; https://creativecommons.org/licenses/by/4.0/)",
+            "source_specific_info": "",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        "model_component": {
+            "aerosol": {
+                "description": "SNAP (same grid as atmos)",
+                "native_nominal_resolution": "100 km"
+            },
+            "atmos": {
+                "description": "TaiAM1 (0.9x1.25 degree; 288 x 192 longitude/latitude; 30 levels; top level ~2 hPa)",
+                "native_nominal_resolution": "100 km"
+            },
+            "atmosChem": {
+                "description": "SNAP (same grid as atmos)",
+                "native_nominal_resolution": "100 km"
+            },
+            "land": {
+                "description": "CLM4.0 (same grid as atmos)",
+                "native_nominal_resolution": "100 km"
+            },
+            "landIce": {
+                "description": "none",
+                "native_nominal_resolution": "none"
+            },
+            "ocean": {
+                "description": "TIMCOM (TIMCOMv2.2, primarily 1deg; 320 x 288 longitude/latitude; 55 levels; top grid cell 0-10 m)",
+                "native_nominal_resolution": "100 km"
+            },
+            "ocnBgchem": {
+                "description": "none",
+                "native_nominal_resolution": "none"
+            },
+            "seaIce": {
+                "description": "CICE4 (same grid as ocean)",
+                "native_nominal_resolution": "100 km"
+            }
+        },
+        "release_year": "2021",
+        "source_id": "TaiESM1-TIMCOM2"
+    },
+    "label": "TaiESM1-TIMCOM2",
+    "namespace": "wcrp:cmip6:source-id:taiesm1-timcom2",
+    "raw_name": "TaiESM1-TIMCOM2",
+    "status": "pending"
+}

@@ -7,12 +7,20 @@
             "RFMIP"
         ],
         "cohort": [
-            "Registered"
+            "Published"
         ],
         "institution_id": [
             "NOAA-GFDL"
         ],
         "label_extended": "GFDL Reference Forward Model Line-by-Line with DISORT solver (March 2019)",
+        "license_info": {
+            "exceptions_contact": "@noaa.gov <- gfdl.climate.model.info",
+            "history": "2018-07-01: initially published under CC BY-NC-SA 4.0; 2022-06-08: relaxed to CC BY 4.0",
+            "id": "CC BY 4.0",
+            "license": "Creative Commons Attribution 4.0 International (CC BY 4.0; https://creativecommons.org/licenses/by/4.0/)",
+            "source_specific_info": "",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "model_component": {
             "aerosol": {
                 "description": "none",

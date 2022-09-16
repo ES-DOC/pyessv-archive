@@ -24,12 +24,20 @@
             "VolMIP"
         ],
         "cohort": [
-            "Registered"
+            "Published"
         ],
         "institution_id": [
             "MRI"
         ],
         "label_extended": "MRI-ESM2.0",
+        "license_info": {
+            "exceptions_contact": "@mri-jma.go.jp <- mdeushi",
+            "history": "2019-02-22: initially published under CC BY-SA 4.0; 2022-08-07: relaxed to CC BY 4.0",
+            "id": "CC BY 4.0",
+            "license": "Creative Commons Attribution 4.0 International (CC BY 4.0; https://creativecommons.org/licenses/by/4.0/)",
+            "source_specific_info": "",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
         "model_component": {
             "aerosol": {
                 "description": "MASINGAR mk2r4 (TL95; 192 x 96 longitude/latitude; 80 levels; top level 0.01 hPa)",
