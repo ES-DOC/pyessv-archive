@@ -15,13 +15,11 @@
                     "_type": "collection",
                     "canonical_name": "cmor-table",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "CMOR Table",
                     "namespace": "ecmwf:c3s-cmip5:cmor-table",
                     "raw_name": "cmor_table",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "3hr:3hr",
                         "6hrlev:6hrLev",
@@ -48,9 +46,7 @@
                     "_type": "collection",
                     "canonical_name": "ensemble",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Ensemble",
                     "namespace": "ecmwf:c3s-cmip5:ensemble",
                     "term_regex": "r[0-9]+i[0-9]+p[0-9]+",
@@ -64,12 +60,10 @@
                         "cim_document_type": "cim.1.activity.NumericalExperiment",
                         "cim_document_type_alternative_name": "experiment"
                     },
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Experiment",
                     "namespace": "ecmwf:c3s-cmip5:experiment",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "amip:amip",
                         "historical:historical",
@@ -84,12 +78,10 @@
                     "_type": "collection",
                     "canonical_name": "institute",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Institute",
                     "namespace": "ecmwf:c3s-cmip5:institute",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "bcc:BCC",
                         "bnu:BNU",
@@ -129,12 +121,10 @@
                         "cim_document_type": "cim.1.software.ModelComponent",
                         "cim_document_type_alternative_name": "model"
                     },
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Model",
                     "namespace": "ecmwf:c3s-cmip5:model",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "access1-0:ACCESS1-0",
                         "access1-3:ACCESS1-3",
@@ -206,12 +196,10 @@
                     "_type": "collection",
                     "canonical_name": "product",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Product",
                     "namespace": "ecmwf:c3s-cmip5:product",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "output1:output1",
                         "output2:output2"
@@ -221,12 +209,10 @@
                     "_type": "collection",
                     "canonical_name": "realm",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Realm",
                     "namespace": "ecmwf:c3s-cmip5:realm",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "aerosol:aerosol",
                         "atmos:atmos",
@@ -242,13 +228,11 @@
                     "_type": "collection",
                     "canonical_name": "thredds-exclude-variables",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Thredds Exclude Variables",
                     "namespace": "ecmwf:c3s-cmip5:thredds-exclude-variables",
                     "raw_name": "thredds_exclude_variables",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "a:a",
                         "a-bnds:a_bnds",
@@ -317,13 +301,11 @@
                     "_type": "collection",
                     "canonical_name": "time-frequency",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Time Frequency",
                     "namespace": "ecmwf:c3s-cmip5:time-frequency",
                     "raw_name": "time_frequency",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "3hr:3hr",
                         "6hr:6hr",
@@ -339,12 +321,10 @@
                     "_type": "collection",
                     "canonical_name": "variable",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Variable",
                     "namespace": "ecmwf:c3s-cmip5:variable",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "abs550aer:abs550aer",
                         "ageice:ageice",
@@ -953,9 +933,7 @@
                     "_type": "collection",
                     "canonical_name": "version",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Version",
                     "namespace": "ecmwf:c3s-cmip5:version",
                     "term_regex": "^v[0-9]*$",
@@ -981,12 +959,10 @@
                     "_type": "collection",
                     "canonical_name": "domain",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Domain",
                     "namespace": "ecmwf:c3s-cordex:domain",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "afr-44:AFR-44",
                         "afr-44i:AFR-44i",
@@ -1026,13 +1002,11 @@
                     "_type": "collection",
                     "canonical_name": "driving-model",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Driving Model",
                     "namespace": "ecmwf:c3s-cordex:driving-model",
                     "raw_name": "driving_model",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "cccma-canesm2:CCCma-CanESM2",
                         "cnrm-cerfacs-cnrm-cm5:CNRM-CERFACS-CNRM-CM5",
@@ -1054,9 +1028,7 @@
                     "_type": "collection",
                     "canonical_name": "ensemble",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Ensemble",
                     "namespace": "ecmwf:c3s-cordex:ensemble",
                     "term_regex": "r[0-9]+i[0-9]+p[0-9]+",
@@ -1066,12 +1038,10 @@
                     "_type": "collection",
                     "canonical_name": "experiment",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Experiment",
                     "namespace": "ecmwf:c3s-cordex:experiment",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "evaluation:evaluation",
                         "historical:historical",
@@ -1085,12 +1055,10 @@
                     "_type": "collection",
                     "canonical_name": "institute",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Institute",
                     "namespace": "ecmwf:c3s-cordex:institute",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "auth-lhtee:AUTH-LHTEE",
                         "auth-met:AUTH-Met",
@@ -1131,12 +1099,10 @@
                     "_type": "collection",
                     "canonical_name": "product",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Product",
                     "namespace": "ecmwf:c3s-cordex:product",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "output:output"
                     ]
@@ -1145,13 +1111,11 @@
                     "_type": "collection",
                     "canonical_name": "rcm-model",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "RCM Model",
                     "namespace": "ecmwf:c3s-cordex:rcm-model",
                     "raw_name": "rcm_model",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "auth-lhtee-wrf321b:AUTH-LHTEE-WRF321B",
                         "auth-met-wrf331a:AUTH-Met-WRF331A",
@@ -1205,13 +1169,11 @@
                     "_type": "collection",
                     "canonical_name": "rcm-name",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "RCM Name",
                     "namespace": "ecmwf:c3s-cordex:rcm-name",
                     "raw_name": "rcm_name",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "aladin52:ALADIN52",
                         "aladin53:ALADIN53",
@@ -1239,6 +1201,7 @@
                         "regcm4-3:RegCM4-3",
                         "regcm4-4:RegCM4-4",
                         "remo2009:REMO2009",
+                        "remo2015:REMO2015",
                         "rrcm:RRCM",
                         "wrf321b:WRF321B",
                         "wrf331:WRF331",
@@ -1256,13 +1219,11 @@
                     "_type": "collection",
                     "canonical_name": "rcm-version",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "RCM Version",
                     "namespace": "ecmwf:c3s-cordex:rcm-version",
                     "raw_name": "rcm_version",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "v01:v01",
                         "v1:v1",
@@ -1278,13 +1239,11 @@
                     "_type": "collection",
                     "canonical_name": "thredds-exclude-variables",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Thredds Exclude Variables",
                     "namespace": "ecmwf:c3s-cordex:thredds-exclude-variables",
                     "raw_name": "thredds_exclude_variables",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "a:a",
                         "a-bnds:a_bnds",
@@ -1365,13 +1324,11 @@
                     "_type": "collection",
                     "canonical_name": "time-frequency",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Time Frequency",
                     "namespace": "ecmwf:c3s-cordex:time-frequency",
                     "raw_name": "time_frequency",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "1hr:1hr",
                         "3hr:3hr",
@@ -1386,12 +1343,10 @@
                     "_type": "collection",
                     "canonical_name": "variable",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Variable",
                     "namespace": "ecmwf:c3s-cordex:variable",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "aclwdnt:aclwdnt",
                         "alb:alb",
@@ -1602,9 +1557,7 @@
                     "_type": "collection",
                     "canonical_name": "version",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Version",
                     "namespace": "ecmwf:c3s-cordex:version",
                     "term_regex": "v^[0-9]*$",
@@ -1630,12 +1583,10 @@
                     "_type": "collection",
                     "canonical_name": "domain",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Domain",
                     "namespace": "ecmwf:cc4e:domain",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "europe:europe",
                         "global:global",
@@ -1646,12 +1597,10 @@
                     "_type": "collection",
                     "canonical_name": "product",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Product",
                     "namespace": "ecmwf:cc4e:product",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "climate-projection:climate-projection",
                         "historical:historical",
@@ -1662,9 +1611,7 @@
                     "_type": "collection",
                     "canonical_name": "realization",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Realization",
                     "namespace": "ecmwf:cc4e:realization",
                     "term_regex": "r[0-9]+",
@@ -1674,13 +1621,11 @@
                     "_type": "collection",
                     "canonical_name": "source-data-id",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Source Data Id",
                     "namespace": "ecmwf:cc4e:source-data-id",
                     "raw_name": "source_data_id",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "arpege-system5:arpege-system5",
                         "cccma-canesm2-historical-r1i1p1-smhi-rca4-r1:CCCma-CanESM2-historical-r1i1p1-SMHI-RCA4-r1",
@@ -1817,13 +1762,11 @@
                     "_type": "collection",
                     "canonical_name": "source-type",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Source Type",
                     "namespace": "ecmwf:cc4e:source-type",
                     "raw_name": "source_type",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "bc-derived:bc-derived",
                         "gcm-derived:gcm-derived",
@@ -1837,13 +1780,11 @@
                     "_type": "collection",
                     "canonical_name": "thredds-exclude-variables",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Thredds Exclude Variables",
                     "namespace": "ecmwf:cc4e:thredds-exclude-variables",
                     "raw_name": "thredds_exclude_variables",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "a:a",
                         "a-bnds:a_bnds",
@@ -1940,13 +1881,11 @@
                     "_type": "collection",
                     "canonical_name": "time-frequency",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Time Frequency",
                     "namespace": "ecmwf:cc4e:time-frequency",
                     "raw_name": "time_frequency",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "3hr:3hr",
                         "6hr:6hr",
@@ -1965,12 +1904,10 @@
                     "_type": "collection",
                     "canonical_name": "variable",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Variable",
                     "namespace": "ecmwf:cc4e:variable",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "amsweavg:amsweavg",
                         "anec:anec",
@@ -2119,9 +2056,7 @@
                     "_type": "collection",
                     "canonical_name": "version",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Version",
                     "namespace": "ecmwf:cc4e:version",
                     "term_regex": "^v[0-9]*$",
@@ -2131,13 +2066,11 @@
                     "_type": "collection",
                     "canonical_name": "work-package",
                     "create_date": "2019-04-02 00:00:00+00:00",
-                    "description": [
-                        "ESGF publisher-config CV collection: "
-                    ],
+                    "description": "ESGF publisher-config CV collection:",
                     "label": "Work Package",
                     "namespace": "ecmwf:cc4e:work-package",
                     "raw_name": "work_package",
-                    "term_regex": null,
+                    "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "wp1:wp1",
                         "wp2:wp2",
