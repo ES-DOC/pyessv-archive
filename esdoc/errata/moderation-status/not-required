@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "not-required",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "data": {
+        "color": "#0c343d"
+    },
+    "label": "Not Required",
+    "namespace": "esdoc:errata:moderation-status:not-required",
+    "status": "pending"
+}

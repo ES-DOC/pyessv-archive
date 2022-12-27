@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "accepted",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "data": {
+        "color": "#00ff00"
+    },
+    "label": "Accepted",
+    "namespace": "esdoc:errata:moderation-status:accepted",
+    "status": "pending"
+}
