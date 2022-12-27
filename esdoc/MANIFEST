@@ -29,6 +29,26 @@
                         "seaice:Sea Ice",
                         "toplevel:Top Level"
                     ]
+                },
+                {
+                    "_type": "collection",
+                    "canonical_name": "model-topic",
+                    "create_date": "2017-06-21 00:00:00+00:00",
+                    "description": "Model documentation topics",
+                    "label": "Topics",
+                    "namespace": "esdoc:cmip6:model-topic",
+                    "term_regex": "^[a-z0-9\\-]*$",
+                    "terms": [
+                        "aerosol:Aerosol",
+                        "atmos:Atmosphere",
+                        "atmoschem:Atmospheric Chemistry",
+                        "land:Land Surface",
+                        "landice:Land Ice",
+                        "ocean:Ocean",
+                        "ocnbgchem:Ocean Biogeochemistry",
+                        "seaice:Sea Ice",
+                        "toplevel:Top Level"
+                    ]
                 }
             ],
             "create_date": "2017-06-21 00:00:00+00:00",
@@ -50,7 +70,24 @@
                     "namespace": "esdoc:cordexp:model-topic",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
+                        "aerosol:Aerosol",
                         "atmos:Atmosphere",
+                        "land:Land Surface",
+                        "toplevel:Top Level"
+                    ]
+                },
+                {
+                    "_type": "collection",
+                    "canonical_name": "model-topic",
+                    "create_date": "2017-06-21 00:00:00+00:00",
+                    "description": "Model documentation topics",
+                    "label": "Topics",
+                    "namespace": "esdoc:cordexp:model-topic",
+                    "term_regex": "^[a-z0-9\\-]*$",
+                    "terms": [
+                        "aerosol:Aerosol",
+                        "atmos:Atmosphere",
+                        "land:Land Surface",
                         "toplevel:Top Level"
                     ]
                 }
@@ -67,6 +104,21 @@
             "collections": [
                 {
                     "_type": "collection",
+                    "canonical_name": "moderation-status",
+                    "create_date": "2017-06-21 00:00:00+00:00",
+                    "description": "Errata moderation status",
+                    "label": "Moderation Status",
+                    "namespace": "esdoc:errata:moderation-status",
+                    "term_regex": "^[a-z0-9\\-]*$",
+                    "terms": [
+                        "accepted:Accepted",
+                        "in-review:In Review",
+                        "not-required:Not Required",
+                        "rejected:Rejected"
+                    ]
+                },
+                {
+                    "_type": "collection",
                     "canonical_name": "pid-task-action",
                     "create_date": "2017-06-21 00:00:00+00:00",
                     "description": "Errata PID task action codes",
@@ -76,6 +128,33 @@
                     "terms": [
                         "delete:Delete",
                         "insert:Insert"
+                    ]
+                },
+                {
+                    "_type": "collection",
+                    "canonical_name": "pid-task-action",
+                    "create_date": "2017-06-21 00:00:00+00:00",
+                    "description": "Errata PID task action codes",
+                    "label": "Action",
+                    "namespace": "esdoc:errata:pid-task-action",
+                    "term_regex": "^[a-z0-9\\-]*$",
+                    "terms": [
+                        "delete:Delete",
+                        "insert:Insert"
+                    ]
+                },
+                {
+                    "_type": "collection",
+                    "canonical_name": "pid-task-status",
+                    "create_date": "2017-06-21 00:00:00+00:00",
+                    "description": "Errata PID task status codes",
+                    "label": "Status",
+                    "namespace": "esdoc:errata:pid-task-status",
+                    "term_regex": "^[a-z0-9\\-]*$",
+                    "terms": [
+                        "complete:Complete",
+                        "error:Error",
+                        "queued:Queued"
                     ]
                 },
                 {
@@ -109,6 +188,21 @@
                 },
                 {
                     "_type": "collection",
+                    "canonical_name": "project",
+                    "create_date": "2017-06-21 00:00:00+00:00",
+                    "description": "Errata supported project codes",
+                    "label": "Project",
+                    "namespace": "esdoc:errata:project",
+                    "term_regex": "^[a-z0-9\\-]*$",
+                    "terms": [
+                        "cmip5:CMIP5",
+                        "cmip6:CMIP6",
+                        "cordex:CORDEX",
+                        "input4mips:input4MIPs"
+                    ]
+                },
+                {
+                    "_type": "collection",
                     "canonical_name": "severity",
                     "create_date": "2017-06-21 00:00:00+00:00",
                     "description": "Errata severity codes",
@@ -120,6 +214,36 @@
                         "high:High",
                         "low:Low",
                         "medium:Medium"
+                    ]
+                },
+                {
+                    "_type": "collection",
+                    "canonical_name": "severity",
+                    "create_date": "2017-06-21 00:00:00+00:00",
+                    "description": "Errata severity codes",
+                    "label": "Severity",
+                    "namespace": "esdoc:errata:severity",
+                    "term_regex": "^[a-z0-9\\-]*$",
+                    "terms": [
+                        "critical:Critical",
+                        "high:High",
+                        "low:Low",
+                        "medium:Medium"
+                    ]
+                },
+                {
+                    "_type": "collection",
+                    "canonical_name": "status",
+                    "create_date": "2017-06-21 00:00:00+00:00",
+                    "description": "Errata status codes",
+                    "label": "Status",
+                    "namespace": "esdoc:errata:status",
+                    "term_regex": "^[a-z0-9\\-]*$",
+                    "terms": [
+                        "new:New",
+                        "onhold:On Hold",
+                        "resolved:Resolved",
+                        "wontfix:Wont Fix"
                     ]
                 },
                 {

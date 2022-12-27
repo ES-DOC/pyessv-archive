@@ -1,0 +1,11 @@
+{
+    "_type": "term",
+    "canonical_name": "in-review",
+    "create_date": "2017-06-21 00:00:00+00:00",
+    "data": {
+        "color": "#ff9900"
+    },
+    "label": "In Review",
+    "namespace": "esdoc:errata:moderation-status:in-review",
+    "status": "pending"
+}
