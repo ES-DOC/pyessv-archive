@@ -1,0 +1,16 @@
+{
+    "_type": "term",
+    "canonical_name": "ucsb",
+    "create_date": "2023-11-09 00:00:00+00:00",
+    "data": {
+        "consortia": [],
+        "coordinates": "-119.842044,34.412947",
+        "homepage": "https://bren.ucsb.edu",
+        "name": "Bren School of Environmental Science and Management, University of California, Santa Barbara",
+        "postalAddress": "2400 Bren Hall, University of California Santa Barbara, Santa Barbara, CA 93106, USA"
+    },
+    "label": "UCSB",
+    "namespace": "wcrp:cmip6:institution-id:ucsb",
+    "raw_name": "UCSB",
+    "status": "pending"
+}
